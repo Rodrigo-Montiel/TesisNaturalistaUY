@@ -1,0 +1,1 @@
+https://mapas.ide.uy/geoserver-vectorial/INE_NO_SEGURO/wfs?service=WFS&request=GetFeature&version=1.0.0&outputFormat=shape-zip&typeName=ine_depto
