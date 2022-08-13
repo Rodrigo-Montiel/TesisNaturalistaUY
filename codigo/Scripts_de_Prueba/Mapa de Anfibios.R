@@ -1,7 +1,13 @@
+library(geouy)
+library(sf)
+library(tidyverse)
+
+# Descargar los datos desde NaturalistaUY y cargarlos
+NatUY <- read_csv("datos/observations-248320.csv")
+
+
 # Descargar la capa de departamentos de Uruguay
 
-install.packages("geouy")
-library(geouy)
 Uruguay <- load_geouy("Deptos", folder = "datos")
 
 # Filtrado de: Todos los anfibios en Uruguay + 
@@ -9,20 +15,27 @@ Uruguay <- load_geouy("Deptos", folder = "datos")
 # con especie confirmada (Grado de investigación)
 
 Anfibios <- NatUY %>% 
-  filter(taxon_class_name == "Amphibia", quality_grade == "research", 
+  filter(taxon_class_name == "Amphibia" & quality_grade == "research" & 
          between(observed_on, as.Date("2021-10-01"), as.Date("2021-10-31")))
+
+Anfibios_XY <- Anfibios %>% 
+  select(scientific_name, observed_on, latitude, longitude) %>% 
+  st_as_sf(coords = c("longitude", "latitude")) %>% 
+  st_set_crs(4326) %>% 
+  st_transform(32721)
          
 
-#Separamos en un nuevo mapa los datos que nos interesan de los departamentos
-#Renombramos la columna de departamentos para que coincida con Anfibios
-Uruguay2 <- Uruguay %>% 
-  select(nombre, geometry) %>% 
-  rename(place_admin1_name = nombre)
 
-#Unimos las dos tablas (Anfibios y Uruguay2)
-Anfibios <- left_join(Anfibios, Uruguay2, by= "place_admin1_name")
-view(Anfibios)
+#Poligono de Uruguay + puntos de anfibios
+Uruguay_Anfibios <- st_join(Uruguay, Anfibios_XY)
+
+
+Uruguay_Anfibios <- Uruguay_Anfibios %>%
+  group_by(gid) %>% 
+  summarise(riqueza = n_distinct(scientific_name), 
+            abundancia = n())
+
 
 #Mapa de los anfibios filtrados
-ggplot(data = Anfibios) + 
-  geom_sf(aes(fill=taxon_family_name)) + theme_bw()
+ggplot(data = Uruguay_Anfibios) + 
+  geom_sf(aes(fill=riqueza)) + theme_bw()
