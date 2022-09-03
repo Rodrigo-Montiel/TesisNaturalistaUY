@@ -16,8 +16,24 @@ str(Encuesta)
 Encuesta$Edad <- as.numeric(Encuesta$Edad)
 Encuesta$Frecuencia <- as.numeric(Encuesta$Frecuencia)
 
-   ## Eliminar los NA
-   Encuesta <- na.omit(Encuesta)
+#Cambiar "Formacion", Interes y Uso plat. a factor
+Encuesta$Formacion <- as.factor(Encuesta$Formación)
+Encuesta$`Uso de plataforma` <- as.factor(Encuesta$`Uso de plataforma`)
+Encuesta$Interes_Naturaleza <- as.factor(Encuesta$Interes_Naturaleza)
+
+# Cambiar las columnas de taxones a factor
+Encuesta$Aves <- as.factor(Encuesta$Aves)
+Encuesta$Anfibios <- as.factor(Encuesta$Anfibios)
+Encuesta$Reptiles <- as.factor(Encuesta$Reptiles)
+Encuesta$Mamíferos <- as.factor(Encuesta$Mamíferos)
+Encuesta$Arácnidos <- as.factor(Encuesta$Arácnidos)
+Encuesta$Insectos <- as.factor(Encuesta$Insectos)
+Encuesta$Plantas <- as.factor(Encuesta$Plantas)
+Encuesta$Hongos <- as.factor(Encuesta$Hongos)
+
+
+# Eliminar los NA
+Encuesta <- na.omit(Encuesta)
 
 
 # Estadisticas

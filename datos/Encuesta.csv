@@ -1,38 +1,38 @@
-Participante,Departamento,Edad,Formación,Afinidad_Naturaleza,Frecuencia,Interes_Naturaleza,Afinidad_Tecnologia,Uso de plataforma
-1,San Jose,45,SI,4,5,SI,3,NO
-2,San Jose,48,SI,4,5,SI,3,SI
-3,San Jose,53,NO,5,5,SI,2,NO
-4,San Jose,53,NO,4,2,SI,3,NO
-5,San Jose,61,SI,5,5,SI,2,NO
-6,San Jose,33,NO,4,4,SI,3,NO
-7,San Jose,38,SI,5,5,SI,2,NO
-8,San Jose,40,SI,5,5,SI,3,NO
-9,San Jose,32,SI,4,5,SI,3,NO
-10,San Jose,50,NO,4,5,SI,2,NO
-11,San Jose,35,NO,4,5,SI,1,NO
-12,Bella Union,19,SI,5,5,SI,3,NO
-13,Bella Union,62,SI,4,5,SI,3,NO
-14,Bella Union,33,SI,5,5,SI,2,NO
-15,Bella Union,64,NO,4,-,SI,2,NO
-16,Bella Union,46,NO,4,5,SI,2,NO
-17,Bella Union,30,SI,5,5,SI,3,SI
-18,Bella Union,-,NO,3,5,SI,1,NO
-19,Bella Union,54,NO,4,5,SI,2,SI
-20,Bella Union,50,SI,5,5,SI,2,SI
-21,Bella Union,26,SI,5,5,SI,2,SI
-22,Bella Union,35,SI,4,4,SI,3,NO
-23,Bella Union,19,SI,5,5,SI,3,NO
-24,Bella Union,46,SI,5,5,SI,1,NO
-25,Paysandú,34,SI,5,5,SI,3,NO
-26,Paysandú,47,SI,5,4,SI,2,SI
-27,Paysandú,27,NO,4,5,SI,3,NO
-28,Paysandú,65,NO,4,5,NO,2,NO
-29,Paysandú,64,SI,5,5,SI,3,SI
-30,Paysandú,47,NO,3,5,SI,2,NO
-31,Paysandú,65,NO,4,5,SI,2,NO
-32,Paysandú,44,SI,5,5,SI,2,NO
-33,Paysandú,-,SI,5,5,SI,2,NO
-34,Paysandú,63,NO,4,-,SI,2,NO
-35,Paysandú,51,SI,5,3,SI,2,NO
-36,Paysandú,63,NO,4,5,SI,2,NO
-37,Paysandú,61,SI,5,5,SI,2,NO
+Participante,Departamento,Edad,Formación,Afinidad_Naturaleza,Frecuencia,Interes_Naturaleza,Afinidad_Tecnologia,Uso de plataforma,Aves,Anfibios,Reptiles,Mamíferos,Arácnidos,Insectos,Plantas,Hongos
+1,San Jose,45,SI,4,5,SI,3,NO,1,0,0,1,0,1,1,0
+2,San Jose,48,SI,4,5,SI,3,SI,1,1,1,0,0,0,1,0
+3,San Jose,53,NO,5,5,SI,2,NO,1,0,0,0,0,0,1,0
+4,San Jose,53,NO,4,2,SI,3,NO,0,0,0,1,0,0,0,0
+5,San Jose,61,SI,5,5,SI,2,NO,1,1,0,0,0,1,1,0
+6,San Jose,33,NO,4,4,SI,3,NO,0,1,0,0,0,0,1,0
+7,San Jose,38,SI,5,5,SI,2,NO,1,0,0,0,0,0,1,0
+8,San Jose,40,SI,5,5,SI,3,NO,0,0,0,1,0,0,1,0
+9,San Jose,32,SI,4,5,SI,3,NO,1,0,0,0,0,1,1,1
+10,San Jose,50,NO,4,5,SI,2,NO,0,0,0,1,0,0,1,0
+11,San Jose,35,NO,4,5,SI,1,NO,1,1,1,1,1,1,1,1
+12,Bella Union,19,SI,5,5,SI,3,NO,1,0,1,0,0,1,1,1
+13,Bella Union,62,SI,4,5,SI,3,NO,1,0,0,0,0,0,1,1
+14,Bella Union,33,SI,5,5,SI,2,NO,0,0,0,0,0,0,1,0
+15,Bella Union,64,NO,4,-,SI,2,NO,0,0,0,1,0,0,1,0
+16,Bella Union,46,NO,4,5,SI,2,NO,1,0,0,1,0,0,0,0
+17,Bella Union,30,SI,5,5,SI,3,SI,1,0,0,1,0,0,1,0
+18,Bella Union,-,NO,3,5,SI,1,NO,1,0,0,1,0,0,1,0
+19,Bella Union,54,NO,4,5,SI,2,SI,1,0,0,1,0,1,1,0
+20,Bella Union,50,SI,5,5,SI,2,SI,1,0,0,0,0,0,1,0
+21,Bella Union,26,SI,5,5,SI,2,SI,1,1,1,1,0,0,0,0
+22,Bella Union,35,SI,4,4,SI,3,NO,0,1,1,1,1,0,0,0
+23,Bella Union,19,SI,5,5,SI,3,NO,0,1,1,0,1,1,0,0
+24,Bella Union,46,SI,5,5,SI,1,NO,1,0,0,1,0,0,1,0
+25,Paysandú,34,SI,5,5,SI,3,NO,0,0,0,0,0,0,1,0
+26,Paysandú,47,SI,5,4,SI,2,SI,1,0,0,0,0,0,0,0
+27,Paysandú,27,NO,4,5,SI,3,NO,0,0,0,0,0,0,1,0
+28,Paysandú,65,NO,4,5,NO,2,NO,1,0,0,0,0,0,1,0
+29,Paysandú,64,SI,5,5,SI,3,SI,1,0,0,1,0,0,0,0
+30,Paysandú,47,NO,3,5,SI,2,NO,0,0,0,0,0,0,1,0
+31,Paysandú,65,NO,4,5,SI,2,NO,1,0,0,1,0,0,1,1
+32,Paysandú,44,SI,5,5,SI,2,NO,1,0,0,0,0,0,1,0
+33,Paysandú,-,SI,5,5,SI,2,NO,0,1,1,0,1,1,1,0
+34,Paysandú,63,NO,4,-,SI,2,NO,1,0,0,0,0,0,1,1
+35,Paysandú,51,SI,5,3,SI,2,NO,0,0,0,1,0,0,1,1
+36,Paysandú,63,NO,4,5,SI,2,NO,1,0,0,0,0,0,0,0
+37,Paysandú,61,SI,5,5,SI,2,NO,0,0,0,0,0,0,1,0
