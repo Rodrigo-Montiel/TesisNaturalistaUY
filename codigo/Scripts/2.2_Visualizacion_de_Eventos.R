@@ -1,10 +1,19 @@
+#PAQUETES Y DATOS
+library(sf)
+library(tidyverse)
+
+
+NatUY_SanJose <- readRDS('datos/natuysanjose.rds')
+NatUY_Paysandu <- readRDS("datos/natuypaysandu.rds")
+NatUY_BellaUnion <- readRDS("datos/natuybellaunion.rds")
+
 #Los 5 taxas mas observados en San Jose
 
 SanJose_taxones <- NatUY_SanJose %>% 
   filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | taxon_kingdom_name=='Plantae') %>% 
-  group_by(taxon_kingdom_name, taxon_class_name) %>% count() %>% 
-  arrange(desc(n)) %>% head(5) %>%  
-  ggplot(., aes(x=n, y=fct_reorder(taxon_class_name, taxon_kingdom_name), fill=fct_reorder(taxon_class_name, taxon_kingdom_name))) +
+  group_by(taxon_kingdom_name) %>% count() %>% 
+  arrange(desc(n)) %>%  
+  ggplot(., aes(x=n, y=taxon_kingdom_name, fill=taxon_kingdom_name)) +
   geom_bar(stat = "identity", show.legend = FALSE) +
   labs(x='Number of Observations', y= '', fill = '') +
   theme_bw() +
@@ -22,7 +31,7 @@ plot(SanJose_taxones)
 BellaUnion_taxones <- NatUY_BellaUnion %>% 
   filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | taxon_kingdom_name=='Plantae') %>% 
   group_by(taxon_kingdom_name, taxon_class_name) %>% count() %>% 
-  arrange(desc(n)) %>% head(5) %>%  
+  arrange(desc(n)) %>% filter(!is.na(taxon_class_name)) %>%  
   ggplot(., aes(x=n, y=fct_reorder(taxon_class_name, taxon_kingdom_name), fill=fct_reorder(taxon_class_name, taxon_kingdom_name))) +
   geom_bar(stat = "identity", show.legend = FALSE) +
   labs(x='Number of Observations', y= '', fill = '') +
@@ -41,7 +50,7 @@ plot(BellaUnion_taxones)
 Paysandu_taxones <- NatUY_Paysandu %>% 
   filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | taxon_kingdom_name=='Plantae') %>% 
   group_by(taxon_kingdom_name, taxon_class_name) %>% count() %>% 
-  arrange(desc(n)) %>% head(5) %>%  
+  arrange(desc(n)) %>% filter(!is.na(taxon_class_name)) %>%  
   ggplot(., aes(x=n, y=fct_reorder(taxon_class_name, taxon_kingdom_name), fill=fct_reorder(taxon_class_name, taxon_kingdom_name))) +
   geom_bar(stat = "identity", show.legend = FALSE) +
   labs(x='Number of Observations', y= '', fill = '') +

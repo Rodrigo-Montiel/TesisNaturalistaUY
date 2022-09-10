@@ -1,4 +1,13 @@
-# KML DE LOS EVENTOS-------------------------------------------------------------------
+#PAQUETES Y DATOS--------------------------------------------------------------
+library(geouy)
+library(sf)
+library(tidyverse)
+
+NatUY_sf <- readRDS("datos/natuysf.rds")
+
+
+
+# KML DE LOS EVENTOS------------------------------------------------------------
 
 #San José
 quintadelhorno <- st_read('datos/quinta-del-horno.kml')
@@ -17,7 +26,7 @@ rincon <- rincon %>% st_transform(32721)
 chacra <- st_read("datos/chacra-bella-union.kml")
 chacra <- chacra %>% st_transform(32721)
 
-bella_union <- st_join(rincon,chacra)
+bella_union <- st_union(rincon,chacra)
 
 
 
@@ -34,3 +43,10 @@ NatUY_Paysandu <- st_intersection(NatUY_sf, pueblochico) %>%
 # Bella Unión
 NatUY_BellaUnion <- st_intersection(NatUY_sf, bella_union) %>% 
   filter(observed_on>="2022-05-14" & observed_on<="2022-05-15")
+
+
+# GUARDAR LOS DATOS ----------------------------------------------------------
+
+saveRDS(NatUY_SanJose, "datos/natuysanjose.rds")
+saveRDS(NatUY_Paysandu, "datos/natuypaysandu.rds")
+saveRDS(NatUY_BellaUnion, "datos/natuybellaunion.rds")

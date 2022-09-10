@@ -40,6 +40,10 @@ Encuesta <- na.omit(Encuesta)
 summary(Encuesta)
 
 
+
+saveRDS(Encuesta, "datos/Encuesta.rds")
+
+
 # GRAFICOS ------------------------------------------------------------------
 
 # Histograma de edades
