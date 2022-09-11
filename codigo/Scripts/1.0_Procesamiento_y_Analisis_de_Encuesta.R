@@ -1,11 +1,11 @@
-# PAQUETES Y DATOS ----------------------------------------------------------
+# PAQUETES Y DATOS -------------------------------------------------------------
 library(RColorBrewer)
 library(sf)
 library(tidyverse)
 Encuesta <- read_csv("datos/Encuesta.csv")
 
 
-# LIMPIEZA DE DATOS ---------------------------------------------------------
+# LIMPIEZA DE DATOS ------------------------------------------------------------
 
 # Si se quiere comprobar las clases de cada columna
 lapply(Encuesta,class)
@@ -44,7 +44,7 @@ summary(Encuesta)
 saveRDS(Encuesta, "datos/Encuesta.rds")
 
 
-# GRAFICOS ------------------------------------------------------------------
+# GRAFICOS ---------------------------------------------------------------------
 
 # Histograma de edades
 ggplot(Encuesta) +

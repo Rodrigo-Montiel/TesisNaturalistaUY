@@ -1,4 +1,4 @@
-#PAQUETES Y DATOS--------------------------------------------------------------
+# PAQUETES Y DATOS--------------------------------------------------------------
 library(geouy)
 library(sf)
 library(tidyverse)
@@ -9,17 +9,17 @@ NatUY_sf <- readRDS("datos/natuysf.rds")
 
 # KML DE LOS EVENTOS------------------------------------------------------------
 
-#San José
+# San José
 quintadelhorno <- st_read('datos/quinta-del-horno.kml')
 quintadelhorno <- quintadelhorno %>% st_transform(32721)
 
   
-#Paysandú
+# Paysandú
 pueblochico <- st_read("datos/pueblo-chico-nativas-de-san-francisco.kml")
 pueblochico <- pueblochico %>% st_transform(32721)
 
 
-#Bella Union (tenemos 2 kml distintos)
+# Bella Union (tenemos 2 kml distintos)
 rincon <- st_read("datos/area-de-manejo-de-habitats-y-o-especies-rincon-de-franquia.kml")
 rincon <- rincon %>% st_transform(32721)
 
@@ -30,7 +30,7 @@ bella_union <- st_union(rincon,chacra)
 
 
 
-# FILTRADO DE NATUY POR CADA EVENTO ----------------------------------------------------
+# FILTRADO DE NATUY PARA CADA EVENTO -------------------------------------------
 
 # San José
 NatUY_SanJose <- st_intersection(NatUY_sf, quintadelhorno) %>% 
@@ -45,7 +45,7 @@ NatUY_BellaUnion <- st_intersection(NatUY_sf, bella_union) %>%
   filter(observed_on>="2022-05-14" & observed_on<="2022-05-15")
 
 
-# GUARDAR LOS DATOS ----------------------------------------------------------
+# GUARDAR LOS DATOS ------------------------------------------------------------
 
 saveRDS(NatUY_SanJose, "datos/natuysanjose.rds")
 saveRDS(NatUY_Paysandu, "datos/natuypaysandu.rds")

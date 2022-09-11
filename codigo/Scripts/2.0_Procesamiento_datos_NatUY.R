@@ -1,4 +1,4 @@
-# PAQUETES Y DATOS -----------------------------------------------------------
+# PAQUETES Y DATOS -------------------------------------------------------------
 library(geouy)
 library(sf)
 library(tidyverse)
@@ -8,7 +8,7 @@ Uruguay <- load_geouy("Deptos")
 
 
 
-# PROCESAMIENTO --------------------------------------------------------------
+# PROCESAMIENTO ----------------------------------------------------------------
 
 # Convertir NatUY a sf
 NatUY_sf <- NatUY %>% 
@@ -18,7 +18,7 @@ NatUY_sf <- NatUY %>%
 
 
 
-# GUARDAR LOS DATOS -----------------------------------------------------------
+# GUARDAR LOS DATOS ------------------------------------------------------------
 
 saveRDS(NatUY_sf, "datos/natuysf.rds")
 saveRDS(Uruguay, "datos/uruguay.rds")
