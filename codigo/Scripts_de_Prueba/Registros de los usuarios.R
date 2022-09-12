@@ -1,3 +1,5 @@
+library(tidyverse)
+
 NatUY <- read_rds("datos/NatUY.rds")
 
 Usuarios <- NatUY %>% group_by(user_id) %>% 
@@ -9,11 +11,11 @@ ggplot(Usuarios) +
 nrow(Usuarios)    # Cantidad de usuarios
 
 
-# Registros de los 100 primeros usuarios
+# Registros de los 500 primeros usuarios
 
 Usuarios2 <- NatUY %>% 
   group_by(user_id, taxon_kingdom_name, taxon_class_name) %>%
-  count() %>% arrange(desc(n)) %>% head(100) %>% 
+  count() %>% arrange(desc(n)) %>% head(500) %>% 
   filter(!is.na(taxon_class_name))
   
   ggplot(Usuarios2) +
