@@ -1,14 +1,19 @@
 library(tidyverse)
+library(forcats)
 
 NatUY <- read_rds("datos/NatUY.rds")
+
+
+# Cantidad de registros por usuario
 
 Usuarios <- NatUY %>% group_by(user_id) %>% 
   count() %>% arrange(desc(n))
 
-ggplot(Usuarios) +
-  geom_histogram(aes(x = user_id), col= "white") + coord_flip()
-
 nrow(Usuarios)    # Cantidad de usuarios
+
+ggplot(Usuarios) +
+  geom_histogram(aes(x = n), col= "white")
+
 
 
 # Registros de los 500 primeros usuarios
@@ -19,11 +24,9 @@ Usuarios2 <- NatUY %>%
   filter(!is.na(taxon_class_name))
   
   ggplot(Usuarios2) +
-  geom_bar(aes(x = taxon_class_name, fill=taxon_kingdom_name), 
+  geom_bar(aes(x = fct_rev(fct_infreq(taxon_class_name)), fill=taxon_kingdom_name), 
            show.legend = T,) + 
     theme(legend.position = "top") +
-    labs(x= "Clases", y = "Observaciones", fill = "Reino") +
+    labs(x= "Clases", y = "Observaciones", fill = "Reino") + 
     coord_flip()
-
                    
-  
