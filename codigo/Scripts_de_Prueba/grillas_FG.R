@@ -12,7 +12,9 @@ UY <- st_union(Uruguay) %>% st_cast()
 # grilla para Uruguay
 st_bbox(UY)
 bbox_Uruguay <- c(xmin=366580, ymin=6127910, xmax=858260, ymax= 6671740)
-Uruguay_grid <- st_make_grid(bbox_Uruguay, cellsize = 25000, crs = st_crs(Uruguay)) %>% 
+Uruguay_grid <- st_make_grid(bbox_Uruguay, 
+                             cellsize = 25000, square = FALSE,
+                             crs = st_crs(Uruguay)) %>% 
   st_intersection(UY) %>% st_sf(gridID=1:length(.), geometry= .)
 
 ggplot() + 
