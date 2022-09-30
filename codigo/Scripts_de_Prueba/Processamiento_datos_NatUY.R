@@ -2,7 +2,7 @@ library(geouy)
 library(sf)
 library(tidyverse)
 
-Uruguay <- load_geouy("Dptos")
+Uruguay <- geouy::load_geouy("Dptos")
 
 NatUY <- read_csv('datos/observations-248320.csv')
 
@@ -33,4 +33,4 @@ NatUY_sf %>%
   filter(observed_on>=as_date('2022-05-14') & observed_on<=as_date('2022-05-15')) 
 
 
-  
+NatUY %>% print(n=100)
