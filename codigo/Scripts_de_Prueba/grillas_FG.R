@@ -12,15 +12,43 @@ UY <- st_union(Uruguay) %>% st_cast()
 # grilla para Uruguay
 st_bbox(UY)
 bbox_Uruguay <- c(xmin=366580, ymin=6127910, xmax=858260, ymax= 6671740)
-Uruguay_grid <- st_make_grid(bbox_Uruguay, cellsize = 25000, crs =st_crs(Uruguay)) %>% 
-  st_intersection(UY) %>% st_sf('geometry' = ., 'ID'=sprintf('%i', 1:length(.)))
+Uruguay_grid <- st_make_grid(bbox_Uruguay, cellsize = 25000, crs = st_crs(Uruguay)) %>% 
+  st_intersection(UY) %>% st_sf(gridID=1:length(.), geometry= .)
 
 ggplot() + 
   geom_sf(data= Uruguay_grid, fill='white', size=0.5) +
-  #geom_sf(data=Uruguay, fill=NA, size=0.5) +
-  geom_sf(data= NatUY, aes(col=taxon_class_name), show.legend = F)
+  geom_sf(data= NatUY)
 
-# sesgos taxonómicos
-NatUY
+
+
+####################
 # espaciales 
+
+NatUY_grids <- st_join(Uruguay_grid, NatUY) %>% 
+  group_by(gridID) %>% 
+  summarise(NR=n(),
+            SR=n_distinct(scientific_name)) %>% 
+  st_cast()
+
+plot_NR <- ggplot() +
+  geom_sf(data=NatUY_grids, aes(fill=log(NR))) +
+  scale_fill_fermenter(palette ='YlGnBu', direction = 1) + 
+  theme_bw()
+
+plot_SR <- ggplot() +
+  geom_sf(data=NatUY_grids, aes(fill=log(SR))) +
+  scale_fill_fermenter(palette ='YlOrBr', direction = 1) + 
+  theme_bw()
+
+library(patchwork)
+
+plot_SR + plot_NR
+
+plot(NatUY_grids$NR, NatUY_grids$SR)
+
+####################
 # temporales
+
+########################################
+# sesgos taxonómicos
+
