@@ -1,7 +1,7 @@
 library(tidyverse)
 library(forcats)
 
-NatUY <- read_rds("datos/NatUY.rds")
+NatUY <- read_rds('datos/natuysf.rds')
 
 
 # Cantidad de registros por usuario
@@ -12,7 +12,7 @@ Usuarios <- NatUY %>% group_by(user_id) %>%
 nrow(Usuarios)    # Cantidad de usuarios
 
 ggplot(Usuarios) +
-  geom_histogram(aes(x = n), col= "white")
+  geom_histogram(aes(x = n), fill= "red")
 
 
 
