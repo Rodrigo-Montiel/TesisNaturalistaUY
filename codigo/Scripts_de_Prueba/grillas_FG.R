@@ -5,16 +5,22 @@ library(sf)
 sf::sf_use_s2(FALSE)
 library(tidyverse)
 
+# Uruguay <- geouy::load_geouy("Dptos")
+# UY <- st_union(Uruguay) %>% st_cast()
+# st_write(Uruguay, 'datos/Uruguay.shp', append=FALSE )
+# saveRDS(UY, 'datos/UY.rds')
+
 NatUY <- read_rds('datos/natuysf.rds')
-Uruguay <- geouy::load_geouy("Dptos")
-UY <- st_union(Uruguay) %>% st_cast()
+Uruguay <- st_read('datos/Uruguay.shp')
+UY <- read_rds('datos/UY.rds')
+
 
 # grilla para Uruguay
 st_bbox(UY)
-bbox_Uruguay <- c(xmin=366580, ymin=6127910, xmax=858260, ymax= 6671740)
-Uruguay_grid <- st_make_grid(bbox_Uruguay, 
+bbox_Uruguay <- c(xmin=366580, ymin=6127920, xmax=858260, ymax=6671740)
+Uruguay_grid <- st_make_grid(st_bbox(UY), 
                              cellsize = 25000, square = FALSE,
-                             crs = st_crs(Uruguay)) %>% 
+                             crs = 'EPSG:32721') %>% 
   st_intersection(UY) %>% st_sf(gridID=1:length(.), geometry= .)
 
 ggplot() + 
