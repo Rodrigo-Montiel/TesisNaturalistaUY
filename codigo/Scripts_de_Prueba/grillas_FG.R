@@ -1,5 +1,6 @@
 # Para ello, primero analizaremos el total de los registros de la plataforma para Uruguay (más de 50,000 observaciones verificables) y caracterizaremos los datos en función de sus sesgos taxonómicos, espaciales y temporales.
 
+library(patchwork)
 library(tmap)
 library(sf)
 sf::sf_use_s2(FALSE)
@@ -17,7 +18,7 @@ UY <- read_rds('datos/UY.rds')
 
 # grilla para Uruguay
 st_bbox(UY)
-bbox_Uruguay <- c(xmin=366580, ymin=6127920, xmax=858260, ymax=6671740)
+# bbox_Uruguay <- c(xmin=366580, ymin=6127920, xmax=858260, ymax=6671740)
 Uruguay_grid <- st_make_grid(st_bbox(UY), 
                              cellsize = 25000, square = FALSE,
                              crs = 'EPSG:32721') %>% 
@@ -41,18 +42,22 @@ NatUY_grids <- st_join(Uruguay_grid, NatUY) %>%
 plot_NR <- ggplot() +
   geom_sf(data=NatUY_grids, aes(fill=log(NR))) +
   scale_fill_fermenter(palette ='YlGnBu', direction = 1) + 
+  geom_sf(data=Uruguay, fill=NA) +
   theme_bw()
 
 plot_SR <- ggplot() +
   geom_sf(data=NatUY_grids, aes(fill=log(SR))) +
   scale_fill_fermenter(palette ='YlOrBr', direction = 1) + 
+  geom_sf(data=Uruguay, fill=NA) +
   theme_bw()
 
-library(patchwork)
+plot_relationship <- ggplot(NatUY_grids, aes(x=NR, y=SR)) +
+  geom_point() +
+  geom_smooth(method='loess') +
+  labs(x='Number of records', y='Species Richness') +
+  theme_bw()
 
-plot_SR + plot_NR
-
-plot(NatUY_grids$NR, NatUY_grids$SR)
+plot_SR + plot_NR + plot_relationship
 
 ####################
 # temporales
