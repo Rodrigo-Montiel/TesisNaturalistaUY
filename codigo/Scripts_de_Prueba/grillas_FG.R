@@ -107,18 +107,18 @@ dataset_NatUY %>%
   geom_bar(width = 0.5, stat = "identity", show.legend = F) +
   facet_grid(~taxon_kingdom_name) 
 
-# dataset_NatUY %>% 
-#   filter(taxon_kingdom_name=='Animalia') %>% 
-#   filter(year(observed_on)>=2000) %>% 
-#   filter(!is.na(taxon_genus_name)) %>% 
-#   group_by(scientific_name) %>% 
-#   filter(n()>50) %>% ungroup() %>% 
-#   distinct(scientific_name, taxon_class_name, .keep_all = T) %>% 
-#   group_by(taxon_class_name, taxon_order_name) %>% 
-#   count() %>% 
+# dataset_NatUY %>%
+#   filter(taxon_kingdom_name=='Animalia') %>%
+#   filter(year(observed_on)>=2000) %>%
+#   filter(!is.na(taxon_genus_name)) %>%
+#   group_by(scientific_name) %>%
+#   filter(n()>50) %>% ungroup() %>%
+#   distinct(scientific_name, taxon_class_name, .keep_all = T) %>%
+#   group_by(taxon_class_name, taxon_order_name) %>%
+#   count() %>%
 #   ggplot(aes(x='', y=n, fill=taxon_order_name)) +
 #   geom_bar(width = 0.5, stat = "identity") +
-#   facet_wrap(~taxon_class_name) + 
+#   facet_wrap(~taxon_class_name) +
 #   labs(x='', y= 'Number of Species', fill = '') +
-#   theme_minimal() 
+#   theme_minimal()
 
