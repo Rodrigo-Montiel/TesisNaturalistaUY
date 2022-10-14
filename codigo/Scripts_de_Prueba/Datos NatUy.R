@@ -15,7 +15,8 @@ Uruguay <- geouy::load_geouy("Dptos")
 
 Cantidad_Registros <- nrow(NatUY)       # Cantidad de registros
 
-Usuarios <- NatUY %>% group_by(user_id) %>% 
+Usuarios <- NatUY %>% st_drop_geometry() %>% 
+  group_by(user_id) %>% 
   count() %>% arrange(desc(n))
 
 Cantidad_Usuarios <- nrow(Usuarios)    # Cantidad de usuarios
@@ -23,11 +24,14 @@ Cantidad_Usuarios <- nrow(Usuarios)    # Cantidad de usuarios
 
 ## Cantidad de especies
 
-Especies <- NatUY %>% group_by (scientific_name) %>% 
+Especies <- NatUY %>% st_drop_geometry() %>% 
+  group_by (scientific_name) %>% 
   count() %>% arrange(desc(n)) %>% na.omit()
 
-Grupos <- NatUY %>% group_by (iconic_taxon_name) %>% 
-  distinct(scientific_name) %>% count() %>% arrange(desc(n)) %>% na.omit()
+Grupos <- NatUY %>% st_drop_geometry() %>% 
+  group_by (iconic_taxon_name) %>% 
+  distinct(scientific_name) %>% count() %>% 
+  arrange(desc(n)) %>% na.omit()
 
 Cantidad_Especies <- nrow(Especies)    # Cantidad de especies (No es 
                                        # necesariamente el nombre científico, 
@@ -37,9 +41,9 @@ Cantidad_Especies <- nrow(Especies)    # Cantidad de especies (No es
 
 ## Registros identificados a nivel de especies
 
-Nivel_Especie <- NatUY %>%  group_by(scientific_name) %>% 
+Nivel_Especie <- NatUY %>% st_drop_geometry() %>%  group_by(scientific_name) %>% 
   filter(!is.na(scientific_name)) %>% 
-  filter(str_count(scientific_name, "\\S+") >1 ) %>% 
+  filter(str_count(scientific_name, "\\S+") ==1 ) %>% 
   count() %>% arrange(desc(n))
 
 Identificaciones_Nivel_Especie <- nrow(Nivel_Especie)
@@ -47,9 +51,9 @@ Identificaciones_Nivel_Especie <- nrow(Nivel_Especie)
 
 ## Grado de investigacion
 
-NatUY %>% group_by(quality_grade) %>% count()
+NatUY %>% NatUY %>% st_drop_geometry()(quality_grade) %>% count()
 
-GI <- NatUY %>% filter(quality_grade == "research") %>% 
+GI <- NatUY %>% st_drop_geometry() %>% filter(quality_grade == "research") %>% 
   group_by(quality_grade)
   
   
