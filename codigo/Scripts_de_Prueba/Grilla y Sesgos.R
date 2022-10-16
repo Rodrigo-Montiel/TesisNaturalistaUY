@@ -5,6 +5,7 @@ sf::sf_use_s2(FALSE)
 library(tidyverse)
 library(patchwork)
 library(stringr)
+library(lubridate)
 
 NatUY <- read_rds('datos/natuysf.rds')
 Uruguay <- geouy::load_geouy("Dptos")
@@ -12,47 +13,97 @@ UY <- st_union(Uruguay) %>% st_cast()
 
 # GRILLA PARA URUGUAY ----------------------------------------------------------
 
-st_bbox(UY)
-bbox_Uruguay <- c(xmin=366580, ymin=6127910, xmax=858260, ymax= 6671740) 
-Uruguay_grid <- st_make_grid(bbox_Uruguay, 
-                             cellsize = 25000, square = FALSE) 
-Uruguay_grid <- Uruguay_grid %>% st_set_crs(32721)                       
-
-Uruguay_grilla <- st_intersection(Uruguay_grid, UY) %>% 
-  st_sf(gridID=1:length(.), geometry= .)
-
+Grilla_UY <- st_make_grid(st_bbox(UY), 
+                             cellsize = 25000, square = FALSE, 
+                             crs= st_crs(Uruguay)) %>% 
+  st_intersection(UY) %>% st_sf(gridID=1:length(.), geometry= .)
 
 
 # SESGOS------------------------------------------------------------------------
 
 ## Sesgo Espacial
 
-NatUY_grilla <- st_join(Uruguay_grilla, NatUY) %>% 
+NatUY_grilla <- st_join(Grilla_UY, NatUY) %>% 
   group_by(gridID) %>% 
   summarise(Abundancia=n(),
             Riqueza=n_distinct(scientific_name)) %>% st_cast()
 
 plot_Abundancia <- ggplot() +
   geom_sf(data=NatUY_grilla, aes(fill=log(Abundancia)), show.legend = FALSE) +
-  ggtitle("N° de Registros") +
+  ggtitle("N°de Registros en el pais") +
   scale_fill_fermenter(palette ='YlGnBu', direction = 1) + 
   theme_bw()
 
 plot_Riqueza <- ggplot() +
   geom_sf(data=NatUY_grilla, aes(fill=log(Riqueza)), show.legend = FALSE) + 
-  ggtitle("Riqueza de especies") + 
+  ggtitle("Riqueza de especies registradas") + 
   scale_fill_fermenter(palette ='YlOrBr', direction = 1) + 
   theme_bw()
 
-### N° de registros en la plataforma y vs cantidad de especies registradas
 
 plot_Abundancia + plot_Riqueza
+
+
+## Sesgo Temporal
+
+NatUY_dataset <- NatUY %>% st_drop_geometry() %>% 
+  select(id, observed_on, user_id, user_login, created_at, updated_at, 
+         quality_grade, num_identification_agreements, 
+         num_identification_disagreements, positional_accuracy, 
+         coordinates_obscured, place_admin1_name, scientific_name,
+         taxon_kingdom_name, taxon_phylum_name, taxon_class_name, 
+         taxon_order_name, taxon_family_name, taxon_genus_name)
+
+NatUY_Temporal <- NatUY_dataset %>% 
+  filter(year(observed_on)>=2010) %>% 
+  filter(!is.na(taxon_phylum_name)) %>% 
+  filter(taxon_kingdom_name=='Plantae' | taxon_kingdom_name=='Animalia' | 
+           taxon_kingdom_name=='Fungi') %>% 
+  ggplot(aes(x=observed_on, y=taxon_phylum_name, color=taxon_kingdom_name)) +
+  geom_point(show.legend = FALSE) +
+  facet_grid(taxon_kingdom_name~., 
+             scales = "free", space= 'free_y', switch='x' ,drop=TRUE) +
+  theme_bw() +
+  theme(strip.text.y = element_text(size=10, angle=0)) +
+  labs(title = 'Cobertura temporal de los Phylums registrados', 
+       x='Año', y='Phylum', color = '') 
+
+### Ordenes de ANIMALIA con más de 50 registros
+
+Temporal_Animalia <- NatUY_dataset %>% 
+  filter(year(observed_on)>=2010) %>% 
+  filter(!is.na(taxon_order_name)) %>% 
+  filter(taxon_kingdom_name=='Animalia') %>% group_by(scientific_name) %>% 
+  filter(n()>50) %>% ungroup() %>% 
+  ggplot(aes(x=observed_on, y=taxon_order_name, color=taxon_class_name)) +
+  geom_point(show.legend = FALSE) +
+  facet_grid(taxon_class_name~., scales = "free", space= 'free_y', switch='x' ,drop=TRUE) +
+  theme_bw() +
+  theme(strip.text.y = element_text(size=10, angle=0)) +
+  labs(title = 'Cobertura temporal de los Ordenes de animales con más de 50 registros en NaturalistaUY', 
+       x='Año', y='Orden', color = '')
+
+### Ordenes de PLANTAE con más de 50 registros
+
+Temporal_Plantae <- NatUY_dataset %>% 
+  filter(year(observed_on)>=2010) %>% 
+  filter(!is.na(taxon_order_name)) %>% 
+  filter(taxon_kingdom_name=='Plantae') %>% group_by(scientific_name) %>% 
+  filter(n()>50) %>% ungroup() %>% 
+  ggplot(aes(x=observed_on, y=taxon_order_name, color=taxon_class_name)) +
+  geom_point(show.legend = FALSE) +
+  facet_grid(taxon_class_name~., scales = "free", space= 'free_y', switch='x' ,drop=TRUE) +
+  theme_bw() +
+  theme(strip.text.y = element_text(size=10, angle=0)) +
+  labs(title = 'Cobertura temporal de los Ordenes de Plantas con más de 50 registros en NaturalistaUY', 
+       x='Año', y='Orden', color = '')
+
 
 
 ## Sesgo Taxonomico
 
 
 
-## Sesgo Espacial
+
 
        
