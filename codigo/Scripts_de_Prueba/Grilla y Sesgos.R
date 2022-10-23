@@ -77,10 +77,11 @@ Temporal_Animalia <- NatUY_dataset %>%
   filter(n()>50) %>% ungroup() %>% 
   ggplot(aes(x=observed_on, y=taxon_order_name, color=taxon_class_name)) +
   geom_point(show.legend = FALSE) +
-  facet_grid(taxon_class_name~., scales = "free", space= 'free_y', switch='x' ,drop=TRUE) +
+  facet_grid(taxon_class_name~., scales = "free", space= 'free_y', switch='x' ,
+             drop=TRUE) +
   theme_bw() +
   theme(strip.text.y = element_text(size=10, angle=0)) +
-  labs(title = 'Cobertura temporal de los Ordenes de animales con más de 50 registros en NaturalistaUY', 
+  labs(title = 'Cobertura temporal de los ordenes del Reino Animalia con más de 50 registros en NaturalistaUY', 
        x='Año', y='Orden', color = '')
 
 ### Ordenes de PLANTAE con más de 50 registros
@@ -92,18 +93,36 @@ Temporal_Plantae <- NatUY_dataset %>%
   filter(n()>50) %>% ungroup() %>% 
   ggplot(aes(x=observed_on, y=taxon_order_name, color=taxon_class_name)) +
   geom_point(show.legend = FALSE) +
-  facet_grid(taxon_class_name~., scales = "free", space= 'free_y', switch='x' ,drop=TRUE) +
+  facet_grid(taxon_class_name~., scales = "free", space= 'free_y', switch='x' ,
+             drop=TRUE) +
   theme_bw() +
   theme(strip.text.y = element_text(size=10, angle=0)) +
-  labs(title = 'Cobertura temporal de los Ordenes de Plantas con más de 50 registros en NaturalistaUY', 
+  labs(title = 'Cobertura temporal de los ordenes del Reino Plantae con más de 50 registros en NaturalistaUY', 
        x='Año', y='Orden', color = '')
 
 
 
 ## Sesgo Taxonomico
 
+NatUY_Taxones <- NatUY_dataset %>% 
+  filter(taxon_kingdom_name=='Plantae'| taxon_kingdom_name=='Animalia'|
+           taxon_kingdom_name=='Fungi') %>% 
+  group_by(taxon_kingdom_name, taxon_phylum_name) %>% 
+  count() %>% 
+  ggplot(aes(x='', y=n, fill=taxon_phylum_name)) +
+  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
+  labs(title = "Cobertura taxonómica de los registros de NatutalistaUY", 
+       fill = "Filos") + facet_grid(~taxon_kingdom_name)
 
+NatUY_Taxones2 <- NatUY_dataset %>% 
+  filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | 
+           taxon_kingdom_name=='Plantae') %>% 
+  group_by(taxon_kingdom_name, taxon_phylum_name) %>% count() %>% 
+  arrange(desc(n)) %>% filter(!is.na(taxon_phylum_name)) %>% head(10) %>%  
+  ggplot(., aes(x=n, y=taxon_phylum_name, fill=taxon_phylum_name)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  labs(x='Number of Observations', y= '', fill = '') +
+  theme_bw() +
+  scale_x_continuous() +
+  scale_fill_brewer(palette ='Spectral')
 
-
-
-       

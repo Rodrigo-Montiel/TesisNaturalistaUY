@@ -72,12 +72,13 @@ Usuarios_dataset <- NatUY %>% st_drop_geometry() %>%
   distinct(user_id, fecha_inicial, fecha_final, registros, tiempo_activo)
   
 Usuarios_dataset$tiempo_activo <- as.numeric(Usuarios_dataset$tiempo_activo)
-Usuarios_dataset$registros <ser_id- as.numeric(Usuarios_dataset$registros)
+Usuarios_dataset$registros <- as.numeric(Usuarios_dataset$registros)
 
 
 ## Gráfico
 Usuarios_registros <- Usuarios_dataset %>% filter(tiempo_activo>=1) %>% 
   group_by(user_id) %>% 
   summarise(registros_tiempo = registros/tiempo_activo) %>% 
-  ggplot(aes(registros_tiempo)) + geom_histogram()
+  ggplot(aes(registros_tiempo)) + geom_histogram(binwidth = 1) + 
+  scale_x_continuous()
  
