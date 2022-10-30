@@ -5,6 +5,7 @@ sf::sf_use_s2(FALSE)
 library(tidyverse)
 library(patchwork)
 library(stringr)
+library(lubridate)
 
 NatUY <- read_rds('datos/natuysf.rds')
 Uruguay <- geouy::load_geouy("Dptos")
@@ -22,14 +23,14 @@ Usuarios <- NatUY %>% st_drop_geometry() %>%
 Cantidad_Usuarios <- nrow(Usuarios)    # Cantidad de usuarios
 
 
-## Cantidad de "especies"
+## Registros con el campo "scientific_name"
 
 Especies <- NatUY %>% st_drop_geometry() %>% 
   group_by (scientific_name) %>% 
   count() %>% arrange(desc(n)) %>% na.omit()
 
 
-Cantidad_Especies <- nrow(Especies)    # Cantidad de especies (No es 
+scientific_name <- nrow(Especies)    # "scientific_name" (No es 
                                        # necesariamente el nombre científico, 
                                        # sino que toma el nivel taxonómico más 
                                        # bajo alcanzado por el registro)
@@ -37,7 +38,8 @@ Cantidad_Especies <- nrow(Especies)    # Cantidad de especies (No es
 
 ## Registros identificados a nivel de especies
 
-Nivel_Especie <- NatUY %>% st_drop_geometry() %>%  group_by(scientific_name) %>% 
+Nivel_Especie <- NatUY %>% st_drop_geometry() %>%  
+  group_by(scientific_name) %>% 
   filter(!is.na(scientific_name)) %>% 
   filter(str_count(scientific_name, "\\S+") ==1 ) %>% 
   count() %>% arrange(desc(n))
@@ -47,7 +49,7 @@ Identificaciones_Nivel_Especie <- nrow(Nivel_Especie)
 
 ## Grado de investigacion
 
-NatUY %>% NatUY %>% st_drop_geometry()(quality_grade) %>% count()
+NatUY %>% st_drop_geometry() %>% group_by(quality_grade) %>% count()
 
 GI <- NatUY %>% st_drop_geometry() %>% filter(quality_grade == "research") %>% 
   group_by(quality_grade)
@@ -56,29 +58,43 @@ GI <- NatUY %>% st_drop_geometry() %>% filter(quality_grade == "research") %>%
 Grado_de_Investigacion <- nrow(GI)
 
 
-Tabla1 <- data.frame(Cantidad_Registros, Cantidad_Usuarios, Cantidad_Especies, 
+Tabla1 <- data.frame(Cantidad_Registros, Cantidad_Usuarios, scientific_name, 
                      Grado_de_Investigacion, Identificaciones_Nivel_Especie)
 
 
 #CATEGORIZACIÓN DE USUARIOS ---------------------------------------------------
 
-Usuarios_dataset <- NatUY %>% st_drop_geometry() %>% 
-  select(user_id, observed_on) %>% filter(year(observed_on)>=2000) %>% 
-  group_by(user_id) %>% 
-  mutate(fecha_inicial = min(observed_on), fecha_final = max(observed_on), 
-         registros = n(), tiempo_activo = 
-           difftime(fecha_final,fecha_inicial, units = "days")) %>% 
-  ungroup() %>% 
-  distinct(user_id, fecha_inicial, fecha_final, registros, tiempo_activo)
+usuarios_login <- NatUY %>% st_drop_geometry() %>% 
+  select(user_id, user_login) %>% group_by(user_id) %>% distinct()
   
-Usuarios_dataset$tiempo_activo <- as.numeric(Usuarios_dataset$tiempo_activo)
-Usuarios_dataset$registros <- as.numeric(Usuarios_dataset$registros)
 
-
-## Gráfico
-Usuarios_registros <- Usuarios_dataset %>% filter(tiempo_activo>=1) %>% 
+usuarios_dataset <- NatUY %>% st_drop_geometry() %>% 
+  select(user_id, observed_on, created_at) %>% 
+  filter(year(observed_on)>=2000) %>% 
   group_by(user_id) %>% 
-  summarise(registros_tiempo = registros/tiempo_activo) %>% 
+  summarise(primer_registro = min(created_at), ultimo_registro = max(created_at), 
+         registros = n(), tiempo_activo = 
+           difftime(ultimo_registro,primer_registro, 
+                    units = "days")+1, 
+         registros_x_tiempo = registros/as.numeric(tiempo_activo)) %>% 
+  mutate(categoria_usuario = 
+               ifelse(tiempo_activo<8, "principiante", 
+                      ifelse
+                      (tiempo_activo>=8 & registros_x_tiempo<1, 
+                        "intermedio","experimentado"))) %>% 
+  merge(usuarios_login)
+
+
+
+  ### Cantidad de usuarios por categorias:
+  usuarios_dataset %>% group_by(categoria_usuario) %>% count()
+
+
+saveRDS(usuarios_dataset, "datos/usuarios_dataset.rds")
+
+  
+## Gráfico
+usuarios_registros <- usuarios_dataset %>% filter(tiempo_activo>=8) %>% 
   ggplot(aes(registros_tiempo)) + geom_histogram(binwidth = 1) + 
-  scale_x_continuous()
+  scale_x_continuous() 
  
