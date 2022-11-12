@@ -77,11 +77,17 @@ usuarios_dataset <- NatUY %>% st_drop_geometry() %>%
            difftime(ultimo_registro,primer_registro, 
                     units = "days")+1, 
          registros_x_tiempo = registros/as.numeric(tiempo_activo)) %>% 
-  mutate(categoria_usuario = 
-               ifelse(tiempo_activo<8, "principiante", 
-                      ifelse
-                      (tiempo_activo>=8 & registros_x_tiempo<1, 
-                        "intermedio","experimentado"))) %>% 
+  mutate(categoria_usuario = ifelse(registros>=1000 & tiempo_activo>=365 &
+                                      registros_x_tiempo>=0.6, "experimentado",
+                                    ifelse(registros>=50 & tiempo_activo>90 & 
+                                             registros_x_tiempo>0.2,
+                                           "intermedio", "principiante"))) %>% 
+  # mutate(categoria_usuario = 
+  #              ifelse(tiempo_activo<8, "principiante", 
+  #                     ifelse
+  #                     (tiempo_activo>=8 & registros_x_tiempo<1, 
+  #                       "intermedio","experimentado"))) %>% 
+  
   merge(usuarios_login)
 
 
@@ -92,6 +98,10 @@ usuarios_dataset <- NatUY %>% st_drop_geometry() %>%
 
 saveRDS(usuarios_dataset, "datos/usuarios_dataset.rds")
 
+  ### Sample de usuarios para las encuestas
+usuarios_dataset %>% filter(categoria_usuario=="principiante" & 
+                              ultimo_registro<(today()-365)) %>% 
+  pull(user_login) %>% sample(., size=100)
   
 ## Gráfico
 usuarios_registros <- usuarios_dataset %>% filter(tiempo_activo>=8) %>% 
