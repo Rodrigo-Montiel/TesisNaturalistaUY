@@ -98,10 +98,7 @@ usuarios_dataset <- NatUY %>% st_drop_geometry() %>%
 
 saveRDS(usuarios_dataset, "datos/usuarios_dataset.rds")
 
-  ### Sample de usuarios para las encuestas
-usuarios_dataset %>% filter(categoria_usuario=="principiante" & 
-                              ultimo_registro<(today()-365)) %>% 
-  pull(user_login) %>% sample(., size=100)
+
   
 ## Gráfico
 usuarios_registros <- usuarios_dataset %>% filter(tiempo_activo>=8) %>% 

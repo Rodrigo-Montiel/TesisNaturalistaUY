@@ -3,7 +3,7 @@ library(geouy)
 library(sf)
 library(tidyverse)
 
-NatUY <- read_csv('datos/observations-248320.csv')
+NatUY <- read_csv('datos/Observaciones_27-10-22.csv')
 Uruguay <- load_geouy("Deptos")
 
 
