@@ -111,10 +111,11 @@ NatUY_Taxones <- NatUY_dataset %>%
   group_by(taxon_kingdom_name, taxon_phylum_name) %>% 
   count() %>% 
   ggplot(aes(x='', y=n, fill=taxon_phylum_name)) +
-  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
+  geom_bar(width = 0.5, stat = "identity", show.legend = F) + 
   labs(title = "Cobertura taxonómica de los registros de NatutalistaUY", 
        fill = "Filos") + facet_grid(~taxon_kingdom_name)
 
+  ###Top 10 filos mas registrados
 NatUY_Taxones2 <- NatUY_dataset %>% 
   filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | 
            taxon_kingdom_name=='Plantae') %>% 

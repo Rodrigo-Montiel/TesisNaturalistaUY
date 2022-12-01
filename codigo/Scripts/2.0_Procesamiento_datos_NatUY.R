@@ -1,6 +1,7 @@
 # PAQUETES Y DATOS -------------------------------------------------------------
 library(geouy)
 library(sf)
+sf::sf_use_s2(FALSE)
 library(tidyverse)
 
 NatUY <- read_csv('datos/Observaciones_27-10-22.csv')

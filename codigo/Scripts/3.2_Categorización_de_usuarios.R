@@ -9,40 +9,19 @@ library(lubridate)
 
 NatUY <- read_rds('datos/natuysf.rds')
 
-# ANALISIS ---------------------------------------------------------------------
 
-## Cantidad de registros y usuarios
+#ANALISIS DE USUARIOS ---------------------------------------------------
 
-Cantidad_Registros <- nrow(NatUY)       # Cantidad de registros
+## Cantidad de usuarios
 
 Usuarios <- NatUY %>% st_drop_geometry() %>% 
   group_by(user_id) %>% 
   count() %>% arrange(desc(n))
 
-Cantidad_Usuarios <- nrow(Usuarios)    # Cantidad de usuarios
+Cantidad_Usuarios <- nrow(Usuarios)
 
 
-## Registros identificados a nivel de especies
-
-Nivel_Especie <- NatUY %>% st_drop_geometry() %>%  
-  group_by(scientific_name) %>% 
-  filter(!is.na(scientific_name)) %>% 
-  filter(str_count(scientific_name, "\\S+") ==1 ) %>% 
-  count() %>% arrange(desc(n))
-
-Identificaciones_Nivel_Especie <- nrow(Nivel_Especie)
-
-
-## Grado de investigacion
-
-GI <- NatUY %>% st_drop_geometry() %>% filter(quality_grade == "research") %>% 
-  group_by(quality_grade)
-
-
-Grado_de_Investigacion <- nrow(GI)
-
-
-#CATEGORIZACIÓN DE USUARIOS ---------------------------------------------------
+## Categorias de usuarios
 
 usuarios_login <- NatUY %>% st_drop_geometry() %>% 
   select(user_id, user_login) %>% group_by(user_id) %>% distinct()
@@ -65,15 +44,15 @@ usuarios_dataset <- NatUY %>% st_drop_geometry() %>%
   merge(usuarios_login)
 
 
+saveRDS(usuarios_dataset, "datos/usuarios_dataset.rds")
 
- ### Cantidad de usuarios por categorias:
+ 
+### Cantidad de usuarios por categorias:
 
  usuarios_dataset %>% group_by(categoria_usuario) %>% count()
 
 
-saveRDS(usuarios_dataset, "datos/usuarios_dataset.rds")
-
-
+ 
 ## Gráfico
 
 usuarios_registros <- usuarios_dataset %>% filter(tiempo_activo>=8) %>% 

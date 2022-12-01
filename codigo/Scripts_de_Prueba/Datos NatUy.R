@@ -41,7 +41,7 @@ scientific_name <- nrow(Especies)    # "scientific_name" (No es
 Nivel_Especie <- NatUY %>% st_drop_geometry() %>%  
   group_by(scientific_name) %>% 
   filter(!is.na(scientific_name)) %>% 
-  filter(str_count(scientific_name, "\\S+") ==1 ) %>% 
+  filter(str_count(scientific_name, "\\S+") ==2 ) %>% 
   count() %>% arrange(desc(n))
 
 Identificaciones_Nivel_Especie <- nrow(Nivel_Especie)
