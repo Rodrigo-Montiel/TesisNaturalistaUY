@@ -1,3 +1,15 @@
+# PAQUETES Y DATOS -------------------------------------------------------------
+library(tmap)
+library(sf)
+sf::sf_use_s2(FALSE)
+library(tidyverse)
+library(patchwork)
+library(stringr)
+library(lubridate)
+library(forcats)
+
+NatUY <- read.csv("datos/Observaciones_27-10-22.csv")
+
 # ANALISIS ---------------------------------------------------------------------
 
 ## Cantidad de registros
@@ -32,29 +44,59 @@ Tabla1 <- data.frame(Cantidad_Registros, Grado_de_Investigacion,
 
 #LISTADO DE ESPECIES: GI + NIVEL ESPECIE
 
-lista_dataset <- NatUY %>% st_drop_geometry() %>% 
-  select(quality_grade, place_admin1_name, scientific_name,
+listado_especies <- NatUY %>% st_drop_geometry() %>% 
+  select(quality_grade, place_admin1_name, taxon_species_name,
          taxon_kingdom_name, taxon_phylum_name, 
          taxon_class_name,taxon_order_name, taxon_family_name, 
-         taxon_genus_name) %>% filter(quality_grade == "research")
+         taxon_genus_name) %>% filter(quality_grade == "research" & 
+                                        !is.na(taxon_species_name) & 
+                                        taxon_species_name!="") %>% 
+  distinct(taxon_species_name, .keep_all=T)
+
+
+saveRDS(listado_especies,"datos/listado_especies")
 
 
 
-listado_especies <- lista_dataset %>% filter(!is.na(scientific_name)) %>% 
-  filter(str_count(scientific_name, "\\S+") ==2 ) %>% 
-  group_by(scientific_name)
+###Grafico
 
-
-
-listado_taxones <- listado_especies %>%  
+grafico_especies <- listado_especies %>%  
   filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | 
            taxon_kingdom_name=='Plantae') %>% 
   group_by(taxon_kingdom_name, taxon_class_name) %>% count() %>% 
-  arrange(desc(n)) %>% head(10) %>%  filter(!is.na(taxon_class_name)) %>% 
-  ggplot(., aes(x=n, y=taxon_class_name, fill=taxon_class_name)) +
+  arrange(desc(n)) %>% head(15) %>%  filter(!is.na(taxon_class_name)) %>% 
+  ggplot(.,aes(x=n, y=taxon_class_name, 
+                fill=taxon_class_name)) +
   geom_bar(stat = "identity", show.legend = FALSE) +
   labs(x='Number of Observations', y= '', fill = '') + theme_bw() +
-  scale_x_continuous() + scale_fill_brewer(palette ='Spectral')
+  scale_x_continuous() 
 
-plot(listado_taxones)
+plot(grafico_especies)
 
+
+
+##Para Tetrápodos
+
+Tetrapodos <- listado_especies %>% 
+  filter(taxon_class_name == "Aves" | taxon_class_name == "Amphibia" | 
+           taxon_class_name == "Mammalia" | taxon_class_name == "Reptilia")
+
+saveRDS(Tetrapodos,"datos/Lista_Tetrapodos")
+
+
+##Para Plantas
+
+Magno <- listado_especies %>%  
+  filter(taxon_class_name=='Magnoliopsida') %>% 
+  group_by(taxon_order_name, taxon_family_name) %>% count() %>% 
+  arrange(desc(n)) %>% head(20) %>%  filter(!is.na(taxon_family_name)) %>% 
+  ggplot(., aes(x=n, y=taxon_family_name, fill=taxon_family_name)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  labs(x='Number of Observations', y= '', fill = '') + theme_bw() +
+  scale_x_continuous()
+
+Plantas <- listado_especies %>% 
+  filter(taxon_family_name == "Fabaceae" | taxon_family_name == "Myrtaceae" | 
+           taxon_family_name == "Asteraceae")
+
+saveRDS(Plantas,"datos/Lista_Plantas")
