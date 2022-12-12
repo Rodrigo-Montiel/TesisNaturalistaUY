@@ -1,0 +1,421 @@
+,quality_grade,place_admin1_name,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name
+1,research,Montevideo,Campuloclinium macrocephalum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Campuloclinium
+2,research,Montevideo,Noticastrum diffusum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum
+3,research,Montevideo,Bidens aurea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens
+4,research,Rocha,Tessaria absinthioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tessaria
+5,research,Maldonado,Baccharis notosergila,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+6,research,Rocha,Gamochaeta falcata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gamochaeta
+7,research,Rocha,Senecio platensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+8,research,Rivera,Gyptis tanacetifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis
+9,research,Florida,Matricaria chamomilla,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Matricaria
+10,research,Maldonado,Campovassouria cruciata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Campovassouria
+11,research,Canelones,Anthemis cotula,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Anthemis
+12,research,Canelones,Melaleuca citrina,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Melaleuca
+13,research,Salto,Pterocaulon polystachyum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon
+14,research,Rocha,Stevia satureiifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia
+15,research,Canelones,Hypochaeris radicata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris
+16,research,Montevideo,Pluchea sagittalis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pluchea
+17,research,Rocha,Sesbania virgata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Sesbania
+18,research,Tacuarembó,Erythrina crista-galli,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Erythrina
+19,research,Canelones,Microgyne trifurcata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Microgyne
+20,research,Canelones,Senecio madagascariensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+21,research,Canelones,Berroa gnaphalioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Berroa
+22,research,Canelones,Eclipta elliptica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Eclipta
+23,research,Tacuarembó,Peltophorum dubium,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Peltophorum
+24,research,Maldonado,Spartium junceum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Spartium
+25,research,Maldonado,Schlechtendalia luzulifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Schlechtendalia
+26,research,Colonia,Vachellia caven,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia
+27,research,Montevideo,Vicia faba,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia
+28,research,Florida,Senna corymbosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senna
+29,research,Rocha,Senecio brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+30,research,Treinta y Tres,Feijoa sellowiana,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Feijoa
+31,research,Treinta y Tres,Mimosa bifurca,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+32,research,Tacuarembó,Centrosema virginianum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Centrosema
+33,research,Treinta y Tres,Trifolium polymorphum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium
+34,research,Treinta y Tres,Blepharocalyx salicifolius,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Blepharocalyx
+35,research,Tacuarembó,Eugenia uniflora,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Eugenia
+36,research,Canelones,Trifolium pratense,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium
+37,research,Maldonado,Chrysolaena flexuosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysolaena
+38,research,Colonia,Cynara cardunculus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cynara
+39,research,Rivera,Lupinus multiflorus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus
+40,research,Lavalleja,Cirsium vulgare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cirsium
+41,research,Maldonado,Albizia julibrissin,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Albizia
+42,research,Maldonado,Psidium cattleyanum,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Psidium
+43,research,Maldonado,Bidens pilosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens
+44,research,Rocha,Erigeron blakei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron
+45,research,Maldonado,Mimosa australis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+46,research,Maldonado,Grazielia serrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia
+47,research,Río Negro,Solidago chilensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Solidago
+48,research,Río Negro,Chromolaena hirsuta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena
+49,research,Río Negro,Elephantopus mollis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Elephantopus
+50,research,Montevideo,Vachellia karroo,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia
+51,research,Montevideo,Calliandra tweediei,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra
+52,research,Maldonado,Myrceugenia glaucescens,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Myrceugenia
+53,research,Río Negro,Verbesina subcordata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Verbesina
+54,research,San José,Achyrocline saturejoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Achyrocline
+55,research,Río Negro,Bauhinia forficata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bauhinia
+56,research,Río Negro,Centaurea solstitialis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea
+57,research,Río Negro,Baccharis coridifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+58,research,Soriano,Desmodium incanum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmodium
+59,research,Río Negro,Grindelia pulchella,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grindelia
+60,research,Paysandú,Helenium radiatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helenium
+61,research,Canelones,Coreopsis lanceolata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Coreopsis
+62,research,Paysandú,Vernonanthura montevidensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Vernonanthura
+63,research,Montevideo,Chamaemelum mixtum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chamaemelum
+64,research,Río Negro,Acmella decumbens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acmella
+65,research,Río Negro,Picrosia longifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Picrosia
+66,research,Montevideo,Senecio crassiflorus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+67,research,Montevideo,Lupinus bracteolaris,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus
+68,research,Río Negro,Pamphalea heterophylla,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pamphalea
+69,research,San José,Vicia benghalensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia
+70,research,Río Negro,Chaptalia piloselloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia
+71,research,Río Negro,Trixis praestans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trixis
+72,research,Soriano,Acacia dealbata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia
+73,research,Río Negro,Taraxacum officinale,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Taraxacum
+74,research,Río Negro,Chromolaena ivifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena
+75,research,Río Negro,Bidens subalternans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens
+76,research,Montevideo,Arctium minus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Arctium
+77,research,Río Negro,Prosopis affinis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis
+78,research,Río Negro,Austroeupatorium inulifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Austroeupatorium
+79,research,Río Negro,Camptosema rubicundum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Camptosema
+80,research,Río Negro,Holocheilus hieracioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Holocheilus
+81,research,Soriano,Lessingianthus plantaginodes,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus
+82,research,Río Negro,Senecio bonariensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+83,research,Río Negro,Senecio pterophorus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+84,research,Montevideo,Sonchus oleraceus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus
+85,research,Río Negro,Gymnocoronis spilanthoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gymnocoronis
+86,research,Río Negro,Lotus corniculatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lotus
+87,research,Río Negro,Cichorium intybus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cichorium
+88,research,Río Negro,Geoffroea decorticans,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Geoffroea
+89,research,Río Negro,Myrrhinium atropurpureum,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Myrrhinium
+90,research,Río Negro,Carduus acanthoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus
+91,research,Río Negro,Macroptilium prostratum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Macroptilium
+92,research,Río Negro,Chromolaena christieana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena
+93,research,Río Negro,Myrcianthes cisplatensis,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Myrcianthes
+94,research,Río Negro,Baccharis trimera,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+95,research,Río Negro,Vernonanthura nudiflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Vernonanthura
+96,research,Río Negro,Urolepis hecatantha,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Urolepis
+97,research,Maldonado,Smallanthus connatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Smallanthus
+98,research,Río Negro,Galactia marginalis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia
+99,research,Canelones,Sesbania punicea,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Sesbania
+100,research,Río Negro,Trichocline humilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline
+101,research,Río Negro,Medicago sativa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
+102,research,Soriano,Eclipta prostrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Eclipta
+103,research,Montevideo,Galinsoga parviflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Galinsoga
+104,research,Río Negro,Aldama anchusifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Aldama
+105,research,Río Negro,Hypochaeris albiflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris
+106,research,Montevideo,Pseudogynoxys chenopodioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pseudogynoxys
+107,research,Montevideo,Helianthus tuberosus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helianthus
+108,research,Montevideo,Enterolobium contortisiliquum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Enterolobium
+109,research,Canelones,Trifolium repens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium
+110,research,Montevideo,Youngia japonica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Youngia
+111,research,Rivera,Soliva sessilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Soliva
+112,research,Montevideo,Acacia longifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia
+113,research,Rocha,Xanthium strumarium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Xanthium
+114,research,Paysandú,Sonchus asper,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus
+115,research,Canelones,Helianthus annuus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helianthus
+116,research,Río Negro,Hymenoxys anthemoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hymenoxys
+117,research,Río Negro,Erigeron lorentzii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron
+118,research,Maldonado,Eucalyptus cinerea,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Eucalyptus
+119,research,Montevideo,Coleostephus myconis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Coleostephus
+120,research,San José,Senecio selloi,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+121,research,Río Negro,Gleditsia triacanthos,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Gleditsia
+122,research,San José,Baccharis articulata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+123,research,Montevideo,Hedypnois rhagadioloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hedypnois
+124,research,Soriano,Hypochaeris chillensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris
+125,research,San José,Adesmia securigerifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia
+126,research,Colonia,Pseudognaphalium cheiranthifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pseudognaphalium
+127,research,Colonia,Arachis villosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Arachis
+128,research,Montevideo,Hieracium commersonii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hieracium
+129,research,Canelones,Trifolium campestre,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium
+130,research,Rivera,Myrcianthes pungens,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Myrcianthes
+131,research,Montevideo,Urospermum picroides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Urospermum
+132,research,Montevideo,Lathyrus nervosus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus
+133,research,Salto,Carduus nutans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus
+134,research,Montevideo,Helminthotheca echioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helminthotheca
+135,research,Montevideo,Baccharis dracunculifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+136,research,Montevideo,Erigeron bonariensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron
+137,research,Rocha,Trichocline cisplatina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline
+138,research,Cerro Largo,Baccharis ochracea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+139,research,Flores,Acacia melanoxylon,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia
+140,research,Paysandú,Lactuca serriola,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lactuca
+141,research,Paysandú,Melilotus albus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Melilotus
+142,research,Flores,Aspilia montevidensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Aspilia
+143,research,Rivera,Lessingianthus macrocephalus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus
+144,research,Rivera,Sommerfeltia cabrerae,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sommerfeltia
+145,research,Maldonado,Senecio pulcher,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+146,research,Artigas,Mimosa uraguensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+147,research,Maldonado,Mutisia coccinea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mutisia
+148,research,Cerro Largo,Acanthostyles buniifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acanthostyles
+149,research,Rivera,Criscia stricta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Criscia
+150,research,Río Negro,Baccharis glutinosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+151,research,Flores,Prosopis nigra,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis
+152,research,San José,Xanthium cavanillesii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Xanthium
+153,research,Paysandú,Baccharis punctulata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+154,research,Paysandú,Pterocaulon balansae,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon
+155,research,Paysandú,Pseudognaphalium gaudichaudianum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pseudognaphalium
+156,research,Paysandú,Hysterionica resinosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hysterionica
+157,research,Paysandú,Poecilanthe parviflora,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Poecilanthe
+158,research,Montevideo,Tipuana tipu,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Tipuana
+159,research,Canelones,Vigna longifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vigna
+160,research,Paysandú,Thelesperma megapotamicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Thelesperma
+161,research,Paysandú,Chamaecrista repens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Chamaecrista
+162,research,Paysandú,Trichocline incana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline
+163,research,Paysandú,Isostigma peucedanifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Isostigma
+164,research,Paysandú,Porophyllum linifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Porophyllum
+165,research,Paysandú,Chaptalia sinuata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia
+166,research,Paysandú,Neja pinifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Neja
+167,research,Paysandú,Neptunia pubescens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Neptunia
+168,research,Paysandú,Porophyllum ruderale,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Porophyllum
+169,research,Paysandú,Chromolaena squarrulosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena
+170,research,Paysandú,Elephantopus angustifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Elephantopus
+171,research,Paysandú,Stenocephalum megapotamicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenocephalum
+172,research,Paysandú,Collaea stenophylla,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Collaea
+173,research,Paysandú,Rhynchosia lineata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Rhynchosia
+174,research,Río Negro,Calyptocarpus brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calyptocarpus
+175,research,Durazno,Carthamus lanatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carthamus
+176,research,Rocha,Lotus tenuis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lotus
+177,research,Montevideo,Cotula nigellifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cotula
+178,research,Maldonado,Mimosa ramulosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+179,research,Maldonado,Mimosa dutrae,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+180,research,San José,Helenium amarum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helenium
+181,research,Maldonado,Baccharis oxyodonta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+182,research,Canelones,Jaumea linearifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Jaumea
+183,research,Río Negro,Mimosa strigillosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+184,research,Lavalleja,Baccharis crispa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+185,research,Maldonado,Eucalyptus sideroxylon,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Eucalyptus
+186,research,Maldonado,Pterocaulon lorentzii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon
+187,research,Maldonado,Lucilia nitens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lucilia
+188,research,Maldonado,Baccharis linearifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+189,research,Maldonado,Acanthospermum australe,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acanthospermum
+190,research,Maldonado,Enydra sessilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Enydra
+191,research,Maldonado,Vigna luteola,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vigna
+192,research,Río Negro,Zinnia elegans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Zinnia
+193,research,Maldonado,Lucilia acutifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lucilia
+194,research,Maldonado,Baccharis microdonta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+195,research,Montevideo,Noticastrum acuminatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum
+196,research,Rocha,Noticastrum malmei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum
+197,research,Río Negro,Ambrosia artemisiifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Ambrosia
+198,research,Paysandú,Chromolaena laevigata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena
+199,research,Rocha,Sommerfeltia spinulosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sommerfeltia
+200,research,Canelones,Pterocaulon virgatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon
+201,research,Canelones,Bidens laevis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens
+202,research,Canelones,Erechtites hieraciifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erechtites
+203,research,Canelones,Mikania cordifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania
+204,research,Canelones,Inga uraguensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Inga
+205,research,Flores,Parkinsonia aculeata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Parkinsonia
+206,research,Durazno,Mimosa flagellaris,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+207,research,Durazno,Mikania thapsoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania
+208,research,Durazno,Hatschbachiella tweedieana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hatschbachiella
+209,research,Maldonado,Glebionis coronaria,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Glebionis
+210,research,Río Negro,Barrosoa candolleana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Barrosoa
+211,research,Río Negro,Senegalia bonariensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senegalia
+212,research,Soriano,Pterocaulon angustifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon
+213,research,Montevideo,Ulex europaeus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Ulex
+214,research,Río Negro,Xanthium spinosum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Xanthium
+215,research,Río Negro,Baccharis vulneraria,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+216,research,Río Negro,Tagetes minuta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tagetes
+217,research,Maldonado,Wisteria sinensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Wisteria
+218,research,Tacuarembó,Mimosa sprengelii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+219,research,Maldonado,Baccharis spicata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+220,research,Cerro Largo,Myrciaria tenella,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Myrciaria
+221,research,Río Negro,Gyptis pinnatifida,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis
+222,research,Maldonado,Baccharis aliena,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+223,research,Maldonado,Grazielia brevipetiolata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia
+224,research,Río Negro,Symphyotrichum subulatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Symphyotrichum
+225,research,Río Negro,Medicago lupulina,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
+226,research,Canelones,Eucalyptus globulus,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Eucalyptus
+227,research,Rocha,Dimorphotheca ecklonis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dimorphotheca
+228,research,Rocha,Grindelia orientalis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grindelia
+229,research,Maldonado,Baccharis patens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+230,research,Canelones,Baccharis tridentata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+231,research,Canelones,Acacia podalyriifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia
+232,research,Canelones,Ambrosia tenuifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Ambrosia
+233,research,Rivera,Lupinus gibertianus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus
+234,research,Montevideo,Vachellia farnesiana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia
+235,research,Cerro Largo,Acmella bellidioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acmella
+236,research,Río Negro,Chaptalia exscapa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia
+237,research,Canelones,Cotula australis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cotula
+238,research,Maldonado,Senecio ostenii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+239,research,Montevideo,Senecio vulgaris,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+240,research,Rocha,Adesmia bicolor,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia
+241,research,Montevideo,Leucanthemum vulgare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Leucanthemum
+242,research,Soriano,Baccharis phyteumoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+243,research,Maldonado,Lathyrus pubescens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus
+244,research,Maldonado,Chaptalia arechavaletae,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia
+245,research,Maldonado,Adesmia punctata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia
+246,research,Maldonado,Genista monspessulana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Genista
+247,research,Tacuarembó,Senecio pinnatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+248,research,Tacuarembó,Perezia multiflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Perezia
+249,research,San José,Chevreulia sarmentosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chevreulia
+250,research,Soriano,Gamochaeta americana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gamochaeta
+251,research,Durazno,Medicago arabica,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
+252,research,Soriano,Calea uniflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calea
+253,research,Lavalleja,Hypochaeris megapotamica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris
+254,research,Lavalleja,Hypochaeris variegata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris
+255,research,Lavalleja,Chaptalia nutans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia
+256,research,Río Negro,Eugenia uruguayensis,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Eugenia
+257,research,Maldonado,Senecio tweediei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+258,research,Maldonado,Mimosa burkartii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+259,research,Montevideo,Melilotus indicus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Melilotus
+260,research,Montevideo,Holocheilus brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Holocheilus
+261,research,San José,Vicia sativa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia
+262,research,Soriano,Angelphytum grisebachii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Angelphytum
+263,research,Río Negro,Erythrostemon gilliesii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Erythrostemon
+264,research,Treinta y Tres,Exostigma rivulare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Exostigma
+265,research,Treinta y Tres,Gyptis commersonii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis
+266,research,Treinta y Tres,Psidium salutare,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Psidium
+267,research,Treinta y Tres,Radlkoferotoma cistifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Radlkoferotoma
+268,research,Canelones,Senecio viravira,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+269,research,Cerro Largo,Achillea millefolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Achillea
+270,research,Montevideo,Cosmos bipinnatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cosmos
+271,research,Maldonado,Galactia australis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia
+272,research,Rocha,Canavalia bonariensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Canavalia
+273,research,Colonia,Aeschynomene montevidensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Aeschynomene
+274,research,Montevideo,Erigeron canadensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron
+275,research,Rocha,Cotula coronopifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cotula
+276,research,Salto,Psidium guajava,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Psidium
+277,research,Paysandú,Lactuca saligna,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lactuca
+278,research,Maldonado,Gazania rigens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gazania
+279,research,Lavalleja,Panphalea heterophylla,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pamphalea
+280,research,Lavalleja,Mimosa pilulifera,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+281,research,Lavalleja,Calliandra selloi,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra
+282,research,San José,Glycine max,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Glycine
+283,research,Treinta y Tres,Clitoria nana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Clitoria
+284,research,Cerro Largo,Myrceugenia myrtoides,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Myrceugenia
+285,research,Río Negro,Podocoma hirsuta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Podocoma
+286,research,Artigas,Arachis burkartii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Arachis
+287,research,Salto,Gleditsia amorphoides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Gleditsia
+288,research,Artigas,Indigofera asperifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Indigofera
+289,research,Artigas,Pterocaulon cordobense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon
+290,research,Artigas,Hysterionica montevidensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hysterionica
+291,research,Cerro Largo,Myrcia palustris,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Myrcia
+292,research,Treinta y Tres,Stylosanthes leiocarpa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Stylosanthes
+293,research,Río Negro,Stevia aristata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia
+294,research,Río Negro,Trixis nobilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trixis
+295,research,Cerro Largo,Lupinus lanatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus
+296,research,Río Negro,Stevia multiaristata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia
+297,research,Montevideo,Noticastrum marginatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum
+298,research,Río Negro,Senna scabriuscula,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senna
+299,research,Río Negro,Chamaecrista flexuosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Chamaecrista
+300,research,Río Negro,Tephrosia cinerea,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Tephrosia
+301,research,Montevideo,Cosmos sulphureus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cosmos
+302,research,Maldonado,Stylosanthes montevidensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Stylosanthes
+303,research,Maldonado,Senecio ceratophylloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+304,research,Canelones,Eucalyptus robusta,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Eucalyptus
+305,research,Rivera,Ancistrotropis clitorioides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Ancistrotropis
+306,research,Río Negro,Silybum marianum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Silybum
+307,research,Maldonado,Baccharis gnaphalioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+308,research,Paysandú,Facelis retusa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Facelis
+309,research,Maldonado,Baccharis jocheniana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+310,research,Paysandú,Micropsis spathulata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Micropsis
+311,research,Río Negro,Baccharis salicifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+312,research,Río Negro,Taraxacum erythrospermum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Taraxacum
+313,research,Paysandú,Medicago polymorpha,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
+314,research,Río Negro,Pamphalea bupleurifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pamphalea
+315,research,Soriano,Centaurea calcitrapa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea
+316,research,Maldonado,Mimosa axillarioides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+317,research,Maldonado,Mimosa schleidenii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+318,research,Tacuarembó,Lathyrus subulatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus
+319,research,Rivera,Lathyrus pusillus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus
+320,research,Colonia,Lupinus albescens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus
+321,research,Florida,Senecio heterotrichius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+322,research,Treinta y Tres,Exostigma notobellidiastrum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Exostigma
+323,research,Treinta y Tres,Stenachaenium riedelii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenachaenium
+324,research,Maldonado,Stenachaenium megapotamicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenachaenium
+325,research,Rocha,Medicago minima,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago
+326,research,Maldonado,Senecio angulatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+327,research,Canelones,Carduus pycnocephalus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus
+328,research,Treinta y Tres,Pomaria pilosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Pomaria
+329,research,Colonia,Calliandra parvifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra
+330,research,Colonia,Tragopogon porrifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tragopogon
+331,research,Colonia,Syzygium jambos,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Syzygium
+332,research,Treinta y Tres,Mikania involucrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania
+333,research,Treinta y Tres,Myrcianthes gigantea,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Myrcianthes
+334,research,Rocha,Psoralea pinnata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Psoralea
+335,research,Flores,Lotus subbiflorus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lotus
+336,research,Cerro Largo,Lessingianthus rubricaulis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus
+337,research,Paysandú,Senna nana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senna
+338,research,Colonia,Galinsoga quadriradiata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Galinsoga
+339,research,Rivera,Grazielia intermedia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia
+340,research,Rivera,Calea cymosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calea
+341,research,Rivera,Lessingianthus brevifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus
+342,research,Rivera,Baccharis psiadioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+343,research,Rivera,Hysterionica chamomilloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hysterionica
+344,research,Rivera,Galactia pretiosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia
+345,research,Soriano,Dimerostemma grisebachii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dimerostemma
+346,research,Maldonado,Chaptalia integerrima,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia
+347,research,Canelones,Baccharis genistifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+348,research,Durazno,Calendula officinalis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calendula
+349,research,Maldonado,Galactia gracillima,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia
+350,research,Río Negro,Albizia inundata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Albizia
+351,research,Paysandú,Trichocline minuana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline
+352,research,Maldonado,Poiretia tetraphylla,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Poiretia
+353,research,Artigas,Discolobium psoraleifolium,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Discolobium
+354,research,Paysandú,Lessingianthus sellowii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus
+355,research,Colonia,Erigeron primulifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron
+356,research,Tacuarembó,Microgyne marchesiana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Microgyne
+357,research,Río Negro,Lessingianthus glabratus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus
+358,research,Rocha,Barrosoa betoniciformis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Barrosoa
+359,research,Maldonado,Lactuca sativa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lactuca
+360,research,Rocha,Chrysolaena platensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysolaena
+361,research,Artigas,Pomaria rubicunda,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Pomaria
+362,research,Rivera,Desmodium arechavaletae,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmodium
+363,research,Salto,Cyrtocymura scorpioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cyrtocymura
+364,research,Tacuarembó,Moquiniastrum polymorphum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Moquiniastrum
+365,research,Cerro Largo,Pterocaulon polypterum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon
+366,research,Durazno,Hypochaeris grisebachii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris
+367,research,Canelones,Desmanthus acuminatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmanthus
+368,research,Cerro Largo,Desmodium affine,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmodium
+369,research,Colonia,Aspilia silphioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Aspilia
+370,research,Montevideo,Mimosa bimucronata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+371,research,Rivera,Baccharis anomala,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+372,research,Rocha,Adesmia latifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia
+373,research,Cerro Largo,Dasyphyllum spinescens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dasyphyllum
+374,research,Río Negro,Mikania pinnatiloba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania
+375,research,Tacuarembó,Chrysolaena cognata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysolaena
+376,research,Río Negro,Rhynchosia senna,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Rhynchosia
+377,research,Treinta y Tres,Baccharis rectialata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+378,research,Tacuarembó,Gyptis lanigera,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis
+379,research,Maldonado,Adesmia incana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia
+380,research,Maldonado,Stenachaenium macrocephalum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenachaenium
+381,research,Artigas,Mimosa paupera,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+382,research,Salto,Mimosa pigra,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+383,research,Artigas,Macroptilium lathyroides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Macroptilium
+384,research,Canelones,Mimosa magentea,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa
+385,research,Rocha,Tanacetum vulgare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tanacetum
+386,research,Artigas,Parapiptadenia rigida,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Parapiptadenia
+387,research,Rivera,Calea clematidea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calea
+388,research,Lavalleja,Lespedeza bicolor,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lespedeza
+389,research,Durazno,Chrysanthellum indicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysanthellum
+390,research,Rivera,Mikania anethifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania
+391,research,Rivera,Stevia cinerascens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia
+392,research,Rivera,Austroeupatorium laetevirens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Austroeupatorium
+393,research,Rivera,Jungia floribunda,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Jungia
+394,research,Río Negro,Chromolaena callilepis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena
+395,research,Colonia,Leptospron adenanthum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Leptospron
+396,research,Rocha,Erechtites valerianifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erechtites
+397,research,Lavalleja,Chromolaena caaguazuensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena
+398,research,Treinta y Tres,Calyptranthes concinna,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Calyptranthes
+399,research,Rocha,Baccharis breviseta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+400,research,Maldonado,Santolina chamaecyparissus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Santolina
+401,research,Tacuarembó,Galactia benthamiana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia
+402,research,Río Negro,Eclipta megapotamica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Eclipta
+403,research,Rocha,Euryops chrysanthemoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Euryops
+404,research,Canelones,Raulinoreitzia tremula,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Raulinoreitzia
+405,research,Rocha,Adenostemma brasilianum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Adenostemma
+406,research,Maldonado,Baccharis cultrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis
+407,research,Treinta y Tres,Myrceugenia euosma,Plantae,Tracheophyta,Magnoliopsida,Myrtales,Myrtaceae,Myrceugenia
+408,research,Rivera,Rhynchosia corylifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Rhynchosia
+409,research,Colonia,Senecio tamoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio
+410,research,Paysandú,Calliandra parviflora,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra
+411,research,Río Negro,Stevia entreriensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia
+412,research,Canelones,Senegalia picachensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senegalia
+413,research,San José,Acacia baileyana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia
+414,research,Maldonado,Lupinus linearis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus
+415,research,Montevideo,Robinia pseudoacacia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Robinia
+416,research,Rocha,Achyrocline flaccida,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Achyrocline
+417,research,Maldonado,Bauhinia variegata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bauhinia
+418,research,Maldonado,Delairea odorata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Delairea
+419,research,Maldonado,Perezia squarrosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Perezia
+420,research,Tacuarembó,Radlkoferotoma berroi,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Radlkoferotoma

@@ -1,0 +1,607 @@
+,quality_grade,place_admin1_name,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name
+1,research,Montevideo,Paroaria coronata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Paroaria
+2,research,Montevideo,Larus atlanticus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus
+3,research,Montevideo,Haematopus palliatus,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus
+4,research,Montevideo,Aramides cajaneus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides
+5,research,Rocha,Rhinella dorbignyi,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella
+6,research,Rocha,Scinax granulatus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax
+7,research,Rocha,Procyon cancrivorus,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Procyon
+8,research,Rocha,Otaria byronia,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Otaria
+9,research,Rocha,Myiopsitta monachus,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta
+10,research,Rocha,Colaptes campestris,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes
+11,research,Rocha,Sicalis flaveola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sicalis
+12,research,Rocha,Amazonetta brasiliensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Amazonetta
+13,research,Rocha,Porphyriops melanops,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyriops
+14,research,Rocha,Milvago chimango,Animalia,Chordata,Aves,Falconiformes,Falconidae,Milvago
+15,research,Rocha,Nannopterum brasilianum,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Nannopterum
+16,research,Rocha,Larus dominicanus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus
+17,research,Rocha,Mimus saturninus,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus
+18,research,Rocha,Egretta thula,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta
+19,research,Rocha,Spheniscus magellanicus,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus
+20,research,Rocha,Melanophryniscus montevidensis,Animalia,Chordata,Amphibia,Anura,Bufonidae,Melanophryniscus
+21,research,Montevideo,Vanellus chilensis,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Vanellus
+22,research,Montevideo,Fulica armillata,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica
+23,research,Montevideo,Rollandia rolland,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Rollandia
+24,research,Rocha,Leptodactylus gracilis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus
+25,research,Florida,Theristicus caerulescens,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Theristicus
+26,research,Tacuarembó,Athene cunicularia,Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene
+27,research,Tacuarembó,Buteogallus meridionalis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteogallus
+28,research,Tacuarembó,Rhea americana,Animalia,Chordata,Aves,Rheiformes,Rheidae,Rhea
+29,research,Tacuarembó,Aramides ypecaha,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides
+30,research,Tacuarembó,Heteroxolmis dominicana,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Heteroxolmis
+31,research,Rocha,Rhinella arenarum,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella
+32,research,Rocha,Arctocephalus australis,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus
+33,research,Colonia,Elaenia parvirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia
+34,research,Colonia,Embernagra platensis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Embernagra
+35,research,Colonia,Colaptes melanochloros,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes
+36,research,Colonia,Dasypus novemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus
+37,research,Rocha,Cerdocyon thous,Animalia,Chordata,Mammalia,Carnivora,Canidae,Cerdocyon
+38,research,Rocha,Anthus lutescens,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus
+39,research,Rocha,Tyrannus savana,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus
+40,research,Rocha,Zonotrichia capensis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia
+41,research,Rocha,Pluvialis dominica,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis
+42,research,Rocha,Cavia aperea,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia
+43,research,Paysandú,Cathartes aura,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Cathartes
+44,research,Cerro Largo,Pyrocephalus rubinus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pyrocephalus
+45,research,Montevideo,Nycticorax nycticorax,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax
+46,research,Tacuarembó,Xolmis irupero,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Xolmis
+47,research,Cerro Largo,Aramus guarauna,Animalia,Chordata,Aves,Gruiformes,Aramidae,Aramus
+48,research,Rocha,Ciconia maguari,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Ciconia
+49,research,Rocha,Progne tapera,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne
+50,research,Rocha,Charadrius semipalmatus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius
+51,research,Rocha,Chroicocephalus maculipennis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chroicocephalus
+52,research,Rocha,Tringa flavipes,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa
+53,research,Rocha,Guira guira,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Guira
+54,research,Rocha,Calidris fuscicollis,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+55,research,Paysandú,Syrigma sibilatrix,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Syrigma
+56,research,Rocha,Progne chalybea,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne
+57,research,Cerro Largo,Cathartes burrovianus,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Cathartes
+58,research,Maldonado,Coragyps atratus,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Coragyps
+59,research,Colonia,Hymenops perspicillatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hymenops
+60,research,Río Negro,Caracara plancus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Caracara
+61,research,Paysandú,Cyanocorax chrysops,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocorax
+62,research,Paysandú,Zenaida auriculata,Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida
+63,research,Montevideo,Furnarius rufus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnarius
+64,research,Salto,Ardea cocoi,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea
+65,research,Cerro Largo,Icterus pyrrhopterus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus
+66,research,Tacuarembó,Eptesicus diminutus,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus
+67,research,Colonia,Tigrisoma lineatum,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Tigrisoma
+68,research,Colonia,Charadrius collaris,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius
+69,research,Río Negro,Rupornis magnirostris,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rupornis
+70,research,Paysandú,Chauna torquata,Animalia,Chordata,Aves,Anseriformes,Anhimidae,Chauna
+71,research,Paysandú,Leistes superciliaris,Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes
+72,research,Paysandú,Dendrocygna viduata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna
+73,research,Paysandú,Plegadis chihi,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis
+74,research,Paysandú,Jacana jacana,Animalia,Chordata,Aves,Charadriiformes,Jacanidae,Jacana
+75,research,Paysandú,Himantopus mexicanus,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus
+76,research,Paysandú,Platalea ajaja,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Platalea
+77,research,Río Negro,Chlorostilbon lucidus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Chlorostilbon
+78,research,Paysandú,Chloroceryle amazona,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Chloroceryle
+79,research,Maldonado,Turdus rufiventris,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
+80,research,Paysandú,Ammodramus humeralis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Ammodramus
+81,research,Paysandú,Nengetus cinereus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Nengetus
+82,research,Paysandú,Ardea alba,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea
+83,research,Maldonado,Phimosus infuscatus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Phimosus
+84,research,Maldonado,Chelonia mydas,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Chelonia
+85,research,Maldonado,Rynchops niger,Animalia,Chordata,Aves,Charadriiformes,Laridae,Rynchops
+86,research,Montevideo,Patagioenas picazuro,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas
+87,research,Montevideo,Sterna trudeaui,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna
+88,research,Canelones,Geranoaetus albicaudatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranoaetus
+89,research,Paysandú,Chloroceryle americana,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Chloroceryle
+90,research,Paysandú,Pitangus sulphuratus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pitangus
+91,research,Paysandú,Pseudoleistes virescens,Animalia,Chordata,Aves,Passeriformes,Icteridae,Pseudoleistes
+92,research,Cerro Largo,Didelphis albiventris,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Didelphis
+93,research,Cerro Largo,Lycalopex gymnocercus,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex
+94,research,Cerro Largo,Conepatus chinga,Animalia,Chordata,Mammalia,Carnivora,Mephitidae,Conepatus
+95,research,Cerro Largo,Nothura maculosa,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Nothura
+96,research,Cerro Largo,Erythrolamprus poecilogyrus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus
+97,research,Montevideo,Amphisbaena munoai,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena
+98,research,Montevideo,Tringa melanoleuca,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa
+99,research,Cerro Largo,Patagioenas maculosa,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas
+100,research,Montevideo,Passer domesticus,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer
+101,research,Colonia,Leptodactylus mystacinus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus
+102,research,Rocha,Bothrops alternatus,Animalia,Chordata,Reptilia,Squamata,Viperidae,Bothrops
+103,research,Rocha,Amphisbaena darwinii,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena
+104,research,Rocha,Physalaemus biligonigerus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus
+105,research,Maldonado,Teius oculatus,Animalia,Chordata,Reptilia,Squamata,Teiidae,Teius
+106,research,Rocha,Salvator merianae,Animalia,Chordata,Reptilia,Squamata,Teiidae,Salvator
+107,research,Rocha,Xenodon dorbignyi,Animalia,Chordata,Reptilia,Squamata,Colubridae,Xenodon
+108,research,Paysandú,Philodryas patagoniensis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas
+109,research,Montevideo,Bubulcus ibis,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Bubulcus
+110,research,Montevideo,Gallinula galeata,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula
+111,research,Montevideo,Parabuteo unicinctus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Parabuteo
+112,research,Montevideo,Anser anser,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser
+113,research,Montevideo,Anas flavirostris,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
+114,research,Montevideo,Turdus amaurochalinus,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
+115,research,Montevideo,Molothrus bonariensis,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus
+116,research,Montevideo,Chroicocephalus cirrocephalus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chroicocephalus
+117,research,Montevideo,Columba livia,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba
+118,research,Montevideo,Tyrannus melancholicus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus
+119,research,Montevideo,Machetornis rixosa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Machetornis
+120,research,Montevideo,Leucochloris albicollis,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Leucochloris
+121,research,Montevideo,Anas platyrhynchos,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
+122,research,Montevideo,Lepidocolaptes angustirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lepidocolaptes
+123,research,Montevideo,Myiarchus swainsoni,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus
+124,research,Montevideo,Setophaga pitiayumi,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga
+125,research,Maldonado,Megaceryle torquata,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Megaceryle
+126,research,Rocha,Myocastor coypus,Animalia,Chordata,Mammalia,Rodentia,Echimyidae,Myocastor
+127,research,Maldonado,Cygnus melancoryphus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus
+128,research,Rocha,Phalotris lemniscatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Phalotris
+129,research,Montevideo,Sturnus vulgaris,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus
+130,research,Florida,Boana pulchella,Animalia,Chordata,Amphibia,Anura,Hylidae,Boana
+131,research,Canelones,Hylocharis chrysura,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Hylocharis
+132,research,Rivera,Pygochelidon cyanoleuca,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Pygochelidon
+133,research,Rivera,Tadarida brasiliensis,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Tadarida
+134,research,Rivera,Myotis levis,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+135,research,Canelones,Accipiter striatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter
+136,research,Canelones,Coscoroba coscoroba,Animalia,Chordata,Aves,Anseriformes,Anatidae,Coscoroba
+137,research,Canelones,Falco femoralis,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco
+138,research,Canelones,Thamnophilus caerulescens,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Thamnophilus
+139,research,Maldonado,Limosa haemastica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa
+140,research,Maldonado,Charadrius falklandicus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius
+141,research,Canelones,Dendrocygna bicolor,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna
+142,research,Maldonado,Arenaria interpres,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Arenaria
+143,research,Rocha,Lygophis anomalus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Lygophis
+144,research,Rocha,Sporophila collaris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila
+145,research,Canelones,Phrynops hilarii,Animalia,Chordata,Reptilia,Testudines,Chelidae,Phrynops
+146,research,Lavalleja,Drymornis bridgesii,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Drymornis
+147,research,Canelones,Calidris subruficollis,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+148,research,Canelones,Pachyramphus polychopterus,Animalia,Chordata,Aves,Passeriformes,Tityridae,Pachyramphus
+149,research,Canelones,Circus buffoni,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Circus
+150,research,Canelones,Liolaemus wiegmannii,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus
+151,research,Rocha,Stilpnia preciosa,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia
+152,research,Canelones,Monodelphis dimidiata,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Monodelphis
+153,research,Canelones,Hirundinea ferruginea,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hirundinea
+154,research,Rocha,Contomastix lacertoides,Animalia,Chordata,Reptilia,Squamata,Teiidae,Contomastix
+155,research,Canelones,Geositta cunicularia,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Geositta
+156,research,Tacuarembó,Theristicus caudatus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Theristicus
+157,research,Colonia,Agelaioides badius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelaioides
+158,research,Rivera,Penelope obscura,Animalia,Chordata,Aves,Galliformes,Cracidae,Penelope
+159,research,Colonia,Ctenomys pearsoni,Animalia,Chordata,Mammalia,Rodentia,Ctenomyidae,Ctenomys
+160,research,Tacuarembó,Cariama cristata,Animalia,Chordata,Aves,Cariamiformes,Cariamidae,Cariama
+161,research,Canelones,Hydrochoerus hydrochaeris,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Hydrochoerus
+162,research,Maldonado,Odontophrynus americanus,Animalia,Chordata,Amphibia,Anura,Odontophrynidae,Odontophrynus
+163,research,Colonia,Spinus magellanicus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Spinus
+164,research,Colonia,Podiceps major,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps
+165,research,Colonia,Leptodactylus luctator,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus
+166,research,Colonia,Thamnophilus ruficapillus,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Thamnophilus
+167,research,Colonia,Calidris melanotos,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+168,research,Colonia,Megascops choliba,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops
+169,research,Colonia,Hydropsalis torquata,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Hydropsalis
+170,research,Colonia,Lepus europaeus,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus
+171,research,Colonia,Chrysomus ruficapillus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Chrysomus
+172,research,Colonia,Gallinago paraguaiae,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago
+173,research,Colonia,Rauenia bonariensis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rauenia
+174,research,Durazno,Ixobrychus involucris,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ixobrychus
+175,research,Maldonado,Amphisbaena kingii,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena
+176,research,Maldonado,Eubalaena australis,Animalia,Chordata,Mammalia,Artiodactyla,Balaenidae,Eubalaena
+177,research,Maldonado,Mirounga leonina,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Mirounga
+178,research,Colonia,Physalaemus gracilis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus
+179,research,Salto,Rhinella diptycha,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella
+180,research,Rocha,Acanthochelys spixii,Animalia,Chordata,Reptilia,Testudines,Chelidae,Acanthochelys
+181,research,Rocha,Tursiops truncatus,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Tursiops
+182,research,Colonia,Micrurus altirostris,Animalia,Chordata,Reptilia,Squamata,Elapidae,Micrurus
+183,research,Colonia,Philodryas aestiva,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas
+184,research,Rocha,Falco sparverius,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco
+185,research,Maldonado,Spatula versicolor,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula
+186,research,Rocha,Tachycineta leucorrhoa,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta
+187,research,Rocha,Troglodytes aedon,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes
+188,research,Rocha,Callonetta leucophrys,Animalia,Chordata,Aves,Anseriformes,Anatidae,Callonetta
+189,research,Rocha,Trachemys dorbigni,Animalia,Chordata,Reptilia,Testudines,Emydidae,Trachemys
+190,research,Colonia,Pseudis minuta,Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudis
+191,research,Montevideo,Myiodynastes maculatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiodynastes
+192,research,Colonia,Dendropsophus sanborni,Animalia,Chordata,Amphibia,Anura,Hylidae,Dendropsophus
+193,research,Florida,Mycteria americana,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Mycteria
+194,research,Canelones,Hydromedusa tectifera,Animalia,Chordata,Reptilia,Testudines,Chelidae,Hydromedusa
+195,research,Rocha,Thamnodynastes hypoconia,Animalia,Chordata,Reptilia,Squamata,Colubridae,Thamnodynastes
+196,research,Artigas,Piaya cayana,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Piaya
+197,research,Rocha,Emberizoides ypiranganus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Emberizoides
+198,research,Lavalleja,Pachyramphus viridis,Animalia,Chordata,Aves,Passeriformes,Tityridae,Pachyramphus
+199,research,Maldonado,Poospiza nigrorufa,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Poospiza
+200,research,Canelones,Bartramia longicauda,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Bartramia
+201,research,Canelones,Chordeiles nacunda,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles
+202,research,Canelones,Sicalis luteola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sicalis
+203,research,Rocha,Ophiodes striatus,Animalia,Chordata,Reptilia,Squamata,Diploglossidae,Ophiodes
+204,research,Montevideo,Phylloscartes ventralis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Phylloscartes
+205,research,Flores,Bubo virginianus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo
+206,research,Montevideo,Butorides striata,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Butorides
+207,research,Lavalleja,Picumnus nebulosus,Animalia,Chordata,Aves,Piciformes,Picidae,Picumnus
+208,research,Montevideo,Melanerpes candidus,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes
+209,research,Florida,Dryobates spilogaster,Animalia,Chordata,Aves,Piciformes,Picidae,Dryobates
+210,research,Montevideo,Geothlypis aequinoctialis,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis
+211,research,Montevideo,Limnoctites rectirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnoctites
+212,research,Río Negro,Oxyrhopus rhombifer,Animalia,Chordata,Reptilia,Squamata,Colubridae,Oxyrhopus
+213,research,Río Negro,Axis axis,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Axis
+214,research,Río Negro,Leopardus geoffroyi,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus
+215,research,Montevideo,Helicops infrataeniatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Helicops
+216,research,Río Negro,Pseudopaludicola falcipes,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Pseudopaludicola
+217,research,Río Negro,Scinax fuscovarius,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax
+218,research,Río Negro,Thamnodynastes strigatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Thamnodynastes
+219,research,Río Negro,Ophiodes intermedius,Animalia,Chordata,Reptilia,Squamata,Diploglossidae,Ophiodes
+220,research,Río Negro,Tomodon ocellatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Tomodon
+221,research,Río Negro,Dasypus septemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus
+222,research,Rocha,Geranoaetus melanoleucus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranoaetus
+223,research,Rocha,Phoenicopterus chilensis,Animalia,Chordata,Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus
+224,research,Rocha,Xanthopsar flavus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Xanthopsar
+225,research,Montevideo,Sus scrofa,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus
+226,research,Rocha,Phleocryptes melanops,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phleocryptes
+227,research,Rocha,Satrapa icterophrys,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Satrapa
+228,research,Rocha,Pardirallus sanguinolentus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Pardirallus
+229,research,Cerro Largo,Lochmias nematura,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lochmias
+230,research,Montevideo,Podilymbus podiceps,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podilymbus
+231,research,Cerro Largo,Bothrops pubescens,Animalia,Chordata,Reptilia,Squamata,Viperidae,Bothrops
+232,research,Cerro Largo,Coendou spinosus,Animalia,Chordata,Mammalia,Rodentia,Erethizontidae,Coendou
+233,research,Paysandú,Accipiter bicolor,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter
+234,research,Canelones,Saltator aurantiirostris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator
+235,research,Rocha,Stephanophorus diadematus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stephanophorus
+236,research,Maldonado,Leopardus wiedii,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus
+237,research,Maldonado,Sterna hirundinacea,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna
+238,research,Maldonado,Macronectes giganteus,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Macronectes
+239,research,Rocha,Calamodontophis paucidens,Animalia,Chordata,Reptilia,Squamata,Colubridae,Calamodontophis
+240,research,Maldonado,Elaenia sordida,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia
+241,research,Rocha,Scinax squalirostris,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax
+242,research,San José,Agelasticus thilius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelasticus
+243,research,Montevideo,Carduelis carduelis,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis
+244,research,Montevideo,Thraupis sayaca,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Thraupis
+245,research,Montevideo,Vireo chivi,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo
+246,research,San José,Charadrius modestus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius
+247,research,Florida,Anumbius annumbi,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Anumbius
+248,research,Florida,Piranga flava,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga
+249,research,Colonia,Sporophila caerulescens,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila
+250,research,Rocha,Columbina picui,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina
+251,research,Montevideo,Thalasseus sandvicensis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus
+252,research,Montevideo,Thalasseus maximus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus
+253,research,San José,Hirundo rustica,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo
+254,research,Montevideo,Elanus leucurus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanus
+255,research,Florida,Leptodactylus latinasus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus
+256,research,Canelones,Donacospiza albifrons,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Donacospiza
+257,research,San José,Myiophobus fasciatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiophobus
+258,research,Montevideo,Leptotila verreauxi,Animalia,Chordata,Aves,Columbiformes,Columbidae,Leptotila
+259,research,Montevideo,Cairina moschata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cairina
+260,research,Montevideo,Anas georgica,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
+261,research,Montevideo,Polioptila dumicola,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,Polioptila
+262,research,San José,Lessonia rufa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Lessonia
+263,research,Rocha,Caretta caretta,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Caretta
+264,research,San José,Phacellodomus striaticollis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus
+265,research,San José,Serpophaga subcristata,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Serpophaga
+266,research,Maldonado,Knipolegus cyanirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Knipolegus
+267,research,Montevideo,Mimus triurus,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus
+268,research,Rocha,Mazama gouazoubira,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Mazama
+269,research,Rocha,Rostrhamus sociabilis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rostrhamus
+270,research,Montevideo,Leptotila rufaxilla,Animalia,Chordata,Aves,Columbiformes,Columbidae,Leptotila
+271,research,Cerro Largo,Chironius gouveai,Animalia,Chordata,Reptilia,Squamata,Colubridae,Chironius
+272,research,Soriano,Asio flammeus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Asio
+273,research,Maldonado,Phyllomedusa iheringii,Animalia,Chordata,Amphibia,Anura,Phyllomedusidae,Phyllomedusa
+274,research,Colonia,Certhiaxis cinnamomeus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Certhiaxis
+275,research,Colonia,Cyclarhis gujanensis,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Cyclarhis
+276,research,Colonia,Limnoctites sulphuriferus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnoctites
+277,research,Colonia,Pseudocolopteryx flaviventris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pseudocolopteryx
+278,research,Colonia,Serpophaga nigricans,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Serpophaga
+279,research,Rocha,Eudyptes chrysolophus,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes
+280,research,Rocha,Calidris alba,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+281,research,Rivera,Limnomedusa macroglossa,Animalia,Chordata,Amphibia,Anura,Alsodidae,Limnomedusa
+282,research,Rivera,Tropidurus torquatus,Animalia,Chordata,Reptilia,Squamata,Tropiduridae,Tropidurus
+283,research,Rocha,Lontra longicaudis,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lontra
+284,research,Maldonado,Galictis cuja,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Galictis
+285,research,Montevideo,Camptostoma obsoletum,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Camptostoma
+286,research,Rocha,Circus cinereus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Circus
+287,research,Colonia,Dryobates mixtus,Animalia,Chordata,Aves,Piciformes,Picidae,Dryobates
+288,research,Salto,Ozotoceros bezoarticus,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Ozotoceros
+289,research,Rocha,Pontoporia blainvillei,Animalia,Chordata,Mammalia,Artiodactyla,Pontoporiidae,Pontoporia
+290,research,Rocha,Liolaemus occipitalis,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus
+291,research,Río Negro,Scinax nasicus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax
+292,research,Rocha,Sternula superciliaris,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sternula
+293,research,Montevideo,Tarentola mauritanica,Animalia,Chordata,Reptilia,Squamata,Phyllodactylidae,Tarentola
+294,research,Montevideo,Basileuterus culicivorus,Animalia,Chordata,Aves,Passeriformes,Parulidae,Basileuterus
+295,research,Cerro Largo,Cuniculus paca,Animalia,Chordata,Mammalia,Rodentia,Cuniculidae,Cuniculus
+296,research,,Tamandua tetradactyla,Animalia,Chordata,Mammalia,Pilosa,Myrmecophagidae,Tamandua
+297,research,Maldonado,Gubernetes yetapa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Gubernetes
+298,research,Florida,Knipolegus lophotes,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Knipolegus
+299,research,Flores,Buteo swainsoni,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo
+300,research,Paysandú,Empidonomus aurantioatrocristatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonomus
+301,research,Paysandú,Pseudoseisura lophotes,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Pseudoseisura
+302,research,Río Negro,Cranioleuca pyrrhophia,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Cranioleuca
+303,research,Paysandú,Sporophila cinnamomea,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila
+304,research,Maldonado,Cinclodes fuscus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Cinclodes
+305,research,Maldonado,Haematopus ater,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus
+306,research,Cerro Largo,Dendropsophus minutus,Animalia,Chordata,Amphibia,Anura,Hylidae,Dendropsophus
+307,research,Cerro Largo,Erythrolamprus jaegeri,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus
+308,research,Tacuarembó,Heliomaster furcifer,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Heliomaster
+309,research,Treinta y Tres,Gnorimopsar chopi,Animalia,Chordata,Aves,Passeriformes,Icteridae,Gnorimopsar
+310,research,Rocha,Sterna hirundo,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna
+311,research,Cerro Largo,Lithobates catesbeianus,Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates
+312,research,Salto,Sturnira lilium,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Sturnira
+313,research,Salto,Tantilla melanocephala,Animalia,Chordata,Reptilia,Squamata,Colubridae,Tantilla
+314,research,Montevideo,Hemidactylus mabouia,Animalia,Chordata,Reptilia,Squamata,Gekkonidae,Hemidactylus
+315,research,Paysandú,Polystictus pectoralis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Polystictus
+316,research,Salto,Leistes defilippii,Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes
+317,research,Rocha,Sporophila palustris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila
+318,research,Maldonado,Ophiodes vertebralis,Animalia,Chordata,Reptilia,Squamata,Diploglossidae,Ophiodes
+319,research,Maldonado,Tachybaptus dominicus,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Tachybaptus
+320,research,Florida,Falco peregrinus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco
+321,research,Paysandú,Sporophila ruficollis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila
+322,research,Treinta y Tres,Amblyramphus holosericeus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Amblyramphus
+323,research,Rocha,Puffinus puffinus,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus
+324,research,Tacuarembó,Homonota uruguayensis,Animalia,Chordata,Reptilia,Squamata,Phyllodactylidae,Homonota
+325,research,Maldonado,Anthus hellmayri,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus
+326,research,Rocha,Calidris canutus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+327,research,Florida,Setopagis parvula,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Setopagis
+328,research,Paysandú,Erythrolamprus semiaureus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus
+329,research,San José,Pandion haliaetus,Animalia,Chordata,Aves,Accipitriformes,Pandionidae,Pandion
+330,research,Soriano,Lasiurus blossevillii,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Lasiurus
+331,research,Soriano,Lasiurus ega,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Lasiurus
+332,research,Rivera,Nasua nasua,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Nasua
+333,research,Florida,Oreopholus ruficollis,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Oreopholus
+334,research,Artigas,Cistothorus platensis,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Cistothorus
+335,research,Maldonado,Paraphimophis rusticus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Paraphimophis
+336,research,Rocha,Spatula platalea,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula
+337,research,Paysandú,Myiothlypis leucoblephara,Animalia,Chordata,Aves,Passeriformes,Parulidae,Myiothlypis
+338,research,Paysandú,Syndactyla rufosuperciliata,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Syndactyla
+339,research,Paysandú,Microspingus cabanisi,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Microspingus
+340,research,Paysandú,Cyanoloxia glaucocaerulea,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cyanoloxia
+341,research,Paysandú,Euscarthmus meloryphus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Euscarthmus
+342,research,Rocha,Milvago chimachima,Animalia,Chordata,Aves,Falconiformes,Falconidae,Milvago
+343,research,Paysandú,Geranospiza caerulescens,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranospiza
+344,research,Paysandú,Dipsas turgida,Animalia,Chordata,Reptilia,Squamata,Colubridae,Dipsas
+345,research,Maldonado,Turdus albicollis,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
+346,research,Rocha,Coccycua cinerea,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccycua
+347,research,Montevideo,Melopsittacus undulatus,Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Melopsittacus
+348,research,Maldonado,Mus musculus,Animalia,Chordata,Mammalia,Rodentia,Muridae,Mus
+349,research,Cerro Largo,Mackenziaena leachii,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Mackenziaena
+350,research,Cerro Largo,Saltator similis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator
+351,research,Salto,Euphractus sexcinctus,Animalia,Chordata,Mammalia,Cingulata,Chlamyphoridae,Euphractus
+352,research,Maldonado,Anthus correndera,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus
+353,research,Maldonado,Thalassarche chlororhynchos,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Thalassarche
+354,research,Florida,Tachuris rubrigastra,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tachuris
+355,research,Maldonado,Pseudoleistes guirahuro,Animalia,Chordata,Aves,Passeriformes,Icteridae,Pseudoleistes
+356,research,Tacuarembó,Cercosaura schreibersii,Animalia,Chordata,Reptilia,Squamata,Gymnophthalmidae,Cercosaura
+357,research,Paysandú,Picumnus cirratus,Animalia,Chordata,Aves,Piciformes,Picidae,Picumnus
+358,research,Lavalleja,Synallaxis spixi,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis
+359,research,Maldonado,Elaenia albiceps,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia
+360,research,Artigas,Alopochelidon fucata,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Alopochelidon
+361,research,Flores,Leptasthenura platensis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Leptasthenura
+362,research,Flores,Histiotus montanus,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Histiotus
+363,research,Florida,Schoeniophylax phryganophilus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Schoeniophylax
+364,research,Cerro Largo,Glaucidium brasilianum,Animalia,Chordata,Aves,Strigiformes,Strigidae,Glaucidium
+365,research,Cerro Largo,Pyrrhura frontalis,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Pyrrhura
+366,research,Cerro Largo,Empidonomus varius,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonomus
+367,research,Rocha,Diomedea epomophora,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Diomedea
+368,research,Rocha,Physeter macrocephalus,Animalia,Chordata,Mammalia,Artiodactyla,Physeteridae,Physeter
+369,research,Rocha,Psomophis obtusus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Psomophis
+370,research,Cerro Largo,Sittasomus griseicapillus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Sittasomus
+371,research,Cerro Largo,Stelgidopteryx ruficollis,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Stelgidopteryx
+372,research,Cerro Largo,Cacicus chrysopterus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus
+373,research,Cerro Largo,Synallaxis frontalis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis
+374,research,Maldonado,Fregata magnificens,Animalia,Chordata,Aves,Suliformes,Fregatidae,Fregata
+375,research,Rocha,Muscisaxicola albilora,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Muscisaxicola
+376,research,Flores,Molossus molossus,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Molossus
+377,research,Colonia,Molothrus rufoaxillaris,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus
+378,research,Rocha,Delphinus delphis,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Delphinus
+379,research,Río Negro,Phacellodomus sibilatrix,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus
+380,research,Río Negro,Elachistocleis bicolor,Animalia,Chordata,Amphibia,Anura,Microhylidae,Elachistocleis
+381,research,Maldonado,Chthonerpeton indistinctum,Animalia,Chordata,Amphibia,Gymnophiona,Typhlonectidae,Chthonerpeton
+382,research,Maldonado,Pleurodema bibroni,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Pleurodema
+383,research,Paysandú,Epictia munoai,Animalia,Chordata,Reptilia,Squamata,Leptotyphlopidae,Epictia
+384,research,Cerro Largo,Erythrolamprus almadensis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus
+385,research,Maldonado,Taeniophallus poecilopogon,Animalia,Chordata,Reptilia,Squamata,Colubridae,Taeniophallus
+386,research,Río Negro,Leopardus munoai,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus
+387,research,Artigas,Psittacara leucophthalmus,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Psittacara
+388,research,Rocha,Coccyzus melacoryphus,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus
+389,research,Paysandú,Petrochelidon pyrrhonota,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon
+390,research,Montevideo,Pipraeidea melanonota,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Pipraeidea
+391,research,Maldonado,Dermochelys coriacea,Animalia,Chordata,Reptilia,Testudines,Dermochelyidae,Dermochelys
+392,research,Maldonado,Oxymycterus nasutus,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus
+393,research,Cerro Largo,Philodryas olfersii,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas
+394,research,Maldonado,Fulica rufifrons,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica
+395,research,Maldonado,Fulica leucoptera,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica
+396,research,Treinta y Tres,Ramphastos toco,Animalia,Chordata,Aves,Piciformes,Ramphastidae,Ramphastos
+397,research,Montevideo,Chloris chloris,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chloris
+398,research,Maldonado,Muscisaxicola maclovianus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Muscisaxicola
+399,research,Paysandú,Sporophila hypoxantha,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila
+400,research,Rocha,Thalassarche melanophris,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Thalassarche
+401,research,,Tyto alba,Animalia,Chordata,Aves,Strigiformes,Tytonidae,Tyto
+402,research,Rocha,Nomonyx dominicus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Nomonyx
+403,research,San José,Stercorarius parasiticus,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius
+404,research,Rocha,Spatula cyanoptera,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula
+405,research,Maldonado,Mareca sibilatrix,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mareca
+406,research,Canelones,Holochilus brasiliensis,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Holochilus
+407,research,Maldonado,Tapera naevia,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Tapera
+408,research,Rocha,Rhynchotus rufescens,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Rhynchotus
+409,research,Rocha,Elanoides forficatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanoides
+410,research,Maldonado,Felis catus,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis
+411,research,Florida,Sporophila hypochroma,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila
+412,research,Salto,Porphyrio martinica,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyrio
+413,research,Rocha,Procellaria aequinoctialis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Procellaria
+414,research,Maldonado,Calidris himantopus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+415,research,Maldonado,Scinax uruguayus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax
+416,research,Maldonado,Pluvialis squatarola,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis
+417,research,Treinta y Tres,Phrynops williamsi,Animalia,Chordata,Reptilia,Testudines,Chelidae,Phrynops
+418,research,Maldonado,Ardenna gravis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Ardenna
+419,research,Maldonado,Anas bahamensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas
+420,research,Maldonado,Egretta caerulea,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta
+421,research,Río Negro,Netta peposaca,Animalia,Chordata,Aves,Anseriformes,Anatidae,Netta
+422,research,Cerro Largo,Dendrocolaptes platyrostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Dendrocolaptes
+423,research,Cerro Largo,Lepidocolaptes falcinellus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lepidocolaptes
+424,research,Cerro Largo,Tolmomyias sulphurescens,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tolmomyias
+425,research,Cerro Largo,Equus asinus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus
+426,research,Rocha,Boiruna maculata,Animalia,Chordata,Reptilia,Squamata,Colubridae,Boiruna
+427,research,Montevideo,Laterallus melanophaius,Animalia,Chordata,Aves,Gruiformes,Rallidae,Laterallus
+428,research,Montevideo,Macronectes halli,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Macronectes
+429,research,Montevideo,Akodon azarae,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Akodon
+430,research,Rocha,Oxymycterus josei,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus
+431,research,Rivera,Florisuga fusca,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Florisuga
+432,research,Florida,Anthus furcatus,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus
+433,research,Lavalleja,Equus caballus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus
+434,research,Tacuarembó,Systellura longirostris,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Systellura
+435,research,Tacuarembó,Asthenes baeri,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes
+436,research,Tacuarembó,Coryphospingus cucullatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Coryphospingus
+437,research,Tacuarembó,Microspingus melanoleucus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Microspingus
+438,research,Tacuarembó,Cyanoloxia brissonii,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cyanoloxia
+439,research,Maldonado,Ardenna grisea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Ardenna
+440,research,Canelones,Canis familiaris,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis
+441,research,Rocha,Lutreolina crassicaudata,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Lutreolina
+442,research,Florida,Neoxolmis rufiventris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Neoxolmis
+443,research,Rocha,Oxyura vittata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Oxyura
+444,research,Montevideo,Thinocorus rumicivorus,Animalia,Chordata,Aves,Charadriiformes,Thinocoridae,Thinocorus
+445,research,Maldonado,Phalaropus tricolor,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Phalaropus
+446,research,Maldonado,Phytotoma rutila,Animalia,Chordata,Aves,Passeriformes,Cotingidae,Phytotoma
+447,research,Salto,Caiman latirostris,Animalia,Chordata,Reptilia,Crocodylia,Alligatoridae,Caiman
+448,research,Treinta y Tres,Capra hircus,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra
+449,research,Canelones,Tyrannus tyrannus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus
+450,research,Maldonado,Botaurus pinnatus,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Botaurus
+451,research,Salto,Ictinia mississippiensis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Ictinia
+452,research,Rocha,Podiceps occipitalis,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps
+453,research,Cerro Largo,Reithrodon typicus,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Reithrodon
+454,research,Colonia,Nycticryphes semicollaris,Animalia,Chordata,Aves,Charadriiformes,Rostratulidae,Nycticryphes
+455,research,Salto,Elaenia spectabilis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia
+456,research,Salto,Hemitriccus margaritaceiventer,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hemitriccus
+457,research,Salto,Tringa solitaria,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa
+458,research,San José,Volatinia jacarina,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Volatinia
+459,research,Treinta y Tres,Desmodus rotundus,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Desmodus
+460,research,Maldonado,Geotrygon montana,Animalia,Chordata,Aves,Columbiformes,Columbidae,Geotrygon
+461,research,Treinta y Tres,Columbina talpacoti,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina
+462,research,Rocha,Agapornis personatus,Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Agapornis
+463,research,Rocha,Pecari tajacu,Animalia,Chordata,Mammalia,Artiodactyla,Tayassuidae,Pecari
+464,research,Cerro Largo,Poecilotriccus plumbeiceps,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Poecilotriccus
+465,research,Cerro Largo,Taeniophallus occipitalis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Taeniophallus
+466,research,Salto,Paroaria capitata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Paroaria
+467,research,,Alouatta caraya,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta
+468,research,Cerro Largo,Patagioenas cayennensis,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas
+469,research,Rocha,Pseudorca crassidens,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Pseudorca
+470,research,Río Negro,Calomys laucha,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Calomys
+471,research,Salto,Anhinga anhinga,Animalia,Chordata,Aves,Suliformes,Anhingidae,Anhinga
+472,research,Salto,Phaetusa simplex,Animalia,Chordata,Aves,Charadriiformes,Laridae,Phaetusa
+473,research,Artigas,Cacicus haemorrhous,Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus
+474,research,Salto,Coryphistera alaudina,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Coryphistera
+475,research,Canelones,Progne elegans,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne
+476,research,Canelones,Calidris bairdii,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+477,research,Artigas,Saltator coerulescens,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator
+478,research,Artigas,Phacellodomus ruber,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus
+479,research,Paysandú,Neoxolmis coronatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Neoxolmis
+480,research,Maldonado,Anhima cornuta,Animalia,Chordata,Aves,Anseriformes,Anhimidae,Anhima
+481,research,Artigas,Chlorophonia cyanocephala,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chlorophonia
+482,research,Maldonado,Fluvicola albiventer,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola
+483,research,Rocha,Limnornis curvirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnornis
+484,research,Maldonado,Actitis macularius,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Actitis
+485,research,Montevideo,Hemithraupis ruficapilla,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis
+486,research,Artigas,Euphonia chlorotica,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Euphonia
+487,research,Artigas,Buteogallus urubitinga,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteogallus
+488,research,Lavalleja,Gubernatrix cristata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Gubernatrix
+489,research,Montevideo,Chionis albus,Animalia,Chordata,Aves,Charadriiformes,Chionidae,Chionis
+490,research,Salto,Megascops sanctaecatarinae,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops
+491,research,Salto,Nyctibius griseus,Animalia,Chordata,Aves,Caprimulgiformes,Nyctibiidae,Nyctibius
+492,research,San José,Laterallus leucopyrrhus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Laterallus
+493,research,Rocha,Tachycineta leucopyga,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta
+494,research,Montevideo,Brotogeris chiriri,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Brotogeris
+495,research,Artigas,Cacicus solitarius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus
+496,research,Montevideo,Numenius phaeopus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius
+497,research,Maldonado,Spartonoica maluroides,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Spartonoica
+498,research,Salto,Agelasticus cyanopus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelasticus
+499,research,Salto,Campephilus leucopogon,Animalia,Chordata,Aves,Piciformes,Picidae,Campephilus
+500,research,Salto,Dendrocygna autumnalis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna
+501,research,Canelones,Eupetomena macroura,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Eupetomena
+502,research,Canelones,Heteronetta atricapilla,Animalia,Chordata,Aves,Anseriformes,Anatidae,Heteronetta
+503,research,Cerro Largo,Lathrotriccus euleri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Lathrotriccus
+504,research,Salto,Melanerpes cactorum,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes
+505,research,Cerro Largo,Pachyramphus validus,Animalia,Chordata,Aves,Passeriformes,Tityridae,Pachyramphus
+506,research,Salto,Amazona aestiva,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Amazona
+507,research,Artigas,Busarellus nigricollis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Busarellus
+508,research,Artigas,Chordeiles minor,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles
+509,research,Maldonado,Calidris minutilla,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris
+510,research,Maldonado,Coereba flaveola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Coereba
+511,research,Artigas,Myiarchus tyrannulus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus
+512,research,Canelones,Pachyptila belcheri,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Pachyptila
+513,research,Rocha,Pseudocolopteryx sclateri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pseudocolopteryx
+514,research,Artigas,Sublegatus modestus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sublegatus
+515,research,Salto,Leptodactylus macrosternum,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus
+516,research,Rocha,Physalaemus henselii,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus
+517,research,Canelones,Arctocephalus gazella,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus
+518,research,Canelones,Megaptera novaeangliae,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Megaptera
+519,research,Cerro Largo,Leptopogon amaurocephalus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Leptopogon
+520,research,Cerro Largo,Turdus subalaris,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
+521,research,Artigas,Crotophaga major,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Crotophaga
+522,research,Rocha,Riparia riparia,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Riparia
+523,research,Tacuarembó,Turdus leucomelas,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
+524,research,San José,Aspronema dorsivittatum,Animalia,Chordata,Reptilia,Squamata,Scincidae,Aspronema
+525,research,Lavalleja,Dama dama,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Dama
+526,research,Montevideo,Serpophaga griseicapilla,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Serpophaga
+527,research,Cerro Largo,Trogon surrucura,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,Trogon
+528,research,Cerro Largo,Conopophaga lineata,Animalia,Chordata,Aves,Passeriformes,Conopophagidae,Conopophaga
+529,research,Cerro Largo,Heliobletus contaminatus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Heliobletus
+530,research,Cerro Largo,Phacellodomus ferrugineigula,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus
+531,research,Cerro Largo,Crypturellus obsoletus,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Crypturellus
+532,research,Cerro Largo,Wilfredomys oenax,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Wilfredomys
+533,research,Rivera,Melanophryniscus atroluteus,Animalia,Chordata,Amphibia,Anura,Bufonidae,Melanophryniscus
+534,research,San José,Oligoryzomys flavescens,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oligoryzomys
+535,research,Cerro Largo,Cyanocorax caeruleus,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocorax
+536,research,Cerro Largo,Ctenomys torquatus,Animalia,Chordata,Mammalia,Rodentia,Ctenomyidae,Ctenomys
+537,research,Cerro Largo,Tachyphonus coronatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Tachyphonus
+538,research,Cerro Largo,Piculus aurulentus,Animalia,Chordata,Aves,Piciformes,Picidae,Piculus
+539,research,Cerro Largo,Crotophaga ani,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Crotophaga
+540,research,Maldonado,Rattus rattus,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus
+541,research,Lavalleja,Rhinella achavali,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella
+542,research,Artigas,Megarynchus pitangua,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Megarynchus
+543,research,Artigas,Myiarchus ferox,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus
+544,research,Artigas,Casiornis rufus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Casiornis
+545,research,Cerro Largo,Pardirallus maculatus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Pardirallus
+546,research,Río Negro,Philodryas agassizii,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas
+547,research,Artigas,Lygophis flavifrenatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Lygophis
+548,research,Canelones,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus
+549,research,Montevideo,Leucocarbo atriceps,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Leucocarbo
+550,research,Colonia,Anairetes flavirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Anairetes
+551,research,Rocha,Pluvianellus socialis,Animalia,Chordata,Aves,Charadriiformes,Pluvianellidae,Pluvianellus
+552,research,Artigas,Suiriri suiriri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Suiriri
+553,research,Florida,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus
+554,research,Rocha,Balaenoptera acutorostrata,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Balaenoptera
+555,research,Maldonado,Corvus splendens,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus
+556,research,Rocha,Calonectris diomedea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris
+557,research,Rocha,Oceanites oceanicus,Animalia,Chordata,Aves,Procellariiformes,Oceanitidae,Oceanites
+558,research,Tacuarembó,Sporophila pileata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila
+559,research,Tacuarembó,Culicivora caudacuta,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Culicivora
+560,research,Tacuarembó,Elaenia mesoleuca,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia
+561,research,Tacuarembó,Elaenia flavogaster,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia
+562,research,Tacuarembó,Emberizoides herbicola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Emberizoides
+563,research,Colonia,Asthenes pyrrholeuca,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes
+564,research,Artigas,Cnemotriccus fuscatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Cnemotriccus
+565,research,Artigas,Xenopsaris albinucha,Animalia,Chordata,Aves,Passeriformes,Tityridae,Xenopsaris
+566,research,Artigas,Myiopagis viridicata,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiopagis
+567,research,Montevideo,Aratinga nenday,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Aratinga
+568,research,Maldonado,Nemosia pileata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Nemosia
+569,research,Salto,Anthus nattereri,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus
+570,research,San José,Gelochelidon nilotica,Animalia,Chordata,Aves,Charadriiformes,Laridae,Gelochelidon
+571,research,Maldonado,Porzana spiloptera,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porzana
+572,research,Maldonado,Stercorarius antarcticus,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius
+573,research,Maldonado,Stercorarius chilensis,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius
+574,research,Montevideo,Phyllomyias burmeisteri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Phyllomyias
+575,research,Montevideo,Sterna paradisaea,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna
+576,research,Rocha,Halobaena caerulea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Halobaena
+577,research,Rocha,Stercorarius maccormicki,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius
+578,research,Maldonado,Melanophryniscus pachyrhynus,Animalia,Chordata,Amphibia,Anura,Bufonidae,Melanophryniscus
+579,research,Artigas,Mustelirallus albicollis,Animalia,Chordata,Aves,Gruiformes,Rallidae,Mustelirallus
+580,research,Artigas,Synallaxis albescens,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis
+581,research,Artigas,Jabiru mycteria,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Jabiru
+582,research,San José,Sporophila leucoptera,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila
+583,research,San José,Rhopospina fruticeti,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rhopospina
+584,research,Canelones,Leucophaeus pipixcan,Animalia,Chordata,Aves,Charadriiformes,Laridae,Leucophaeus
+585,research,Rocha,Dolichonyx oryzivorus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Dolichonyx
+586,research,Montevideo,Asio clamator,Animalia,Chordata,Aves,Strigiformes,Strigidae,Asio
+587,research,Canelones,Chaetura meridionalis,Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,Chaetura
+588,research,Tacuarembó,Cabassous tatouay,Animalia,Chordata,Mammalia,Cingulata,Chlamyphoridae,Cabassous
+589,research,Artigas,Physalaemus riograndensis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus
+590,research,Rocha,Lagenodelphis hosei,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Lagenodelphis
+591,research,Rocha,Gallinago magellanica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago
+592,research,Artigas,Nyctidromus albicollis,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Nyctidromus
+593,research,Artigas,Agriornis murinus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Agriornis
+594,research,Artigas,Microspingus torquatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Microspingus
+595,research,Artigas,Fluvicola nengeta,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola
+596,research,Maldonado,Anthracothorax nigricollis,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Anthracothorax
+597,research,Canelones,Myotis albescens,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis
+598,research,Rocha,Eptesicus furinalis,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus
+599,research,Rivera,Pyroderus scutatus,Animalia,Chordata,Aves,Passeriformes,Cotingidae,Pyroderus
+600,research,Canelones,Arctocephalus tropicalis,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus
+601,research,Maldonado,Turdus flavipes,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus
+602,research,Canelones,Hemithraupis guira,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis
+603,research,Tacuarembó,Eumops bonariensis,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Eumops
+604,research,Maldonado,Stilpnia peruviana,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia
+605,research,Rocha,Sula dactylatra,Animalia,Chordata,Aves,Suliformes,Sulidae,Sula
+606,research,,Aramides saracura,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides

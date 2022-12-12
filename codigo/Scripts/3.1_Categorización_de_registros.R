@@ -68,7 +68,7 @@ grafico_especies <- listado_especies %>%
   ggplot(.,aes(x=n, y=taxon_class_name, 
                 fill=taxon_class_name)) +
   geom_bar(stat = "identity", show.legend = FALSE) +
-  labs(x='Number of Observations', y= '', fill = '') + theme_bw() +
+  labs(x='Number of species', y= '', fill = '') + theme_bw() +
   scale_x_continuous() 
 
 plot(grafico_especies)
@@ -81,7 +81,7 @@ Tetrapodos <- listado_especies %>%
   filter(taxon_class_name == "Aves" | taxon_class_name == "Amphibia" | 
            taxon_class_name == "Mammalia" | taxon_class_name == "Reptilia")
 
-saveRDS(Tetrapodos,"datos/Lista_Tetrapodos")
+write.csv(Tetrapodos,"datos/Lista_Tetrapodos.csv")
 
 
 ##Para Plantas
@@ -96,7 +96,7 @@ Magno <- listado_especies %>%
   scale_x_continuous()
 
 Plantas <- listado_especies %>% 
-  filter(taxon_family_name == "Fabaceae" | taxon_family_name == "Myrtaceae" | 
-           taxon_family_name == "Asteraceae")
+  filter(taxon_family_name == "Fabaceae" | taxon_family_name == "Cactaceas" | 
+           taxon_family_name == "Asteraceae"|taxon_family_name == "Solanaceas")
 
-saveRDS(Plantas,"datos/Lista_Plantas")
+write.csv(Plantas,"datos/Lista_Plantas.csv")
