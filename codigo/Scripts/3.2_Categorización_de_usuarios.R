@@ -28,10 +28,9 @@ usuarios_login <- NatUY %>% st_drop_geometry() %>%
 
 
 usuarios_dataset <- NatUY %>% st_drop_geometry() %>% 
-  select(user_id, observed_on, created_at) %>% 
-  filter(year(observed_on)>=2000) %>% 
-  group_by(user_id) %>% 
-  summarise(primer_registro = min(created_at), ultimo_registro = max(created_at), 
+  select(user_id, observed_on, created_at) %>% group_by(user_id) %>% 
+  summarise(primer_registro = min(created_at), 
+            ultimo_registro = max(created_at), 
             registros = n(), tiempo_activo = 
               difftime(ultimo_registro,primer_registro, 
                        units = "days")+1, 

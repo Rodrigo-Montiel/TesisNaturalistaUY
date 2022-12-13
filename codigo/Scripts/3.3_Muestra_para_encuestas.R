@@ -14,7 +14,7 @@ usuarios_dataset <- readRDS("datos/usuarios_dataset.rds")
 
 ##Categoria: Principiantes
 Principiantes <- usuarios_dataset %>% filter(categoria_usuario=="principiante" & 
-                              ultimo_registro<(today()-182)) %>% 
+                              ultimo_registro>(today()-182)) %>% 
   pull(user_login) %>% sample(., size=100)
 
 saveRDS(Principiantes, "datos/usuarios_principiantes")
