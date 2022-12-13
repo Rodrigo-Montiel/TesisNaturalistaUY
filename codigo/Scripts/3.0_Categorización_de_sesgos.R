@@ -20,7 +20,7 @@ Grilla_UY <- st_make_grid(st_bbox(UY),
   st_intersection(UY) %>% st_sf(gridID=1:length(.), geometry= .)
 
 
-## Convertir NatUY a sf
+## Convertir NatUY a sf (En caso de que sea necesario)
 NatUY_sf <- NatUY %>% 
   st_as_sf(coords = c("longitude", "latitude")) %>% 
   st_set_crs(4326) %>% 
