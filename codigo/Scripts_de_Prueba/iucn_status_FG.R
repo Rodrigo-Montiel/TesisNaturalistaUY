@@ -85,9 +85,8 @@ tetrapods_conservation_status <- read_csv('datos/tetrapods_conservation_status.c
 # Run
 # NaturalistaUY species List PLANTAS
 
-especies_plantas_NatUY <- readRDS('datos/Lista_Plantas')
+especies_plantas_NatUY <- read_csv('datos/Lista_Plantas_Actualizada.csv')
 plantas_IUCN_data <- get_IUCN_data(especies_plantas_NatUY$taxon_species_name)
-
 
 nrow(plantas_IUCN_data)
 plantas_IUCN_data %>% 
