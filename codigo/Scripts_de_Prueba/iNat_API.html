@@ -163,8 +163,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>We get as output, the following data in JSON format:</p>
 <div class="cell">
 <div class="cell-output-display">
-<div id="htmlwidget-218ae60e83d9ae5b681f" style="width:672px;height:700px;" class="jsonedit html-widget"></div>
-<script type="application/json" data-for="htmlwidget-218ae60e83d9ae5b681f">{"x":{"data":"\n{\n  \"total_results\": 1,\n  \"page\": 1,\n  \"per_page\": 500,\n  \"results\": [\n    {\n      \"user_id\": 736016,\n      \"observation_count\": 3649,\n      \"species_count\": 1246,\n      \"user\": {\n        \"id\": 736016,\n        \"login\": \"flo_grattarola\",\n        \"spam\": false,\n        \"suspended\": false,\n        \"created_at\": \"2017-12-15T15:54:34+00:00\",\n        \"login_autocomplete\": \"flo_grattarola\",\n        \"login_exact\": \"flo_grattarola\",\n        \"name\": \"Florencia Grattarola\",\n        \"name_autocomplete\": \"Florencia Grattarola\",\n        \"orcid\": \"https://orcid.org/0000-0001-8282-5732\",\n        \"icon\": \"https://static.inaturalist.org/attachments/users/icons/736016/thumb.jpeg?1513353273\",\n        \"observations_count\": 3649,\n        \"identifications_count\": 5779,\n        \"journal_posts_count\": 1,\n        \"activity_count\": 9429,\n        \"species_count\": 1419,\n        \"universal_search_rank\": 3649,\n        \"roles\": [\n          \"curator\"\n        ],\n        \"site_id\": 28,\n        \"icon_url\": \"https://static.inaturalist.org/attachments/users/icons/736016/medium.jpeg?1513353273\"\n      }\n    }\n  ]\n}","options":{"mode":"code","modes":["code","form","text","tree","view"]}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-22949347e137eafb1326" style="width:672px;height:700px;" class="jsonedit html-widget"></div>
+<script type="application/json" data-for="htmlwidget-22949347e137eafb1326">{"x":{"data":"\n{\n  \"total_results\": 1,\n  \"page\": 1,\n  \"per_page\": 500,\n  \"results\": [\n    {\n      \"user_id\": 736016,\n      \"observation_count\": 3649,\n      \"species_count\": 1246,\n      \"user\": {\n        \"id\": 736016,\n        \"login\": \"flo_grattarola\",\n        \"spam\": false,\n        \"suspended\": false,\n        \"created_at\": \"2017-12-15T15:54:34+00:00\",\n        \"login_autocomplete\": \"flo_grattarola\",\n        \"login_exact\": \"flo_grattarola\",\n        \"name\": \"Florencia Grattarola\",\n        \"name_autocomplete\": \"Florencia Grattarola\",\n        \"orcid\": \"https://orcid.org/0000-0001-8282-5732\",\n        \"icon\": \"https://static.inaturalist.org/attachments/users/icons/736016/thumb.jpeg?1513353273\",\n        \"observations_count\": 3649,\n        \"identifications_count\": 5779,\n        \"journal_posts_count\": 1,\n        \"activity_count\": 9429,\n        \"species_count\": 1419,\n        \"universal_search_rank\": 3649,\n        \"roles\": [\n          \"curator\"\n        ],\n        \"site_id\": 28,\n        \"icon_url\": \"https://static.inaturalist.org/attachments/users/icons/736016/medium.jpeg?1513353273\"\n      }\n    }\n  ]\n}","options":{"mode":"code","modes":["code","form","text","tree","view"]}},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 <p><br> Great! This query gives us all the data we need, especially the <code>observation_count</code> value for each user.</p>
@@ -175,7 +175,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 </div>
 <p>First, we need to download the data from <a href="naturalista.uy">naturalista.uy</a> (ours was downloaded on 2022-10-27). Then, we calculate the number of observations made by each user in Uruguay (<code>observation_count_UY</code>), and keep the <code>user_id</code> and <code>user_login</code> variables. You can do this by using functions <code>group_by()</code> and <code>count()</code>. You could also do this using the API, but in our case, we already had the data.</p>
-<p>We found a total of <strong>1788</strong> users in NaturalistaUY. The user with largest number of records has <strong>4755</strong> observations and on average users have uploaded <strong>29.9</strong> records to iNat.</p>
+<p>We found a total of <strong>1972</strong> users in NaturalistaUY. The user with largest number of records has <strong>5008</strong> observations and on average users have uploaded <strong>30.3</strong> records to iNat.</p>
 <p>Here’s a glance of the data:</p>
 <div class="cell">
 <div class="cell-output-display">
@@ -201,12 +201,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <tr class="odd">
 <td style="text-align: right;">1368063</td>
 <td style="text-align: left;">goncrisdi</td>
-<td style="text-align: right;">125</td>
+<td style="text-align: right;">135</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;">1469479</td>
 <td style="text-align: left;">jorgejuanrueda</td>
-<td style="text-align: right;">132</td>
+<td style="text-align: right;">230</td>
 </tr>
 <tr class="odd">
 <td style="text-align: right;">1569449</td>
@@ -216,12 +216,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <tr class="even">
 <td style="text-align: right;">2348924</td>
 <td style="text-align: left;">ceciliapomboposente</td>
-<td style="text-align: right;">105</td>
+<td style="text-align: right;">121</td>
 </tr>
 <tr class="odd">
 <td style="text-align: right;">2640130</td>
 <td style="text-align: left;">patriciabidondo</td>
-<td style="text-align: right;">152</td>
+<td style="text-align: right;">205</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;">2988066</td>
@@ -231,12 +231,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <tr class="odd">
 <td style="text-align: right;">3262606</td>
 <td style="text-align: left;">bert_in_the_skirt</td>
-<td style="text-align: right;">201</td>
+<td style="text-align: right;">203</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;">4109374</td>
 <td style="text-align: left;">vanesssa_v</td>
-<td style="text-align: right;">147</td>
+<td style="text-align: right;">149</td>
 </tr>
 </tbody>
 </table>
@@ -353,12 +353,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <tr class="odd">
 <td style="text-align: right;">1368063</td>
 <td style="text-align: left;">goncrisdi</td>
-<td style="text-align: right;">23141</td>
+<td style="text-align: right;">23147</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;">1469479</td>
 <td style="text-align: left;">jorgejuanrueda</td>
-<td style="text-align: right;">7001</td>
+<td style="text-align: right;">7023</td>
 </tr>
 <tr class="odd">
 <td style="text-align: right;">1569449</td>
@@ -373,7 +373,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <tr class="odd">
 <td style="text-align: right;">2640130</td>
 <td style="text-align: left;">patriciabidondo</td>
-<td style="text-align: right;">387</td>
+<td style="text-align: right;">388</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;">2988066</td>
@@ -442,17 +442,17 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <tr class="odd">
 <td style="text-align: right;">1368063</td>
 <td style="text-align: left;">goncrisdi</td>
-<td style="text-align: right;">125</td>
-<td style="text-align: right;">23141</td>
-<td style="text-align: right;">0.540</td>
+<td style="text-align: right;">135</td>
+<td style="text-align: right;">23147</td>
+<td style="text-align: right;">0.583</td>
 <td style="text-align: left;">no</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;">1469479</td>
 <td style="text-align: left;">jorgejuanrueda</td>
-<td style="text-align: right;">132</td>
-<td style="text-align: right;">7001</td>
-<td style="text-align: right;">1.885</td>
+<td style="text-align: right;">230</td>
+<td style="text-align: right;">7023</td>
+<td style="text-align: right;">3.275</td>
 <td style="text-align: left;">no</td>
 </tr>
 <tr class="odd">
@@ -466,17 +466,17 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <tr class="even">
 <td style="text-align: right;">2348924</td>
 <td style="text-align: left;">ceciliapomboposente</td>
-<td style="text-align: right;">105</td>
+<td style="text-align: right;">121</td>
 <td style="text-align: right;">158</td>
-<td style="text-align: right;">66.456</td>
+<td style="text-align: right;">76.582</td>
 <td style="text-align: left;">si</td>
 </tr>
 <tr class="odd">
 <td style="text-align: right;">2640130</td>
 <td style="text-align: left;">patriciabidondo</td>
-<td style="text-align: right;">152</td>
-<td style="text-align: right;">387</td>
-<td style="text-align: right;">39.276</td>
+<td style="text-align: right;">205</td>
+<td style="text-align: right;">388</td>
+<td style="text-align: right;">52.835</td>
 <td style="text-align: left;">si</td>
 </tr>
 <tr class="even">
@@ -490,17 +490,17 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <tr class="odd">
 <td style="text-align: right;">3262606</td>
 <td style="text-align: left;">bert_in_the_skirt</td>
-<td style="text-align: right;">201</td>
+<td style="text-align: right;">203</td>
 <td style="text-align: right;">204</td>
-<td style="text-align: right;">98.529</td>
+<td style="text-align: right;">99.510</td>
 <td style="text-align: left;">si</td>
 </tr>
 <tr class="even">
 <td style="text-align: right;">4109374</td>
 <td style="text-align: left;">vanesssa_v</td>
-<td style="text-align: right;">147</td>
+<td style="text-align: right;">149</td>
 <td style="text-align: right;">179</td>
-<td style="text-align: right;">82.123</td>
+<td style="text-align: right;">83.240</td>
 <td style="text-align: left;">si</td>
 </tr>
 </tbody>
