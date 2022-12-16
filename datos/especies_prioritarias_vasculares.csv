@@ -1,0 +1,922 @@
+﻿Grupo,Orden,Familia,Nombre Científico,Nombres comunes,Codigo,Estado de Conservación,Nativa
+Vasculares,Alismatales,Alismataceae,Echinodorus tenellus,,Ech_tenell,PRIORITARIA SNAP,Si
+Vasculares,Alismatales,Araceae,Mangonia tweedieana,,Man_tweedi,PRIORITARIA SNAP,Si
+Vasculares,Alismatales,Araceae,Mangonia uruguaya,,Man_urugua,PRIORITARIA SNAP,Si
+Vasculares,Alismatales,Araceae,Philodendron tweedianum,,Phi_tweedi,PRIORITARIA SNAP,Si
+Vasculares,Alismatales,Araceae,Spathicarpa hastifolia,,Spa_hastif,PRIORITARIA SNAP,Si
+Vasculares,Alismatales,Hydrocharitaceae,Egeria naias,,Ege_naias,PRIORITARIA SNAP,Si
+Vasculares,Alismatales,Hydrocharitaceae,Elodea callitrichoides,,Elo_callit,PRIORITARIA SNAP,Si
+Vasculares,Alismatales,Potamogetonaceae,Potamogeton illinoensis,,Pot_illino,PRIORITARIA,Si
+Vasculares,Alismatales,Potamogetonaceae,Potamogeton montevidensis,,Pot_montev,PRIORITARIA,Si
+Vasculares,Alismatales,Zannichelliaceae,Zanichellia palustris,,Zan_palust,PRIORITARIA,Si
+Vasculares,Apiales,Apiaceae,Anmmoselinum rosengurttii,,Anm_roseng,PRIORITARIA SNAP,Si
+Vasculares,Apiales,Apiaceae,Apium prostratum,,Api_prostr,PRIORITARIA SNAP,Si
+Vasculares,Apiales,Apiaceae,Cyclospermun uruguayense,,Cyc_urugua,PRIORITARIA SNAP,Si
+Vasculares,Apiales,Apiaceae,Diposis saniculaefolia,,Dip_sanicu,PRIORITARIA SNAP,Si
+Vasculares,Apiales,Apiaceae,Eryngium dorae,,Ery_dorae,PRIORITARIA SNAP,Si
+Vasculares,Apiales,Apiaceae,Eryngium eriophorum,,Ery_erioph,PRIORITARIA SNAP,Si
+Vasculares,Apiales,Apiaceae,Eryngium pristis,,Ery_pristi,PRIORITARIA SNAP,Si
+Vasculares,Apiales,Apiaceae,Notiosciadium pampicola,,Not_pampic,PRIORITARIA SNAP,Si
+Vasculares,Aquifoliales,Aquifoliaceae,Ilex dumosa,,Ile_dumosa,PRIORITARIA SNAP,Si
+Vasculares,Aquifoliales,Aquifoliaceae,Ilex paraguariensis,yerba mate,Ile_paragu,No Prioritaria,Si
+Vasculares,Aquifoliales,Cardiopteridaceae,Citronella gongonha,naranjillo,Cit_gongon,No Prioritaria,Si
+Vasculares,Aquifoliales,Cardiopteridaceae,Citronella paniculata,naranjillo,Cit_panicu,No Prioritaria,Si
+Vasculares,Arecales,Arecaceae,Butia capitata,palma butiá,But_capita,PRIORITARIA SNAP,Si
+Vasculares,Arecales,Arecaceae,Butia lallemantii,,But_lallem,PRIORITARIA SNAP,Si
+Vasculares,Arecales,Arecaceae,Butia paraguayensis,butiá enano,But_paragu,PRIORITARIA SNAP,Si
+Vasculares,Arecales,Arecaceae,Butia yatay,palma yatay,But_yatay,No Prioritaria,Si
+Vasculares,Arecales,Arecaceae,Butyagrus nabonnandii,palmera híbrida,But_nabonn,No Prioritaria,Si
+Vasculares,Arecales,Arecaceae,Syagrus romanzoffiana,palma pindó,Sya_romanz,No Prioritaria,Si
+Vasculares,Arecales,Arecaceae,Trithrinax campestris,palma caranday,Tri_campes,No Prioritaria,Si
+Vasculares,Asparagales,Amaryllidaceae,Hippeastrum angustifolium,,Hip_angust,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Herreriaceae,Herreria bonplandii,,Her_bonpla,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Iridaceae,Calydorea amabilis,,Cal_amabil,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Iridaceae,Cypella coelestis,,Cyp_coeles,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Iridaceae,Cypella osteniana,,Cyp_osteni,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Iridaceae,Cypella ungiculata,,Cyp_ungicu,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Iridaceae,Herbertia quareimana,,Her_quarei,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Iridaceae,Iris pseudacorus,"acoro amarillo ,  espadaña amarilla ,  lirio amarillo",iri_pseuda,No evaluada,No
+Vasculares,Asparagales,Iridaceae,Sisyrinchium claritae,,Sis_clarit,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Iridaceae,Sisyrinchium rosengurttii,,Sis_roseng,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Bipinnula biplumata,,Bip_biplum,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Bipinnula gibertii,,Bip_gibert,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Bipinnula montana,,Bip_montan,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Bipinnula polysyka,,Bip_polysy,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Campylocentrum aromaticum,,Cam_aromat,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Capanemia micromera,,Cap_microm,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Chloraea bella,,Chl_bella,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Cyclopogon longibracteatus,,Cyc_longib,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Cyrtopodium brandonianum,,Cyr_brando,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Diskyphogyne arechavaletae,,Dis_arecha,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Eltroplectris roseoalba,,Elt_roseoa,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Galeandra beyrichii,,Gal_beyric,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Habenaria leucosantha,,Hab_leucos,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Habenaria paiveana,,Hab_paivea,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Habenaria pentadactyla,,Hab_pentad,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Oncidium barbatum,,Onc_barbat,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Oncidium bifolium   var. majus,,Onc_bifo_m,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Oncidium longipes,,Onc_longip,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Pelexia lindmanii,,Pel_lindma,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Pelexia macropoda,,Pel_macrop,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Prescottia ostenii,,Pre_osteni,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Skeptrostachys montevidensis,,Ske_montev,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Skeptrostachys paraguayensis,,Ske_paragu,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Stigmatosema polyaden,,Sti_polyad,PRIORITARIA SNAP,Si
+Vasculares,Asparagales,Orchidaceae,Trichocentrum pumilum,,Tri_pumilu,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Angelphytum arnottii,,Ang_arnott,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Asteropsis megapotamica,,Ast_megapo,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Baccharidastrum argutum,chirca de bañado,Bac_argutu,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharidastrum triplinervium,chirca de bañado,Bac_tripli,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis anomala,,Bac_anomal,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis artemisioides,,Bac_artemi,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Baccharis articulata,carquejilla,Bac_articu,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis caprariifolia,,Bac_caprar,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Baccharis cf. cognata,chirca de monte,Bac_cf_cog,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis cultrata,chirca,Bac_cultra,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis darwinii,,Bac_darwin,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Baccharis dracunculifolia,chirca,Bac_dracun,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis flabellata,chirca,Bac_flabel,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis gibertii,,Bac_gibert,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Baccharis hirta,,Bac_hirta,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Baccharis juncea,,Bac_juncea,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Baccharis microcephala,carqueja de bañado,Bac_microc,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis microdonta,chirca,Bac_microd,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis palustris,,B_PAL,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Baccharis pseudotenuifolia,,Bac_pseudo,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Baccharis punctulata,chirca de bañado,Bac_punctu,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis sagittalis,,Bac_sagitt,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis spicata,chirca blanca,Bac_spicat,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis subopposita,,Bac_subopp,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Baccharis tridentada,chirca,Bac_triden,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Carelia berroi,chirca,Car_berroi,No evaluada,Si
+Vasculares,Asterales,Asteraceae,Carelia cistifolia,chirca,Car_cistif,No evaluada,Si
+Vasculares,Asterales,Asteraceae,Centaurea tweediei,,Cen_tweedi,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Chaptalia mandonii,,Cha_mandon,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Coleostephus myconis,margarita de piria,col_myconi,No evaluada,No
+Vasculares,Asterales,Asteraceae,Conyza lorentzii,,Con_lorent,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Conyza macrophylla,,Con_macrop,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Eupatorium brevipetiolatum,,Eup_brevip,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Eupatorium buniifolium,chirca,Eup_buniif,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Eupatorium bupleurifolium,chirca,Eup_bupleu,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Eupatorium ericoides,,Eup_ericoi,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Eupatorium intermedium,chirca,Eup_interm,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Eupatorium laevigatum,chirca de bañado,Eup_laevig,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Eupatorium lanigerum   var. deltoideum,,Eup_lani_d,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Eupatorium paucicapitulatum,,Eup_paucic,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Eupatorium polystachyum,,Eup_polyst,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Eupatorium serratum,chirca,Eup_serrat,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Eupatorium subintegerrimum,chirca de monte,Eup_subint,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Eupatorium tremulum,chirca de bañado,Eup_tremul,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Gaillardia megapotamica,,Gai_megapo,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Gochnatia polymorpha   ssp. ceanothifolia,cambará,Goc_pol_ce,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Grindelia linearifolia,,Gri_linear,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Grindelia orientalis,,Gri_orient,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Grindelia rupestris,,Gri_rupest,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Heterothalamus alienus,romerillo,Het_alienu,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Heterothalamus psiadioides,,Het_psiadi,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Holocheilus illustris,,Hol_illust,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Hymenoxys tweediei,,Hym_tweedi,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Hypochoeris petiolaris,,Hyp_petiol,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Hypochoeris rosengurttii,,Hyp_roseng,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Ianthopappus corymbosus,,Ian_corymb,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Leptostelma meyeri,,Lep_meyeri,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Microgyne marchesiana,,Mic_marche,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Micropsis dasycarpa,,Mic_dasyca,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Mikania variifolia,,Mik_variif,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Noticastrum calvatum,,Not_calvat,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Noticastrum chebataroffii,,Not_chebat,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Noticastrum malmei,,Not_malmei,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Panphalea cardaminifolia,,Pan_cardam,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Panphalea maxima,,Pan_maxima,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Perezia kingii,,Per_kingii,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Perezia squarrosa,,Per_squarr,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Porophyllum brevifolium,,Por_brevif,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Radlkoferotoma berroi,,Rad_berroi,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Radlkoferotoma cistifolium,,Rad_cistif,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Schlechtendalia luzulaefolia,,Sch_luzula,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Senecio cisplatinus,,Sen_cispla,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Senecio icoglossoides,,Sen_icoglo,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Senecio icoglossus,,Sen_icogl2,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Senecio madagascariensis,senecio,sen_madaga,No evaluada,No
+Vasculares,Asterales,Asteraceae,Senecio mattfeldianus,,Sen_mattfe,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Senecio ostenii,,Sen_osteni,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Senecio ostenii   var. balaenicus,,Sen_oste_b,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Senecio tacuaremboensis,,Sen_tacuar,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Sommerfeltia cabrerae,,Som_cabrer,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Sommerfeltia spinulosa,,Som_spinul,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Stevia congesta,,Ste_conges,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Tessaria dodoneifolia,,Tes_dodone,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Tessaria integrifolia,aliso de río,Tes_integr,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Trichocline catharinensis   var. discolor,,Tri_cath_d,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Trichocline heterophylla,,Tri_hetero,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Trichocline maxima,,Tri_maxima,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Trixis divaricata,,Tri_divari,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Trixis lessingii,,Tri_lessin,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Trixis praestans,tabaquillo del monte,Tri_praest,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Verbesina subcordata,,Ver_subcor,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Vernonia macrocephala,,Ver_macroc,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Vernonia nitidula,chirca de bañado,Ver_nitidu,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Vernonia oxyodonta,,Ver_oxyodo,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Vernonia pseudolinearifolia,,Ver_pseudo,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Vernonia scorpioides,,Ver_scorpi,No Prioritaria,Si
+Vasculares,Asterales,Asteraceae,Viguiera breviflosculosa,,Vig_brevif,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Asteraceae,Viguiera nudicaulis,,Vig_nudica,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Calyceraceae,Acicarpha obtusisepala,,Aci_obtusi,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Calyceraceae,Acicarpha procumbens,,Aci_procum,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Calyceraceae,Boopis anthemoides,,Boo_anthem,PRIORITARIA SNAP,Si
+Vasculares,Asterales,Campanulaceae,Siphocampylus verticillatus,,Sip_vertic,PRIORITARIA SNAP,Si
+Vasculares,Brassicales,Capparaceae,Cleome psoraleaefolia,,Cle_psoral,PRIORITARIA SNAP,Si
+Vasculares,Brassicales,Capparaceae,Cleome titubans,,Cle_tituba,PRIORITARIA SNAP,Si
+Vasculares,Brassicales,Caricaceae,Carica quercifolia,papaya del monte,Car_querci,No Prioritaria,Si
+Vasculares,Caryophyllales,Aizoaceae,Carpobrotus edulis,"uña de gato ,  garra de león ,  papafrita",car_edulis,No evaluada,No
+Vasculares,Caryophyllales,Amaranthaceae,Alternanthera pungens,yerba del pollo,Alt_pungen,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Amaranthaceae,Amaranthus lombardoi,,Ama_lombar,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Amaranthaceae,Amaranthus vulgatissimus,,Ama_vulgat,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Amaranthaceae,Gomphrena uruguayensis,,Gom_urugua,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Amaranthaceae,Guilleminea elongata,,Gui_elonga,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Cereus stenogonus,,Cer_stenog,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Frailea castanea,,Fra_castan,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Frailea gracillima,,Fra_gracil,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Frailea pumila,,Fra_pumila,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Frailea schilinzkyana,,Fra_schili,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Gymnocalycium denudatum,,Gym_denuda,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Gymnocalycium schroederianum,,Gym_schroe,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Harrisia pomanensis   ssp. regellii,,Har_poma_r,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Lepismium cruciforme,,Lep_crucif,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Lepismium floccosa   ssp. pulvinigera,,Lep_floc_p,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Notocactus allosiphon,,Not_allosi,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Notocactus buinigii,,Not_buinin,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Notocactus herteri,,Not_herter,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Notocactus linkii,,Not_linkii,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Notocactus minimus,,Not_minimu,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Notocactus mueller-melchersii,,Not_muelle,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Notocactus tabularis,,Not_tabula,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Notocactus wedermannianus,,Not_wederm,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Opuntia retrorsa,,Opu_retror,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Opuntia sulphurea   var. pampeana,,Opu_sulp_p,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Pereskia nemorosa,,Per_nemoro,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Rhipsalis cereuscula,,Rhi_cereus,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Wigginsia arechavaletae,,Wig_arecha,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Cactaceae,Wigginsia langsdorfii,,Wig_langsd,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Caryophyllaceae,Cerastium selloi,,Cer_selloi,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Caryophyllaceae,Spergularia rupestris,,Spe_rupest,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Chenopodiaceae,Atriplex montevidensis,,Atr_montev,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Chenopodiaceae,Chenopodium macrospermum   ssp. salsum,,Che_macr_s,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Chenopodiaceae,Holmbergia tweedii,,Hol_tweedi,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Nyctaginaceae,Alliona incarnata,,All_incarn,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Phytolaccaceae,Microtea scabrida,,Mic_scabri,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Phytolaccaceae,Petiveria alliacea,,Pet_alliac,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Phytolaccaceae,Phytolacca americana,,Phy_americ,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Phytolaccaceae,Phytolacca dioica,ombú,Phy_dioica,No Prioritaria,Si
+Vasculares,Caryophyllales,Phytolaccaceae,Rivinia humilis,,Riv_humili,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Polygonaceae,Coccoloba argentinensis,cocoloba,Coc_argent,PRIORITARIA,Si
+Vasculares,Caryophyllales,Polygonaceae,Ruprechtia laxiflora,viraró crespo,Rup_laxifl,No Prioritaria,Si
+Vasculares,Caryophyllales,Polygonaceae,Ruprechtia salicifolia,viraró,Rup_salici,No Prioritaria,Si
+Vasculares,Caryophyllales,Portulacaceae,Calandrinia ciliata,,Cal_ciliat,PRIORITARIA,Si
+Vasculares,Caryophyllales,Primulaceae,Anagallis filiformis,,Ana_filifo,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Primulaceae,Myrsine coriacea,canelón,Myr_coriac,No Prioritaria,Si
+Vasculares,Caryophyllales,Primulaceae,Myrsine laetevirens,canelón,Myr_laetev,No Prioritaria,Si
+Vasculares,Caryophyllales,Primulaceae,Myrsine parvifolia,canelón,Myr_parvif,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Primulaceae,Myrsine parvula,canelón,Myr_parvul,No Prioritaria,Si
+Vasculares,Caryophyllales,Primulaceae,Myrsine umbellata,canelón,Myr_umbell,PRIORITARIA SNAP,Si
+Vasculares,Caryophyllales,Primulaceae,Myrsine venosa,canelón,Myr_venosa,No Prioritaria,Si
+Vasculares,Celastrales,Celastraceae,Maytenus cassiniformis,,May_cassin,PRIORITARIA SNAP,Si
+Vasculares,Celastrales,Celastraceae,Maytenus dasyclados,,May_dasycl,PRIORITARIA SNAP,Si
+Vasculares,Celastrales,Celastraceae,Maytenus ilicifolia,congorosa,May_ilicif,No Prioritaria,Si
+Vasculares,Celastrales,Celastraceae,Maytenus vitis-idaea,,May_vitisi,PRIORITARIA SNAP,Si
+Vasculares,Celastrales,Celastraceae,Schaefferia argentinensis,,Sch_argent,No Prioritaria,Si
+Vasculares,Celastrales,Hippocrateaceae,Hippocratea andina,,Hip_andina,PRIORITARIA SNAP,Si
+Vasculares,Commelinales,Commelinaceae,Commelina obliqua,,Com_obliqu,PRIORITARIA SNAP,Si
+Vasculares,Commelinales,Commelinaceae,Floscopa glabrata,,Flo_glabra,PRIORITARIA SNAP,Si
+Vasculares,Commelinales,Pontederiaceae,Heteranthera reniformis,,Het_renifo,PRIORITARIA,Si
+Vasculares,Commelinales,Pontederiaceae,Heteranthera zosterifolia,,Het_zoster,PRIORITARIA,Si
+Vasculares,Cornales,Loasaceae,Cajophora arechavaletae,,Caj_arecha,PRIORITARIA SNAP,Si
+Vasculares,Cornales,Loasaceae,Mentzelia albescens,,Men_albesc,PRIORITARIA SNAP,Si
+Vasculares,Cucurbitales,Cucurbitaceae,Cerathosanthes multiloba,,Cer_multil,PRIORITARIA SNAP,Si
+Vasculares,Cucurbitales,Cucurbitaceae,Cucurbita maxima   ssp. andreana,zapallito amargo,Cuc_maxi_a,PRIORITARIA SNAP,Si
+Vasculares,Cucurbitales,Cucurbitaceae,Cucurbitella asperata,,Cuc_aspera,PRIORITARIA SNAP,Si
+Vasculares,Cucurbitales,Cucurbitaceae,Sicyos polyacanthus,,Sic_polyac,PRIORITARIA SNAP,Si
+Vasculares,Dioscoreales,Dioscoreaceae,Dioscorea furcata,,Dio_furcat,PRIORITARIA SNAP,Si
+Vasculares,Dioscoreales,Dioscoreaceae,Dioscorea multiflora,,Dio_multif,PRIORITARIA SNAP,Si
+Vasculares,Dipsacales,Adoxaceae,Sambucus australis,sauco,Sam_austra,No Prioritaria,Si
+Vasculares,Ericales,Ebenaceae,Diospyros inconstans,caqui silvestre,Dio_incons,No Prioritaria,Si
+Vasculares,Ericales,Ericaceae,Agarista chlorantha,agarista,Aga_chlora,PRIORITARIA SNAP,Si
+Vasculares,Ericales,Ericaceae,Agarista eucalyptoides,agarista,Aga_eucaly,PRIORITARIA SNAP,Si
+Vasculares,Ericales,Sapotaceae,Chrysophyllum gonocarpum,aguaí,Chr_gonoca,No Prioritaria,Si
+Vasculares,Ericales,Sapotaceae,Chrysophyllum marginatum,aguaí,Chr_margin,No Prioritaria,Si
+Vasculares,Ericales,Sapotaceae,Pouteria gardneriana,mataojos colorado,Pou_gardne,No Prioritaria,Si
+Vasculares,Ericales,Sapotaceae,Pouteria salicifolia,mataojo,Pou_salici,No Prioritaria,Si
+Vasculares,Ericales,Sapotaceae,Sideroxylon obtusifolium,guaraniná,Sid_obtusi,PRIORITARIA SNAP,Si
+Vasculares,Ericales,Styracaceae,Styrax leprosus,,Sty_lepros,No Prioritaria,Si
+Vasculares,Ericales,Symplocaceae,Symplocos uniflora,azarero del monte,Sym_uniflo,No Prioritaria,Si
+Vasculares,Escalloniales,Escalloniaceae,Escallonia bifida,árbol del pito,Esc_bifida,No Prioritaria,Si
+Vasculares,Escalloniales,Escalloniaceae,Escallonia megapotamica   var. spiraefolia,árbol del pito,Esc_meg_sp,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Acacia bonariensis,uña de gato,Aca_bonari,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Acacia caven,espinillo,Aca_caven,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Acacia praecox,,Aca_praeco,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Aeschynomene montevidensis,algodonillo,Aes_montev,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Albizia inundata,timbó blanco,Alb_inunda,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Bauhinia forficata   ssp. pruinosa,pezuña de vaca,Bau_for_pr,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Caesalpinia epunctata,,Cae_epunct,No evaluada,Si
+Vasculares,Fabales,Fabaceae,Caesalpinia gilliesii,barba de chivo,Cae_gillie,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Caesalpinia rubicunda,,Cae_rubicu,No evaluada,Si
+Vasculares,Fabales,Fabaceae,Calliandra brevipes,plumerillo rosado,Cal_brevip,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Calliandra parvifolia,plumerillo rosado,Ca_parvifo,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Calliandra tweedii,plumerillo rojo,Cal_tweedi,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Collaea stenophylla,,Col_stenop,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Crotalaria micans,,Cro_micans,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Dalbergia frutescens,palo rosa,Dal_frutes,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Enterolobium contortisiliquum,timbó,Ent_contor,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Erythrina crista-galli,ceibo,Ery_crista,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Geoffroea decorticans,chañar,Geo_decort,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Gleditsia amorphoides,espina corona,Gle_amorph,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Gleditsia amorphoides   var. anacantha,,Gle_amor_a,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Gleditsia triacanthos,"espina de cristo ,  acacia de tres espinas ,  acacia negra",gle_triaca,No evaluada,No
+Vasculares,Fabales,Fabaceae,Indigofera suffruticosa,añil,Ind_suffru,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Inga vera   ssp. affinis,ingá,Ing_ver_af,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Lonchocarpus muehlbergianus,lapachillo,Lon_muehlb,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Lonchocarpus nitidus,lapachillo,Lon_nitidu,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Mimosa adpressa,rama negra,Mim_adpres,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Mimosa amphigena,mimosa,Mim_amphig,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Mimosa australis,mimosa,Mim_austra,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa berroi,vergonzosa,Mim_berroi,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa bifurca,aromita,Mim_bifurc,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa bimucronata,,Mim_bimucr,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa bonplandii,mimosa,Mim_bonpla,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa burkartii,mimosa,Mim_burkar,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa cruenta,mimosa,Mim_cruent,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa daleoides,mimosa de flor amarilla,Mim_daleoi,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Mimosa incana,,Mim_incana,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Mimosa magentea,mimosa,Mim_magent,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa ostenii,espinillo enganchador,Mim_osteni,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa pigra,mimosa,Mim_pigra,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Mimosa pilulifera,rama negra,Mim_piluli,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Mimosa ramulosa,mimosa,Mim_ramulo,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Mimosa sprengelii,mimosa,Mim_spreng,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Mimosa tweedieana,mimosa,Mim_tweedi,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Mimosa uraguensis,mimosa,Mim_urague,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Parapiptadenia rigida,angico,Par_rigida,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Parkinsonia aculeata,cina cina,Par_aculea,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Peltophorum dubium,ibirapitá,Pel_dubium,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Poecilanthe parviflora,lapachillo,Poe_parvif,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Prosopis affinis,ñandubay,Pro_affini,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Prosopis nigra,algarrobo negro,Pro_nigra,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Senna corymbosa,rama negra,Sen_corymb,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Senna pendula   var. paludicola,,Sen_pen_pa,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Fabaceae,Sesbania punicea,acacia mansa,Ses_punice,No Prioritaria,Si
+Vasculares,Fabales,Fabaceae,Sesbania virgata,acacia mansa,Ses_virgat,No Prioritaria,Si
+Vasculares,Fabales,Leguminosae,Acacia atramentaria,,Aca_atrame,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Acacia longifolia,acacia,aca_longif,No evaluada,No
+Vasculares,Fabales,Leguminosae,Adesmia bonariensis,,Ade_bonari,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Adesmia globosa,,Ade_globos,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Adesmia incana   var. grisea,,Ade_inca_g,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Adesmia incana   var. oblata,,Ade_inca_o,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Adesmia punctata   var. sessiliflora,,Ade_punc_s,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Adesmia uruguaya,,Ade_urugua,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Aeschynomene montevidensis   var. microphylla,,Aes_mont_m,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Aeschynomene rudis,,Aes_rudis,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Arachis burkartii,,Ara_burkar,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Astragalus bergii,,Ast_bergii,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Astragalus distinens,,Ast_distin,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Chaetocalyx nigricans,,Cha_nigric,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Chamaecrista serpens   var. grandiflora,,Cha_serp_g,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Clitoria nana,,Cli_nana,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Crotalaria incana,,Cro_incana,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Crotalaria tweediana,,Cro_tweedi,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Desmodium cuneatum,,Des_cuneat,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Desmodium polygaloides,,Des_polyga,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Desmodium venosum,,Des_venosu,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Discolobium psoraleaefolium,,Dis_psoral,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Galactia dimorphophylla,,Gal_dimorp,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Galactia latisiliqua   var. orbicularis,,Gal_lati_o,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Galactia martioides,,Gal_martio,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Indigofera sabulicola,,Ind_sabuli,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Lathyrus nitens,,Lat_nitens,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Lupinus bracteolaris   var. tenuifolius,,Lup_brac_t,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Lupinus lanatus,,Lup_lanatu,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Lupinus linearis,,Lup_linear,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Lupinus paraguariensis,,Lup_paragu,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Macroptilium erythroloma,,Mac_erythr,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa amphigena   var. eglandulosa,,Mim_amph_e,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa amphigena   var. inermis,,Mim_amph_i,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa amphigena   var. trachycarpoides,,Mim_amph_t,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa dolens   ssp. acerba   var. pubescens,,Mim_dol_ap,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa dolens   ssp. rigida   var. anisitsii,,Mim_dol_ra,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa dolens   ssp. rigida   var. rigida,,Mim_dol_rr,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa dutrae,,Mim_dutrae,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa dutrae   var. major,,Mim_dutr_m,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa luciana,,Mim_lucian,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa parvipinna,,Mim_parvip,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa pauperoides,,Mim_pauper,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa pedersenii,,Mim_peders,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa ramboi,,Mim_ramboi,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa reptans,,Mim_reptan,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa rocae,,Mim_rocae,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa rupestris,,Mim_rupest,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa schleidenii,,Mim_schlei,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa tandilensis,,Mim_tandil,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Mimosa trachycarpa,,Mim_trachy,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Ornithopus micranthus,,Orn_micran,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Pomaria epunctata,,Pom_epunct,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Pomaria rubicunda,,Pom_rubicu,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Rhynchosia edensis,,Rhy_edensi,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Rhynchosia hauthalii,,Rhy_hautha,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Senna hirsuta   var. streptocarpa,,Sen_hirs_s,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Senna oblongifolia,,Sen_oblong,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Spartium junceum,"retama amarilla ,  retama española",spa_junceu,No evaluada,No
+Vasculares,Fabales,Leguminosae,Tephrosia adunca,,Tep_adunca,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Tephrosia marginata,,Tep_margin,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Trifolium riograndense,,Tri_riogra,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Trifolium riograndense   ssp. pseudocalyculatum,,Tri_riog_p,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Ulex europaeus,tojo,ule_europa,No evaluada,No
+Vasculares,Fabales,Leguminosae,Vicia graminea   var. transiens,,Vic_gram_t,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Vicia pampicola   var. burkartii,,Vic_pamp_b,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Vicia platensis,,Vic_platen,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Vicia stenophylla,,Vic_stenop,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Vigna caracalla,,Vig_caraca,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Vigna hookeri,,Vig_hooker,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Zornia cryptantha,,Zor_crypta,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Zornia cryptantha   var. latibracteata,,Zor_cryp_l,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Zornia multinervosa,,Zor_multin,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Leguminosae,Zornia ovata,,Zor_ovata,PRIORITARIA SNAP,Si
+Vasculares,Fabales,Polygalaceae,Polygala aphylla,,Pol_aphyll,PRIORITARIA,Si
+Vasculares,Fabales,Polygalaceae,Polygala timoutoides,,Pol_timout,PRIORITARIA,Si
+Vasculares,Fabales,Quillajaceae,Quillaja brasiliensis,palo de jabón,Qui_brasil,No Prioritaria,Si
+Vasculares,Gentianales,Apocynaceae,Aspidosperma quebracho-blanco,quebracho blanco,Asp_quebra,No Prioritaria,Si
+Vasculares,Gentianales,Apocynaceae,Condylocarpon isthmicum,,Con_isthmi,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Apocynaceae,Forsteronia glabrescens,,For_glabre,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Apocynaceae,Tabernaemontana catharinensis,sapirandí,Tab_cathar,No Prioritaria,Si
+Vasculares,Gentianales,Asclepiadaceae,Amblyopetalum coccineum,,Amb_coccin,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Asclepias candida,,Asc_candid,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Funastrum clausum,,Fun_clausu,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Gonolobus parviflorus,,Gon_parvif,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Jobinia connivens,,Job_conniv,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Marsdenia montana,,Mar_montan,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Matelea australis,,Mat_austra,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Matelea hispida,,Mat_hispid,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Oxypetalum schulzii,,Oxy_schulz,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Oxypetalum uruguayense,,Oxy_urugua,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Rhyssostelma nigricans,,Rhy_nigric,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Asclepiadaceae,Tweedia brunonis,,Twe_brunon,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Gentianaceae,Curtia tenuifolia,,Cur_tenuif,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Gentianaceae,Schultesia australis,,Sch_austra,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Loganiaceae,Strychnos brasiliensis,,Str_brasil,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Rubiaceae,Borreria brachystemonoides,,Bor_brachy,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Borreria ocymoides,,Bor_ocymoi,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Cephalanthus glabratus,sarandí,Cep_glabra,No Prioritaria,Si
+Vasculares,Gentianales,Rubiaceae,Chiococca alba,,Chi_alba,PRIORITARIA SNAP,Si
+Vasculares,Gentianales,Rubiaceae,Galium atherodes,,Gal_athero,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Galium equisetoides,,Gal_equise,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Galium humile,,Gal_humile,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Galium megapotamicum,,Gal_megapo,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Galium ostenianum,,Gal_osteni,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Galium uruguayense,,Gal_urugua,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Guettarda uruguensis,jazmín del uruguay,Gue_urugue,No Prioritaria,Si
+Vasculares,Gentianales,Rubiaceae,Mitracarpus villosus,,Mit_villos,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Psychotria carthagenensis,falso café,Psy_cartha,No Prioritaria,Si
+Vasculares,Gentianales,Rubiaceae,Randia armata,,Ran_armata,PRIORITARIA,Si
+Vasculares,Gentianales,Rubiaceae,Randia sp.,,Ran_sp,No evaluada,Si
+Vasculares,Gentianales,Rubiaceae,Staelia thymoides,,Sta_thymoi,PRIORITARIA,Si
+Vasculares,Gentianales,Rutaceae,Zanthoxylum hyemale,tembetarí,Zan_hyemal,No Prioritaria,Si
+Vasculares,Gentianales,Rutaceae,Zanthoxylum rhoifolium,tembetarí,Zan_rhoifo,No Prioritaria,Si
+Vasculares,Gentianales,Rutaceae,Zanthoxylum sp.,cuentrillo,Zan_sp,No Prioritaria,Si
+Vasculares,Gnetales,Ephedraceae,Ephedra tweediana,pico de loro,Eph_tweedi,No Prioritaria,Si
+Vasculares,Lamiales,Acanthaceae,Dyschoriste hygrophiloides,,Dys_hygrop,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Acanthaceae,Justicia brasiliana,,Jus_brasil,No Prioritaria,Si
+Vasculares,Lamiales,Acanthaceae,Justicia tweediana,,Jus_tweedi,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Acanthaceae,Poikilacanthus glandulosus,,Poi_glandu,No Prioritaria,Si
+Vasculares,Lamiales,Acanthaceae,Ruellia angustiflora,,Rue_angust,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Bignoniaceae,Adenocalymna marginatum,,Ade_margin,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Bignoniaceae,Tabebuia heptaphylla,lapacho,Tab_heptap,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Boraginaceae,Antiphytum cruciatum,,Ant_crucia,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Boraginaceae,Cordia bifurcata,,Cor_bifurc,No Prioritaria,Si
+Vasculares,Lamiales,Boraginaceae,Cordia curassavica,,Cor_curass,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Boraginaceae,Cordia ecalyculata,,Cor_ecalyc,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Boraginaceae,Cordia paucidentata,,Cor_paucid,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Boraginaceae,Heliotropium curassavicum   var. argetinum,,Hel_cura_a,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Boraginaceae,Heliotropium transalpinum,,Hel_transa,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Boraginaceae,Patagonula americana,guayubira,Pat_americ,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Boraginaceae,Tournefortia breviflora,,Tou_brevif,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Boraginaceae,Tournefortia paniculata,,Tou_panicu,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Gesneriaceae,Sinningia allagophylla,,Sin_allogo,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Aegiphila hassleri,tarumán sin espinas,Aeg_hassle,No Prioritaria,Si
+Vasculares,Lamiales,Lamiaceae,Cunila galioides,,Cun_galioi,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Cunila incana,,Cun_incana,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Cunila menthiformis,,Cun_menthi,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Cunila menthoides,,Cun_mentho,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Cunila spicata,,Cun_spicat,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Glechon spathulata,,Gle_spathu,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Glechon thymoides,,Gle_thymoi,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Hedeoma medium,,Hed_medium,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Hyptis brevipes,,Hyp_brevip,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Hyptis muelleri,,Hyp_muelle,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Salvia cardiophylla,,Sal_cardio,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Satureja brownei,,Sat_browne,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Scutellaria platensis,,Scu_platen,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lamiaceae,Vitex megapotamica,tarumán sin espinas,Vit_megapo,No Prioritaria,Si
+Vasculares,Lamiales,Lentibulariaceae,Utricularia laxa,,Utr_laxa,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Lentibulariaceae,Utricularia tricolor,,Utr_tricol,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Martyniaceae,Craniolaria integrifolia,,Cra_integr,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Oleaceae,Fraxinus lanceolata,fresno,fra_lanceo,No evaluada,No
+Vasculares,Lamiales,Oleaceae,Ligustrum lucidum,ligustro,lig_lucidu,No evaluada,No
+Vasculares,Lamiales,Plantaginaceae,Plantago berroi,,Pla_berroi,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Plantaginaceae,Plantago commersoniana,,Pla_commer,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Plantaginaceae,Plantago heterophylla,,Pla_hetero,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Scrophulariaceae,Agalinis digitalis,,Aga_digita,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Agalinis linarioides,,Aga_linari,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Buchnera longifolia,,Buc_longif,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Buddleja elegans   ssp. angustata,,Bud_ele_an,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Scrophulariaceae,Buddleja grandiflora,cambará,Bud_grandi,No Prioritaria,Si
+Vasculares,Lamiales,Scrophulariaceae,Buddleja stachyoides,cambará,Bud_stachy,No Prioritaria,Si
+Vasculares,Lamiales,Scrophulariaceae,Buddleja thyrsoides   ssp. angusticarpa,cambará,Bud_thy_an,No Prioritaria,Si
+Vasculares,Lamiales,Scrophulariaceae,Buddleja thyrsoides   ssp. thyrsoides,cambará,Bud_thy_th,No Prioritaria,Si
+Vasculares,Lamiales,Scrophulariaceae,Calceolaria parviflora,,Ca_parvifl,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Mecardonia berroi,,Mec_berroi,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Mecardonia herniarioides,,Mec_hernia,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Micranthemum tweediei,,Mic_tweedi,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Scoparia dulcis,,Sco_dulcis,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Scoparia ericacea,,Sco_ericac,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Stemodia lanceolata,,Ste_lanceo,PRIORITARIA,Si
+Vasculares,Lamiales,Scrophulariaceae,Stemodia stricta,,Ste_strict,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Aloysia chamaedryfolia,cedrón del monte,Alo_chamae,No Prioritaria,Si
+Vasculares,Lamiales,Verbenaceae,Aloysia gratissima,cedrón del monte,Alo_gratis,No Prioritaria,Si
+Vasculares,Lamiales,Verbenaceae,Aloysia pulchra,cedrón del monte,Alo_pulchr,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Citharexylum montevidense,tarumán,Cit_montev,No Prioritaria,Si
+Vasculares,Lamiales,Verbenaceae,Duranta erecta,tala blanco,Dur_erecta,No Prioritaria,Si
+Vasculares,Lamiales,Verbenaceae,Glandularia corymbosa,,Gla_corymb,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Glandularia herteri,,Gla_herter,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Glandularia megapotamica,,Gla_megapo,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Glandularia sessilis,,Gla_sessil,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Glandularia tenera,,Gla_tenera,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Lantana cf. camara,lantana,Lan_cf_ca,No Prioritaria,Si
+Vasculares,Lamiales,Verbenaceae,Lippia alba,salvia trepadora,Lip_alba,No Prioritaria,Si
+Vasculares,Lamiales,Verbenaceae,Lippia hieracifolia,,Lip_hierac,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Lippia turbinata,,Lip_turbin,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Lippia turnerifolia   var. polytricha,,Lip_turn_p,PRIORITARIA,Si
+Vasculares,Lamiales,Verbenaceae,Phyla reptans,,Phy_reptan,PRIORITARIA SNAP,Si
+Vasculares,Lamiales,Verbenaceae,Verbena lobata,,Ver_lobata,PRIORITARIA,Si
+Vasculares,Laurales,Lauraceae,Cinnamomum amoenum,canela,Cin_amoenu,PRIORITARIA SNAP,Si
+Vasculares,Laurales,Lauraceae,Nectandra angustifolia,laurel miní,Nec_angust,No Prioritaria,Si
+Vasculares,Laurales,Lauraceae,Nectandra megapotamica,laurel canela,Nec_megapo,No Prioritaria,Si
+Vasculares,Laurales,Lauraceae,Ocotea acutifolia,laurel,Oco_acutif,No Prioritaria,Si
+Vasculares,Laurales,Lauraceae,Ocotea puberula,laurel,Oco_puberu,No Prioritaria,Si
+Vasculares,Laurales,Lauraceae,Ocotea pulchella,laurel canela,Oco_pulche,No Prioritaria,Si
+Vasculares,Liliales,Alstroemeriaceae,Alstroemeria isabellana,,Als_isabel,PRIORITARIA SNAP,Si
+Vasculares,Magnoliales,Annonaceae,Rollinia emarginata,,Rol_emargi,PRIORITARIA SNAP,Si
+Vasculares,Magnoliales,Annonaceae,Rollinia maritima,,Rol_mariti,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Erythroxylaceae,Erythroxylum microphyllum,coca de hoja chica,Ery_microp,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Erythroxylaceae,Erythroxylum myrsinites,coca silvestre,Ery_myrsin,No Prioritaria,Si
+Vasculares,Malpighiales,Euphorbiaceae,Acalypha senilis,,Aca_senili,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Actinostemon concolor,naranjero del monte,Act_concol,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Bernardia lorentzii,,Ber_lorent,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Bernardia multicaulis,,Ber_multic,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Bernardia sellowii,,Ber_sellow,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Caperonia castaneifolia,,Cap_castan,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Chiropetalum intermedium,,Chi_interm,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton chamaepitys,,Cro_chamae,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton cuchilla-nigrae,,Cro_cuchil,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton garckeanus,,Cro_garcke,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton gnaphalii,,Cro_gnapha,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton hilarii,,Cro_hilari,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton lachnostephanus,,Cro_lachno,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton lombardianus,,Cro_lombar,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton montevidensis,,Cro_montev,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton nitrariaefolius,,Cro_nitrar,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton tenuissimus,,Cro_tenuis,No Prioritaria,Si
+Vasculares,Malpighiales,Euphorbiaceae,Croton urucurana,sangre de drago,Cro_urucur,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Dalechampia stenosepala,,Dal_stenos,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Ditaxis acaulis,,Dit_acauli,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Ditaxis rhizantha,,Dit_rhizan,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Euphorbia potentilloides,,Eup_potent,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Euphorbia rochaensis,,Eup_rochae,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Euphorbia sciadophila,,Eup_sciado,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Manihot grahamii,falsa mandioca,Man_graham,No Prioritaria,Si
+Vasculares,Malpighiales,Euphorbiaceae,Phyllanthus ramillosus,,Phy_ramill,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Phyllanthus sellowianus,sarandí,Phy_sellow,No Prioritaria,Si
+Vasculares,Malpighiales,Euphorbiaceae,Sapium glandulosum,curupí,Sap_glandu,No Prioritaria,Si
+Vasculares,Malpighiales,Euphorbiaceae,Sapium haematospermum,curupí,Sap_haemat,No Prioritaria,Si
+Vasculares,Malpighiales,Euphorbiaceae,Sebastiania brasiliensis,blanquillo,Seb_brasil,No Prioritaria,Si
+Vasculares,Malpighiales,Euphorbiaceae,Sebastiania commersoniana,blanquillo,Seb_commer,No Prioritaria,Si
+Vasculares,Malpighiales,Euphorbiaceae,Sebastiania pusilla,,Seb_pusill,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Sebastiania schottiana,sarandí,Seb_schott,No Prioritaria,Si
+Vasculares,Malpighiales,Euphorbiaceae,Sebastiania serrulata,,Seb_serrul,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Tragia incana,,Tra_incana,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Euphorbiaceae,Tragia melochioides,,Tra_meloch,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Hypericaceae,Hypericum cavernicola,,Hyp_cavern,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Hypericaceae,Hypericum mutilum,,Hyp_mutilu,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Hypericaceae,Hypericum piriai,,Hyp_piriai,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Hypericaceae,Hypericum rivulare,,Hyp_rivula,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Linaceae,Linum brevifolium,,Lin_brevif,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Linaceae,Linum burkartii,,Lin_burkar,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Malpighiaceae,Heladena multiflora,,Hel_multif,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Malpighiaceae,Heteropteris argyrophaea,,Het_argyro,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Podostemaceae,Podostemum comatum,,Pod_comatu,PRIORITARIA,Si
+Vasculares,Malpighiales,Podostemaceae,Podostemum distichum,,Pod_distic,PRIORITARIA,Si
+Vasculares,Malpighiales,Podostemaceae,Podostemum rutifolium,,Pod_rutifo,PRIORITARIA,Si
+Vasculares,Malpighiales,Podostemaceae,Tristicha trifaria,,Tri_trifar,PRIORITARIA,Si
+Vasculares,Malpighiales,Rafflesiaceae,Pilostyles blanchetii,,Pil_blanch,PRIORITARIA,Si
+Vasculares,Malpighiales,Rafflesiaceae,Pilostyles calliandrae,,Pil_callia,PRIORITARIA,Si
+Vasculares,Malpighiales,Salicaceae,Azara uruguayensis,azara,Aza_urugua,No Prioritaria,Si
+Vasculares,Malpighiales,Salicaceae,Banara tomentosa,guazatunga negra,Ban_toment,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Salicaceae,Banara umbraticola,,Ban_umbrat,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Salicaceae,Casearia decandra,guazatunga,Cas_decand,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Salicaceae,Casearia sylvestris,guazatunga,Cas_sylves,No Prioritaria,Si
+Vasculares,Malpighiales,Salicaceae,Populus alba,álamo plateado,pop_alba,No evaluada,No
+Vasculares,Malpighiales,Salicaceae,Salix humboldtiana,sauce criollo,Sal_humbol,No Prioritaria,Si
+Vasculares,Malpighiales,Salicaceae,Xylosma pseudosalzmannii,espina corona,Xyl_pseudo,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Salicaceae,Xylosma schroederi,espina corona,Xyl_schroe,PRIORITARIA SNAP,Si
+Vasculares,Malpighiales,Salicaceae,Xylosma tweediana,espina corona,Xyl_tweedi,No Prioritaria,Si
+Vasculares,Malpighiales,Salicaceae,Xylosma venosa,espina corona,Xyl_venosa,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Abutilon affine,,Abu_affine,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Abutilon grandifolium,malvavisco,Abu_grandi,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Abutilon pauciflorum,malvavisco,Abu_paucif,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Abutilon pictum,,Abu_pictum,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Abutilon umbelliflorum,,Abu_umbell,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Byttneria urticifolia,,Byt_urtici,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Calyculogygas uruguayensis,,Cal_urugua,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Hibiscus striatus,hibisco de bañado,Hib_striat,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Luehea divaricata,francisco alvarez,Lue_divari,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Malvella leprosa,,Mal_lepros,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Monteiroa glomerata,,Mon_glomer,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Pavonia betonicaefolia,,Pav_betoni,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Pavonia communis,,Pav_commun,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Pavonia cymbalaria,,Pav_cymbal,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Pavonia distinguenda,,Pav_distin,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Pavonia glutinosa,,Pav_glutin,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Pavonia hastata,malvavisco,Pav_hastat,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Pavonia nana,,Pav_nana,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Pavonia orientalis,,Pav_orient,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Pavonia reticulata,,Pav_reticu,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Pavonia rosengurtii,,Pav_roseng,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Malvaceae,Pavonia sepium,,Pav_sepium,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Pavonia vitifolia,,Pav_vitifo,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Pavonia xanthogloea,,Pav_xantho,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Sphaeralcea bonariensis,,Sph_bonari,No Prioritaria,Si
+Vasculares,Malvales,Malvaceae,Sphaeralcea decipiens,,Sph_decipi,PRIORITARIA SNAP,Si
+Vasculares,Malvales,Thymelaeaceae,Daphnopsis racemosa,envira,Dap_racemo,No Prioritaria,Si
+Vasculares,Myrtales,Combretaceae,Combretum fruticosum,planta de los cepillos,Com_frutic,No Prioritaria,Si
+Vasculares,Myrtales,Combretaceae,Terminalia australis,palo amarillo,Ter_austra,No Prioritaria,Si
+Vasculares,Myrtales,Lythraceae,Ammannia auriculata   var. arenaria,,Amm_auri_a,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Lythraceae,Cuphea lysimachioides,,Cup_lysima,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Lythraceae,Cuphea varia,,Cup_varia,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Lythraceae,Heimia myrtifolia,quiebra arados,Hei_myrtif,No Prioritaria,Si
+Vasculares,Myrtales,Lythraceae,Heimia salicifolia,quiebra arados,Hei_salici,No Prioritaria,Si
+Vasculares,Myrtales,Melastomataceae,Leandra australis   var. phaeotricha,,Lea_aus_ph,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Melastomataceae,Miconia hyemalis,,Mic_hyemal,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Melastomataceae,Tibouchina nitida,,Tib_nitida,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Acca sellowiana,guayabo del país,Acc_sellow,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Blepharocalyx salicifolius,arrayán,Ble_salici,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Calyptranthes concinna,,Cal_concin,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Campomanesia aurea,,Cam_aurea,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Campomanesia aurea   var. aurea,,Cam_aur_au,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Campomanesia aurea   var. hatschbachii,,Cam_aure_h,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Campomanesia xanthocarpa,,Cam_xantho,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Eugenia hyemalis   var. marginata,,Eug_hye_ma,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Eugenia involucrata,,Eug_involu,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Eugenia mansoni,pitanga amarga,Eug_manson,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Eugenia pyriformis   var. uvalha,,Eug_pyr_uv,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Eugenia repanda,,Eug_repand,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Eugenia uniflora,pitanga,Eug_uniflo,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Eugenia uruguayensis,guayabo blanco,Eug_urugua,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Gomidesia palustris,,Gom_palust,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Hexachlamys edulis,ubajay,Hex_edulis,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Hexachlamys humilis,ubajai enano,Hex_humili,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Myrceugenia euosma,murta,Myr_euosma,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Myrceugenia glaucescens,murta,Myr_glauce,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Myrceugenia myrtoides,murta,Myr_myrtoi,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Myrcia selloi,cambuí,Myr_selloi,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Myrcia verticillaris,,Myr_vertic,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Myrcianthes cisplatensis,guayabo colorado,Myr_cispla,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Myrcianthes gigantea,guayabo colorado,Myr_gigant,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Myrcianthes pungens,guaviyú,Myr_pungen,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Myrciaria delicatula,cambuí,Myr_delica,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Myrciaria tenella,,Myr_tenell,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Myrrhinium atropurpureum   var. octandrum,palo de fierro,Myr_atr_oc,No Prioritaria,Si
+Vasculares,Myrtales,Myrtaceae,Plinia rivularis,baporetí,Pli_rivula,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Myrtaceae,Psidium cattleianum,arazá,Psi_cattle,PRIORITARIA SNAP,Si
+Vasculares,Myrtales,Onagraceae,Epilobium hirtigerum,,Epi_hirtig,PRIORITARIA SNAP,Si
+Vasculares,Nymphaeales,Nymphaeaceae,Nymphaea amazonum   ssp. pedersenii,,Nym_amaz_p,PRIORITARIA SNAP,Si
+Vasculares,Nymphaeales,Nymphaeaceae,Nymphaea prolifera,,Nym_prolif,PRIORITARIA SNAP,Si
+Vasculares,Oxalidales,Oxalidaceae,Oxalis kurtziana,,Oxa_kurtzi,PRIORITARIA SNAP,Si
+Vasculares,Oxalidales,Oxalidaceae,Oxalis maldonadoensis,,Oxa_maldon,PRIORITARIA SNAP,Si
+Vasculares,Oxalidales,Oxalidaceae,Oxalis monticola,,Oxa_montic,PRIORITARIA SNAP,Si
+Vasculares,Papaverales,Brassicaceae,Coronopus rhytidocarpus,,Cor_rhytid,PRIORITARIA SNAP,Si
+Vasculares,Papaverales,Brassicaceae,Coronopus serratus,,Cor_serrat,PRIORITARIA SNAP,Si
+Vasculares,Papaverales,Brassicaceae,Descourania appendiculata,,Des_append,PRIORITARIA SNAP,Si
+Vasculares,Papaverales,Brassicaceae,Draba australis,,Dra_austra,PRIORITARIA SNAP,Si
+Vasculares,Papaverales,Brassicaceae,Lepidium tandilense,,Lep_tandil,PRIORITARIA SNAP,Si
+Vasculares,Papaverales,Brassicaceae,Physaria mendocina,,Phy_mendoc,PRIORITARIA SNAP,Si
+Vasculares,Picramniales,Picramniaceae,Picramnia sellowii,,Pic_sellow,PRIORITARIA,Si
+Vasculares,Pinales,Pinaceae,Pinus elliottii,pino,pin_elliot,No evaluada,No
+Vasculares,Pinales,Pinaceae,Pinus pinaster,pino marítimo,pin_pinast,No evaluada,No
+Vasculares,Piperales,Aristolochiaceae,Aristolochia macroura,,Ari_macrou,PRIORITARIA SNAP,Si
+Vasculares,Piperales,Piperaceae,Peperomia comarapana,,Pep_comara,PRIORITARIA SNAP,Si
+Vasculares,Piperales,Piperaceae,Peperomia hispidula,,Pep_hispid,PRIORITARIA SNAP,Si
+Vasculares,Piperales,Piperaceae,Peperomia pereskiifolia,,Pep_peresk,PRIORITARIA SNAP,Si
+Vasculares,Piperales,Piperaceae,Piper mikanianum,,Pip_mikani,PRIORITARIA SNAP,Si
+Vasculares,Poales,Bromeliaceae,Tillandsia arequitae,clavel del aire blanco,Til_arequi,PRIORITARIA SNAP,Si
+Vasculares,Poales,Bromeliaceae,Tillandsia ixioides,clavel del aire amarillo,Til_ixioid,PRIORITARIA SNAP,Si
+Vasculares,Poales,Bromeliaceae,Tillandsia meridionalis,,Til_meridi,PRIORITARIA SNAP,Si
+Vasculares,Poales,Bromeliaceae,Tillandsia stricta,,Til_strict,PRIORITARIA SNAP,Si
+Vasculares,Poales,Bromeliaceae,Tillandsia xiphioides,,Til_xiphio,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Ascolepis brasiliensis,,Asc_brasil,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Bolboschoenus robustus,,Bol_robust,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Carex brasiliensis,,Car_brasil,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Carex distenta,,Car_disten,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Carex uruguensis,,Car_urugue,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Carex vixdentata,,Car_vixden,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Cladium jamaicense,,Cla_jamaic,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Cyperus berroi,,Cyp_berroi,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Cyperus felipponei,,Cyp_felipp,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Cyperus impolitus,,Cyp_impoli,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Cyperus uncinulatus,,Cyp_uncinu,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Eleocharis contracta,,Ele_contra,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Eleocharis maculosa,,Ele_maculo,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Eleocharis montevidensis,,Ele_montev,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Eleocharis nana,,Ele_nana,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Eleocharis nudipes,,Ele_nudipe,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Eleocharis obtusetrigona,,Ele_obtuse,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Eleocharis rabenii,,Ele_rabeni,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Eleocharis sellowiana,,Ele_sellow,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Fimbristylis complanata,,Fim_compla,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Fimbristylis spadicea,,Fim_spadic,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Fuirena incompleta,,Fui_incomp,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Oxycarium cubense,,Oxy_cubens,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Oxycarium cubense   var. paraguayense,,Oxy_cube_p,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Pycreus unioloides,,Pyc_uniolo,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Rhynchospora asperula,,Rhy_asperu,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Rhynchospora corymbosa   var. legrandii,,Rhy_cory_l,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Rhynchospora crinigera,,Rhy_crinig,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Rhynchospora globosa,,Rhy_globos,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Rhynchospora hieronymii   ssp. montevidensis,,Rhy_hier_m,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Rhynchospora holoschoenoides,,Rhy_holosc,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Rhynchospora pungens,,Rhy_pungen,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Rhynchospora robusta,,Rhy_robust,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Rhynchospora rugosa,,Rhy_rugosa,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Schoenoplectus tabernaemontai,,Sch_tabern,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Schoenus nigricans,,Sch_nigric,PRIORITARIA SNAP,Si
+Vasculares,Poales,Cyperaceae,Scleria leptostachya,,Scl_leptos,PRIORITARIA SNAP,Si
+Vasculares,Poales,Eriocaulaceae,Eriocaulon arechavaletae,,Eri_arecha,PRIORITARIA SNAP,Si
+Vasculares,Poales,Eriocaulaceae,Eriocaulon magnificum,,Eri_magnif,PRIORITARIA SNAP,Si
+Vasculares,Poales,Eriocaulaceae,Eriocaulon modestum,,Eri_modest,PRIORITARIA SNAP,Si
+Vasculares,Poales,Eriocaulaceae,Syngonanthus caulescens,,Syn_caules,PRIORITARIA SNAP,Si
+Vasculares,Poales,Eriocaulaceae,Syngonanthus gracilis,,Syn_gracil,PRIORITARIA SNAP,Si
+Vasculares,Poales,Juncaceae,Juncus capitatus,,Jun_capita,PRIORITARIA SNAP,Si
+Vasculares,Poales,Juncaceae,Luzula campestris   var. ostenii,,Luz_camp_o,PRIORITARIA SNAP,Si
+Vasculares,Poales,Mayacaceae,Mayaca sellowiana,,May_sellow,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Acroceras zizanioides,,Acr_zizani,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Agrostis lenis,,Agr_lenis,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Alopecurus bonariensis,,Alo_bonari,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Andropogon glaucophyllus,,And_glauco,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Andropogon lindmanii,,And_lindma,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Aristida echinulata,,Ari_echinu,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Aristida hackelii,,Ari_hackel,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Aristida jubata,,Ari_jubata,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Aristida megapotamica,,Ari_megapo,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Aristida uruguayensis   var. laevis,,Ari_urug_l,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Arundo donax,caña de castilla,aru_donax,No evaluada,No
+Vasculares,Poales,Poaceae,Axonopus rosengurttii,,Axo_roseng,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Bouteloua media,,Bou_media,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Chascolytrum parodianum,,Cha_parodi,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Chloris berroi,,Chl_berroi,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Chusquea juergensii,,Chu_juerge,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Cynodon dactylon,"gramilla ,  pasto bermuda",cyn_dactyl,No evaluada,No
+Vasculares,Poales,Poaceae,Cynodon distichioides,,Cyn_distic,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Danthonia rhizomata,,Dan_rhizom,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Deyeuxia alba   var. tricholemma,,Dey_alba_t,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Digitaria californica,,Dig_califo,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Digitaria cuyabensis,,Dig_cuyabe,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Digitaria eriostachya,,Dig_eriost,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Digitaria phaeotrix   var. adusta,,Dig_phae_a,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Digitaria sacchariflora,,Dig_saccha,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Echinochloa crusgalli   var. mitis,,Ech_crus_m,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Echinochloa polystachya,,Ech_polyst,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Echinochloa polystachya   var. spectabilis,,Ech_poly_s,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Eragrostis perennis,,Era_perenn,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Eragrostis plana,capin annoni,era_plana,No evaluada,No
+Vasculares,Poales,Poaceae,Erianthecium bulbosum,,Eri_bulbos,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Eriochrysis cayennensis,,Eri_cayenn,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Eustachys distichophylla,,Eus_distic,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Festuca fimbriata,,Fes_fimbri,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Guadua angustifolia,,Gua_angust,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Guadua chacoensis,tacuaruzú,Gua_chacoe,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Guadua trinii,tacuara,Gua_trinii,No Prioritaria,Si
+Vasculares,Poales,Poaceae,Gymnopogon burchellii,,Gym_burche,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Gymnopogon legrandii,,Gym_legran,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Homolepis glutinosa,,Hom_glutin,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Hordeum flexuosum,,Hor_flexuo,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Hymenachne pernambucense,,Hym_pernam,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Hypogynium virgatum,,Hyp_virgat,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Ichnanthus pallens,,Ich_pallen,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Koeleria permollis,,Koe_permol,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Leptochloa chloridiformis,,Lep_chlori,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Litachne pauciflora,,Lit_paucif,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Melica animarum,,Mel_animar,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Melica argyrea,,Mel_argyre,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Melica brevicoronata,,Mel_brevic,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Melica parodiana,,Mel_parodi,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Melica serrana,,Mel_serran,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Oplismenopsis najada,,Opl_najada,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Panicum glabripes,,Pan_glabri,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Panicum olyroides   ssp. hirsutum,,Pan_olyr_h,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Panicum peladoense,,Pan_pelado,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Panicum sellowii,,Pan_sellow,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Panicum trichanthum,,Pan_tricha,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Panicum validum,,Pan_validu,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Pappophorum philippianum,,Pap_philip,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum durifolium,,Pas_durifo,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum equitans,,Pas_equita,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum erianthum,,Pas_eriant,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum falcatum,,Pas_falcat,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum glaucescens,,Pas_glauce,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum guenoarum   var. rojasii,,Pas_guen_r,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum jurgensii,,Pas_jurgen,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum mandiocanum,,Pas_mandio,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum notatum   var. saurae,,Pas_nota_s,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum paniculatum,,Pas_panicu,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum quarinii,,Pas_quarin,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum repens,,Pas_repens,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum simplex,,Pas_simple,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum stellatum,,Pas_stella,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum umbrosum,,Pas_umbros,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Paspalum unispicatum,,Pas_unispi,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Pennisetum nervosum,,Pen_nervos,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Pharus lappulaceus,,Pha_lappul,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Phragmites australis,,Phr_austra,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Piptochaetium calvescens,,Pip_calves,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Piptochaetium cucullatum,,Pip_cucull,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Piptochaetium hackelii,,Pip_hackel,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Piptochaetium jubatum,,Pip_jubatu,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Piptochaetium medium,,Pip_medium,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Poa arechavaletae,,Poa_arecha,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Poa megalantha,,Poa_megala,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Poa uruguayensis,,Poa_urugua,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Polypogon parvulus,,Pol_parvul,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Puccinellia glaucescens,,Puc_glauce,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Rhynchoryza subulata,,Rhy_subula,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Saccharum asperum,,Sac_asperu,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Saccharum villosum,,Sac_villos,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Sacciolepis vilvoides,,Sac_vilvoi,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Schizachyrium gracilipes,,Sch_gracil,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Schizachyrium scabriflorum,,Sch_scabri,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Setaria lachnea,,Set_lachne,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Setaria pampeana,,Set_pampea,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Setaria rosengurttii   var. uruguayensis,,Set_rose_u,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Setaria vaginata   var. tandilensis,,Set_vagi_t,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Sorghastrum setosum,,Sor_setosu,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Sorghastrum stipoides,,Sor_stipoi,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Sorghastrum viride,,Sor_viride,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Sorghum halepense,"cañota ,  sorgo de halepo",sor_halepe,No evaluada,No
+Vasculares,Poales,Poaceae,Spartina longispica,,Spa_longis,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Sporobolus monandrus,,Spo_monand,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Sporobolus multinodis,,Spo_multin,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Steinchisma spathellosa,,Ste_spathe,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa arechavaletae,,Sti_arecha,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa crassiflora,,Sti_crassi,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa curamalalensis,,Sti_curama,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa entrerriensis,,Sti_entrer,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa formicarum,,Sti_formic,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa juergensii,,Sti_juerge,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa juncoides,,Sti_juncoi,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa leptocoronata,,Sti_leptoc,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa longicoronata,,Sti_longic,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa pauciciliata,,Sti_paucic,PRIORITARIA SNAP,Si
+Vasculares,Poales,Poaceae,Stipa poeppigiana,,Sti_poeppi,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa quinqueciliata,,Sti_quinqu,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa rosengurttii,,Sti_roseng,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa spegazzinii,,Sti_spegaz,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa subnitida,,Sti_subnit,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa tenuiculmis,,Sti_tenuic,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa torquata,,Sti_torqua,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Stipa trichotoma,,Sti_tricho,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Trichloris crinita,,Tri_crinit,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Tripogon ekmanii,,Tri_ekmani,PRIORITARIA,Si
+Vasculares,Poales,Poaceae,Willkommia texana   ssp. stolonifera,,Wil_texa_s,PRIORITARIA,Si
+Vasculares,Ranunculales,Berberidaceae,Berberis laurina,espina amarilla,Ber_laurin,No Prioritaria,Si
+Vasculares,Ranunculales,Berberidaceae,Berberis ruscifolia,espina amarilla,Ber_ruscif,No Prioritaria,Si
+Vasculares,Rosales,Cannabaceae,Celtis iguanea,tala gateador,Cel_iguane,No Prioritaria,Si
+Vasculares,Rosales,Cannabaceae,Celtis pallida,talita,Cel_pallid,No Prioritaria,Si
+Vasculares,Rosales,Cannabaceae,Celtis tala,tala,Cel_tala,No Prioritaria,Si
+Vasculares,Rosales,Moraceae,Ficus luschnathiana,higuerón,Fic_luschn,No Prioritaria,Si
+Vasculares,Rosales,Moraceae,Ficus organensis,higuerón de hoja chica,Fic_organe,PRIORITARIA SNAP,Si
+Vasculares,Rosales,Pittosporaceae,Pittosporum undulatum,"azarero ,  pitosporo",pit_undula,No evaluada,No
+Vasculares,Rosales,Rhamnaceae,Colletia paradoxa,espina de la cruz,Col_parado,No Prioritaria,Si
+Vasculares,Rosales,Rhamnaceae,Colletia spinosissima,quina de campo,Col_spinos,No Prioritaria,Si
+Vasculares,Rosales,Rhamnaceae,Condalia buxifolia,molle bagual,Con_buxifo,No Prioritaria,Si
+Vasculares,Rosales,Rhamnaceae,Discaria americana,quina del campo,Dis_americ,No Prioritaria,Si
+Vasculares,Rosales,Rhamnaceae,Scutia buxifolia,coronilla,Scu_buxifo,No Prioritaria,Si
+Vasculares,Rosales,Rosaceae,Cotoneaster sp.,cratego,cot_oneast,No evaluada,No
+Vasculares,Rosales,Rosaceae,Crataegus sp.,cratego,cra_taegus,No evaluada,No
+Vasculares,Rosales,Rosaceae,Prunus subcoriacea,duraznero bravo,Pru_subcor,No Prioritaria,Si
+Vasculares,Rosales,Rosaceae,Pyracantha sp.,cratego,pyr_acanth,No evaluada,No
+Vasculares,Rosales,Rosaceae,Rubus ulmifolius,zarzamora,rub_ulmifo,No evaluada,No
+Vasculares,Santalales,Loranthaceae,Tripodanthus acutifolius,yerba del pajarito,Tri_acutif,No Prioritaria,Si
+Vasculares,Santalales,Loranthaceae,Tripodanthus flagellaris,,Tri_flagel,PRIORITARIA SNAP,Si
+Vasculares,Santalales,Santalaceae,Acanthosyris spinescens,quebracho flojo,Aca_spines,No Prioritaria,Si
+Vasculares,Santalales,Santalaceae,Jodina rhombifolia,sombra de toro,Jod_rhombi,No Prioritaria,Si
+Vasculares,Santalales,Viscaceae,Phoradendron liga,,Pho_liga,PRIORITARIA,Si
+Vasculares,Santalales,Viscaceae,Phoradendron reductum,,Pho_reduct,PRIORITARIA,Si
+Vasculares,Sapindales,Anacardiaceae,Lithraea brasiliensis,aruera,Lit_brasil,No Prioritaria,Si
+Vasculares,Sapindales,Anacardiaceae,Lithrea molleoides,aruera,Lit_molleo,No Prioritaria,Si
+Vasculares,Sapindales,Anacardiaceae,Schinus engleri,molle rastrero,Sch_engler,No Prioritaria,Si
+Vasculares,Sapindales,Anacardiaceae,Schinus ferox,molle,Sch_ferox,PRIORITARIA SNAP,Si
+Vasculares,Sapindales,Anacardiaceae,Schinus lentiscifolia,carobá,Sch_lentis,No Prioritaria,Si
+Vasculares,Sapindales,Anacardiaceae,Schinus longifolius,molle,Sch_longif,No Prioritaria,Si
+Vasculares,Sapindales,Anacardiaceae,Schinus molle,anacahuita,Sch_molle,No Prioritaria,Si
+Vasculares,Sapindales,Anacardiaceae,Schinus sinuatus,molle,Sch_sinuat,PRIORITARIA SNAP,Si
+Vasculares,Sapindales,Meliaceae,Guarea macrophylla   ssp. spicaeflora,cedrillo,Gua_mac_sp,PRIORITARIA SNAP,Si
+Vasculares,Sapindales,Meliaceae,Trichilia elegans,cedrillo,Tri_elegan,PRIORITARIA SNAP,Si
+Vasculares,Sapindales,Sapindaceae,Allophyllus edulis,chal-chal,All_edulis,No Prioritaria,Si
+Vasculares,Sapindales,Sapindaceae,Allophyllus guaraniticus,chal-chal,All_guaran,PRIORITARIA,Si
+Vasculares,Sapindales,Sapindaceae,Cupania vernalis,camboatá,Cup_vernal,No Prioritaria,Si
+Vasculares,Sapindales,Sapindaceae,Dodonaea viscosa,chirca de monte,Dod_viscos,No Prioritaria,Si
+Vasculares,Sapindales,Sapindaceae,Matayba eleagnoides,camboatá blanco,Mat_eleagn,No Prioritaria,Si
+Vasculares,Sapindales,Sapindaceae,Serjania herteri,,Ser_herter,PRIORITARIA,Si
+Vasculares,Sapindales,Simaroubaceae,Castela tweediei,granadillo,Cas_tweedi,No Prioritaria,Si
+Vasculares,Saxifragales,Crassulaceae,Crassula caudiculata,,Cra_caudic,PRIORITARIA SNAP,Si
+Vasculares,Saxifragales,Haloragaceae,Gunnera herteri,,Gun_herter,PRIORITARIA SNAP,Si
+Vasculares,Saxifragales,Haloragaceae,Laurembergia tetrandra,,Lau_tetran,PRIORITARIA SNAP,Si
+Vasculares,Saxifragales,Haloragaceae,Myriophyllum quitense,,Myr_quiten,PRIORITARIA SNAP,Si
+Vasculares,Solanales,Convolvulaceae,Cressa truxillensis,,Cre_truxil,PRIORITARIA SNAP,Si
+Vasculares,Solanales,Convolvulaceae,Ipomoea fimbriosepala,,Ipo_fimbri,PRIORITARIA SNAP,Si
+Vasculares,Solanales,Convolvulaceae,Ipomoea kunthiana,,Ipo_kunthi,PRIORITARIA SNAP,Si
+Vasculares,Solanales,Convolvulaceae,Ipomoea malvaeoides,,Ipo_malvae,PRIORITARIA SNAP,Si
+Vasculares,Solanales,Convolvulaceae,Ipomoea nitida,,Ipo_nitida,PRIORITARIA SNAP,Si
+Vasculares,Solanales,Convolvulaceae,Ipomoea tacuaremboense,,Ipo_tacuar,PRIORITARIA SNAP,Si
+Vasculares,Solanales,Convolvulaceae,Merremia dissecta,,Mer_dissec,PRIORITARIA SNAP,Si
+Vasculares,Solanales,Solanaceae,Calibrachoa humilis,,Cal_humili,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Calibrachoa linearis,,Cal_linear,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Capsicum baccatum,,Cap_baccat,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Cestrum euanthes,duraznillo negro,Ces_euanth,No Prioritaria,Si
+Vasculares,Solanales,Solanaceae,Cestrum parqui,duraznillo negro,Ces_parqui,No Prioritaria,Si
+Vasculares,Solanales,Solanaceae,Cestrum strigillatum,durzanillo,Ces_strigi,No Prioritaria,Si
+Vasculares,Solanales,Solanaceae,Grabowskia duplicata,,Gra_duplic,No Prioritaria,Si
+Vasculares,Solanales,Solanaceae,Lycium cestroides,talilla,Lyc_cestro,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Lycium ciliatum,talilla,Lyc_ciliat,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Lycium vimineum,talilla,Lyc_vimine,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Nierembergia aristata,,Nie_arista,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Nierembergia calycina,,Nie_calyci,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Nierembergia ericoides,,Nie_ericoi,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Nierembergia micrantha,,Nie_micran,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Petunia integrifolia   ssp. depauperata,,Pet_inte_d,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Sclerophylax lorentzianus,,Scl_lorent,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Sessea vestioides,,Ses_vestio,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Solanum bonariense,naranjillo,Sol_bonari,No Prioritaria,Si
+Vasculares,Solanales,Solanaceae,Solanum chacoense,,Sol_chacoe,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Solanum commersonii   ssp. malmeanum,,Sol_com_ma,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Solanum glaucophyllum,duraznillo de bañado,Sol_glauco,No Prioritaria,Si
+Vasculares,Solanales,Solanaceae,Solanum granulosum-leprosum,tabaquillo del monte,Sol_granul,No Prioritaria,Si
+Vasculares,Solanales,Solanaceae,Solanum mauritianum,tabaquillo del monte,Sol_maurit,No Prioritaria,Si
+Vasculares,Solanales,Solanaceae,Solanum platense,,Sol_platen,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Solanum pygmaeum,,Sol_pygmae,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Solanum sanctae-catharinae,,Sol_sancta,No Prioritaria,Si
+Vasculares,Solanales,Solanaceae,Solanum tucumanense,,Sol_tucuma,PRIORITARIA,Si
+Vasculares,Solanales,Solanaceae,Vassobia breviflora,,Vas_brevif,No Prioritaria,Si
+Vasculares,Violales,Begoniaceae,Begonia subvillosa,,Beg_subvil,PRIORITARIA SNAP,Si
+Vasculares,Violales,Passifloraceae,Passiflora elegans,,Pas_elegan,PRIORITARIA SNAP,Si
+Vasculares,Violales,Passifloraceae,Passiflora misera,,Pas_misera,PRIORITARIA SNAP,Si
+Vasculares,Violales,Turneraceae,Piriqueta suborbicularis,,Pir_suborb,PRIORITARIA,Si
+Vasculares,Violales,Turneraceae,Piriqueta taubatensis,,Pir_taubat,PRIORITARIA,Si
+Vasculares,Violales,Violaceae,Hybanthus communis,,Hyb_commun,PRIORITARIA,Si
+Vasculares,Vitales,Vitaceae,Cissus verticillata   ssp. verticillata,,Cis_vert_v,PRIORITARIA,Si
+Vasculares,Zygophyllales,Zygophyllaceae,Porlieria microphylla,guayacán,Por_microp,PRIORITARIA,Si

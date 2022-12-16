@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Florencia Grattarola">
+<meta name="dcterms.date" content="2022-12-12">
+
+<title>iNat_API</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="iNat_API_files/libs/clipboard/clipboard.min.js"></script>
+<script src="iNat_API_files/libs/quarto-html/quarto.js"></script>
+<script src="iNat_API_files/libs/quarto-html/popper.min.js"></script>
+<script src="iNat_API_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="iNat_API_files/libs/quarto-html/anchor.min.js"></script>
+<link href="iNat_API_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="iNat_API_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="iNat_API_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="iNat_API_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="iNat_API_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+<style>html{ scroll-behavior: smooth; }</style>
+<script src="iNat_API_files/libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<link href="iNat_API_files/libs/jsoneditor-5.25.6/jsoneditor.min.css" rel="stylesheet">
+<script src="iNat_API_files/libs/jsoneditor-5.25.6/jsoneditor.min.js"></script>
+<script src="iNat_API_files/libs/jsonedit-binding-3.0.0/jsonedit.js"></script>
+
+
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#first-steps-with-the-inaturalist-api" id="toc-first-steps-with-the-inaturalist-api" class="nav-link active" data-scroll-target="#first-steps-with-the-inaturalist-api">First steps with the iNaturalist API</a>
+  <ul class="collapse">
+  <li><a href="#lets-get-on-with-it" id="toc-lets-get-on-with-it" class="nav-link" data-scroll-target="#lets-get-on-with-it">Let’s get on with it!</a></li>
+  <li><a href="#assessing-users-in-naturalistauy" id="toc-assessing-users-in-naturalistauy" class="nav-link" data-scroll-target="#assessing-users-in-naturalistauy">Assessing users in NaturalistaUY</a></li>
+  <li><a href="#create-a-function-to-run-the-query-for-multiple-users" id="toc-create-a-function-to-run-the-query-for-multiple-users" class="nav-link" data-scroll-target="#create-a-function-to-run-the-query-for-multiple-users">Create a function to run the query for multiple users</a></li>
+  <li><a href="#lets-run-it" id="toc-lets-run-it" class="nav-link" data-scroll-target="#lets-run-it">Let’s run it</a></li>
+  <li><a href="#how-do-results-look" id="toc-how-do-results-look" class="nav-link" data-scroll-target="#how-do-results-look">How do results look?</a></li>
+  <li><a href="#conclusions" id="toc-conclusions" class="nav-link" data-scroll-target="#conclusions">Conclusions</a></li>
+  </ul></li>
+  </ul>
+</nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">iNat_API</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Florencia Grattarola </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">December 12, 2022</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+</header>
+
+<section id="first-steps-with-the-inaturalist-api" class="level2">
+<h2 class="anchored" data-anchor-id="first-steps-with-the-inaturalist-api">First steps with the iNaturalist API</h2>
+<p>I was interested to know how many of the users generating records on <a href="https://www.naturalista.uy">NaturalistaUY</a> (the Uruguayan site of iNaturalist), are, in fact, Uruguayan users. With <strong>Rodrigo Montiel</strong>, we are assessing the profile of observers in Uruguay (check his repo <a href="https://github.com/Rodrigo-Montiel/TesisNaturalistaUY">here</a>). So, we need to detect those users that are not from Uruguay and remove the data generated by them from our dataset. This was a perfect use case to test the <a href="https://api.inaturalist.org/v1/docs/">iNat API</a>, which, so far, I hadn’t explored.</p>
+<p>Basically, this API enables you to query the <strong>iNaturalist</strong> database by using different methods, parameters and values. For instance, you can <strong>search</strong> and <strong>fetch</strong> data on observers, such as number of observations (<code>observation_count</code>) or number of species observed (<code>species_count</code>), by providing a username (<code>user_login</code>). The result is a JSON that you can parse and analyse.</p>
+<section id="lets-get-on-with-it" class="level3">
+<h3 class="anchored" data-anchor-id="lets-get-on-with-it">Let’s get on with it!</h3>
+<p>To start with an example, I’m going to use my own username (<code>flo_grattarola</code>) as value for the <code>user_login</code> parameter to do a query, using <code>GET /observations/observers</code> (<a href="https://api.inaturalist.org/v1/docs/#!/Observations/get_observations_observers">see it in the API</a>), which ‘<em>returns observers of observations matching the search criteria and the count of observations and distinct taxa of rank species they have observed</em>’.</p>
+<p>So, by running the following query: <code>'https://api.inaturalist.org/v1/observations/observers?user_login=flo_grattarola'</code></p>
+<p>We get as output, the following data in JSON format:</p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="htmlwidget-22949347e137eafb1326" style="width:672px;height:700px;" class="jsonedit html-widget"></div>
+<script type="application/json" data-for="htmlwidget-22949347e137eafb1326">{"x":{"data":"\n{\n  \"total_results\": 1,\n  \"page\": 1,\n  \"per_page\": 500,\n  \"results\": [\n    {\n      \"user_id\": 736016,\n      \"observation_count\": 3649,\n      \"species_count\": 1246,\n      \"user\": {\n        \"id\": 736016,\n        \"login\": \"flo_grattarola\",\n        \"spam\": false,\n        \"suspended\": false,\n        \"created_at\": \"2017-12-15T15:54:34+00:00\",\n        \"login_autocomplete\": \"flo_grattarola\",\n        \"login_exact\": \"flo_grattarola\",\n        \"name\": \"Florencia Grattarola\",\n        \"name_autocomplete\": \"Florencia Grattarola\",\n        \"orcid\": \"https://orcid.org/0000-0001-8282-5732\",\n        \"icon\": \"https://static.inaturalist.org/attachments/users/icons/736016/thumb.jpeg?1513353273\",\n        \"observations_count\": 3649,\n        \"identifications_count\": 5779,\n        \"journal_posts_count\": 1,\n        \"activity_count\": 9429,\n        \"species_count\": 1419,\n        \"universal_search_rank\": 3649,\n        \"roles\": [\n          \"curator\"\n        ],\n        \"site_id\": 28,\n        \"icon_url\": \"https://static.inaturalist.org/attachments/users/icons/736016/medium.jpeg?1513353273\"\n      }\n    }\n  ]\n}","options":{"mode":"code","modes":["code","form","text","tree","view"]}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+<p><br> Great! This query gives us all the data we need, especially the <code>observation_count</code> value for each user.</p>
+</section>
+<section id="assessing-users-in-naturalistauy" class="level3">
+<h3 class="anchored" data-anchor-id="assessing-users-in-naturalistauy">Assessing users in NaturalistaUY</h3>
+<div class="cell">
+
+</div>
+<p>First, we need to download the data from <a href="naturalista.uy">naturalista.uy</a> (ours was downloaded on 2022-10-27). Then, we calculate the number of observations made by each user in Uruguay (<code>observation_count_UY</code>), and keep the <code>user_id</code> and <code>user_login</code> variables. You can do this by using functions <code>group_by()</code> and <code>count()</code>. You could also do this using the API, but in our case, we already had the data.</p>
+<p>We found a total of <strong>1972</strong> users in NaturalistaUY. The user with largest number of records has <strong>5008</strong> observations and on average users have uploaded <strong>30.3</strong> records to iNat.</p>
+<p>Here’s a glance of the data:</p>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-sm table-striped">
+<thead>
+<tr class="header">
+<th style="text-align: right;">user_id</th>
+<th style="text-align: left;">user_login</th>
+<th style="text-align: right;">observation_count_UY</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">11503</td>
+<td style="text-align: left;">noelia</td>
+<td style="text-align: right;">158</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">1255162</td>
+<td style="text-align: left;">romigaleota</td>
+<td style="text-align: right;">204</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">1368063</td>
+<td style="text-align: left;">goncrisdi</td>
+<td style="text-align: right;">135</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">1469479</td>
+<td style="text-align: left;">jorgejuanrueda</td>
+<td style="text-align: right;">230</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">1569449</td>
+<td style="text-align: left;">beln15</td>
+<td style="text-align: right;">133</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2348924</td>
+<td style="text-align: left;">ceciliapomboposente</td>
+<td style="text-align: right;">121</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2640130</td>
+<td style="text-align: left;">patriciabidondo</td>
+<td style="text-align: right;">205</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2988066</td>
+<td style="text-align: left;">weba69</td>
+<td style="text-align: right;">165</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">3262606</td>
+<td style="text-align: left;">bert_in_the_skirt</td>
+<td style="text-align: right;">203</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">4109374</td>
+<td style="text-align: left;">vanesssa_v</td>
+<td style="text-align: right;">149</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>
+<section id="create-a-function-to-run-the-query-for-multiple-users" class="level3">
+<h3 class="anchored" data-anchor-id="create-a-function-to-run-the-query-for-multiple-users">Create a function to run the query for multiple users</h3>
+<p>The idea now is to be able to run the test query from above for <strong>all</strong> the users of NaturalistaUY, get their <code>observation_count</code>s and compare them with the number of observations these users have in Uruguay (i.e., proportion of observations recorded in Uruguay vs in the rest of the world).</p>
+<p>The function <code>get_observers_num_observations()</code> takes a list of users’ login names (<code>user_login</code>) and returns a tibble with <code>user_id</code>, <code>user_login</code> and <code>observation_count_iNat</code>. This last count is the total number of observations of the users in the platform.</p>
+<p>An <strong>important consideration</strong> to using this API is that we could flood it by querying all users together, as iNat limits the API usage to a max of 100 requests per minute. So, we need to create a delay in the fetching process. We will do this by pausing the query for 10 seconds every ten rows, using <code>Sys.sleep()</code>.</p>
+<p>Here’s the function:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(httr)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(jsonlite)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>get_observers_num_observations <span class="ot">&lt;-</span> <span class="cf">function</span>(user_login_list){</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  observers_num_observations <span class="ot">&lt;-</span> <span class="fu">tibble</span>(<span class="at">user_id =</span> <span class="fu">numeric</span>(), </span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>                                       <span class="at">user_login =</span> <span class="fu">character</span>(),</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>                                       <span class="at">observation_count_iNat =</span> <span class="fu">numeric</span>())</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a> </span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  num_results <span class="ot">&lt;-</span> <span class="dv">1</span>  <span class="co"># se usa para dormir la llamada a la API y para imprimir en consola el progreso</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>  <span class="cf">for</span> (user_login <span class="cf">in</span> user_login_list) {</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> ((num_results <span class="sc">%%</span> <span class="dv">10</span>) <span class="sc">+</span> <span class="dv">10</span> <span class="sc">==</span> <span class="dv">10</span>) { </span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>      <span class="fu">Sys.sleep</span>(<span class="dv">10</span>) <span class="co"># La API necesita un delay porque si no da error. Cada 10 users, el código para 10 segundos</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    }</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>    call <span class="ot">&lt;-</span> <span class="fu">paste0</span>(<span class="st">"https://api.inaturalist.org/v1/observations/observers?user_login="</span>, user_login)</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>    get_json_call <span class="ot">&lt;-</span> <span class="fu">GET</span>(<span class="at">url =</span> call) <span class="sc">%&gt;%</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>      <span class="fu">content</span>(<span class="at">as =</span> <span class="st">"text"</span>) <span class="sc">%&gt;%</span> <span class="fu">fromJSON</span>(<span class="at">flatten =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> (<span class="fu">is.null</span>(get_json_call)) {</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>      observer_num_observations <span class="ot">&lt;-</span> <span class="fu">tibble</span>(<span class="at">user_id =</span> <span class="cn">NA</span>, </span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>                                          <span class="at">user_login =</span> user_login,</span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>                                          <span class="at">observation_count_iNat =</span> <span class="cn">NA</span>)</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>      observers_num_observations <span class="ot">&lt;-</span> <span class="fu">rbind</span>(observers_num_observations, observer_num_observations)</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>      <span class="fu">cat</span>(num_results, <span class="st">'usuario:'</span>, user_login, <span class="st">'--&gt; NOT FOUND'</span>, <span class="st">'</span><span class="sc">\n</span><span class="st">'</span>)</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>    }</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span> {</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>      results <span class="ot">&lt;-</span> <span class="fu">as_tibble</span>(get_json_call<span class="sc">$</span>results) </span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>      observer_num_observations <span class="ot">&lt;-</span> <span class="fu">tibble</span>(<span class="at">user_id =</span> results<span class="sc">$</span>user_id,</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>                                          <span class="at">user_login =</span> results<span class="sc">$</span>user.login,</span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>                                          <span class="at">observation_count_iNat =</span> results<span class="sc">$</span>observation_count)</span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>      observers_num_observations <span class="ot">&lt;-</span> <span class="fu">rbind</span>(observers_num_observations, observer_num_observations)</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>      <span class="fu">cat</span>(num_results, <span class="st">'usuario:'</span>, user_login, <span class="st">'--&gt; DONE'</span>, <span class="st">'</span><span class="sc">\n</span><span class="st">'</span>)</span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>    }</span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>    num_results <span class="ot">&lt;-</span> <span class="fu">nrow</span>(observers_num_observations) <span class="sc">+</span> <span class="dv">1</span> </span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>  <span class="fu">return</span>(observers_num_observations)</span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>It is probably written in a too complicated way, but it does the job 🥹</p>
+</section>
+<section id="lets-run-it" class="level3">
+<h3 class="anchored" data-anchor-id="lets-run-it">Let’s run it</h3>
+<p>To run the function, we need to provide a list of users’ <code>user_login</code>s. Let’s use as an example the previous list.</p>
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code> [1] "noelia"              "romigaleota"         "goncrisdi"          
+ [4] "jorgejuanrueda"      "beln15"              "ceciliapomboposente"
+ [7] "patriciabidondo"     "weba69"              "bert_in_the_skirt"  
+[10] "vanesssa_v"         </code></pre>
+</div>
+</div>
+<p>When we run it, the function prints in the console the users’ <code>user_login</code> that it is assessing, so we can have an idea of the progress. If the user is found it will print the name and <code>--&gt; DONE</code>, while if it’s not found, it will return <code>--&gt; NOT FOUND</code>.</p>
+<div class="cell">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>NatUY_users_assessment <span class="ot">&lt;-</span> <span class="fu">get_observers_num_observations</span>(NatUY_users_selection<span class="sc">$</span>user_login)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>1 usuario: noelia --&gt; DONE 
+2 usuario: romigaleota --&gt; DONE 
+3 usuario: goncrisdi --&gt; DONE 
+4 usuario: jorgejuanrueda --&gt; DONE 
+5 usuario: beln15 --&gt; DONE 
+6 usuario: ceciliapomboposente --&gt; DONE 
+7 usuario: patriciabidondo --&gt; DONE 
+8 usuario: weba69 --&gt; DONE 
+9 usuario: bert_in_the_skirt --&gt; DONE 
+10 usuario: vanesssa_v --&gt; DONE </code></pre>
+</div>
+</div>
+</section>
+<section id="how-do-results-look" class="level3">
+<h3 class="anchored" data-anchor-id="how-do-results-look">How do results look?</h3>
+<p>In the end we get a table with the counts.</p>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-sm table-striped">
+<thead>
+<tr class="header">
+<th style="text-align: right;">user_id</th>
+<th style="text-align: left;">user_login</th>
+<th style="text-align: right;">observation_count_iNat</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">11503</td>
+<td style="text-align: left;">noelia</td>
+<td style="text-align: right;">162</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">1255162</td>
+<td style="text-align: left;">romigaleota</td>
+<td style="text-align: right;">4218</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">1368063</td>
+<td style="text-align: left;">goncrisdi</td>
+<td style="text-align: right;">23147</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">1469479</td>
+<td style="text-align: left;">jorgejuanrueda</td>
+<td style="text-align: right;">7023</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">1569449</td>
+<td style="text-align: left;">beln15</td>
+<td style="text-align: right;">133</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2348924</td>
+<td style="text-align: left;">ceciliapomboposente</td>
+<td style="text-align: right;">158</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2640130</td>
+<td style="text-align: left;">patriciabidondo</td>
+<td style="text-align: right;">388</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2988066</td>
+<td style="text-align: left;">weba69</td>
+<td style="text-align: right;">1728</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">3262606</td>
+<td style="text-align: left;">bert_in_the_skirt</td>
+<td style="text-align: right;">204</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">4109374</td>
+<td style="text-align: left;">vanesssa_v</td>
+<td style="text-align: right;">179</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>Finally, we merge the results with our original table and count the proportion of records from each user that were recorded in Uruguay. We can even make a guess of who is Uruguayan (those that did more than %30 of their observations in Uruguay), see variable <code>esUruguaye</code>.</p>
+<div class="cell">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">left_join</span>(NatUY_users_selection, NatUY_users_assessment) <span class="sc">%&gt;%</span> </span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">proporcion =</span> <span class="fu">round</span>(observation_count_UY<span class="sc">*</span><span class="dv">100</span><span class="sc">/</span>observation_count_iNat, <span class="dv">3</span>),</span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>         <span class="at">esUruguaye =</span> <span class="fu">ifelse</span>(proporcion<span class="sc">&gt;=</span><span class="dv">33</span>, <span class="st">'si'</span>, <span class="st">'no'</span>)) <span class="sc">%&gt;%</span> kable</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output-display">
+<table class="table table-sm table-striped">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 21%">
+<col style="width: 22%">
+<col style="width: 24%">
+<col style="width: 11%">
+<col style="width: 11%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: right;">user_id</th>
+<th style="text-align: left;">user_login</th>
+<th style="text-align: right;">observation_count_UY</th>
+<th style="text-align: right;">observation_count_iNat</th>
+<th style="text-align: right;">proporcion</th>
+<th style="text-align: left;">esUruguaye</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">11503</td>
+<td style="text-align: left;">noelia</td>
+<td style="text-align: right;">158</td>
+<td style="text-align: right;">162</td>
+<td style="text-align: right;">97.531</td>
+<td style="text-align: left;">si</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">1255162</td>
+<td style="text-align: left;">romigaleota</td>
+<td style="text-align: right;">204</td>
+<td style="text-align: right;">4218</td>
+<td style="text-align: right;">4.836</td>
+<td style="text-align: left;">no</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">1368063</td>
+<td style="text-align: left;">goncrisdi</td>
+<td style="text-align: right;">135</td>
+<td style="text-align: right;">23147</td>
+<td style="text-align: right;">0.583</td>
+<td style="text-align: left;">no</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">1469479</td>
+<td style="text-align: left;">jorgejuanrueda</td>
+<td style="text-align: right;">230</td>
+<td style="text-align: right;">7023</td>
+<td style="text-align: right;">3.275</td>
+<td style="text-align: left;">no</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">1569449</td>
+<td style="text-align: left;">beln15</td>
+<td style="text-align: right;">133</td>
+<td style="text-align: right;">133</td>
+<td style="text-align: right;">100.000</td>
+<td style="text-align: left;">si</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2348924</td>
+<td style="text-align: left;">ceciliapomboposente</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">158</td>
+<td style="text-align: right;">76.582</td>
+<td style="text-align: left;">si</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2640130</td>
+<td style="text-align: left;">patriciabidondo</td>
+<td style="text-align: right;">205</td>
+<td style="text-align: right;">388</td>
+<td style="text-align: right;">52.835</td>
+<td style="text-align: left;">si</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2988066</td>
+<td style="text-align: left;">weba69</td>
+<td style="text-align: right;">165</td>
+<td style="text-align: right;">1728</td>
+<td style="text-align: right;">9.549</td>
+<td style="text-align: left;">no</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">3262606</td>
+<td style="text-align: left;">bert_in_the_skirt</td>
+<td style="text-align: right;">203</td>
+<td style="text-align: right;">204</td>
+<td style="text-align: right;">99.510</td>
+<td style="text-align: left;">si</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">4109374</td>
+<td style="text-align: left;">vanesssa_v</td>
+<td style="text-align: right;">149</td>
+<td style="text-align: right;">179</td>
+<td style="text-align: right;">83.240</td>
+<td style="text-align: left;">si</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>
+<section id="conclusions" class="level3">
+<h3 class="anchored" data-anchor-id="conclusions">Conclusions</h3>
+<div class="cell">
+
+</div>
+<p>From the total of <strong>1788</strong> users, <strong>1282</strong> are Uruguayans (i.e., have recorded more than 1/3 of their observations in Uruguay), while <strong>517</strong> are not. We also found <strong>11</strong> users that seem to have deleted their accounts in the platform and, thus, they were not found.</p>
+<section id="thats-all-folks" class="level4">
+<h4 class="anchored" data-anchor-id="thats-all-folks">That’s all folks!</h4>
+</section>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+<script src="iNat_API_files/libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
