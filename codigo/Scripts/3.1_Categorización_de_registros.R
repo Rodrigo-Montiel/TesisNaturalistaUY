@@ -108,7 +108,7 @@ write.csv(Tetrapodos,"datos/Lista_Tetrapodos.csv")
     scale_x_continuous()
 
 Plantas <- listado_especies %>% 
-  filter(taxon_family_name == "Fabaceae" | taxon_family_name == "Cactaceas" | 
-           taxon_family_name == "Asteraceae"|taxon_family_name == "Solanaceas")
+  filter(taxon_family_name == "Fabaceae" | taxon_family_name == "Cactaceae" | 
+           taxon_family_name == "Asteraceae"|taxon_family_name == "Solanaceae")
 
-write.csv(Plantas,"datos/Lista_Plantas.csv")
+write.csv(Plantas,"datos/Lista_Plantas_Actualizada.csv")

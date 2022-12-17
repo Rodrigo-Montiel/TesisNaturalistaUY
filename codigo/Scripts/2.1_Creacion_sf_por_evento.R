@@ -1,6 +1,7 @@
 # PAQUETES Y DATOS--------------------------------------------------------------
 library(geouy)
 library(sf)
+sf::sf_use_s2(FALSE)
 library(tidyverse)
 
 NatUY_sf <- readRDS("datos/natuysf.rds")

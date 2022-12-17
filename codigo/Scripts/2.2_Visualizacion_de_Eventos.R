@@ -1,5 +1,6 @@
 # PAQUETES Y DATOS--------------------------------------------------------------
 library(sf)
+sf::sf_use_s2(FALSE)
 library(tidyverse)
 
 
