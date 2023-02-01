@@ -1,4 +1,5 @@
 # PAQUETES Y DATOS -------------------------------------------------------------
+library(dplyr)
 library(tmap)
 library(sf)
 sf::sf_use_s2(FALSE)
@@ -10,7 +11,7 @@ library(httr)
 library(jsonlite)
 
 NatUY <- read_rds('datos/natuysf.rds')
-NatUY_dataset <- readRDS('datos/usuarios_dataset.rds')
+
 
 
 #ANALISIS DE USUARIOS ---------------------------------------------------
@@ -113,13 +114,13 @@ write_csv(NatUY_users, 'NatUY_users.csv')
 
 
 ### Uruguayxs en los registros
-NatUY_users %>% 
+Uruguayxs <- NatUY_users %>% 
   mutate(proporcion_NatUY_iNat = round(registros*100/observation_count, 3),
          esUruguaye = ifelse(proporcion_NatUY_iNat>30 , 'si', 'no')) %>% 
   filter(esUruguaye == "si") %>% 
-  group_by(esUruguaye) %>% count() 
+  group_by(esUruguaye)
 
-
+usuarios_uy <- filter(usuarios_dataset, user_id %in% Uruguayxs$user_id)
 
 ## Gráficos
 
