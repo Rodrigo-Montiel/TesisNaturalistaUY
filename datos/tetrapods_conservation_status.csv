@@ -1,607 +1,607 @@
-quality_grade,place_admin1_name,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name,species,IUCNglobal,IUCNregional,trendGlobal
-research,Rocha,Acanthochelys spixii,Animalia,Chordata,Reptilia,Testudines,Chelidae,Acanthochelys,Acanthochelys spixii,NT,LC,NA
-research,Paysandú,Accipiter bicolor,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter,Accipiter bicolor,LC,LC,Decreasing
-research,Canelones,Accipiter striatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter,Accipiter striatus,LC,LC,Increasing
-research,Maldonado,Actitis macularius,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Actitis,Actitis macularius,LC,LC,Decreasing
-research,Rocha,Agapornis personatus,Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Agapornis,Agapornis personatus,LC,NE,Stable
-research,Colonia,Agelaioides badius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelaioides,Agelaioides badius,LC,LC,Stable
-research,Salto,Agelasticus cyanopus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelasticus,Agelasticus cyanopus,LC,NE,Stable
-research,San José,Agelasticus thilius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelasticus,Agelasticus thilius,LC,LC,Stable
-research,Artigas,Agriornis murinus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Agriornis,Agriornis murinus,LC,NE,Stable
-research,Montevideo,Akodon azarae,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Akodon,Akodon azarae,LC,LC,Stable
-research,Artigas,Alopochelidon fucata,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Alopochelidon,Alopochelidon fucata,LC,LC,Stable
-research,,Alouatta caraya,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,Alouatta caraya,LC,NE,Decreasing
-research,Salto,Amazona aestiva,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Amazona,Amazona aestiva,NT,NE,Decreasing
-research,Rocha,Amazonetta brasiliensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Amazonetta,Amazonetta brasiliensis,LC,LC,Decreasing
-research,Treinta y Tres,Amblyramphus holosericeus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Amblyramphus,Amblyramphus holosericeus,LC,VU,Stable
-research,Paysandú,Ammodramus humeralis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Ammodramus,Ammodramus humeralis,LC,LC,Stable
-research,Rocha,Amphisbaena darwinii,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena,Amphisbaena darwinii,NE,LC,NA
-research,Maldonado,Amphisbaena kingii,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena,Amphisbaena kingii,NE,LC,Unknown
-research,Montevideo,Amphisbaena munoai,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena,Amphisbaena munoai,NE,LC,Stable
-research,Colonia,Anairetes flavirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Anairetes,Anairetes flavirostris,LC,NE,Stable
-research,Maldonado,Anas bahamensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,Anas bahamensis,LC,LC,Decreasing
-research,Montevideo,Anas flavirostris,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,Anas flavirostris,LC,LC,Decreasing
-research,Montevideo,Anas georgica,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,Anas georgica,LC,LC,Decreasing
-research,Montevideo,Anas platyrhynchos,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,Anas platyrhynchos,LC,NE,Increasing
-research,Maldonado,Anhima cornuta,Animalia,Chordata,Aves,Anseriformes,Anhimidae,Anhima,Anhima cornuta,LC,NE,Decreasing
-research,Salto,Anhinga anhinga,Animalia,Chordata,Aves,Suliformes,Anhingidae,Anhinga,Anhinga anhinga,LC,LC,Decreasing
-research,Montevideo,Anser anser,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,Anser anser,LC,NE,Increasing
-research,Maldonado,Anthracothorax nigricollis,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Anthracothorax,Anthracothorax nigricollis,LC,NE,Stable
-research,Maldonado,Anthus correndera,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,Anthus correndera,LC,LC,Stable
-research,Florida,Anthus furcatus,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,Anthus furcatus,LC,LC,Stable
-research,Maldonado,Anthus hellmayri,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,Anthus hellmayri,LC,LC,Stable
-research,Rocha,Anthus lutescens,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,Anthus lutescens,LC,LC,Decreasing
-research,Salto,Anthus nattereri,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,Anthus nattereri,VU,VU,Decreasing
-research,Florida,Anumbius annumbi,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Anumbius,Anumbius annumbi,LC,LC,Increasing
-research,Montevideo,Aramides cajaneus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,Aramides cajaneus,LC,LC,Stable
-research,,Aramides saracura,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,Aramides saracura,LC,NE,Decreasing
-research,Tacuarembó,Aramides ypecaha,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,Aramides ypecaha,LC,LC,Decreasing
-research,Cerro Largo,Aramus guarauna,Animalia,Chordata,Aves,Gruiformes,Aramidae,Aramus,Aramus guarauna,LC,LC,Stable
-research,Montevideo,Aratinga nenday,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Aratinga,Aratinga nenday,LC,NE,Increasing
-research,Rocha,Arctocephalus australis,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,Arctocephalus australis,LC,LC,Increasing
-research,Canelones,Arctocephalus gazella,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,Arctocephalus gazella,LC,NE,Decreasing
-research,Canelones,Arctocephalus tropicalis,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,Arctocephalus tropicalis,LC,NE,Stable
-research,Paysandú,Ardea alba,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,Ardea alba,LC,LC,Unknown
-research,Salto,Ardea cocoi,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,Ardea cocoi,LC,LC,Stable
-research,Maldonado,Ardenna gravis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Ardenna,Ardenna gravis,LC,LC,Stable
-research,Maldonado,Ardenna grisea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Ardenna,Ardenna grisea,NT,NT,Decreasing
-research,Maldonado,Arenaria interpres,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Arenaria,Arenaria interpres,LC,LC,Decreasing
-research,Montevideo,Asio clamator,Animalia,Chordata,Aves,Strigiformes,Strigidae,Asio,Asio clamator,LC,LC,Decreasing
-research,Soriano,Asio flammeus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Asio,Asio flammeus,LC,NT,Decreasing
-research,San José,Aspronema dorsivittatum,Animalia,Chordata,Reptilia,Squamata,Scincidae,Aspronema,Aspronema dorsivittatum,NE,LC,Stable
-research,Tacuarembó,Asthenes baeri,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,Asthenes baeri,LC,LC,Decreasing
-research,Colonia,Asthenes pyrrholeuca,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,Asthenes pyrrholeuca,LC,NE,Decreasing
-research,Tacuarembó,Athene cunicularia,Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,Athene cunicularia,LC,NT,Decreasing
-research,Río Negro,Axis axis,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Axis,Axis axis,LC,LC,Unknown
-research,Rocha,Balaenoptera acutorostrata,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Balaenoptera,Balaenoptera acutorostrata,LC,NE,Unknown
-research,Canelones,Bartramia longicauda,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Bartramia,Bartramia longicauda,LC,LC,Increasing
-research,Montevideo,Basileuterus culicivorus,Animalia,Chordata,Aves,Passeriformes,Parulidae,Basileuterus,Basileuterus culicivorus,LC,LC,Decreasing
-research,Florida,Boana pulchella,Animalia,Chordata,Amphibia,Anura,Hylidae,Boana,Boana pulchella,LC,LC,Stable
-research,Rocha,Boiruna maculata,Animalia,Chordata,Reptilia,Squamata,Colubridae,Boiruna,Boiruna maculata,NE,LC,Stable
-research,Maldonado,Botaurus pinnatus,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Botaurus,Botaurus pinnatus,LC,DD,Stable
-research,Rocha,Bothrops alternatus,Animalia,Chordata,Reptilia,Squamata,Viperidae,Bothrops,Bothrops alternatus,NE,LC,Unknown
-research,Cerro Largo,Bothrops pubescens,Animalia,Chordata,Reptilia,Squamata,Viperidae,Bothrops,Bothrops pubescens,NE,LC,Unknown
-research,Montevideo,Brotogeris chiriri,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Brotogeris,Brotogeris chiriri,LC,NE,Decreasing
-research,Flores,Bubo virginianus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo,Bubo virginianus,LC,LC,Stable
-research,Montevideo,Bubulcus ibis,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Bubulcus,Bubulcus ibis,LC,LC,Increasing
-research,Artigas,Busarellus nigricollis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Busarellus,Busarellus nigricollis,LC,NE,Decreasing
-research,Flores,Buteo swainsoni,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,Buteo swainsoni,LC,LC,Stable
-research,Tacuarembó,Buteogallus meridionalis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteogallus,Buteogallus meridionalis,LC,LC,Stable
-research,Artigas,Buteogallus urubitinga,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteogallus,Buteogallus urubitinga,LC,LC,Decreasing
-research,Montevideo,Butorides striata,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Butorides,Butorides striata,LC,LC,Stable
-research,Tacuarembó,Cabassous tatouay,Animalia,Chordata,Mammalia,Cingulata,Chlamyphoridae,Cabassous,Cabassous tatouay,LC,EN,Unknown
-research,Cerro Largo,Cacicus chrysopterus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,Cacicus chrysopterus,LC,LC,Stable
-research,Artigas,Cacicus haemorrhous,Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,Cacicus haemorrhous,LC,NE,Decreasing
-research,Artigas,Cacicus solitarius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,Cacicus solitarius,LC,NT,Stable
-research,Salto,Caiman latirostris,Animalia,Chordata,Reptilia,Crocodylia,Alligatoridae,Caiman,Caiman latirostris,LC,LC,Stable
-research,Montevideo,Cairina moschata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cairina,Cairina moschata,LC,EN,Decreasing
-research,Rocha,Calamodontophis paucidens,Animalia,Chordata,Reptilia,Squamata,Colubridae,Calamodontophis,Calamodontophis paucidens,VU,DD,Unknown
-research,Rocha,Calidris alba,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris alba,LC,LC,Unknown
-research,Canelones,Calidris bairdii,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris bairdii,LC,LC,Stable
-research,Rocha,Calidris canutus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris canutus,NT,EN,Decreasing
-research,Rocha,Calidris fuscicollis,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris fuscicollis,LC,LC,Decreasing
-research,Maldonado,Calidris himantopus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris himantopus,LC,LC,Increasing
-research,Colonia,Calidris melanotos,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris melanotos,LC,LC,Stable
-research,Maldonado,Calidris minutilla,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris minutilla,LC,NE,Decreasing
-research,Canelones,Calidris subruficollis,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris subruficollis,NT,VU,Decreasing
-research,Rocha,Callonetta leucophrys,Animalia,Chordata,Aves,Anseriformes,Anatidae,Callonetta,Callonetta leucophrys,LC,LC,Decreasing
-research,Río Negro,Calomys laucha,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Calomys,Calomys laucha,LC,LC,Unknown
-research,Rocha,Calonectris diomedea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris,Calonectris diomedea,LC,LC,Decreasing
-research,Salto,Campephilus leucopogon,Animalia,Chordata,Aves,Piciformes,Picidae,Campephilus,Campephilus leucopogon,LC,VU,Stable
-research,Montevideo,Camptostoma obsoletum,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Camptostoma,Camptostoma obsoletum,LC,LC,Stable
-research,Canelones,Canis familiaris,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis familiaris,NE,NE,Unknow
-research,Treinta y Tres,Capra hircus,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,Capra hircus,NE,NE,Unknow
-research,Río Negro,Caracara plancus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Caracara,Caracara plancus,LC,LC,Increasing
-research,Montevideo,Carduelis carduelis,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis,Carduelis carduelis,LC,NE,Decreasing
-research,Rocha,Caretta caretta,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Caretta,Caretta caretta,VU,VU,Decreasing
-research,Tacuarembó,Cariama cristata,Animalia,Chordata,Aves,Cariamiformes,Cariamidae,Cariama,Cariama cristata,LC,LC,Stable
-research,Artigas,Casiornis rufus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Casiornis,Casiornis rufus,LC,VU,Decreasing
-research,Paysandú,Cathartes aura,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Cathartes,Cathartes aura,LC,LC,Stable
-research,Cerro Largo,Cathartes burrovianus,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Cathartes,Cathartes burrovianus,LC,LC,Stable
-research,Rocha,Cavia aperea,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia,Cavia aperea,LC,LC,Stable
-research,Tacuarembó,Cercosaura schreibersii,Animalia,Chordata,Reptilia,Squamata,Gymnophthalmidae,Cercosaura,Cercosaura schreibersii,LC,LC,Stable
-research,Rocha,Cerdocyon thous,Animalia,Chordata,Mammalia,Carnivora,Canidae,Cerdocyon,Cerdocyon thous,LC,LC,Stable
-research,Colonia,Certhiaxis cinnamomeus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Certhiaxis,Certhiaxis cinnamomeus,LC,NT,Decreasing
-research,Florida,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,Cervus elaphus,LC,NE,Increasing
-research,Canelones,Chaetura meridionalis,Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,Chaetura,Chaetura meridionalis,LC,NE,Stable
-research,Colonia,Charadrius collaris,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius collaris,LC,LC,Decreasing
-research,Maldonado,Charadrius falklandicus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius falklandicus,LC,LC,Stable
-research,San José,Charadrius modestus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius modestus,LC,LC,Unknown
-research,Rocha,Charadrius semipalmatus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius semipalmatus,LC,LC,Stable
-research,Paysandú,Chauna torquata,Animalia,Chordata,Aves,Anseriformes,Anhimidae,Chauna,Chauna torquata,LC,LC,Stable
-research,Maldonado,Chelonia mydas,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Chelonia,Chelonia mydas,EN,VU,Decreasing
-research,Montevideo,Chionis albus,Animalia,Chordata,Aves,Charadriiformes,Chionidae,Chionis,Chionis albus,LC,LC,Stable
-research,Cerro Largo,Chironius gouveai,Animalia,Chordata,Reptilia,Squamata,Colubridae,Chironius,Chironius gouveai,NE,NE,Unknow
-research,Montevideo,Chloris chloris,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chloris,Chloris chloris,LC,NE,Stable
-research,Paysandú,Chloroceryle amazona,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Chloroceryle,Chloroceryle amazona,LC,LC,Decreasing
-research,Paysandú,Chloroceryle americana,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Chloroceryle,Chloroceryle americana,LC,LC,Decreasing
-research,Artigas,Chlorophonia cyanocephala,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chlorophonia,Chlorophonia cyanocephala,LC,NE,Unknown
-research,Río Negro,Chlorostilbon lucidus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Chlorostilbon,Chlorostilbon lucidus,LC,LC,Unknown
-research,Artigas,Chordeiles minor,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles,Chordeiles minor,LC,LC,Decreasing
-research,Canelones,Chordeiles nacunda,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles,Chordeiles nacunda,LC,LC,Stable
-research,Montevideo,Chroicocephalus cirrocephalus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chroicocephalus,Chroicocephalus cirrocephalus,LC,LC,NA
-research,Rocha,Chroicocephalus maculipennis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chroicocephalus,Chroicocephalus maculipennis,LC,LC,NA
-research,Colonia,Chrysomus ruficapillus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Chrysomus,Chrysomus ruficapillus,LC,LC,Stable
-research,Maldonado,Chthonerpeton indistinctum,Animalia,Chordata,Amphibia,Gymnophiona,Typhlonectidae,Chthonerpeton,Chthonerpeton indistinctum,LC,LC,Unknown
-research,Rocha,Ciconia maguari,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Ciconia,Ciconia maguari,LC,LC,Stable
-research,Maldonado,Cinclodes fuscus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Cinclodes,Cinclodes fuscus,LC,LC,Stable
-research,Canelones,Circus buffoni,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Circus,Circus buffoni,LC,LC,Decreasing
-research,Rocha,Circus cinereus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Circus,Circus cinereus,LC,VU,Decreasing
-research,Artigas,Cistothorus platensis,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Cistothorus,Cistothorus platensis,LC,VU,Increasing
-research,Artigas,Cnemotriccus fuscatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Cnemotriccus,Cnemotriccus fuscatus,LC,NE,Decreasing
-research,Rocha,Coccycua cinerea,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccycua,Coccycua cinerea,LC,LC,Decreasing
-research,Rocha,Coccyzus melacoryphus,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,Coccyzus melacoryphus,LC,LC,Stable
-research,Cerro Largo,Coendou spinosus,Animalia,Chordata,Mammalia,Rodentia,Erethizontidae,Coendou,Coendou spinosus,LC,VU,Unknown
-research,Maldonado,Coereba flaveola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Coereba,Coereba flaveola,LC,NE,Decreasing
-research,Rocha,Colaptes campestris,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,Colaptes campestris,LC,LC,Increasing
-research,Colonia,Colaptes melanochloros,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,Colaptes melanochloros,LC,LC,Stable
-research,Montevideo,Columba livia,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba,Columba livia,LC,NE,Decreasing
-research,Rocha,Columbina picui,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,Columbina picui,LC,LC,Stable
-research,Treinta y Tres,Columbina talpacoti,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,Columbina talpacoti,LC,LC,Increasing
-research,Cerro Largo,Conepatus chinga,Animalia,Chordata,Mammalia,Carnivora,Mephitidae,Conepatus,Conepatus chinga,LC,NT,Decreasing
-research,Cerro Largo,Conopophaga lineata,Animalia,Chordata,Aves,Passeriformes,Conopophagidae,Conopophaga,Conopophaga lineata,LC,NT,Stable
-research,Rocha,Contomastix lacertoides,Animalia,Chordata,Reptilia,Squamata,Teiidae,Contomastix,Contomastix lacertoides,NE,LC,Unknown
-research,Maldonado,Coragyps atratus,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Coragyps,Coragyps atratus,LC,LC,Increasing
-research,Maldonado,Corvus splendens,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,Corvus splendens,LC,NE,Stable
-research,Salto,Coryphistera alaudina,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Coryphistera,Coryphistera alaudina,LC,NT,Stable
-research,Tacuarembó,Coryphospingus cucullatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Coryphospingus,Coryphospingus cucullatus,LC,LC,Stable
-research,Canelones,Coscoroba coscoroba,Animalia,Chordata,Aves,Anseriformes,Anatidae,Coscoroba,Coscoroba coscoroba,LC,LC,Stable
-research,Río Negro,Cranioleuca pyrrhophia,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Cranioleuca,Cranioleuca pyrrhophia,LC,LC,Stable
-research,Cerro Largo,Crotophaga ani,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Crotophaga,Crotophaga ani,LC,LC,Stable
-research,Artigas,Crotophaga major,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Crotophaga,Crotophaga major,LC,VU,Stable
-research,Cerro Largo,Crypturellus obsoletus,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Crypturellus,Crypturellus obsoletus,LC,VU,Stable
-research,Colonia,Ctenomys pearsoni,Animalia,Chordata,Mammalia,Rodentia,Ctenomyidae,Ctenomys,Ctenomys pearsoni,NT,VU,Decreasing
-research,Cerro Largo,Ctenomys torquatus,Animalia,Chordata,Mammalia,Rodentia,Ctenomyidae,Ctenomys,Ctenomys torquatus,LC,LC,Unknown
-research,Tacuarembó,Culicivora caudacuta,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Culicivora,Culicivora caudacuta,VU,VU,Decreasing
-research,Cerro Largo,Cuniculus paca,Animalia,Chordata,Mammalia,Rodentia,Cuniculidae,Cuniculus,Cuniculus paca,LC,VU,Stable
-research,Cerro Largo,Cyanocorax caeruleus,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocorax,Cyanocorax caeruleus,NT,VU,Unknow
-research,Paysandú,Cyanocorax chrysops,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocorax,Cyanocorax chrysops,LC,LC,Decreasing
-research,Tacuarembó,Cyanoloxia brissonii,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cyanoloxia,Cyanoloxia brissonii,LC,NT,Unknown
-research,Paysandú,Cyanoloxia glaucocaerulea,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cyanoloxia,Cyanoloxia glaucocaerulea,LC,LC,Decreasing
-research,Colonia,Cyclarhis gujanensis,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Cyclarhis,Cyclarhis gujanensis,LC,LC,Decreasing
-research,Maldonado,Cygnus melancoryphus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,Cygnus melancoryphus,LC,LC,Stable
-research,Lavalleja,Dama dama,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Dama,Dama dama,LC,NE,Unknown
-research,Colonia,Dasypus novemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,Dasypus novemcinctus,LC,LC,Stable
-research,Río Negro,Dasypus septemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,Dasypus septemcinctus,LC,NE,Unknown
-research,Rocha,Delphinus delphis,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Delphinus,Delphinus delphis,LC,NE,Unknown
-research,Cerro Largo,Dendrocolaptes platyrostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Dendrocolaptes,Dendrocolaptes platyrostris,LC,NE,Stable
-research,Salto,Dendrocygna autumnalis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,Dendrocygna autumnalis,LC,NE,Increasing
-research,Canelones,Dendrocygna bicolor,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,Dendrocygna bicolor,LC,LC,Decreasing
-research,Paysandú,Dendrocygna viduata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,Dendrocygna viduata,LC,LC,Increasing
-research,Cerro Largo,Dendropsophus minutus,Animalia,Chordata,Amphibia,Anura,Hylidae,Dendropsophus,Dendropsophus minutus,LC,EN,Stable
-research,Colonia,Dendropsophus sanborni,Animalia,Chordata,Amphibia,Anura,Hylidae,Dendropsophus,Dendropsophus sanborni,LC,LC,Stable
-research,Maldonado,Dermochelys coriacea,Animalia,Chordata,Reptilia,Testudines,Dermochelyidae,Dermochelys,Dermochelys coriacea,VU,CR,Decreasing
-research,Treinta y Tres,Desmodus rotundus,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Desmodus,Desmodus rotundus,LC,LC,Stable
-research,Cerro Largo,Didelphis albiventris,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Didelphis,Didelphis albiventris,LC,LC,Stable
-research,Rocha,Diomedea epomophora,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Diomedea,Diomedea epomophora,VU,NT,Stable
-research,Paysandú,Dipsas turgida,Animalia,Chordata,Reptilia,Squamata,Colubridae,Dipsas,Dipsas turgida,NE,LC,Stable
-research,Rocha,Dolichonyx oryzivorus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Dolichonyx,Dolichonyx oryzivorus,LC,NE,Decreasing
-research,Canelones,Donacospiza albifrons,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Donacospiza,Donacospiza albifrons,LC,LC,Stable
-research,Lavalleja,Drymornis bridgesii,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Drymornis,Drymornis bridgesii,LC,LC,Stable
-research,Colonia,Dryobates mixtus,Animalia,Chordata,Aves,Piciformes,Picidae,Dryobates,Dryobates mixtus,LC,NT,Unknown
-research,Florida,Dryobates spilogaster,Animalia,Chordata,Aves,Piciformes,Picidae,Dryobates,Dryobates spilogaster,LC,LC,NA
-research,Maldonado,Egretta caerulea,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,Egretta caerulea,LC,NE,Decreasing
-research,Rocha,Egretta thula,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,Egretta thula,LC,LC,Increasing
-research,Río Negro,Elachistocleis bicolor,Animalia,Chordata,Amphibia,Anura,Microhylidae,Elachistocleis,Elachistocleis bicolor,LC,LC,Stable
-research,Maldonado,Elaenia albiceps,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,Elaenia albiceps,LC,NE,Stable
-research,Tacuarembó,Elaenia flavogaster,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,Elaenia flavogaster,LC,NE,Stable
-research,Tacuarembó,Elaenia mesoleuca,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,Elaenia mesoleuca,LC,LC,Decreasing
-research,Colonia,Elaenia parvirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,Elaenia parvirostris,LC,LC,Stable
-research,Maldonado,Elaenia sordida,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,Elaenia sordida,LC,NT,Stable
-research,Salto,Elaenia spectabilis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,Elaenia spectabilis,LC,NT,Decreasing
-research,Rocha,Elanoides forficatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanoides,Elanoides forficatus,LC,NE,Increasing
-research,Montevideo,Elanus leucurus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanus,Elanus leucurus,LC,LC,Increasing
-research,Tacuarembó,Emberizoides herbicola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Emberizoides,Emberizoides herbicola,LC,NT,Decreasing
-research,Rocha,Emberizoides ypiranganus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Emberizoides,Emberizoides ypiranganus,LC,VU,Stable
-research,Colonia,Embernagra platensis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Embernagra,Embernagra platensis,LC,LC,Stable
-research,Paysandú,Empidonomus aurantioatrocristatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonomus,Empidonomus aurantioatrocristatus,LC,LC,Unknown
-research,Cerro Largo,Empidonomus varius,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonomus,Empidonomus varius,LC,LC,Stable
-research,Paysandú,Epictia munoai,Animalia,Chordata,Reptilia,Squamata,Leptotyphlopidae,Epictia,Epictia munoai,NE,LC,Unknown
-research,Tacuarembó,Eptesicus diminutus,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,Eptesicus diminutus,LC,NE,Unknown
-research,Rocha,Eptesicus furinalis,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,Eptesicus furinalis,LC,LC,Unknown
-research,Cerro Largo,Equus asinus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus asinus,NE,NE,Unknow
-research,Lavalleja,Equus caballus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus caballus,NE,NE,Unknow
-research,Cerro Largo,Erythrolamprus almadensis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,Erythrolamprus almadensis,NE,LC,Stable
-research,Cerro Largo,Erythrolamprus jaegeri,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,Erythrolamprus jaegeri,LC,LC,Unknown
-research,Cerro Largo,Erythrolamprus poecilogyrus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,Erythrolamprus poecilogyrus,NE,LC,Increasing
-research,Paysandú,Erythrolamprus semiaureus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,Erythrolamprus semiaureus,NE,LC,Stable
-research,Maldonado,Eubalaena australis,Animalia,Chordata,Mammalia,Artiodactyla,Balaenidae,Eubalaena,Eubalaena australis,LC,EN,Unknown
-research,Rocha,Eudyptes chrysolophus,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes,Eudyptes chrysolophus,VU,VU,Decreasing
-research,Tacuarembó,Eumops bonariensis,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Eumops,Eumops bonariensis,LC,LC,Unknown
-research,Canelones,Eupetomena macroura,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Eupetomena,Eupetomena macroura,LC,NE,Unknown
-research,Artigas,Euphonia chlorotica,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Euphonia,Euphonia chlorotica,LC,NE,Stable
-research,Salto,Euphractus sexcinctus,Animalia,Chordata,Mammalia,Cingulata,Chlamyphoridae,Euphractus,Euphractus sexcinctus,LC,NT,Stable
-research,Paysandú,Euscarthmus meloryphus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Euscarthmus,Euscarthmus meloryphus,LC,LC,Increasing
-research,Canelones,Falco femoralis,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,Falco femoralis,LC,LC,Decreasing
-research,Florida,Falco peregrinus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,Falco peregrinus,LC,LC,Increasing
-research,Rocha,Falco sparverius,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,Falco sparverius,LC,LC,Stable
-research,Maldonado,Felis catus,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,Felis catus,NE,NE,Unknow
-research,Rivera,Florisuga fusca,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Florisuga,Florisuga fusca,LC,LC,Unknown
-research,Maldonado,Fluvicola albiventer,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola,Fluvicola albiventer,LC,NT,Stable
-research,Artigas,Fluvicola nengeta,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola,Fluvicola nengeta,LC,NE,Increasing
-research,Maldonado,Fregata magnificens,Animalia,Chordata,Aves,Suliformes,Fregatidae,Fregata,Fregata magnificens,LC,LC,Decreasing
-research,Montevideo,Fulica armillata,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,Fulica armillata,LC,LC,Unknown
-research,Maldonado,Fulica leucoptera,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,Fulica leucoptera,LC,LC,Stable
-research,Maldonado,Fulica rufifrons,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,Fulica rufifrons,LC,LC,Stable
-research,Montevideo,Furnarius rufus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnarius,Furnarius rufus,LC,LC,Increasing
-research,Maldonado,Galictis cuja,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Galictis,Galictis cuja,LC,LC,Unknown
-research,Rocha,Gallinago magellanica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,Gallinago magellanica,LC,NE,Decreasing
-research,Colonia,Gallinago paraguaiae,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,Gallinago paraguaiae,LC,LC,Stable
-research,Montevideo,Gallinula galeata,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula,Gallinula galeata,LC,LC,Stable
-research,San José,Gelochelidon nilotica,Animalia,Chordata,Aves,Charadriiformes,Laridae,Gelochelidon,Gelochelidon nilotica,LC,LC,Decreasing
-research,Canelones,Geositta cunicularia,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Geositta,Geositta cunicularia,LC,LC,Decreasing
-research,Montevideo,Geothlypis aequinoctialis,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,Geothlypis aequinoctialis,LC,LC,Stable
-research,Maldonado,Geotrygon montana,Animalia,Chordata,Aves,Columbiformes,Columbidae,Geotrygon,Geotrygon montana,LC,NE,Decreasing
-research,Canelones,Geranoaetus albicaudatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranoaetus,Geranoaetus albicaudatus,LC,LC,Unknown
-research,Rocha,Geranoaetus melanoleucus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranoaetus,Geranoaetus melanoleucus,LC,VU,Stable
-research,Paysandú,Geranospiza caerulescens,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranospiza,Geranospiza caerulescens,LC,LC,Decreasing
-research,Cerro Largo,Glaucidium brasilianum,Animalia,Chordata,Aves,Strigiformes,Strigidae,Glaucidium,Glaucidium brasilianum,LC,LC,Decreasing
-research,Treinta y Tres,Gnorimopsar chopi,Animalia,Chordata,Aves,Passeriformes,Icteridae,Gnorimopsar,Gnorimopsar chopi,LC,LC,Stable
-research,Lavalleja,Gubernatrix cristata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Gubernatrix,Gubernatrix cristata,EN,EN,Decreasing
-research,Maldonado,Gubernetes yetapa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Gubernetes,Gubernetes yetapa,LC,NE,Stable
-research,Rocha,Guira guira,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Guira,Guira guira,LC,LC,Increasing
-research,Maldonado,Haematopus ater,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,Haematopus ater,LC,NE,Unknown
-research,Montevideo,Haematopus palliatus,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,Haematopus palliatus,LC,LC,Stable
-research,Rocha,Halobaena caerulea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Halobaena,Halobaena caerulea,LC,NE,Decreasing
-research,Montevideo,Helicops infrataeniatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Helicops,Helicops infrataeniatus,NE,LC,Stable
-research,Cerro Largo,Heliobletus contaminatus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Heliobletus,Heliobletus contaminatus,LC,NE,Decreasing
-research,Tacuarembó,Heliomaster furcifer,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Heliomaster,Heliomaster furcifer,LC,LC,Decreasing
-research,Montevideo,Hemidactylus mabouia,Animalia,Chordata,Reptilia,Squamata,Gekkonidae,Hemidactylus,Hemidactylus mabouia,LC,NE,Stable
-research,Canelones,Hemithraupis guira,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis,Hemithraupis guira,LC,NE,Decreasing
-research,Montevideo,Hemithraupis ruficapilla,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis,Hemithraupis ruficapilla,LC,NE,Stable
-research,Salto,Hemitriccus margaritaceiventer,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hemitriccus,Hemitriccus margaritaceiventer,LC,NT,Stable
-research,Canelones,Heteronetta atricapilla,Animalia,Chordata,Aves,Anseriformes,Anatidae,Heteronetta,Heteronetta atricapilla,LC,DD,Stable
-research,Tacuarembó,Heteroxolmis dominicana,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Heteroxolmis,Heteroxolmis dominicana,VU,VU,Unknow
-research,Paysandú,Himantopus mexicanus,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus,Himantopus mexicanus,LC,LC,NA
-research,Canelones,Hirundinea ferruginea,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hirundinea,Hirundinea ferruginea,LC,LC,Increasing
-research,San José,Hirundo rustica,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,Hirundo rustica,LC,LC,Decreasing
-research,Flores,Histiotus montanus,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Histiotus,Histiotus montanus,LC,LC,Unknown
-research,Canelones,Holochilus brasiliensis,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Holochilus,Holochilus brasiliensis,LC,LC,Stable
-research,Tacuarembó,Homonota uruguayensis,Animalia,Chordata,Reptilia,Squamata,Phyllodactylidae,Homonota,Homonota uruguayensis,NE,VU,Decreasing
-research,Canelones,Hydrochoerus hydrochaeris,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Hydrochoerus,Hydrochoerus hydrochaeris,LC,NT,Stable
-research,Canelones,Hydromedusa tectifera,Animalia,Chordata,Reptilia,Testudines,Chelidae,Hydromedusa,Hydromedusa tectifera,NE,LC,NA
-research,Colonia,Hydropsalis torquata,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Hydropsalis,Hydropsalis torquata,LC,LC,Stable
-research,Canelones,Hylocharis chrysura,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Hylocharis,Hylocharis chrysura,LC,LC,Increasing
-research,Colonia,Hymenops perspicillatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hymenops,Hymenops perspicillatus,LC,LC,Stable
-research,Cerro Largo,Icterus pyrrhopterus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,Icterus pyrrhopterus,LC,LC,Stable
-research,Salto,Ictinia mississippiensis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Ictinia,Ictinia mississippiensis,LC,NE,Increasing
-research,Durazno,Ixobrychus involucris,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ixobrychus,Ixobrychus involucris,LC,LC,Stable
-research,Artigas,Jabiru mycteria,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Jabiru,Jabiru mycteria,LC,NE,Unknown
-research,Paysandú,Jacana jacana,Animalia,Chordata,Aves,Charadriiformes,Jacanidae,Jacana,Jacana jacana,LC,LC,Stable
-research,Maldonado,Knipolegus cyanirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Knipolegus,Knipolegus cyanirostris,LC,LC,Decreasing
-research,Florida,Knipolegus lophotes,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Knipolegus,Knipolegus lophotes,LC,LC,Stable
-research,Rocha,Lagenodelphis hosei,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Lagenodelphis,Lagenodelphis hosei,LC,NE,Unknown
-research,Montevideo,Larus atlanticus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,Larus atlanticus,NT,EN,Stable
-research,Rocha,Larus dominicanus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,Larus dominicanus,LC,LC,Increasing
-research,Soriano,Lasiurus blossevillii,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Lasiurus,Lasiurus blossevillii,LC,LC,Unknown
-research,Soriano,Lasiurus ega,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Lasiurus,Lasiurus ega,LC,LC,Unknown
-research,San José,Laterallus leucopyrrhus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Laterallus,Laterallus leucopyrrhus,LC,LC,Unknown
-research,Montevideo,Laterallus melanophaius,Animalia,Chordata,Aves,Gruiformes,Rallidae,Laterallus,Laterallus melanophaius,LC,LC,Unknown
-research,Cerro Largo,Lathrotriccus euleri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Lathrotriccus,Lathrotriccus euleri,LC,LC,Stable
-research,Salto,Leistes defilippii,Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes,Leistes defilippii,VU,EN,Decreasing
-research,Paysandú,Leistes superciliaris,Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes,Leistes superciliaris,LC,LC,Stable
-research,Río Negro,Leopardus geoffroyi,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,Leopardus geoffroyi,LC,NT,Stable
-research,Río Negro,Leopardus munoai,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,Leopardus munoai,CR,CR,NA
-research,Maldonado,Leopardus wiedii,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,Leopardus wiedii,NT,VU,Decreasing
-research,Montevideo,Lepidocolaptes angustirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lepidocolaptes,Lepidocolaptes angustirostris,LC,LC,Increasing
-research,Cerro Largo,Lepidocolaptes falcinellus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lepidocolaptes,Lepidocolaptes falcinellus,LC,NT,Stable
-research,Flores,Leptasthenura platensis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Leptasthenura,Leptasthenura platensis,LC,LC,Stable
-research,Rocha,Leptodactylus gracilis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,Leptodactylus gracilis,LC,LC,Stable
-research,Florida,Leptodactylus latinasus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,Leptodactylus latinasus,LC,LC,Stable
-research,Colonia,Leptodactylus luctator,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,Leptodactylus luctator,NE,NE,Unknow
-research,Salto,Leptodactylus macrosternum,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,Leptodactylus macrosternum,LC,NE,Unknown
-research,Colonia,Leptodactylus mystacinus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,Leptodactylus mystacinus,LC,LC,Stable
-research,Cerro Largo,Leptopogon amaurocephalus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Leptopogon,Leptopogon amaurocephalus,LC,NE,Decreasing
-research,Montevideo,Leptotila rufaxilla,Animalia,Chordata,Aves,Columbiformes,Columbidae,Leptotila,Leptotila rufaxilla,LC,LC,Decreasing
-research,Montevideo,Leptotila verreauxi,Animalia,Chordata,Aves,Columbiformes,Columbidae,Leptotila,Leptotila verreauxi,LC,LC,Stable
-research,Colonia,Lepus europaeus,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus europaeus,LC,LC,Decreasing
-research,San José,Lessonia rufa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Lessonia,Lessonia rufa,LC,LC,Stable
-research,Montevideo,Leucocarbo atriceps,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Leucocarbo,Leucocarbo atriceps,LC,NE,Unknown
-research,Montevideo,Leucochloris albicollis,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Leucochloris,Leucochloris albicollis,LC,LC,Unknown
-research,Canelones,Leucophaeus pipixcan,Animalia,Chordata,Aves,Charadriiformes,Laridae,Leucophaeus,Leucophaeus pipixcan,LC,NE,Unknow
-research,Montevideo,Limnoctites rectirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnoctites,Limnoctites rectirostris,NT,VU,Decreasing
-research,Colonia,Limnoctites sulphuriferus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnoctites,Limnoctites sulphuriferus,LC,NT,Unknown
-research,Rivera,Limnomedusa macroglossa,Animalia,Chordata,Amphibia,Anura,Alsodidae,Limnomedusa,Limnomedusa macroglossa,LC,LC,Stable
-research,Rocha,Limnornis curvirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnornis,Limnornis curvirostris,LC,VU,Stable
-research,Maldonado,Limosa haemastica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa,Limosa haemastica,LC,LC,Decreasing
-research,Rocha,Liolaemus occipitalis,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus occipitalis,VU,EN,Decreasing
-research,Canelones,Liolaemus wiegmannii,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus wiegmannii,LC,VU,Stable
-research,Cerro Largo,Lithobates catesbeianus,Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,Lithobates catesbeianus,LC,LC,Increasing
-research,Cerro Largo,Lochmias nematura,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lochmias,Lochmias nematura,LC,LC,Decreasing
-research,Rocha,Lontra longicaudis,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lontra,Lontra longicaudis,NT,NT,Decreasing
-research,Rocha,Lutreolina crassicaudata,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Lutreolina,Lutreolina crassicaudata,LC,NT,Unknown
-research,Cerro Largo,Lycalopex gymnocercus,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,Lycalopex gymnocercus,LC,NT,Stable
-research,Rocha,Lygophis anomalus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Lygophis,Lygophis anomalus,NE,LC,Stable
-research,Artigas,Lygophis flavifrenatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Lygophis,Lygophis flavifrenatus,NE,LC,Stable
-research,Montevideo,Machetornis rixosa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Machetornis,Machetornis rixosa,LC,LC,Stable
-research,Cerro Largo,Mackenziaena leachii,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Mackenziaena,Mackenziaena leachii,LC,NE,Decreasing
-research,Maldonado,Macronectes giganteus,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Macronectes,Macronectes giganteus,LC,LC,Increasing
-research,Montevideo,Macronectes halli,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Macronectes,Macronectes halli,LC,LC,Increasing
-research,Maldonado,Mareca sibilatrix,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mareca,Mareca sibilatrix,LC,LC,Stable
-research,Rocha,Mazama gouazoubira,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Mazama,Mazama gouazoubira,LC,NT,Decreasing
-research,Maldonado,Megaceryle torquata,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Megaceryle,Megaceryle torquata,LC,LC,Stable
-research,Canelones,Megaptera novaeangliae,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Megaptera,Megaptera novaeangliae,LC,NE,Increasing
-research,Artigas,Megarynchus pitangua,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Megarynchus,Megarynchus pitangua,LC,NE,Stable
-research,Colonia,Megascops choliba,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,Megascops choliba,LC,LC,Decreasing
-research,Salto,Megascops sanctaecatarinae,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,Megascops sanctaecatarinae,LC,NT,Decreasing
-research,Salto,Melanerpes cactorum,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,Melanerpes cactorum,LC,VU,Decreasing
-research,Montevideo,Melanerpes candidus,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,Melanerpes candidus,LC,LC,Increasing
-research,Rivera,Melanophryniscus atroluteus,Animalia,Chordata,Amphibia,Anura,Bufonidae,Melanophryniscus,Melanophryniscus atroluteus,LC,LC,Stable
-research,Rocha,Melanophryniscus montevidensis,Animalia,Chordata,Amphibia,Anura,Bufonidae,Melanophryniscus,Melanophryniscus montevidensis,VU,CR,Decreasing
-research,Maldonado,Melanophryniscus pachyrhynus,Animalia,Chordata,Amphibia,Anura,Bufonidae,Melanophryniscus,Melanophryniscus pachyrhynus,DD,EN,Unknown
-research,Montevideo,Melopsittacus undulatus,Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Melopsittacus,Melopsittacus undulatus,LC,NE,Increasing
-research,Paysandú,Microspingus cabanisi,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Microspingus,Microspingus cabanisi,LC,LC,Decreasing
-research,Tacuarembó,Microspingus melanoleucus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Microspingus,Microspingus melanoleucus,LC,LC,Stable
-research,Artigas,Microspingus torquatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Microspingus,Microspingus torquatus,LC,NE,Stable
-research,Colonia,Micrurus altirostris,Animalia,Chordata,Reptilia,Squamata,Elapidae,Micrurus,Micrurus altirostris,NE,LC,Unknown
-research,Rocha,Milvago chimachima,Animalia,Chordata,Aves,Falconiformes,Falconidae,Milvago,Milvago chimachima,LC,LC,Increasing
-research,Rocha,Milvago chimango,Animalia,Chordata,Aves,Falconiformes,Falconidae,Milvago,Milvago chimango,LC,LC,NA
-research,Rocha,Mimus saturninus,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus,Mimus saturninus,LC,LC,Stable
-research,Montevideo,Mimus triurus,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus,Mimus triurus,LC,LC,Unknown
-research,Maldonado,Mirounga leonina,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Mirounga,Mirounga leonina,LC,NE,Stable
-research,Flores,Molossus molossus,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Molossus,Molossus molossus,LC,LC,Unknown
-research,Montevideo,Molothrus bonariensis,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,Molothrus bonariensis,LC,LC,Increasing
-research,Colonia,Molothrus rufoaxillaris,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,Molothrus rufoaxillaris,LC,LC,Stable
-research,Canelones,Monodelphis dimidiata,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Monodelphis,Monodelphis dimidiata,LC,LC,Stable
-research,Maldonado,Mus musculus,Animalia,Chordata,Mammalia,Rodentia,Muridae,Mus,Mus musculus,LC,LC,Stable
-research,Rocha,Muscisaxicola albilora,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Muscisaxicola,Muscisaxicola albilora,LC,NE,Stable
-research,Maldonado,Muscisaxicola maclovianus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Muscisaxicola,Muscisaxicola maclovianus,LC,LC,Decreasing
-research,Artigas,Mustelirallus albicollis,Animalia,Chordata,Aves,Gruiformes,Rallidae,Mustelirallus,Mustelirallus albicollis,LC,NE,Unknown
-research,Florida,Mycteria americana,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Mycteria,Mycteria americana,LC,LC,Decreasing
-research,Artigas,Myiarchus ferox,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,Myiarchus ferox,LC,NE,Stable
-research,Montevideo,Myiarchus swainsoni,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,Myiarchus swainsoni,LC,LC,Stable
-research,Artigas,Myiarchus tyrannulus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,Myiarchus tyrannulus,LC,NE,Increasing
-research,Montevideo,Myiodynastes maculatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiodynastes,Myiodynastes maculatus,LC,LC,Stable
-research,Artigas,Myiopagis viridicata,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiopagis,Myiopagis viridicata,LC,DD,Stable
-research,San José,Myiophobus fasciatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiophobus,Myiophobus fasciatus,LC,LC,Increasing
-research,Rocha,Myiopsitta monachus,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta,Myiopsitta monachus,LC,LC,Increasing
-research,Paysandú,Myiothlypis leucoblephara,Animalia,Chordata,Aves,Passeriformes,Parulidae,Myiothlypis,Myiothlypis leucoblephara,LC,LC,Decreasing
-research,Rocha,Myocastor coypus,Animalia,Chordata,Mammalia,Rodentia,Echimyidae,Myocastor,Myocastor coypus,LC,LC,Decreasing
-research,Canelones,Myotis albescens,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis albescens,LC,LC,Stable
-research,Rivera,Myotis levis,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis levis,LC,LC,Unknown
-research,Rocha,Nannopterum brasilianum,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Nannopterum,Nannopterum brasilianum,LC,LC,Unknown
-research,Rivera,Nasua nasua,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Nasua,Nasua nasua,LC,VU,Decreasing
-research,Maldonado,Nemosia pileata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Nemosia,Nemosia pileata,LC,NE,Stable
-research,Paysandú,Nengetus cinereus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Nengetus,Nengetus cinereus,LC,NE,Unknown
-research,Paysandú,Neoxolmis coronatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Neoxolmis,Neoxolmis coronatus,LC,NE,Unknown
-research,Florida,Neoxolmis rufiventris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Neoxolmis,Neoxolmis rufiventris,LC,VU,Unknown
-research,Río Negro,Netta peposaca,Animalia,Chordata,Aves,Anseriformes,Anatidae,Netta,Netta peposaca,LC,LC,Increasing
-research,Rocha,Nomonyx dominicus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Nomonyx,Nomonyx dominicus,LC,DD,Stable
-research,Cerro Largo,Nothura maculosa,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Nothura,Nothura maculosa,LC,LC,Decreasing
-research,Montevideo,Numenius phaeopus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,Numenius phaeopus,LC,NE,Decreasing
-research,Salto,Nyctibius griseus,Animalia,Chordata,Aves,Caprimulgiformes,Nyctibiidae,Nyctibius,Nyctibius griseus,LC,LC,Decreasing
-research,Montevideo,Nycticorax nycticorax,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax,Nycticorax nycticorax,LC,LC,Decreasing
-research,Colonia,Nycticryphes semicollaris,Animalia,Chordata,Aves,Charadriiformes,Rostratulidae,Nycticryphes,Nycticryphes semicollaris,LC,LC,Decreasing
-research,Artigas,Nyctidromus albicollis,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Nyctidromus,Nyctidromus albicollis,LC,DD,Stable
-research,Rocha,Oceanites oceanicus,Animalia,Chordata,Aves,Procellariiformes,Oceanitidae,Oceanites,Oceanites oceanicus,LC,LC,Stable
-research,Maldonado,Odontophrynus americanus,Animalia,Chordata,Amphibia,Anura,Odontophrynidae,Odontophrynus,Odontophrynus americanus,LC,LC,Stable
-research,San José,Oligoryzomys flavescens,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oligoryzomys,Oligoryzomys flavescens,LC,LC,Stable
-research,Río Negro,Ophiodes intermedius,Animalia,Chordata,Reptilia,Squamata,Diploglossidae,Ophiodes,Ophiodes intermedius,LC,LC,Stable
-research,Rocha,Ophiodes striatus,Animalia,Chordata,Reptilia,Squamata,Diploglossidae,Ophiodes,Ophiodes striatus,NE,LC,Unknown
-research,Maldonado,Ophiodes vertebralis,Animalia,Chordata,Reptilia,Squamata,Diploglossidae,Ophiodes,Ophiodes vertebralis,NE,LC,Unknown
-research,Florida,Oreopholus ruficollis,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Oreopholus,Oreopholus ruficollis,LC,EN,Decreasing
-research,Canelones,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus,Oryctolagus cuniculus,EN,EN,Decreasing
-research,Rocha,Otaria byronia,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Otaria,Otaria byronia,LC,LC,Stable
-research,Rocha,Oxymycterus josei,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,Oxymycterus josei,NT,VU,Decreasing
-research,Maldonado,Oxymycterus nasutus,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,Oxymycterus nasutus,LC,EN,Unknown
-research,Río Negro,Oxyrhopus rhombifer,Animalia,Chordata,Reptilia,Squamata,Colubridae,Oxyrhopus,Oxyrhopus rhombifer,NE,LC,Stable
-research,Rocha,Oxyura vittata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Oxyura,Oxyura vittata,LC,LC,Stable
-research,Salto,Ozotoceros bezoarticus,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Ozotoceros,Ozotoceros bezoarticus,NT,VU,Decreasing
-research,Canelones,Pachyptila belcheri,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Pachyptila,Pachyptila belcheri,LC,LC,Stable
-research,Canelones,Pachyramphus polychopterus,Animalia,Chordata,Aves,Passeriformes,Tityridae,Pachyramphus,Pachyramphus polychopterus,LC,LC,Stable
-research,Cerro Largo,Pachyramphus validus,Animalia,Chordata,Aves,Passeriformes,Tityridae,Pachyramphus,Pachyramphus validus,LC,DD,Decreasing
-research,Lavalleja,Pachyramphus viridis,Animalia,Chordata,Aves,Passeriformes,Tityridae,Pachyramphus,Pachyramphus viridis,LC,LC,Stable
-research,San José,Pandion haliaetus,Animalia,Chordata,Aves,Accipitriformes,Pandionidae,Pandion,Pandion haliaetus,LC,LC,Increasing
-research,Montevideo,Parabuteo unicinctus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Parabuteo,Parabuteo unicinctus,LC,LC,Decreasing
-research,Maldonado,Paraphimophis rusticus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Paraphimophis,Paraphimophis rusticus,NE,LC,NA
-research,Cerro Largo,Pardirallus maculatus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Pardirallus,Pardirallus maculatus,LC,LC,Stable
-research,Rocha,Pardirallus sanguinolentus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Pardirallus,Pardirallus sanguinolentus,LC,LC,Stable
-research,Salto,Paroaria capitata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Paroaria,Paroaria capitata,LC,NT,Stable
-research,Montevideo,Paroaria coronata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Paroaria,Paroaria coronata,LC,LC,Stable
-research,Montevideo,Passer domesticus,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer,Passer domesticus,LC,NE,Decreasing
-research,Cerro Largo,Patagioenas cayennensis,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas,Patagioenas cayennensis,LC,DD,Decreasing
-research,Cerro Largo,Patagioenas maculosa,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas,Patagioenas maculosa,LC,LC,Increasing
-research,Montevideo,Patagioenas picazuro,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas,Patagioenas picazuro,LC,LC,Increasing
-research,Rocha,Pecari tajacu,Animalia,Chordata,Mammalia,Artiodactyla,Tayassuidae,Pecari,Pecari tajacu,LC,CR,Stable
-research,Rivera,Penelope obscura,Animalia,Chordata,Aves,Galliformes,Cracidae,Penelope,Penelope obscura,LC,LC,Decreasing
-research,Paysandú,Petrochelidon pyrrhonota,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,Petrochelidon pyrrhonota,LC,LC,Increasing
-research,Cerro Largo,Phacellodomus ferrugineigula,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,Phacellodomus ferrugineigula,LC,NT,Stable
-research,Artigas,Phacellodomus ruber,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,Phacellodomus ruber,LC,DD,Decreasing
-research,Río Negro,Phacellodomus sibilatrix,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,Phacellodomus sibilatrix,LC,NT,Decreasing
-research,San José,Phacellodomus striaticollis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,Phacellodomus striaticollis,LC,LC,Stable
-research,Salto,Phaetusa simplex,Animalia,Chordata,Aves,Charadriiformes,Laridae,Phaetusa,Phaetusa simplex,LC,LC,Stable
-research,Maldonado,Phalaropus tricolor,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Phalaropus,Phalaropus tricolor,LC,LC,NA
-research,Rocha,Phalotris lemniscatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Phalotris,Phalotris lemniscatus,LC,LC,Stable
-research,Colonia,Philodryas aestiva,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas,Philodryas aestiva,NE,LC,Stable
-research,Río Negro,Philodryas agassizii,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas,Philodryas agassizii,NE,LC,Decreasing
-research,Cerro Largo,Philodryas olfersii,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas,Philodryas olfersii,NE,LC,Stable
-research,Paysandú,Philodryas patagoniensis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas,Philodryas patagoniensis,LC,LC,Stable
-research,Maldonado,Phimosus infuscatus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Phimosus,Phimosus infuscatus,LC,LC,Stable
-research,Rocha,Phleocryptes melanops,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phleocryptes,Phleocryptes melanops,LC,LC,Decreasing
-research,Rocha,Phoenicopterus chilensis,Animalia,Chordata,Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus,Phoenicopterus chilensis,NT,VU,Decreasing
-research,Canelones,Phrynops hilarii,Animalia,Chordata,Reptilia,Testudines,Chelidae,Phrynops,Phrynops hilarii,NE,LC,NA
-research,Treinta y Tres,Phrynops williamsi,Animalia,Chordata,Reptilia,Testudines,Chelidae,Phrynops,Phrynops williamsi,VU,NT,Decreasing
-research,Maldonado,Phyllomedusa iheringii,Animalia,Chordata,Amphibia,Anura,Phyllomedusidae,Phyllomedusa,Phyllomedusa iheringii,LC,LC,Unknown
-research,Montevideo,Phyllomyias burmeisteri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Phyllomyias,Phyllomyias burmeisteri,LC,NE,Decreasing
-research,Montevideo,Phylloscartes ventralis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Phylloscartes,Phylloscartes ventralis,LC,LC,Decreasing
-research,Rocha,Physalaemus biligonigerus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus,Physalaemus biligonigerus,LC,LC,Stable
-research,Colonia,Physalaemus gracilis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus,Physalaemus gracilis,LC,LC,Stable
-research,Rocha,Physalaemus henselii,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus,Physalaemus henselii,LC,LC,Stable
-research,Artigas,Physalaemus riograndensis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus,Physalaemus riograndensis,LC,LC,Stable
-research,Rocha,Physeter macrocephalus,Animalia,Chordata,Mammalia,Artiodactyla,Physeteridae,Physeter,Physeter macrocephalus,VU,VU,Unknown
-research,Maldonado,Phytotoma rutila,Animalia,Chordata,Aves,Passeriformes,Cotingidae,Phytotoma,Phytotoma rutila,LC,LC,Decreasing
-research,Artigas,Piaya cayana,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Piaya,Piaya cayana,LC,LC,Decreasing
-research,Cerro Largo,Piculus aurulentus,Animalia,Chordata,Aves,Piciformes,Picidae,Piculus,Piculus aurulentus,NT,NE,Decreasing
-research,Paysandú,Picumnus cirratus,Animalia,Chordata,Aves,Piciformes,Picidae,Picumnus,Picumnus cirratus,LC,DD,Decreasing
-research,Lavalleja,Picumnus nebulosus,Animalia,Chordata,Aves,Piciformes,Picidae,Picumnus,Picumnus nebulosus,NT,LC,Decreasing
-research,Montevideo,Pipraeidea melanonota,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Pipraeidea,Pipraeidea melanonota,LC,LC,Stable
-research,Florida,Piranga flava,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,Piranga flava,LC,LC,Unknown
-research,Paysandú,Pitangus sulphuratus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pitangus,Pitangus sulphuratus,LC,LC,Increasing
-research,Paysandú,Platalea ajaja,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Platalea,Platalea ajaja,LC,LC,Stable
-research,Paysandú,Plegadis chihi,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,Plegadis chihi,LC,LC,Increasing
-research,Maldonado,Pleurodema bibroni,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Pleurodema,Pleurodema bibroni,NT,NT,Decreasing
-research,Rocha,Pluvialis dominica,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,Pluvialis dominica,LC,LC,Decreasing
-research,Maldonado,Pluvialis squatarola,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,Pluvialis squatarola,LC,LC,Decreasing
-research,Rocha,Pluvianellus socialis,Animalia,Chordata,Aves,Charadriiformes,Pluvianellidae,Pluvianellus,Pluvianellus socialis,NT,NE,Stable
-research,Colonia,Podiceps major,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,Podiceps major,LC,LC,Stable
-research,Rocha,Podiceps occipitalis,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,Podiceps occipitalis,LC,NE,Decreasing
-research,Montevideo,Podilymbus podiceps,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podilymbus,Podilymbus podiceps,LC,LC,Increasing
-research,Cerro Largo,Poecilotriccus plumbeiceps,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Poecilotriccus,Poecilotriccus plumbeiceps,LC,NT,Stable
-research,Montevideo,Polioptila dumicola,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,Polioptila,Polioptila dumicola,LC,LC,Decreasing
-research,Paysandú,Polystictus pectoralis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Polystictus,Polystictus pectoralis,NT,VU,Decreasing
-research,Rocha,Pontoporia blainvillei,Animalia,Chordata,Mammalia,Artiodactyla,Pontoporiidae,Pontoporia,Pontoporia blainvillei,VU,VU,Decreasing
-research,Maldonado,Poospiza nigrorufa,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Poospiza,Poospiza nigrorufa,LC,LC,Stable
-research,Salto,Porphyrio martinica,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyrio,Porphyrio martinica,LC,LC,NA
-research,Rocha,Porphyriops melanops,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyriops,Porphyriops melanops,LC,LC,Stable
-research,Maldonado,Porzana spiloptera,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porzana,Porzana spiloptera,VU,EN,NA
-research,Rocha,Procellaria aequinoctialis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Procellaria,Procellaria aequinoctialis,VU,VU,Decreasing
-research,Rocha,Procyon cancrivorus,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Procyon,Procyon cancrivorus,LC,LC,Decreasing
-research,Rocha,Progne chalybea,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,Progne chalybea,LC,LC,Stable
-research,Canelones,Progne elegans,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,Progne elegans,LC,LC,Stable
-research,Rocha,Progne tapera,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,Progne tapera,LC,LC,Decreasing
-research,Colonia,Pseudis minuta,Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudis,Pseudis minuta,LC,LC,Stable
-research,Colonia,Pseudocolopteryx flaviventris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pseudocolopteryx,Pseudocolopteryx flaviventris,LC,LC,Decreasing
-research,Rocha,Pseudocolopteryx sclateri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pseudocolopteryx,Pseudocolopteryx sclateri,LC,NT,Stable
-research,Maldonado,Pseudoleistes guirahuro,Animalia,Chordata,Aves,Passeriformes,Icteridae,Pseudoleistes,Pseudoleistes guirahuro,LC,LC,Stable
-research,Paysandú,Pseudoleistes virescens,Animalia,Chordata,Aves,Passeriformes,Icteridae,Pseudoleistes,Pseudoleistes virescens,LC,LC,Stable
-research,Río Negro,Pseudopaludicola falcipes,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Pseudopaludicola,Pseudopaludicola falcipes,LC,LC,Stable
-research,Rocha,Pseudorca crassidens,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Pseudorca,Pseudorca crassidens,NT,NE,Unknown
-research,Paysandú,Pseudoseisura lophotes,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Pseudoseisura,Pseudoseisura lophotes,LC,LC,Decreasing
-research,Artigas,Psittacara leucophthalmus,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Psittacara,Psittacara leucophthalmus,LC,LC,Decreasing
-research,Rocha,Psomophis obtusus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Psomophis,Psomophis obtusus,LC,LC,Stable
-research,Rocha,Puffinus puffinus,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,Puffinus puffinus,LC,LC,Unknown
-research,Rivera,Pygochelidon cyanoleuca,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Pygochelidon,Pygochelidon cyanoleuca,LC,LC,Decreasing
-research,Cerro Largo,Pyrocephalus rubinus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pyrocephalus,Pyrocephalus rubinus,LC,LC,Increasing
-research,Rivera,Pyroderus scutatus,Animalia,Chordata,Aves,Passeriformes,Cotingidae,Pyroderus,Pyroderus scutatus,LC,NE,Decreasing
-research,Cerro Largo,Pyrrhura frontalis,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Pyrrhura,Pyrrhura frontalis,LC,LC,Stable
-research,Treinta y Tres,Ramphastos toco,Animalia,Chordata,Aves,Piciformes,Ramphastidae,Ramphastos,Ramphastos toco,LC,NE,Decreasing
-research,Maldonado,Rattus rattus,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,Rattus rattus,LC,LC,Stable
-research,Colonia,Rauenia bonariensis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rauenia,Rauenia bonariensis,LC,LC,Unknown
-research,Cerro Largo,Reithrodon typicus,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Reithrodon,Reithrodon typicus,LC,LC,Stable
-research,Tacuarembó,Rhea americana,Animalia,Chordata,Aves,Rheiformes,Rheidae,Rhea,Rhea americana,NT,LC,Decreasing
-research,Lavalleja,Rhinella achavali,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,Rhinella achavali,LC,NT,Stable
-research,Rocha,Rhinella arenarum,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,Rhinella arenarum,LC,LC,Stable
-research,Salto,Rhinella diptycha,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,Rhinella diptycha,DD,LC,Unknown
-research,Rocha,Rhinella dorbignyi,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,Rhinella dorbignyi,LC,LC,Stable
-research,San José,Rhopospina fruticeti,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rhopospina,Rhopospina fruticeti,LC,NE,Stable
-research,Rocha,Rhynchotus rufescens,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Rhynchotus,Rhynchotus rufescens,LC,LC,Decreasing
-research,Rocha,Riparia riparia,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Riparia,Riparia riparia,LC,NE,Decreasing
-research,Montevideo,Rollandia rolland,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Rollandia,Rollandia rolland,LC,LC,Decreasing
-research,Rocha,Rostrhamus sociabilis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rostrhamus,Rostrhamus sociabilis,LC,LC,Stable
-research,Río Negro,Rupornis magnirostris,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rupornis,Rupornis magnirostris,LC,LC,Increasing
-research,Maldonado,Rynchops niger,Animalia,Chordata,Aves,Charadriiformes,Laridae,Rynchops,Rynchops niger,LC,LC,Decreasing
-research,Canelones,Saltator aurantiirostris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator,Saltator aurantiirostris,LC,LC,Unknown
-research,Artigas,Saltator coerulescens,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator,Saltator coerulescens,LC,LC,Decreasing
-research,Cerro Largo,Saltator similis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator,Saltator similis,LC,LC,Decreasing
-research,Rocha,Salvator merianae,Animalia,Chordata,Reptilia,Squamata,Teiidae,Salvator,Salvator merianae,LC,LC,Stable
-research,Rocha,Satrapa icterophrys,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Satrapa,Satrapa icterophrys,LC,LC,Stable
-research,Florida,Schoeniophylax phryganophilus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Schoeniophylax,Schoeniophylax phryganophilus,LC,LC,Stable
-research,Río Negro,Scinax fuscovarius,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,Scinax fuscovarius,LC,LC,Stable
-research,Rocha,Scinax granulatus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,Scinax granulatus,LC,LC,Stable
-research,Río Negro,Scinax nasicus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,Scinax nasicus,LC,EN,Stable
-research,Rocha,Scinax squalirostris,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,Scinax squalirostris,LC,LC,Stable
-research,Maldonado,Scinax uruguayus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,Scinax uruguayus,LC,LC,Stable
-research,Montevideo,Serpophaga griseicapilla,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Serpophaga,Serpophaga griseicapilla,LC,NE,Stable
-research,Colonia,Serpophaga nigricans,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Serpophaga,Serpophaga nigricans,LC,LC,Stable
-research,San José,Serpophaga subcristata,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Serpophaga,Serpophaga subcristata,LC,LC,Stable
-research,Florida,Setopagis parvula,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Setopagis,Setopagis parvula,LC,LC,Stable
-research,Montevideo,Setophaga pitiayumi,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,Setophaga pitiayumi,LC,LC,Decreasing
-research,Rocha,Sicalis flaveola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sicalis,Sicalis flaveola,LC,LC,Stable
-research,Canelones,Sicalis luteola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sicalis,Sicalis luteola,LC,LC,Increasing
-research,Cerro Largo,Sittasomus griseicapillus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Sittasomus,Sittasomus griseicapillus,LC,NT,Decreasing
-research,Maldonado,Spartonoica maluroides,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Spartonoica,Spartonoica maluroides,NT,VU,Decreasing
-research,Rocha,Spatula cyanoptera,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,Spatula cyanoptera,LC,NT,Decreasing
-research,Rocha,Spatula platalea,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,Spatula platalea,LC,LC,Stable
-research,Maldonado,Spatula versicolor,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,Spatula versicolor,LC,LC,Stable
-research,Rocha,Spheniscus magellanicus,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus,Spheniscus magellanicus,NT,NT,Decreasing
-research,Colonia,Spinus magellanicus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Spinus,Spinus magellanicus,LC,LC,Stable
-research,Colonia,Sporophila caerulescens,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,Sporophila caerulescens,LC,LC,Increasing
-research,Paysandú,Sporophila cinnamomea,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,Sporophila cinnamomea,VU,VU,Decreasing
-research,Rocha,Sporophila collaris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,Sporophila collaris,LC,VU,Stable
-research,Florida,Sporophila hypochroma,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,Sporophila hypochroma,NT,VU,Decreasing
-research,Paysandú,Sporophila hypoxantha,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,Sporophila hypoxantha,LC,NE,Stable
-research,San José,Sporophila leucoptera,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,Sporophila leucoptera,LC,NE,Stable
-research,Rocha,Sporophila palustris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,Sporophila palustris,EN,VU,Decreasing
-research,Tacuarembó,Sporophila pileata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,Sporophila pileata,LC,NT,Decreasing
-research,Paysandú,Sporophila ruficollis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,Sporophila ruficollis,NT,VU,Decreasing
-research,Cerro Largo,Stelgidopteryx ruficollis,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Stelgidopteryx,Stelgidopteryx ruficollis,LC,LC,Stable
-research,Rocha,Stephanophorus diadematus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stephanophorus,Stephanophorus diadematus,LC,LC,Stable
-research,Maldonado,Stercorarius antarcticus,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,Stercorarius antarcticus,NE,LC,NA
-research,Maldonado,Stercorarius chilensis,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,Stercorarius chilensis,LC,NE,Unknow
-research,Rocha,Stercorarius maccormicki,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,Stercorarius maccormicki,LC,NE,Unknow
-research,San José,Stercorarius parasiticus,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,Stercorarius parasiticus,LC,LC,Stable
-research,Maldonado,Sterna hirundinacea,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,Sterna hirundinacea,LC,LC,Decreasing
-research,Rocha,Sterna hirundo,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,Sterna hirundo,LC,LC,Unknown
-research,Montevideo,Sterna paradisaea,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,Sterna paradisaea,LC,NE,Decreasing
-research,Montevideo,Sterna trudeaui,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,Sterna trudeaui,LC,LC,Stable
-research,Rocha,Sternula superciliaris,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sternula,Sternula superciliaris,LC,LC,Stable
-research,Maldonado,Stilpnia peruviana,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia,Stilpnia peruviana,VU,VU,Unknow
-research,Rocha,Stilpnia preciosa,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia,Stilpnia preciosa,LC,LC,Unknown
-research,Salto,Sturnira lilium,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Sturnira,Sturnira lilium,LC,VU,Stable
-research,Montevideo,Sturnus vulgaris,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus,Sturnus vulgaris,LC,NE,Decreasing
-research,Artigas,Sublegatus modestus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sublegatus,Sublegatus modestus,LC,LC,Increasing
-research,Artigas,Suiriri suiriri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Suiriri,Suiriri suiriri,LC,LC,Decreasing
-research,Rocha,Sula dactylatra,Animalia,Chordata,Aves,Suliformes,Sulidae,Sula,Sula dactylatra,LC,NE,Decreasing
-research,Montevideo,Sus scrofa,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,Sus scrofa,LC,LC,Unknown
-research,Artigas,Synallaxis albescens,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis,Synallaxis albescens,LC,LC,Stable
-research,Cerro Largo,Synallaxis frontalis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis,Synallaxis frontalis,LC,LC,Increasing
-research,Lavalleja,Synallaxis spixi,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis,Synallaxis spixi,LC,LC,Increasing
-research,Paysandú,Syndactyla rufosuperciliata,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Syndactyla,Syndactyla rufosuperciliata,LC,LC,Stable
-research,Paysandú,Syrigma sibilatrix,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Syrigma,Syrigma sibilatrix,LC,LC,Unknown
-research,Tacuarembó,Systellura longirostris,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Systellura,Systellura longirostris,LC,NE,Stable
-research,Florida,Tachuris rubrigastra,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tachuris,Tachuris rubrigastra,LC,LC,Stable
-research,Maldonado,Tachybaptus dominicus,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Tachybaptus,Tachybaptus dominicus,LC,LC,Stable
-research,Rocha,Tachycineta leucopyga,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,Tachycineta leucopyga,LC,LC,NA
-research,Rocha,Tachycineta leucorrhoa,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,Tachycineta leucorrhoa,LC,LC,Increasing
-research,Cerro Largo,Tachyphonus coronatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Tachyphonus,Tachyphonus coronatus,LC,NE,Stable
-research,Rivera,Tadarida brasiliensis,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Tadarida,Tadarida brasiliensis,LC,LC,Stable
-research,Cerro Largo,Taeniophallus occipitalis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Taeniophallus,Taeniophallus occipitalis,NE,LC,Stable
-research,Maldonado,Taeniophallus poecilopogon,Animalia,Chordata,Reptilia,Squamata,Colubridae,Taeniophallus,Taeniophallus poecilopogon,NE,VU,Unknown
-research,,Tamandua tetradactyla,Animalia,Chordata,Mammalia,Pilosa,Myrmecophagidae,Tamandua,Tamandua tetradactyla,LC,EN,Unknown
-research,Salto,Tantilla melanocephala,Animalia,Chordata,Reptilia,Squamata,Colubridae,Tantilla,Tantilla melanocephala,NE,LC,Stable
-research,Maldonado,Tapera naevia,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Tapera,Tapera naevia,LC,LC,Stable
-research,Montevideo,Tarentola mauritanica,Animalia,Chordata,Reptilia,Squamata,Phyllodactylidae,Tarentola,Tarentola mauritanica,LC,CR,Stable
-research,Maldonado,Teius oculatus,Animalia,Chordata,Reptilia,Squamata,Teiidae,Teius,Teius oculatus,NE,LC,Unknown
-research,Maldonado,Thalassarche chlororhynchos,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Thalassarche,Thalassarche chlororhynchos,EN,EN,Decreasing
-research,Rocha,Thalassarche melanophris,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Thalassarche,Thalassarche melanophris,LC,LC,Increasing
-research,Montevideo,Thalasseus maximus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus,Thalasseus maximus,LC,CR,Stable
-research,Montevideo,Thalasseus sandvicensis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus,Thalasseus sandvicensis,LC,NE,Stable
-research,Rocha,Thamnodynastes hypoconia,Animalia,Chordata,Reptilia,Squamata,Colubridae,Thamnodynastes,Thamnodynastes hypoconia,NE,LC,Stable
-research,Río Negro,Thamnodynastes strigatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Thamnodynastes,Thamnodynastes strigatus,LC,LC,Unknown
-research,Canelones,Thamnophilus caerulescens,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Thamnophilus,Thamnophilus caerulescens,LC,LC,Decreasing
-research,Colonia,Thamnophilus ruficapillus,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Thamnophilus,Thamnophilus ruficapillus,LC,LC,Decreasing
-research,Florida,Theristicus caerulescens,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Theristicus,Theristicus caerulescens,LC,LC,Stable
-research,Tacuarembó,Theristicus caudatus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Theristicus,Theristicus caudatus,LC,LC,Stable
-research,Montevideo,Thinocorus rumicivorus,Animalia,Chordata,Aves,Charadriiformes,Thinocoridae,Thinocorus,Thinocorus rumicivorus,LC,LC,Stable
-research,Montevideo,Thraupis sayaca,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Thraupis,Thraupis sayaca,LC,LC,NA
-research,Colonia,Tigrisoma lineatum,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Tigrisoma,Tigrisoma lineatum,LC,LC,Stable
-research,Cerro Largo,Tolmomyias sulphurescens,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tolmomyias,Tolmomyias sulphurescens,LC,NE,Decreasing
-research,Río Negro,Tomodon ocellatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Tomodon,Tomodon ocellatus,NE,LC,Unknown
-research,Rocha,Trachemys dorbigni,Animalia,Chordata,Reptilia,Testudines,Emydidae,Trachemys,Trachemys dorbigni,NE,LC,NA
-research,Rocha,Tringa flavipes,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,Tringa flavipes,LC,LC,Decreasing
-research,Montevideo,Tringa melanoleuca,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,Tringa melanoleuca,LC,LC,Stable
-research,Salto,Tringa solitaria,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,Tringa solitaria,LC,LC,Decreasing
-research,Rocha,Troglodytes aedon,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,Troglodytes aedon,LC,LC,Increasing
-research,Cerro Largo,Trogon surrucura,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,Trogon,Trogon surrucura,LC,NE,Decreasing
-research,Rivera,Tropidurus torquatus,Animalia,Chordata,Reptilia,Squamata,Tropiduridae,Tropidurus,Tropidurus torquatus,LC,LC,Unknown
-research,Maldonado,Turdus albicollis,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,Turdus albicollis,LC,LC,Decreasing
-research,Montevideo,Turdus amaurochalinus,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,Turdus amaurochalinus,LC,LC,Stable
-research,Maldonado,Turdus flavipes,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,Turdus flavipes,LC,NE,Stable
-research,Tacuarembó,Turdus leucomelas,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,Turdus leucomelas,LC,LC,Stable
-research,Maldonado,Turdus rufiventris,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,Turdus rufiventris,LC,LC,Stable
-research,Cerro Largo,Turdus subalaris,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,Turdus subalaris,LC,NE,Unknown
-research,Rocha,Tursiops truncatus,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Tursiops,Tursiops truncatus,LC,NT,Unknown
-research,Montevideo,Tyrannus melancholicus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,Tyrannus melancholicus,LC,LC,Increasing
-research,Rocha,Tyrannus savana,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,Tyrannus savana,LC,LC,Stable
-research,Canelones,Tyrannus tyrannus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,Tyrannus tyrannus,LC,NE,Decreasing
-research,,Tyto alba,Animalia,Chordata,Aves,Strigiformes,Tytonidae,Tyto,Tyto alba,LC,LC,Stable
-research,Montevideo,Vanellus chilensis,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Vanellus,Vanellus chilensis,LC,LC,Increasing
-research,Montevideo,Vireo chivi,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,Vireo chivi,LC,LC,Stable
-research,San José,Volatinia jacarina,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Volatinia,Volatinia jacarina,LC,LC,Increasing
-research,Cerro Largo,Wilfredomys oenax,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Wilfredomys,Wilfredomys oenax,EN,NT,Unknown
-research,Rocha,Xanthopsar flavus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Xanthopsar,Xanthopsar flavus,VU,VU,Decreasing
-research,Rocha,Xenodon dorbignyi,Animalia,Chordata,Reptilia,Squamata,Colubridae,Xenodon,Xenodon dorbignyi,NE,LC,Unknown
-research,Artigas,Xenopsaris albinucha,Animalia,Chordata,Aves,Passeriformes,Tityridae,Xenopsaris,Xenopsaris albinucha,LC,NE,Stable
-research,Tacuarembó,Xolmis irupero,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Xolmis,Xolmis irupero,LC,LC,Stable
-research,Paysandú,Zenaida auriculata,Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,Zenaida auriculata,LC,LC,Increasing
-research,Rocha,Zonotrichia capensis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,Zonotrichia capensis,LC,LC,Increasing
+quality_grade,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name,IUCNglobal,IUCNregional,trendGlobal
+research,Boana pulchella,Animalia,Chordata,Amphibia,Anura,Hylidae,Boana,LC,LC,Stable
+research,Chthonerpeton indistinctum,Animalia,Chordata,Amphibia,Gymnophiona,Typhlonectidae,Chthonerpeton,LC,LC,Unknown
+research,Dendropsophus minutus,Animalia,Chordata,Amphibia,Anura,Hylidae,Dendropsophus,LC,EN,Stable
+research,Dendropsophus sanborni,Animalia,Chordata,Amphibia,Anura,Hylidae,Dendropsophus,LC,LC,Stable
+research,Elachistocleis bicolor,Animalia,Chordata,Amphibia,Anura,Microhylidae,Elachistocleis,LC,LC,Stable
+research,Leptodactylus gracilis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,LC,LC,Stable
+research,Leptodactylus latinasus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,LC,LC,Stable
+research,Leptodactylus luctator,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,NE,NE,Unknow
+research,Leptodactylus macrosternum,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,LC,NE,Unknown
+research,Leptodactylus mystacinus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,LC,LC,Stable
+research,Limnomedusa macroglossa,Animalia,Chordata,Amphibia,Anura,Alsodidae,Limnomedusa,LC,LC,Stable
+research,Lithobates catesbeianus,Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,LC,LC,Increasing
+research,Melanophryniscus atroluteus,Animalia,Chordata,Amphibia,Anura,Bufonidae,Melanophryniscus,LC,LC,Stable
+research,Melanophryniscus montevidensis,Animalia,Chordata,Amphibia,Anura,Bufonidae,Melanophryniscus,VU,CR,Decreasing
+research,Melanophryniscus pachyrhynus,Animalia,Chordata,Amphibia,Anura,Bufonidae,Melanophryniscus,DD,EN,Unknown
+research,Odontophrynus americanus,Animalia,Chordata,Amphibia,Anura,Odontophrynidae,Odontophrynus,LC,LC,Stable
+research,Phyllomedusa iheringii,Animalia,Chordata,Amphibia,Anura,Phyllomedusidae,Phyllomedusa,LC,LC,Unknown
+research,Physalaemus biligonigerus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus,LC,LC,Stable
+research,Physalaemus gracilis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus,LC,LC,Stable
+research,Physalaemus henselii,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus,LC,LC,Stable
+research,Physalaemus riograndensis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus,LC,LC,Stable
+research,Pleurodema bibroni,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Pleurodema,NT,NT,Decreasing
+research,Pseudis minuta,Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudis,LC,LC,Stable
+research,Pseudopaludicola falcipes,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Pseudopaludicola,LC,LC,Stable
+research,Rhinella achavali,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,LC,NT,Stable
+research,Rhinella arenarum,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,LC,LC,Stable
+research,Rhinella diptycha,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,DD,LC,Unknown
+research,Rhinella dorbignyi,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,LC,LC,Stable
+research,Scinax fuscovarius,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,LC,LC,Stable
+research,Scinax granulatus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,LC,LC,Stable
+research,Scinax nasicus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,LC,EN,Stable
+research,Scinax squalirostris,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,LC,LC,Stable
+research,Scinax uruguayus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,LC,LC,Stable
+research,Accipiter bicolor,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter,LC,LC,Decreasing
+research,Accipiter striatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter,LC,LC,Increasing
+research,Actitis macularius,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Actitis,LC,LC,Decreasing
+research,Agapornis personatus,Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Agapornis,LC,NE,Stable
+research,Agelaioides badius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelaioides,LC,LC,Stable
+research,Agelasticus cyanopus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelasticus,LC,NE,Stable
+research,Agelasticus thilius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelasticus,LC,LC,Stable
+research,Agriornis murinus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Agriornis,LC,NE,Stable
+research,Alopochelidon fucata,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Alopochelidon,LC,LC,Stable
+research,Amazona aestiva,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Amazona,NT,NE,Decreasing
+research,Amazonetta brasiliensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Amazonetta,LC,LC,Decreasing
+research,Amblyramphus holosericeus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Amblyramphus,LC,VU,Stable
+research,Ammodramus humeralis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Ammodramus,LC,LC,Stable
+research,Anairetes flavirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Anairetes,LC,NE,Stable
+research,Anas bahamensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,LC,LC,Decreasing
+research,Anas flavirostris,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,LC,LC,Decreasing
+research,Anas georgica,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,LC,LC,Decreasing
+research,Anas platyrhynchos,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,LC,NE,Increasing
+research,Anhima cornuta,Animalia,Chordata,Aves,Anseriformes,Anhimidae,Anhima,LC,NE,Decreasing
+research,Anhinga anhinga,Animalia,Chordata,Aves,Suliformes,Anhingidae,Anhinga,LC,LC,Decreasing
+research,Anser anser,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,LC,NE,Increasing
+research,Anthracothorax nigricollis,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Anthracothorax,LC,NE,Stable
+research,Anthus correndera,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,LC,LC,Stable
+research,Anthus furcatus,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,LC,LC,Stable
+research,Anthus hellmayri,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,LC,LC,Stable
+research,Anthus lutescens,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,LC,LC,Decreasing
+research,Anthus nattereri,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,VU,VU,Decreasing
+research,Anumbius annumbi,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Anumbius,LC,LC,Increasing
+research,Aramides cajaneus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,LC,LC,Stable
+research,Aramides saracura,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,LC,NE,Decreasing
+research,Aramides ypecaha,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,LC,LC,Decreasing
+research,Aramus guarauna,Animalia,Chordata,Aves,Gruiformes,Aramidae,Aramus,LC,LC,Stable
+research,Aratinga nenday,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Aratinga,LC,NE,Increasing
+research,Ardea alba,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,LC,LC,Unknown
+research,Ardea cocoi,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,LC,LC,Stable
+research,Ardenna gravis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Ardenna,LC,LC,Stable
+research,Ardenna grisea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Ardenna,NT,NT,Decreasing
+research,Arenaria interpres,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Arenaria,LC,LC,Decreasing
+research,Asio clamator,Animalia,Chordata,Aves,Strigiformes,Strigidae,Asio,LC,LC,Decreasing
+research,Asio flammeus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Asio,LC,NT,Decreasing
+research,Asthenes baeri,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,LC,LC,Decreasing
+research,Asthenes pyrrholeuca,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,LC,NE,Decreasing
+research,Athene cunicularia,Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,LC,NT,Decreasing
+research,Bartramia longicauda,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Bartramia,LC,LC,Increasing
+research,Basileuterus culicivorus,Animalia,Chordata,Aves,Passeriformes,Parulidae,Basileuterus,LC,LC,Decreasing
+research,Botaurus pinnatus,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Botaurus,LC,DD,Stable
+research,Brotogeris chiriri,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Brotogeris,LC,NE,Decreasing
+research,Bubo virginianus,Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo,LC,LC,Stable
+research,Bubulcus ibis,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Bubulcus,LC,LC,Increasing
+research,Busarellus nigricollis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Busarellus,LC,NE,Decreasing
+research,Buteo swainsoni,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,LC,LC,Stable
+research,Buteogallus meridionalis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteogallus,LC,LC,Stable
+research,Buteogallus urubitinga,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteogallus,LC,LC,Decreasing
+research,Butorides striata,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Butorides,LC,LC,Stable
+research,Cacicus chrysopterus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,LC,LC,Stable
+research,Cacicus haemorrhous,Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,LC,NE,Decreasing
+research,Cacicus solitarius,Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,LC,NT,Stable
+research,Cairina moschata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cairina,LC,EN,Decreasing
+research,Calidris alba,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,LC,LC,Unknown
+research,Calidris bairdii,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,LC,LC,Stable
+research,Calidris canutus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,NT,EN,Decreasing
+research,Calidris fuscicollis,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,LC,LC,Decreasing
+research,Calidris himantopus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,LC,LC,Increasing
+research,Calidris melanotos,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,LC,LC,Stable
+research,Calidris minutilla,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,LC,NE,Decreasing
+research,Calidris subruficollis,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,NT,VU,Decreasing
+research,Callonetta leucophrys,Animalia,Chordata,Aves,Anseriformes,Anatidae,Callonetta,LC,LC,Decreasing
+research,Calonectris diomedea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris,LC,LC,Decreasing
+research,Campephilus leucopogon,Animalia,Chordata,Aves,Piciformes,Picidae,Campephilus,LC,VU,Stable
+research,Camptostoma obsoletum,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Camptostoma,LC,LC,Stable
+research,Caracara plancus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Caracara,LC,LC,Increasing
+research,Carduelis carduelis,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Carduelis,LC,NE,Decreasing
+research,Cariama cristata,Animalia,Chordata,Aves,Cariamiformes,Cariamidae,Cariama,LC,LC,Stable
+research,Casiornis rufus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Casiornis,LC,VU,Decreasing
+research,Cathartes aura,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Cathartes,LC,LC,Stable
+research,Cathartes burrovianus,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Cathartes,LC,LC,Stable
+research,Certhiaxis cinnamomeus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Certhiaxis,LC,NT,Decreasing
+research,Chaetura meridionalis,Animalia,Chordata,Aves,Caprimulgiformes,Apodidae,Chaetura,LC,NE,Stable
+research,Charadrius collaris,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,LC,LC,Decreasing
+research,Charadrius falklandicus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,LC,LC,Stable
+research,Charadrius modestus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,LC,LC,Unknown
+research,Charadrius semipalmatus,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,LC,LC,Stable
+research,Chauna torquata,Animalia,Chordata,Aves,Anseriformes,Anhimidae,Chauna,LC,LC,Stable
+research,Chionis albus,Animalia,Chordata,Aves,Charadriiformes,Chionidae,Chionis,LC,LC,Stable
+research,Chloris chloris,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chloris,LC,NE,Stable
+research,Chloroceryle amazona,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Chloroceryle,LC,LC,Decreasing
+research,Chloroceryle americana,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Chloroceryle,LC,LC,Decreasing
+research,Chlorophonia cyanocephala,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Chlorophonia,LC,NE,Unknown
+research,Chlorostilbon lucidus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Chlorostilbon,LC,LC,Unknown
+research,Chordeiles minor,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles,LC,LC,Decreasing
+research,Chordeiles nacunda,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Chordeiles,LC,LC,Stable
+research,Chroicocephalus cirrocephalus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chroicocephalus,LC,LC,NA
+research,Chroicocephalus maculipennis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Chroicocephalus,LC,LC,NA
+research,Chrysomus ruficapillus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Chrysomus,LC,LC,Stable
+research,Ciconia maguari,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Ciconia,LC,LC,Stable
+research,Cinclodes fuscus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Cinclodes,LC,LC,Stable
+research,Circus buffoni,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Circus,LC,LC,Decreasing
+research,Circus cinereus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Circus,LC,VU,Decreasing
+research,Cistothorus platensis,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Cistothorus,LC,VU,Increasing
+research,Cnemotriccus fuscatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Cnemotriccus,LC,NE,Decreasing
+research,Coccycua cinerea,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccycua,LC,LC,Decreasing
+research,Coccyzus melacoryphus,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,LC,LC,Stable
+research,Coereba flaveola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Coereba,LC,NE,Decreasing
+research,Colaptes campestris,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,LC,LC,Increasing
+research,Colaptes melanochloros,Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,LC,LC,Stable
+research,Columba livia,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba,LC,NE,Decreasing
+research,Columbina picui,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,LC,LC,Stable
+research,Columbina talpacoti,Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,LC,LC,Increasing
+research,Conopophaga lineata,Animalia,Chordata,Aves,Passeriformes,Conopophagidae,Conopophaga,LC,NT,Stable
+research,Coragyps atratus,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Coragyps,LC,LC,Increasing
+research,Corvus splendens,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,LC,NE,Stable
+research,Coryphistera alaudina,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Coryphistera,LC,NT,Stable
+research,Coryphospingus cucullatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Coryphospingus,LC,LC,Stable
+research,Coscoroba coscoroba,Animalia,Chordata,Aves,Anseriformes,Anatidae,Coscoroba,LC,LC,Stable
+research,Cranioleuca pyrrhophia,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Cranioleuca,LC,LC,Stable
+research,Crotophaga ani,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Crotophaga,LC,LC,Stable
+research,Crotophaga major,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Crotophaga,LC,VU,Stable
+research,Crypturellus obsoletus,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Crypturellus,LC,VU,Stable
+research,Culicivora caudacuta,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Culicivora,VU,VU,Decreasing
+research,Cyanocorax caeruleus,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocorax,NT,VU,Unknow
+research,Cyanocorax chrysops,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocorax,LC,LC,Decreasing
+research,Cyanoloxia brissonii,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cyanoloxia,LC,NT,Unknown
+research,Cyanoloxia glaucocaerulea,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cyanoloxia,LC,LC,Decreasing
+research,Cyclarhis gujanensis,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Cyclarhis,LC,LC,Decreasing
+research,Cygnus melancoryphus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,LC,LC,Stable
+research,Dendrocolaptes platyrostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Dendrocolaptes,LC,NE,Stable
+research,Dendrocygna autumnalis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,LC,NE,Increasing
+research,Dendrocygna bicolor,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,LC,LC,Decreasing
+research,Dendrocygna viduata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,LC,LC,Increasing
+research,Diomedea epomophora,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Diomedea,VU,NT,Stable
+research,Dolichonyx oryzivorus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Dolichonyx,LC,NE,Decreasing
+research,Donacospiza albifrons,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Donacospiza,LC,LC,Stable
+research,Drymornis bridgesii,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Drymornis,LC,LC,Stable
+research,Dryobates mixtus,Animalia,Chordata,Aves,Piciformes,Picidae,Dryobates,LC,NT,Unknown
+research,Dryobates spilogaster,Animalia,Chordata,Aves,Piciformes,Picidae,Dryobates,LC,LC,NA
+research,Egretta caerulea,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,LC,NE,Decreasing
+research,Egretta thula,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,LC,LC,Increasing
+research,Elaenia albiceps,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,LC,NE,Stable
+research,Elaenia flavogaster,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,LC,NE,Stable
+research,Elaenia mesoleuca,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,LC,LC,Decreasing
+research,Elaenia parvirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,LC,LC,Stable
+research,Elaenia sordida,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,LC,NT,Stable
+research,Elaenia spectabilis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Elaenia,LC,NT,Decreasing
+research,Elanoides forficatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanoides,LC,NE,Increasing
+research,Elanus leucurus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Elanus,LC,LC,Increasing
+research,Emberizoides herbicola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Emberizoides,LC,NT,Decreasing
+research,Emberizoides ypiranganus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Emberizoides,LC,VU,Stable
+research,Embernagra platensis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Embernagra,LC,LC,Stable
+research,Empidonomus aurantioatrocristatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonomus,LC,LC,Unknown
+research,Empidonomus varius,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonomus,LC,LC,Stable
+research,Eudyptes chrysolophus,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes,VU,VU,Decreasing
+research,Eupetomena macroura,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Eupetomena,LC,NE,Unknown
+research,Euphonia chlorotica,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Euphonia,LC,NE,Stable
+research,Euscarthmus meloryphus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Euscarthmus,LC,LC,Increasing
+research,Falco femoralis,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,LC,LC,Decreasing
+research,Falco peregrinus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,LC,LC,Increasing
+research,Falco sparverius,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,LC,LC,Stable
+research,Florisuga fusca,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Florisuga,LC,LC,Unknown
+research,Fluvicola albiventer,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola,LC,NT,Stable
+research,Fluvicola nengeta,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola,LC,NE,Increasing
+research,Fregata magnificens,Animalia,Chordata,Aves,Suliformes,Fregatidae,Fregata,LC,LC,Decreasing
+research,Fulica armillata,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,LC,LC,Unknown
+research,Fulica leucoptera,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,LC,LC,Stable
+research,Fulica rufifrons,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,LC,LC,Stable
+research,Furnarius rufus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnarius,LC,LC,Increasing
+research,Gallinago magellanica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,LC,NE,Decreasing
+research,Gallinago paraguaiae,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,LC,LC,Stable
+research,Gallinula galeata,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula,LC,LC,Stable
+research,Gelochelidon nilotica,Animalia,Chordata,Aves,Charadriiformes,Laridae,Gelochelidon,LC,LC,Decreasing
+research,Geositta cunicularia,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Geositta,LC,LC,Decreasing
+research,Geothlypis aequinoctialis,Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,LC,LC,Stable
+research,Geotrygon montana,Animalia,Chordata,Aves,Columbiformes,Columbidae,Geotrygon,LC,NE,Decreasing
+research,Geranoaetus albicaudatus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranoaetus,LC,LC,Unknown
+research,Geranoaetus melanoleucus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranoaetus,LC,VU,Stable
+research,Geranospiza caerulescens,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranospiza,LC,LC,Decreasing
+research,Glaucidium brasilianum,Animalia,Chordata,Aves,Strigiformes,Strigidae,Glaucidium,LC,LC,Decreasing
+research,Gnorimopsar chopi,Animalia,Chordata,Aves,Passeriformes,Icteridae,Gnorimopsar,LC,LC,Stable
+research,Gubernatrix cristata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Gubernatrix,EN,EN,Decreasing
+research,Gubernetes yetapa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Gubernetes,LC,NE,Stable
+research,Guira guira,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Guira,LC,LC,Increasing
+research,Haematopus ater,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,LC,NE,Unknown
+research,Haematopus palliatus,Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,LC,LC,Stable
+research,Halobaena caerulea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Halobaena,LC,NE,Decreasing
+research,Heliobletus contaminatus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Heliobletus,LC,NE,Decreasing
+research,Heliomaster furcifer,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Heliomaster,LC,LC,Decreasing
+research,Hemithraupis guira,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis,LC,NE,Decreasing
+research,Hemithraupis ruficapilla,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis,LC,NE,Stable
+research,Hemitriccus margaritaceiventer,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hemitriccus,LC,NT,Stable
+research,Heteronetta atricapilla,Animalia,Chordata,Aves,Anseriformes,Anatidae,Heteronetta,LC,DD,Stable
+research,Heteroxolmis dominicana,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Heteroxolmis,VU,VU,Unknow
+research,Himantopus mexicanus,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus,LC,LC,NA
+research,Hirundinea ferruginea,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hirundinea,LC,LC,Increasing
+research,Hirundo rustica,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,LC,LC,Decreasing
+research,Hydropsalis torquata,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Hydropsalis,LC,LC,Stable
+research,Hylocharis chrysura,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Hylocharis,LC,LC,Increasing
+research,Hymenops perspicillatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hymenops,LC,LC,Stable
+research,Icterus pyrrhopterus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,LC,LC,Stable
+research,Ictinia mississippiensis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Ictinia,LC,NE,Increasing
+research,Ixobrychus involucris,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ixobrychus,LC,LC,Stable
+research,Jabiru mycteria,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Jabiru,LC,NE,Unknown
+research,Jacana jacana,Animalia,Chordata,Aves,Charadriiformes,Jacanidae,Jacana,LC,LC,Stable
+research,Knipolegus cyanirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Knipolegus,LC,LC,Decreasing
+research,Knipolegus lophotes,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Knipolegus,LC,LC,Stable
+research,Larus atlanticus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,NT,EN,Stable
+research,Larus dominicanus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,LC,LC,Increasing
+research,Laterallus leucopyrrhus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Laterallus,LC,LC,Unknown
+research,Laterallus melanophaius,Animalia,Chordata,Aves,Gruiformes,Rallidae,Laterallus,LC,LC,Unknown
+research,Lathrotriccus euleri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Lathrotriccus,LC,LC,Stable
+research,Leistes defilippii,Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes,VU,EN,Decreasing
+research,Leistes superciliaris,Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes,LC,LC,Stable
+research,Lepidocolaptes angustirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lepidocolaptes,LC,LC,Increasing
+research,Lepidocolaptes falcinellus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lepidocolaptes,LC,NT,Stable
+research,Leptasthenura platensis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Leptasthenura,LC,LC,Stable
+research,Leptopogon amaurocephalus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Leptopogon,LC,NE,Decreasing
+research,Leptotila rufaxilla,Animalia,Chordata,Aves,Columbiformes,Columbidae,Leptotila,LC,LC,Decreasing
+research,Leptotila verreauxi,Animalia,Chordata,Aves,Columbiformes,Columbidae,Leptotila,LC,LC,Stable
+research,Lessonia rufa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Lessonia,LC,LC,Stable
+research,Leucocarbo atriceps,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Leucocarbo,LC,NE,Unknown
+research,Leucochloris albicollis,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Leucochloris,LC,LC,Unknown
+research,Leucophaeus pipixcan,Animalia,Chordata,Aves,Charadriiformes,Laridae,Leucophaeus,LC,NE,Unknow
+research,Limnoctites rectirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnoctites,NT,VU,Decreasing
+research,Limnoctites sulphuriferus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnoctites,LC,NT,Unknown
+research,Limnornis curvirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnornis,LC,VU,Stable
+research,Limosa haemastica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa,LC,LC,Decreasing
+research,Lochmias nematura,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lochmias,LC,LC,Decreasing
+research,Machetornis rixosa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Machetornis,LC,LC,Stable
+research,Mackenziaena leachii,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Mackenziaena,LC,NE,Decreasing
+research,Macronectes giganteus,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Macronectes,LC,LC,Increasing
+research,Macronectes halli,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Macronectes,LC,LC,Increasing
+research,Mareca sibilatrix,Animalia,Chordata,Aves,Anseriformes,Anatidae,Mareca,LC,LC,Stable
+research,Megaceryle torquata,Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Megaceryle,LC,LC,Stable
+research,Megarynchus pitangua,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Megarynchus,LC,NE,Stable
+research,Megascops choliba,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,LC,LC,Decreasing
+research,Megascops sanctaecatarinae,Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,LC,NT,Decreasing
+research,Melanerpes cactorum,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,LC,VU,Decreasing
+research,Melanerpes candidus,Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,LC,LC,Increasing
+research,Melopsittacus undulatus,Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Melopsittacus,LC,NE,Increasing
+research,Microspingus cabanisi,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Microspingus,LC,LC,Decreasing
+research,Microspingus melanoleucus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Microspingus,LC,LC,Stable
+research,Microspingus torquatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Microspingus,LC,NE,Stable
+research,Milvago chimachima,Animalia,Chordata,Aves,Falconiformes,Falconidae,Milvago,LC,LC,Increasing
+research,Milvago chimango,Animalia,Chordata,Aves,Falconiformes,Falconidae,Milvago,LC,LC,NA
+research,Mimus saturninus,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus,LC,LC,Stable
+research,Mimus triurus,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus,LC,LC,Unknown
+research,Molothrus bonariensis,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,LC,LC,Increasing
+research,Molothrus rufoaxillaris,Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,LC,LC,Stable
+research,Muscisaxicola albilora,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Muscisaxicola,LC,NE,Stable
+research,Muscisaxicola maclovianus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Muscisaxicola,LC,LC,Decreasing
+research,Mustelirallus albicollis,Animalia,Chordata,Aves,Gruiformes,Rallidae,Mustelirallus,LC,NE,Unknown
+research,Mycteria americana,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Mycteria,LC,LC,Decreasing
+research,Myiarchus ferox,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,LC,NE,Stable
+research,Myiarchus swainsoni,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,LC,LC,Stable
+research,Myiarchus tyrannulus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,LC,NE,Increasing
+research,Myiodynastes maculatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiodynastes,LC,LC,Stable
+research,Myiopagis viridicata,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiopagis,LC,DD,Stable
+research,Myiophobus fasciatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiophobus,LC,LC,Increasing
+research,Myiopsitta monachus,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta,LC,LC,Increasing
+research,Myiothlypis leucoblephara,Animalia,Chordata,Aves,Passeriformes,Parulidae,Myiothlypis,LC,LC,Decreasing
+research,Nannopterum brasilianum,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Nannopterum,LC,LC,Unknown
+research,Nemosia pileata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Nemosia,LC,NE,Stable
+research,Nengetus cinereus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Nengetus,LC,NE,Unknown
+research,Neoxolmis coronatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Neoxolmis,LC,NE,Unknown
+research,Neoxolmis rufiventris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Neoxolmis,LC,VU,Unknown
+research,Netta peposaca,Animalia,Chordata,Aves,Anseriformes,Anatidae,Netta,LC,LC,Increasing
+research,Nomonyx dominicus,Animalia,Chordata,Aves,Anseriformes,Anatidae,Nomonyx,LC,DD,Stable
+research,Nothura maculosa,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Nothura,LC,LC,Decreasing
+research,Numenius phaeopus,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,LC,NE,Decreasing
+research,Nyctibius griseus,Animalia,Chordata,Aves,Caprimulgiformes,Nyctibiidae,Nyctibius,LC,LC,Decreasing
+research,Nycticorax nycticorax,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax,LC,LC,Decreasing
+research,Nycticryphes semicollaris,Animalia,Chordata,Aves,Charadriiformes,Rostratulidae,Nycticryphes,LC,LC,Decreasing
+research,Nyctidromus albicollis,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Nyctidromus,LC,DD,Stable
+research,Oceanites oceanicus,Animalia,Chordata,Aves,Procellariiformes,Oceanitidae,Oceanites,LC,LC,Stable
+research,Oreopholus ruficollis,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Oreopholus,LC,EN,Decreasing
+research,Oxyura vittata,Animalia,Chordata,Aves,Anseriformes,Anatidae,Oxyura,LC,LC,Stable
+research,Pachyptila belcheri,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Pachyptila,LC,LC,Stable
+research,Pachyramphus polychopterus,Animalia,Chordata,Aves,Passeriformes,Tityridae,Pachyramphus,LC,LC,Stable
+research,Pachyramphus validus,Animalia,Chordata,Aves,Passeriformes,Tityridae,Pachyramphus,LC,DD,Decreasing
+research,Pachyramphus viridis,Animalia,Chordata,Aves,Passeriformes,Tityridae,Pachyramphus,LC,LC,Stable
+research,Pandion haliaetus,Animalia,Chordata,Aves,Accipitriformes,Pandionidae,Pandion,LC,LC,Increasing
+research,Parabuteo unicinctus,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Parabuteo,LC,LC,Decreasing
+research,Pardirallus maculatus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Pardirallus,LC,LC,Stable
+research,Pardirallus sanguinolentus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Pardirallus,LC,LC,Stable
+research,Paroaria capitata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Paroaria,LC,NT,Stable
+research,Paroaria coronata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Paroaria,LC,LC,Stable
+research,Passer domesticus,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer,LC,NE,Decreasing
+research,Patagioenas cayennensis,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas,LC,DD,Decreasing
+research,Patagioenas maculosa,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas,LC,LC,Increasing
+research,Patagioenas picazuro,Animalia,Chordata,Aves,Columbiformes,Columbidae,Patagioenas,LC,LC,Increasing
+research,Penelope obscura,Animalia,Chordata,Aves,Galliformes,Cracidae,Penelope,LC,LC,Decreasing
+research,Petrochelidon pyrrhonota,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,LC,LC,Increasing
+research,Phacellodomus ferrugineigula,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,LC,NT,Stable
+research,Phacellodomus ruber,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,LC,DD,Decreasing
+research,Phacellodomus sibilatrix,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,LC,NT,Decreasing
+research,Phacellodomus striaticollis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,LC,LC,Stable
+research,Phaetusa simplex,Animalia,Chordata,Aves,Charadriiformes,Laridae,Phaetusa,LC,LC,Stable
+research,Phalaropus tricolor,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Phalaropus,LC,LC,NA
+research,Phimosus infuscatus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Phimosus,LC,LC,Stable
+research,Phleocryptes melanops,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phleocryptes,LC,LC,Decreasing
+research,Phoenicopterus chilensis,Animalia,Chordata,Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus,NT,VU,Decreasing
+research,Phyllomyias burmeisteri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Phyllomyias,LC,NE,Decreasing
+research,Phylloscartes ventralis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Phylloscartes,LC,LC,Decreasing
+research,Phytotoma rutila,Animalia,Chordata,Aves,Passeriformes,Cotingidae,Phytotoma,LC,LC,Decreasing
+research,Piaya cayana,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Piaya,LC,LC,Decreasing
+research,Piculus aurulentus,Animalia,Chordata,Aves,Piciformes,Picidae,Piculus,NT,NE,Decreasing
+research,Picumnus cirratus,Animalia,Chordata,Aves,Piciformes,Picidae,Picumnus,LC,DD,Decreasing
+research,Picumnus nebulosus,Animalia,Chordata,Aves,Piciformes,Picidae,Picumnus,NT,LC,Decreasing
+research,Pipraeidea melanonota,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Pipraeidea,LC,LC,Stable
+research,Piranga flava,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,LC,LC,Unknown
+research,Pitangus sulphuratus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pitangus,LC,LC,Increasing
+research,Platalea ajaja,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Platalea,LC,LC,Stable
+research,Plegadis chihi,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,LC,LC,Increasing
+research,Pluvialis dominica,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,LC,LC,Decreasing
+research,Pluvialis squatarola,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,LC,LC,Decreasing
+research,Pluvianellus socialis,Animalia,Chordata,Aves,Charadriiformes,Pluvianellidae,Pluvianellus,NT,NE,Stable
+research,Podiceps major,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,LC,LC,Stable
+research,Podiceps occipitalis,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,LC,NE,Decreasing
+research,Podilymbus podiceps,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podilymbus,LC,LC,Increasing
+research,Poecilotriccus plumbeiceps,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Poecilotriccus,LC,NT,Stable
+research,Polioptila dumicola,Animalia,Chordata,Aves,Passeriformes,Polioptilidae,Polioptila,LC,LC,Decreasing
+research,Polystictus pectoralis,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Polystictus,NT,VU,Decreasing
+research,Poospiza nigrorufa,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Poospiza,LC,LC,Stable
+research,Porphyrio martinica,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyrio,LC,LC,NA
+research,Porphyriops melanops,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyriops,LC,LC,Stable
+research,Porzana spiloptera,Animalia,Chordata,Aves,Gruiformes,Rallidae,Porzana,VU,EN,NA
+research,Procellaria aequinoctialis,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Procellaria,VU,VU,Decreasing
+research,Progne chalybea,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,LC,LC,Stable
+research,Progne elegans,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,LC,LC,Stable
+research,Progne tapera,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,LC,LC,Decreasing
+research,Pseudocolopteryx flaviventris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pseudocolopteryx,LC,LC,Decreasing
+research,Pseudocolopteryx sclateri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pseudocolopteryx,LC,NT,Stable
+research,Pseudoleistes guirahuro,Animalia,Chordata,Aves,Passeriformes,Icteridae,Pseudoleistes,LC,LC,Stable
+research,Pseudoleistes virescens,Animalia,Chordata,Aves,Passeriformes,Icteridae,Pseudoleistes,LC,LC,Stable
+research,Pseudoseisura lophotes,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Pseudoseisura,LC,LC,Decreasing
+research,Psittacara leucophthalmus,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Psittacara,LC,LC,Decreasing
+research,Puffinus puffinus,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,LC,LC,Unknown
+research,Pygochelidon cyanoleuca,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Pygochelidon,LC,LC,Decreasing
+research,Pyrocephalus rubinus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pyrocephalus,LC,LC,Increasing
+research,Pyroderus scutatus,Animalia,Chordata,Aves,Passeriformes,Cotingidae,Pyroderus,LC,NE,Decreasing
+research,Pyrrhura frontalis,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Pyrrhura,LC,LC,Stable
+research,Ramphastos toco,Animalia,Chordata,Aves,Piciformes,Ramphastidae,Ramphastos,LC,NE,Decreasing
+research,Rauenia bonariensis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rauenia,LC,LC,Unknown
+research,Rhea americana,Animalia,Chordata,Aves,Rheiformes,Rheidae,Rhea,NT,LC,Decreasing
+research,Rhopospina fruticeti,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rhopospina,LC,NE,Stable
+research,Rhynchotus rufescens,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Rhynchotus,LC,LC,Decreasing
+research,Riparia riparia,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Riparia,LC,NE,Decreasing
+research,Rollandia rolland,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Rollandia,LC,LC,Decreasing
+research,Rostrhamus sociabilis,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rostrhamus,LC,LC,Stable
+research,Rupornis magnirostris,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rupornis,LC,LC,Increasing
+research,Rynchops niger,Animalia,Chordata,Aves,Charadriiformes,Laridae,Rynchops,LC,LC,Decreasing
+research,Saltator aurantiirostris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator,LC,LC,Unknown
+research,Saltator coerulescens,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator,LC,LC,Decreasing
+research,Saltator similis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Saltator,LC,LC,Decreasing
+research,Satrapa icterophrys,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Satrapa,LC,LC,Stable
+research,Schoeniophylax phryganophilus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Schoeniophylax,LC,LC,Stable
+research,Serpophaga griseicapilla,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Serpophaga,LC,NE,Stable
+research,Serpophaga nigricans,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Serpophaga,LC,LC,Stable
+research,Serpophaga subcristata,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Serpophaga,LC,LC,Stable
+research,Setopagis parvula,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Setopagis,LC,LC,Stable
+research,Setophaga pitiayumi,Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,LC,LC,Decreasing
+research,Sicalis flaveola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sicalis,LC,LC,Stable
+research,Sicalis luteola,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sicalis,LC,LC,Increasing
+research,Sittasomus griseicapillus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Sittasomus,LC,NT,Decreasing
+research,Spartonoica maluroides,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Spartonoica,NT,VU,Decreasing
+research,Spatula cyanoptera,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,LC,NT,Decreasing
+research,Spatula platalea,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,LC,LC,Stable
+research,Spatula versicolor,Animalia,Chordata,Aves,Anseriformes,Anatidae,Spatula,LC,LC,Stable
+research,Spheniscus magellanicus,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus,NT,NT,Decreasing
+research,Spinus magellanicus,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Spinus,LC,LC,Stable
+research,Sporophila caerulescens,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,LC,LC,Increasing
+research,Sporophila cinnamomea,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,VU,VU,Decreasing
+research,Sporophila collaris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,LC,VU,Stable
+research,Sporophila hypochroma,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,NT,VU,Decreasing
+research,Sporophila hypoxantha,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,LC,NE,Stable
+research,Sporophila leucoptera,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,LC,NE,Stable
+research,Sporophila palustris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,EN,VU,Decreasing
+research,Sporophila pileata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,LC,NT,Decreasing
+research,Sporophila ruficollis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,NT,VU,Decreasing
+research,Stelgidopteryx ruficollis,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Stelgidopteryx,LC,LC,Stable
+research,Stephanophorus diadematus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stephanophorus,LC,LC,Stable
+research,Stercorarius antarcticus,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,NE,LC,NA
+research,Stercorarius chilensis,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,LC,NE,Unknow
+research,Stercorarius maccormicki,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,LC,NE,Unknow
+research,Stercorarius parasiticus,Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,LC,LC,Stable
+research,Sterna hirundinacea,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,LC,LC,Decreasing
+research,Sterna hirundo,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,LC,LC,Unknown
+research,Sterna paradisaea,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,LC,NE,Decreasing
+research,Sterna trudeaui,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,LC,LC,Stable
+research,Sternula superciliaris,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sternula,LC,LC,Stable
+research,Stilpnia peruviana,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia,VU,VU,Unknow
+research,Stilpnia preciosa,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia,LC,LC,Unknown
+research,Sturnus vulgaris,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus,LC,NE,Decreasing
+research,Sublegatus modestus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sublegatus,LC,LC,Increasing
+research,Suiriri suiriri,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Suiriri,LC,LC,Decreasing
+research,Sula dactylatra,Animalia,Chordata,Aves,Suliformes,Sulidae,Sula,LC,NE,Decreasing
+research,Synallaxis albescens,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis,LC,LC,Stable
+research,Synallaxis frontalis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis,LC,LC,Increasing
+research,Synallaxis spixi,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Synallaxis,LC,LC,Increasing
+research,Syndactyla rufosuperciliata,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Syndactyla,LC,LC,Stable
+research,Syrigma sibilatrix,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Syrigma,LC,LC,Unknown
+research,Systellura longirostris,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Systellura,LC,NE,Stable
+research,Tachuris rubrigastra,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tachuris,LC,LC,Stable
+research,Tachybaptus dominicus,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Tachybaptus,LC,LC,Stable
+research,Tachycineta leucopyga,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,LC,LC,NA
+research,Tachycineta leucorrhoa,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,LC,LC,Increasing
+research,Tachyphonus coronatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Tachyphonus,LC,NE,Stable
+research,Tapera naevia,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Tapera,LC,LC,Stable
+research,Thalassarche chlororhynchos,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Thalassarche,EN,EN,Decreasing
+research,Thalassarche melanophris,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Thalassarche,LC,LC,Increasing
+research,Thalasseus maximus,Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus,LC,CR,Stable
+research,Thalasseus sandvicensis,Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus,LC,NE,Stable
+research,Thamnophilus caerulescens,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Thamnophilus,LC,LC,Decreasing
+research,Thamnophilus ruficapillus,Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Thamnophilus,LC,LC,Decreasing
+research,Theristicus caerulescens,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Theristicus,LC,LC,Stable
+research,Theristicus caudatus,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Theristicus,LC,LC,Stable
+research,Thinocorus rumicivorus,Animalia,Chordata,Aves,Charadriiformes,Thinocoridae,Thinocorus,LC,LC,Stable
+research,Thraupis sayaca,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Thraupis,LC,LC,NA
+research,Tigrisoma lineatum,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Tigrisoma,LC,LC,Stable
+research,Tolmomyias sulphurescens,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tolmomyias,LC,NE,Decreasing
+research,Tringa flavipes,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,LC,LC,Decreasing
+research,Tringa melanoleuca,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,LC,LC,Stable
+research,Tringa solitaria,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,LC,LC,Decreasing
+research,Troglodytes aedon,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,LC,LC,Increasing
+research,Trogon surrucura,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,Trogon,LC,NE,Decreasing
+research,Turdus albicollis,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,LC,LC,Decreasing
+research,Turdus amaurochalinus,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,LC,LC,Stable
+research,Turdus flavipes,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,LC,NE,Stable
+research,Turdus leucomelas,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,LC,LC,Stable
+research,Turdus rufiventris,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,LC,LC,Stable
+research,Turdus subalaris,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,LC,NE,Unknown
+research,Tyrannus melancholicus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,LC,LC,Increasing
+research,Tyrannus savana,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,LC,LC,Stable
+research,Tyrannus tyrannus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,LC,NE,Decreasing
+research,Tyto alba,Animalia,Chordata,Aves,Strigiformes,Tytonidae,Tyto,LC,LC,Stable
+research,Vanellus chilensis,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Vanellus,LC,LC,Increasing
+research,Vireo chivi,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,LC,LC,Stable
+research,Volatinia jacarina,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Volatinia,LC,LC,Increasing
+research,Xanthopsar flavus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Xanthopsar,VU,VU,Decreasing
+research,Xenopsaris albinucha,Animalia,Chordata,Aves,Passeriformes,Tityridae,Xenopsaris,LC,NE,Stable
+research,Xolmis irupero,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Xolmis,LC,LC,Stable
+research,Zenaida auriculata,Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,LC,LC,Increasing
+research,Zonotrichia capensis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,LC,LC,Increasing
+research,Akodon azarae,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Akodon,LC,LC,Stable
+research,Alouatta caraya,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,LC,NE,Decreasing
+research,Arctocephalus australis,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,LC,LC,Increasing
+research,Arctocephalus gazella,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,LC,NE,Decreasing
+research,Arctocephalus tropicalis,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,LC,NE,Stable
+research,Axis axis,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Axis,LC,LC,Unknown
+research,Balaenoptera acutorostrata,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Balaenoptera,LC,NE,Unknown
+research,Cabassous tatouay,Animalia,Chordata,Mammalia,Cingulata,Chlamyphoridae,Cabassous,LC,EN,Unknown
+research,Calomys laucha,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Calomys,LC,LC,Unknown
+research,Canis familiaris,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,NE,NE,Unknow
+research,Capra hircus,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,NE,NE,Unknow
+research,Cavia aperea,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia,LC,LC,Stable
+research,Cerdocyon thous,Animalia,Chordata,Mammalia,Carnivora,Canidae,Cerdocyon,LC,LC,Stable
+research,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,LC,NE,Increasing
+research,Coendou spinosus,Animalia,Chordata,Mammalia,Rodentia,Erethizontidae,Coendou,LC,VU,Unknown
+research,Conepatus chinga,Animalia,Chordata,Mammalia,Carnivora,Mephitidae,Conepatus,LC,NT,Decreasing
+research,Ctenomys pearsoni,Animalia,Chordata,Mammalia,Rodentia,Ctenomyidae,Ctenomys,NT,VU,Decreasing
+research,Ctenomys torquatus,Animalia,Chordata,Mammalia,Rodentia,Ctenomyidae,Ctenomys,LC,LC,Unknown
+research,Cuniculus paca,Animalia,Chordata,Mammalia,Rodentia,Cuniculidae,Cuniculus,LC,VU,Stable
+research,Dama dama,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Dama,LC,NE,Unknown
+research,Dasypus novemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,LC,LC,Stable
+research,Dasypus septemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,LC,NE,Unknown
+research,Delphinus delphis,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Delphinus,LC,NE,Unknown
+research,Desmodus rotundus,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Desmodus,LC,LC,Stable
+research,Didelphis albiventris,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Didelphis,LC,LC,Stable
+research,Eptesicus diminutus,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,LC,NE,Unknown
+research,Eptesicus furinalis,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,LC,LC,Unknown
+research,Equus asinus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,NE,NE,Unknow
+research,Equus caballus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,NE,NE,Unknow
+research,Eubalaena australis,Animalia,Chordata,Mammalia,Artiodactyla,Balaenidae,Eubalaena,LC,EN,Unknown
+research,Eumops bonariensis,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Eumops,LC,LC,Unknown
+research,Euphractus sexcinctus,Animalia,Chordata,Mammalia,Cingulata,Chlamyphoridae,Euphractus,LC,NT,Stable
+research,Felis catus,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,NE,NE,Unknow
+research,Galictis cuja,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Galictis,LC,LC,Unknown
+research,Histiotus montanus,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Histiotus,LC,LC,Unknown
+research,Holochilus brasiliensis,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Holochilus,LC,LC,Stable
+research,Hydrochoerus hydrochaeris,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Hydrochoerus,LC,NT,Stable
+research,Lagenodelphis hosei,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Lagenodelphis,LC,NE,Unknown
+research,Lasiurus blossevillii,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Lasiurus,LC,LC,Unknown
+research,Lasiurus ega,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Lasiurus,LC,LC,Unknown
+research,Leopardus geoffroyi,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,LC,NT,Stable
+research,Leopardus munoai,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,CR,CR,NA
+research,Leopardus wiedii,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,NT,VU,Decreasing
+research,Lepus europaeus,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,LC,LC,Decreasing
+research,Lontra longicaudis,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lontra,NT,NT,Decreasing
+research,Lutreolina crassicaudata,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Lutreolina,LC,NT,Unknown
+research,Lycalopex gymnocercus,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,LC,NT,Stable
+research,Mazama gouazoubira,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Mazama,LC,NT,Decreasing
+research,Megaptera novaeangliae,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Megaptera,LC,NE,Increasing
+research,Mirounga leonina,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Mirounga,LC,NE,Stable
+research,Molossus molossus,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Molossus,LC,LC,Unknown
+research,Monodelphis dimidiata,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Monodelphis,LC,LC,Stable
+research,Mus musculus,Animalia,Chordata,Mammalia,Rodentia,Muridae,Mus,LC,LC,Stable
+research,Myocastor coypus,Animalia,Chordata,Mammalia,Rodentia,Echimyidae,Myocastor,LC,LC,Decreasing
+research,Myotis albescens,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,LC,LC,Stable
+research,Myotis levis,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,LC,LC,Unknown
+research,Nasua nasua,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Nasua,LC,VU,Decreasing
+research,Oligoryzomys flavescens,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oligoryzomys,LC,LC,Stable
+research,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus,EN,EN,Decreasing
+research,Otaria byronia,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Otaria,LC,LC,Stable
+research,Oxymycterus josei,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,NT,VU,Decreasing
+research,Oxymycterus nasutus,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,LC,EN,Unknown
+research,Ozotoceros bezoarticus,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Ozotoceros,NT,VU,Decreasing
+research,Pecari tajacu,Animalia,Chordata,Mammalia,Artiodactyla,Tayassuidae,Pecari,LC,CR,Stable
+research,Physeter macrocephalus,Animalia,Chordata,Mammalia,Artiodactyla,Physeteridae,Physeter,VU,VU,Unknown
+research,Pontoporia blainvillei,Animalia,Chordata,Mammalia,Artiodactyla,Pontoporiidae,Pontoporia,VU,VU,Decreasing
+research,Procyon cancrivorus,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Procyon,LC,LC,Decreasing
+research,Pseudorca crassidens,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Pseudorca,NT,NE,Unknown
+research,Rattus rattus,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,LC,LC,Stable
+research,Reithrodon typicus,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Reithrodon,LC,LC,Stable
+research,Sturnira lilium,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Sturnira,LC,VU,Stable
+research,Sus scrofa,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,LC,LC,Unknown
+research,Tadarida brasiliensis,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Tadarida,LC,LC,Stable
+research,Tamandua tetradactyla,Animalia,Chordata,Mammalia,Pilosa,Myrmecophagidae,Tamandua,LC,EN,Unknown
+research,Tursiops truncatus,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Tursiops,LC,NT,Unknown
+research,Wilfredomys oenax,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Wilfredomys,EN,NT,Unknown
+research,Acanthochelys spixii,Animalia,Chordata,Reptilia,Testudines,Chelidae,Acanthochelys,NT,LC,NA
+research,Amphisbaena darwinii,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena,NE,LC,NA
+research,Amphisbaena kingii,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena,NE,LC,Unknown
+research,Amphisbaena munoai,Animalia,Chordata,Reptilia,Squamata,Amphisbaenidae,Amphisbaena,NE,LC,Stable
+research,Aspronema dorsivittatum,Animalia,Chordata,Reptilia,Squamata,Scincidae,Aspronema,NE,LC,Stable
+research,Boiruna maculata,Animalia,Chordata,Reptilia,Squamata,Colubridae,Boiruna,NE,LC,Stable
+research,Bothrops alternatus,Animalia,Chordata,Reptilia,Squamata,Viperidae,Bothrops,NE,LC,Unknown
+research,Bothrops pubescens,Animalia,Chordata,Reptilia,Squamata,Viperidae,Bothrops,NE,LC,Unknown
+research,Caiman latirostris,Animalia,Chordata,Reptilia,Crocodylia,Alligatoridae,Caiman,LC,LC,Stable
+research,Calamodontophis paucidens,Animalia,Chordata,Reptilia,Squamata,Colubridae,Calamodontophis,VU,DD,Unknown
+research,Caretta caretta,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Caretta,VU,VU,Decreasing
+research,Cercosaura schreibersii,Animalia,Chordata,Reptilia,Squamata,Gymnophthalmidae,Cercosaura,LC,LC,Stable
+research,Chelonia mydas,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Chelonia,EN,VU,Decreasing
+research,Chironius gouveai,Animalia,Chordata,Reptilia,Squamata,Colubridae,Chironius,NE,NE,Unknow
+research,Contomastix lacertoides,Animalia,Chordata,Reptilia,Squamata,Teiidae,Contomastix,NE,LC,Unknown
+research,Dermochelys coriacea,Animalia,Chordata,Reptilia,Testudines,Dermochelyidae,Dermochelys,VU,CR,Decreasing
+research,Dipsas turgida,Animalia,Chordata,Reptilia,Squamata,Colubridae,Dipsas,NE,LC,Stable
+research,Epictia munoai,Animalia,Chordata,Reptilia,Squamata,Leptotyphlopidae,Epictia,NE,LC,Unknown
+research,Erythrolamprus almadensis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,NE,LC,Stable
+research,Erythrolamprus jaegeri,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,LC,LC,Unknown
+research,Erythrolamprus poecilogyrus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,NE,LC,Increasing
+research,Erythrolamprus semiaureus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,NE,LC,Stable
+research,Helicops infrataeniatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Helicops,NE,LC,Stable
+research,Hemidactylus mabouia,Animalia,Chordata,Reptilia,Squamata,Gekkonidae,Hemidactylus,LC,NE,Stable
+research,Homonota uruguayensis,Animalia,Chordata,Reptilia,Squamata,Phyllodactylidae,Homonota,NE,VU,Decreasing
+research,Hydromedusa tectifera,Animalia,Chordata,Reptilia,Testudines,Chelidae,Hydromedusa,NE,LC,NA
+research,Liolaemus occipitalis,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,VU,EN,Decreasing
+research,Liolaemus wiegmannii,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,LC,VU,Stable
+research,Lygophis anomalus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Lygophis,NE,LC,Stable
+research,Lygophis flavifrenatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Lygophis,NE,LC,Stable
+research,Micrurus altirostris,Animalia,Chordata,Reptilia,Squamata,Elapidae,Micrurus,NE,LC,Unknown
+research,Ophiodes intermedius,Animalia,Chordata,Reptilia,Squamata,Diploglossidae,Ophiodes,LC,LC,Stable
+research,Ophiodes striatus,Animalia,Chordata,Reptilia,Squamata,Diploglossidae,Ophiodes,NE,LC,Unknown
+research,Ophiodes vertebralis,Animalia,Chordata,Reptilia,Squamata,Diploglossidae,Ophiodes,NE,LC,Unknown
+research,Oxyrhopus rhombifer,Animalia,Chordata,Reptilia,Squamata,Colubridae,Oxyrhopus,NE,LC,Stable
+research,Paraphimophis rusticus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Paraphimophis,NE,LC,NA
+research,Phalotris lemniscatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Phalotris,LC,LC,Stable
+research,Philodryas aestiva,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas,NE,LC,Stable
+research,Philodryas agassizii,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas,NE,LC,Decreasing
+research,Philodryas olfersii,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas,NE,LC,Stable
+research,Philodryas patagoniensis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Philodryas,LC,LC,Stable
+research,Phrynops hilarii,Animalia,Chordata,Reptilia,Testudines,Chelidae,Phrynops,NE,LC,NA
+research,Phrynops williamsi,Animalia,Chordata,Reptilia,Testudines,Chelidae,Phrynops,VU,NT,Decreasing
+research,Psomophis obtusus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Psomophis,LC,LC,Stable
+research,Salvator merianae,Animalia,Chordata,Reptilia,Squamata,Teiidae,Salvator,LC,LC,Stable
+research,Taeniophallus occipitalis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Taeniophallus,NE,LC,Stable
+research,Taeniophallus poecilopogon,Animalia,Chordata,Reptilia,Squamata,Colubridae,Taeniophallus,NE,VU,Unknown
+research,Tantilla melanocephala,Animalia,Chordata,Reptilia,Squamata,Colubridae,Tantilla,NE,LC,Stable
+research,Tarentola mauritanica,Animalia,Chordata,Reptilia,Squamata,Phyllodactylidae,Tarentola,LC,CR,Stable
+research,Teius oculatus,Animalia,Chordata,Reptilia,Squamata,Teiidae,Teius,NE,LC,Unknown
+research,Thamnodynastes hypoconia,Animalia,Chordata,Reptilia,Squamata,Colubridae,Thamnodynastes,NE,LC,Stable
+research,Thamnodynastes strigatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Thamnodynastes,LC,LC,Unknown
+research,Tomodon ocellatus,Animalia,Chordata,Reptilia,Squamata,Colubridae,Tomodon,NE,LC,Unknown
+research,Trachemys dorbigni,Animalia,Chordata,Reptilia,Testudines,Emydidae,Trachemys,NE,LC,NA
+research,Tropidurus torquatus,Animalia,Chordata,Reptilia,Squamata,Tropiduridae,Tropidurus,LC,LC,Unknown
+research,Xenodon dorbignyi,Animalia,Chordata,Reptilia,Squamata,Colubridae,Xenodon,NE,LC,Unknown

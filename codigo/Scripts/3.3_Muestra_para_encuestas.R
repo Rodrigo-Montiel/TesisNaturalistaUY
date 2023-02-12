@@ -37,3 +37,13 @@ saveRDS(Experimentados, "datos/usuarios_experimentados")
 
 Tabla_usuarios_encuestados <- 
   data.frame(Experimentados, Intermedios, Principiantes)
+
+
+#PARA FILTRAR
+Usuarios_encuestados <- read.csv("datos/Usuarios para encuestar.csv")
+
+
+usuarios_dataset %>% filter(categoria_usuario=="principiante" & 
+                              ultimo_registro>(today()-182)) %>% 
+  filter(user_id %in% Usuarios_encuestados$Principiantes)
+

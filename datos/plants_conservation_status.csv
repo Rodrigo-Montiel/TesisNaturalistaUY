@@ -1,494 +1,494 @@
-...1,quality_grade,place_admin1_name,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name,species,Distribution,SNAPregional,SNAPestablecimiento,BiodiversidataEstablecimiento,IUCNglobal,trendGlobal
-223,research,Maldonado,Acanthospermum australe,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acanthospermum,Acanthospermum australe,Common,No evaluada,NA,nativa,NA,NA
-174,research,Cerro Largo,Acanthostyles buniifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acanthostyles,Acanthostyles buniifolius,Common,No Prioritaria,NA,nativa,NA,NA
-314,research,Cerro Largo,Achillea millefolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Achillea,Achillea millefolium,Rare,No evaluada,NA,NA,LC,Unknown
-488,research,Rocha,Achyrocline flaccida,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Achyrocline,Achyrocline flaccida,Common,No evaluada,NA,nativa,NA,NA
-65,research,San José,Achyrocline saturejoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Achyrocline,Achyrocline saturejoides,Common,No evaluada,NA,NA,NA,NA
-277,research,Cerro Largo,Acmella bellidioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acmella,Acmella bellidioides,Rare,No evaluada,NA,NA,NA,NA
-77,research,Río Negro,Acmella decumbens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acmella,Acmella decumbens,Rare,No evaluada,NA,nativa,NA,NA
-475,research,Rocha,Adenostemma brasilianum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Adenostemma,Adenostemma brasilianum,Common,No evaluada,NA,nativa,NA,NA
-121,research,Río Negro,Aldama anchusifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Aldama,Aldama anchusifolia,Rare,No evaluada,NA,nativa,NA,NA
-232,research,Río Negro,Ambrosia artemisiifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Ambrosia,Ambrosia artemisiifolia,Common,No evaluada,NA,nativa,NA,NA
-274,research,Canelones,Ambrosia tenuifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Ambrosia,Ambrosia tenuifolia,Common,No evaluada,NA,introducida,NA,NA
-307,research,Soriano,Angelphytum grisebachii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Angelphytum,Angelphytum grisebachii,NA,No evaluada,NA,NA,NA,NA
-13,research,Canelones,Anthemis cotula,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Anthemis,Anthemis cotula,Common,No evaluada,NA,introducida,NA,NA
-89,research,Montevideo,Arctium minus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Arctium,Arctium minus,Rare,No evaluada,NA,introducida,NA,NA
-168,research,Flores,Aspilia montevidensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Aspilia,Aspilia montevidensis,Common,No evaluada,NA,nativa,NA,NA
-436,research,Colonia,Aspilia silphioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Aspilia,Aspilia silphioides,Rare,No evaluada,NA,NA,NA,NA
-92,research,Río Negro,Austroeupatorium inulifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Austroeupatorium,Austroeupatorium inulifolium,Common,No evaluada,NA,nativa,NA,NA
-462,research,Rivera,Austroeupatorium laetevirens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Austroeupatorium,Austroeupatorium laetevirens,NA,No evaluada,NA,NA,NA,NA
-263,research,Maldonado,Baccharis aliena,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis aliena,Common,No Prioritaria,NA,nativa,NA,NA
-438,research,Rivera,Baccharis anomala,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis anomala,Common,No Prioritaria,Si,nativa,NA,NA
-143,research,San José,Baccharis articulata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis articulata,Common,No Prioritaria,Si,nativa,NA,NA
-469,research,Rocha,Baccharis breviseta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis breviseta,Common,No Prioritaria,NA,nativa,NA,NA
-69,research,Río Negro,Baccharis coridifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis coridifolia,Common,No evaluada,NA,nativa,NA,NA
-219,research,Lavalleja,Baccharis crispa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis crispa,Rare,No evaluada,NA,nativa,NA,NA
-477,research,Maldonado,Baccharis cultrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis cultrata,Rare,No Prioritaria,Si,nativa,NA,NA
-159,research,Montevideo,Baccharis dracunculifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis dracunculifolia,Common,No Prioritaria,Si,nativa,NA,NA
-410,research,Canelones,Baccharis genistifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis genistifolia,Common,No evaluada,NA,nativa,NA,NA
-176,research,Río Negro,Baccharis glutinosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis glutinosa,Common,No evaluada,NA,nativa,NA,NA
-363,research,Maldonado,Baccharis gnaphalioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis gnaphalioides,Rare,No evaluada,NA,nativa,NA,NA
-365,research,Maldonado,Baccharis jocheniana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis jocheniana,NA,No evaluada,NA,nativa,NA,NA
-222,research,Maldonado,Baccharis linearifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis linearifolia,Common,Prioritaria,NA,nativa,NA,NA
-228,research,Maldonado,Baccharis microdonta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis microdonta,Common,No Prioritaria,Si,nativa,NA,NA
-7,research,Maldonado,Baccharis notosergila,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis notosergila,Common,No Prioritaria,NA,nativa,NA,NA
-162,research,Cerro Largo,Baccharis ochracea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis ochracea,Common,No evaluada,NA,nativa,NA,NA
-216,research,Maldonado,Baccharis oxyodonta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis oxyodonta,Common,No evaluada,NA,nativa,NA,NA
-271,research,Maldonado,Baccharis patens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis patens,Common,No evaluada,NA,nativa,NA,NA
-286,research,Soriano,Baccharis phyteumoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis phyteumoides,Common,No evaluada,NA,nativa,NA,NA
-404,research,Rivera,Baccharis psiadioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis psiadioides,Rare,Prioritaria,NA,nativa,NA,NA
-180,research,Paysandú,Baccharis punctulata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis punctulata,Common,No Prioritaria,Si,nativa,LC,Stable
-446,research,Treinta y Tres,Baccharis rectialata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis rectialata,Rare,No evaluada,NA,NA,NA,NA
-368,research,Río Negro,Baccharis salicifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis salicifolia,Rare,No evaluada,NA,NA,LC,Decreasing
-260,research,Maldonado,Baccharis spicata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis spicata,Common,No Prioritaria,Si,nativa,NA,NA
-272,research,Canelones,Baccharis tridentata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis tridentata,Common,No Prioritaria,NA,nativa,NA,NA
-109,research,Río Negro,Baccharis trimera,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis trimera,Common,No evaluada,NA,nativa,NA,NA
-254,research,Río Negro,Baccharis vulneraria,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis vulneraria,Common,No Prioritaria,NA,nativa,NA,NA
-423,research,Rocha,Barrosoa betoniciformis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Barrosoa,Barrosoa betoniciformis,Rare,No evaluada,NA,NA,NA,NA
-248,research,Río Negro,Barrosoa candolleana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Barrosoa,Barrosoa candolleana,NA,No evaluada,NA,nativa,NA,NA
-26,research,Canelones,Berroa gnaphalioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Berroa,Berroa gnaphalioides,Common,No evaluada,NA,nativa,NA,NA
-5,research,Montevideo,Bidens aurea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens,Bidens aurea,NA,No evaluada,NA,introducida,NA,NA
-238,research,Canelones,Bidens laevis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens,Bidens laevis,NA,No evaluada,NA,nativa,NA,NA
-52,research,Maldonado,Bidens pilosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens,Bidens pilosa,,No evaluada,NA,introducida,NA,NA
-88,research,Río Negro,Bidens subalternans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens,Bidens subalternans,,No evaluada,NA,nativa,NA,NA
-457,research,Rivera,Calea clematidea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calea,Calea clematidea,,No evaluada,NA,NA,NA,NA
-402,research,Rivera,Calea cymosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calea,Calea cymosa,,No evaluada,NA,NA,NA,NA
-297,research,Soriano,Calea uniflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calea,Calea uniflora,,No evaluada,NA,nativa,NA,NA
-413,research,Durazno,Calendula officinalis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calendula,Calendula officinalis,,No evaluada,NA,NA,NA,NA
-205,research,Río Negro,Calyptocarpus brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calyptocarpus,Calyptocarpus brasiliensis,,No evaluada,NA,NA,NA,NA
-12,research,Maldonado,Campovassouria cruciata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Campovassouria,Campovassouria cruciata,,No prioritaria,NA,nativa,NA,NA
-3,research,Montevideo,Campuloclinium macrocephalum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Campuloclinium,Campuloclinium macrocephalum,,No evaluada,NA,nativa,NA,NA
-106,research,Río Negro,Carduus acanthoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus,Carduus acanthoides,,No evaluada,NA,introducida,NA,NA
-157,research,Salto,Carduus nutans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus,Carduus nutans,,No evaluada,NA,introducida,NA,NA
-389,research,Canelones,Carduus pycnocephalus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus,Carduus pycnocephalus,,No evaluada,NA,introducida,NA,NA
-207,research,Durazno,Carthamus lanatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carthamus,Carthamus lanatus,,No evaluada,NA,NA,NA,NA
-374,research,Soriano,Centaurea calcitrapa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea,Centaurea calcitrapa,,No evaluada,NA,NA,NA,NA
-67,research,Río Negro,Centaurea solstitialis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea,Centaurea solstitialis,,No evaluada,NA,introducida,NA,NA
-75,research,Montevideo,Chamaemelum mixtum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chamaemelum,Chamaemelum mixtum,,No evaluada,NA,NA,NA,NA
-288,research,Maldonado,Chaptalia arechavaletae,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia arechavaletae,,No evaluada,NA,nativa,NA,NA
-278,research,Río Negro,Chaptalia exscapa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia exscapa,,No evaluada,NA,nativa,NA,NA
-409,research,Maldonado,Chaptalia integerrima,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia integerrima,,No evaluada,NA,nativa,NA,NA
-300,research,Lavalleja,Chaptalia nutans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia nutans,,No evaluada,NA,nativa,NA,NA
-83,research,Río Negro,Chaptalia piloselloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia piloselloides,,No evaluada,NA,nativa,NA,NA
-194,research,Paysandú,Chaptalia sinuata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia sinuata,,No evaluada,NA,nativa,NA,NA
-294,research,San José,Chevreulia sarmentosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chevreulia,Chevreulia sarmentosa,,No evaluada,NA,nativa,NA,NA
-468,research,Lavalleja,Chromolaena caaguazuensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena caaguazuensis,,No evaluada,NA,NA,NA,NA
-464,research,Río Negro,Chromolaena callilepis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena callilepis,,No evaluada,NA,NA,NA,NA
-108,research,Río Negro,Chromolaena christieana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena christieana,,No evaluada,NA,NA,NA,NA
-58,research,Río Negro,Chromolaena hirsuta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena hirsuta,,No evaluada,NA,nativa,NA,NA
-87,research,Río Negro,Chromolaena ivifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena ivifolia,,Prioritaria,NA,nativa,NA,NA
-235,research,Paysandú,Chromolaena laevigata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena laevigata,,No Prioritaria,NA,nativa,NA,NA
-198,research,Paysandú,Chromolaena squarrulosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena squarrulosa,,No evaluada,NA,nativa,NA,NA
-459,research,Durazno,Chrysanthellum indicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysanthellum,Chrysanthellum indicum,,No evaluada,NA,NA,NA,NA
-444,research,Tacuarembó,Chrysolaena cognata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysolaena,Chrysolaena cognata,,No evaluada,NA,nativa,NA,NA
-45,research,Maldonado,Chrysolaena flexuosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysolaena,Chrysolaena flexuosa,,No evaluada,NA,nativa,NA,NA
-425,research,Rocha,Chrysolaena platensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysolaena,Chrysolaena platensis,,No evaluada,NA,nativa,NA,NA
-104,research,Río Negro,Cichorium intybus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cichorium,Cichorium intybus,,No evaluada,NA,introducida,NA,NA
-48,research,Lavalleja,Cirsium vulgare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cirsium,Cirsium vulgare,,No evaluada,NA,introducida,NA,NA
-140,research,Montevideo,Coleostephus myconis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Coleostephus,Coleostephus myconis,,No evaluada,No,introducida,NA,NA
-73,research,Canelones,Coreopsis lanceolata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Coreopsis,Coreopsis lanceolata,,No evaluada,NA,introducida,NA,NA
-315,research,Montevideo,Cosmos bipinnatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cosmos,Cosmos bipinnatus,,No evaluada,NA,NA,NA,NA
-357,research,Montevideo,Cosmos sulphureus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cosmos,Cosmos sulphureus,,No evaluada,NA,NA,NA,NA
-279,research,Canelones,Cotula australis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cotula,Cotula australis,,No evaluada,NA,NA,NA,NA
-324,research,Rocha,Cotula coronopifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cotula,Cotula coronopifolia,,No evaluada,NA,introducida,NA,NA
-209,research,Montevideo,Cotula nigellifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cotula,Cotula nigellifolia,,No evaluada,NA,introducida,NA,NA
-175,research,Rivera,Criscia stricta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Criscia,Criscia stricta,,No evaluada,NA,nativa,NA,NA
-46,research,Colonia,Cynara cardunculus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cynara,Cynara cardunculus,,No evaluada,NA,introducida,NA,NA
-428,research,Salto,Cyrtocymura scorpioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cyrtocymura,Cyrtocymura scorpioides,,No Prioritaria,NA,nativa,NA,NA
-442,research,Cerro Largo,Dasyphyllum spinescens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dasyphyllum,Dasyphyllum spinescens,,No evaluada,NA,NA,LC,Stable
-490,research,Maldonado,Delairea odorata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Delairea,Delairea odorata,,No evaluada,NA,introducida,NA,NA
-408,research,Soriano,Dimerostemma grisebachii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dimerostemma,Dimerostemma grisebachii,,No evaluada,NA,NA,NA,NA
-269,research,Rocha,Dimorphotheca ecklonis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dimorphotheca,Dimorphotheca ecklonis,,No evaluada,NA,NA,NA,NA
-27,research,Canelones,Eclipta elliptica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Eclipta,Eclipta elliptica,,No evaluada,NA,nativa,NA,NA
-472,research,Río Negro,Eclipta megapotamica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Eclipta,Eclipta megapotamica,,No evaluada,NA,nativa,NA,NA
-119,research,Soriano,Eclipta prostrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Eclipta,Eclipta prostrata,,No evaluada,NA,nativa,LC,Stable
-200,research,Paysandú,Elephantopus angustifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Elephantopus,Elephantopus angustifolius,,No evaluada,NA,NA,NA,NA
-60,research,Río Negro,Elephantopus mollis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Elephantopus,Elephantopus mollis,,No evaluada,NA,nativa,NA,NA
-224,research,Maldonado,Enydra sessilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Enydra,Enydra sessilis,,No evaluada,NA,nativa,NA,NA
-239,research,Canelones,Erechtites hieraciifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erechtites,Erechtites hieraciifolius,,No evaluada,NA,introducida,NA,NA
-467,research,Rocha,Erechtites valerianifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erechtites,Erechtites valerianifolius,,No evaluada,NA,nativa,NA,NA
-53,research,Rocha,Erigeron blakei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron blakei,,No evaluada,NA,NA,NA,NA
-160,research,Montevideo,Erigeron bonariensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron bonariensis,,No evaluada,NA,NA,NA,NA
-323,research,Montevideo,Erigeron canadensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron canadensis,,No evaluada,NA,NA,NA,NA
-139,research,Río Negro,Erigeron lorentzii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron lorentzii,,No evaluada,NA,NA,NA,NA
-420,research,Colonia,Erigeron primulifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron primulifolius,,No evaluada,NA,NA,NA,NA
-473,research,Rocha,Euryops chrysanthemoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Euryops,Euryops chrysanthemoides,,No evaluada,NA,NA,NA,NA
-384,research,Treinta y Tres,Exostigma notobellidiastrum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Exostigma,Exostigma notobellidiastrum,,No evaluada,NA,nativa,NA,NA
-309,research,Treinta y Tres,Exostigma rivulare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Exostigma,Exostigma rivulare,,No evaluada,NA,NA,NA,NA
-364,research,Paysandú,Facelis retusa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Facelis,Facelis retusa,,No evaluada,NA,nativa,NA,NA
-120,research,Montevideo,Galinsoga parviflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Galinsoga,Galinsoga parviflora,,No evaluada,NA,NA,NA,NA
-400,research,Colonia,Galinsoga quadriradiata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Galinsoga,Galinsoga quadriradiata,,No evaluada,NA,NA,NA,NA
-295,research,Soriano,Gamochaeta americana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gamochaeta,Gamochaeta americana,,No evaluada,NA,nativa,NA,NA
-8,research,Rocha,Gamochaeta falcata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gamochaeta,Gamochaeta falcata,,No evaluada,NA,nativa,NA,NA
-326,research,Maldonado,Gazania rigens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gazania,Gazania rigens,,No evaluada,NA,NA,NA,NA
-247,research,Maldonado,Glebionis coronaria,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Glebionis,Glebionis coronaria,,No evaluada,NA,NA,NA,NA
-265,research,Maldonado,Grazielia brevipetiolata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia brevipetiolata,,Prioritaria,NA,nativa,NA,NA
-401,research,Rivera,Grazielia intermedia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia,,No Prioritaria,NA,nativa,NA,NA
-55,research,Maldonado,Grazielia serrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia serrata,,No Prioritaria,NA,nativa,NA,NA
-270,research,Rocha,Grindelia orientalis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grindelia,Grindelia orientalis,,Prioritaria,Si,nativa,NA,NA
-71,research,Río Negro,Grindelia pulchella,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grindelia,Grindelia pulchella,,No evaluada,NA,nativa,NA,NA
-101,research,Río Negro,Gymnocoronis spilanthoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gymnocoronis,Gymnocoronis spilanthoides,,No evaluada,NA,nativa,NA,NA
-310,research,Treinta y Tres,Gyptis commersonii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis,Gyptis commersonii,,No evaluada,NA,NA,NA,NA
-447,research,Tacuarembó,Gyptis lanigera,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis,Gyptis lanigera,,No Prioritaria,NA,nativa,NA,NA
-262,research,Río Negro,Gyptis pinnatifida,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis,Gyptis pinnatifida,,No evaluada,NA,NA,NA,NA
-10,research,Rivera,Gyptis tanacetifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis,Gyptis tanacetifolia,,No evaluada,NA,nativa,NA,NA
-246,research,Durazno,Hatschbachiella tweedieana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hatschbachiella,Hatschbachiella tweedieana,,No evaluada,NA,nativa,NA,NA
-145,research,Montevideo,Hedypnois rhagadioloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hedypnois,Hedypnois rhagadioloides,,No evaluada,NA,introducida,NA,NA
-213,research,San José,Helenium amarum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helenium,Helenium amarum,,No evaluada,NA,introducida,NA,NA
-72,research,Paysandú,Helenium radiatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helenium,Helenium radiatum,,No evaluada,NA,nativa,NA,NA
-137,research,Canelones,Helianthus annuus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helianthus,Helianthus annuus,,No evaluada,NA,NA,LC,Stable
-124,research,Montevideo,Helianthus tuberosus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helianthus,Helianthus tuberosus,,No evaluada,NA,NA,LC,Stable
-158,research,Montevideo,Helminthotheca echioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helminthotheca,Helminthotheca echioides,,No evaluada,NA,introducida,NA,NA
-153,research,Montevideo,Hieracium commersonii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hieracium,Hieracium commersonii,,No evaluada,NA,nativa,NA,NA
-304,research,Montevideo,Holocheilus brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Holocheilus,Holocheilus brasiliensis,,No evaluada,NA,nativa,NA,NA
-95,research,Río Negro,Holocheilus hieracioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Holocheilus,Holocheilus hieracioides,,No evaluada,NA,nativa,NA,NA
-138,research,Río Negro,Hymenoxys anthemoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hymenoxys,Hymenoxys anthemoides,,No evaluada,NA,nativa,NA,NA
-122,research,Río Negro,Hypochaeris albiflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris albiflora,,No evaluada,NA,nativa,NA,NA
-147,research,Soriano,Hypochaeris chillensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris chillensis,,No evaluada,NA,nativa,NA,NA
-432,research,Durazno,Hypochaeris grisebachii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris grisebachii,,No evaluada,NA,NA,NA,NA
-298,research,Lavalleja,Hypochaeris megapotamica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris megapotamica,,No evaluada,NA,nativa,NA,NA
-18,research,Canelones,Hypochaeris radicata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris radicata,,No evaluada,NA,introducida,NA,NA
-299,research,Lavalleja,Hypochaeris variegata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris variegata,,No evaluada,NA,NA,NA,NA
-405,research,Rivera,Hysterionica chamomilloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hysterionica,Hysterionica chamomilloides,,No evaluada,NA,NA,NA,NA
-343,research,Artigas,Hysterionica montevidensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hysterionica,Hysterionica montevidensis,,No evaluada,NA,NA,NA,NA
-183,research,Paysandú,Hysterionica resinosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hysterionica,Hysterionica resinosa,,No evaluada,NA,NA,NA,NA
-192,research,Paysandú,Isostigma peucedanifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Isostigma,Isostigma peucedanifolium,,No evaluada,NA,nativa,NA,NA
-217,research,Canelones,Jaumea linearifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Jaumea,Jaumea linearifolia,,No evaluada,NA,nativa,NA,NA
-463,research,Rivera,Jungia floribunda,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Jungia,Jungia floribunda,,No evaluada,NA,nativa,NA,NA
-325,research,Paysandú,Lactuca saligna,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lactuca,Lactuca saligna,,No evaluada,NA,introducida,NA,NA
-424,research,Maldonado,Lactuca sativa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lactuca,Lactuca sativa,,No evaluada,NA,NA,NA,NA
-166,research,Paysandú,Lactuca serriola,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lactuca,Lactuca serriola,,No evaluada,NA,introducida,NA,NA
-403,research,Rivera,Lessingianthus brevifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus brevifolius,,No evaluada,NA,nativa,NA,NA
-422,research,Río Negro,Lessingianthus glabratus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus,,Prioritaria,NA,nativa,NA,NA
-169,research,Rivera,Lessingianthus macrocephalus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus macrocephalus,,Prioritaria,NA,nativa,NA,NA
-96,research,Soriano,Lessingianthus plantaginodes,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus plantaginodes,,No evaluada,NA,nativa,NA,NA
-398,research,Cerro Largo,Lessingianthus rubricaulis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus rubricaulis,,No evaluada,NA,NA,NA,NA
-419,research,Paysandú,Lessingianthus sellowii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus sellowii,,No evaluada,NA,nativa,NA,NA
-284,research,Montevideo,Leucanthemum vulgare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Leucanthemum,Leucanthemum vulgare,,No evaluada,NA,NA,NA,NA
-227,research,Maldonado,Lucilia acutifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lucilia,Lucilia acutifolia,,No evaluada,NA,nativa,NA,NA
-221,research,Maldonado,Lucilia nitens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lucilia,Lucilia nitens,,No evaluada,NA,nativa,NA,NA
-11,research,Florida,Matricaria chamomilla,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Matricaria,Matricaria chamomilla,,No evaluada,NA,introducida,NA,NA
-421,research,Tacuarembó,Microgyne marchesiana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Microgyne,Microgyne marchesiana,,Prioritaria,Si,nativa,NA,NA
-24,research,Canelones,Microgyne trifurcata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Microgyne,Microgyne trifurcata,,No evaluada,NA,nativa,NA,NA
-367,research,Paysandú,Micropsis spathulata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Micropsis,Micropsis spathulata,,No evaluada,NA,NA,NA,NA
-460,research,Rivera,Mikania anethifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania anethifolia,,No evaluada,NA,NA,NA,NA
-240,research,Canelones,Mikania cordifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania cordifolia,,No evaluada,NA,nativa,NA,NA
-395,research,Treinta y Tres,Mikania involucrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania involucrata,,No evaluada,NA,nativa,NA,NA
-443,research,Río Negro,Mikania pinnatiloba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania pinnatiloba,,No evaluada,NA,NA,NA,NA
-245,research,Durazno,Mikania thapsoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania thapsoides,,No evaluada,NA,nativa,NA,NA
-429,research,Tacuarembó,Moquiniastrum polymorphum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Moquiniastrum,Moquiniastrum polymorphum,,No Prioritaria,NA,nativa,LC,Stable
-173,research,Maldonado,Mutisia coccinea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mutisia,Mutisia coccinea,,No evaluada,NA,nativa,NA,NA
-195,research,Paysandú,Neja pinifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Neja,Neja pinifolia,,No evaluada,NA,NA,NA,NA
-230,research,Montevideo,Noticastrum acuminatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum,Noticastrum acuminatum,,No evaluada,NA,nativa,NA,NA
-4,research,Montevideo,Noticastrum diffusum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum,Noticastrum diffusum,,No evaluada,NA,nativa,NA,NA
-231,research,Rocha,Noticastrum malmei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum,Noticastrum malmei,,Prioritaria,Si,nativa,NA,NA
-352,research,Montevideo,Noticastrum marginatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum,Noticastrum marginatum,,No evaluada,NA,NA,NA,NA
-372,research,Río Negro,Pamphalea bupleurifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pamphalea,Pamphalea bupleurifolia,,No evaluada,NA,NA,NA,NA
-81,research,Río Negro,Pamphalea heterophylla,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pamphalea,Pamphalea heterophylla,,No evaluada,NA,NA,NA,NA
-328,research,Lavalleja,Panphalea heterophylla,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pamphalea,Panphalea heterophylla,,No evaluada,NA,nativa,NA,NA
-293,research,Tacuarembó,Perezia multiflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Perezia,Perezia multiflora,,No evaluada,NA,nativa,NA,NA
-493,research,Maldonado,Perezia squarrosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Perezia,Perezia squarrosa,,Prioritaria,Si,nativa,NA,NA
-78,research,Río Negro,Picrosia longifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Picrosia,Picrosia longifolia,,No evaluada,NA,nativa,NA,NA
-20,research,Montevideo,Pluchea sagittalis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pluchea,Pluchea sagittalis,,No evaluada,NA,nativa,NA,NA
-335,research,Río Negro,Podocoma hirsuta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Podocoma,Podocoma hirsuta,,No evaluada,NA,nativa,NA,NA
-193,research,Paysandú,Porophyllum linifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Porophyllum,Porophyllum linifolium,,Prioritaria,NA,nativa,NA,NA
-197,research,Paysandú,Porophyllum ruderale,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Porophyllum,Porophyllum ruderale,,No evaluada,NA,nativa,NA,NA
-150,research,Colonia,Pseudognaphalium cheiranthifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pseudognaphalium,Pseudognaphalium cheiranthifolium,,No evaluada,NA,nativa,NA,NA
-182,research,Paysandú,Pseudognaphalium gaudichaudianum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pseudognaphalium,Pseudognaphalium gaudichaudianum,,No evaluada,NA,nativa,NA,NA
-123,research,Montevideo,Pseudogynoxys chenopodioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pseudogynoxys,Pseudogynoxys chenopodioides,,No evaluada,NA,NA,NA,NA
-250,research,Soriano,Pterocaulon angustifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon angustifolium,,No evaluada,NA,nativa,NA,NA
-181,research,Paysandú,Pterocaulon balansae,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon balansae,,No evaluada,NA,nativa,NA,NA
-342,research,Artigas,Pterocaulon cordobense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon cordobense,,No evaluada,NA,nativa,NA,NA
-220,research,Maldonado,Pterocaulon lorentzii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon lorentzii,,No evaluada,NA,nativa,NA,NA
-431,research,Cerro Largo,Pterocaulon polypterum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon polypterum,,No evaluada,NA,NA,NA,NA
-15,research,Salto,Pterocaulon polystachyum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon polystachyum,,No evaluada,NA,nativa,NA,NA
-237,research,Canelones,Pterocaulon virgatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon virgatum,,No evaluada,NA,nativa,NA,NA
-494,research,Tacuarembó,Radlkoferotoma berroi,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Radlkoferotoma,Radlkoferotoma berroi,,Prioritaria,Si,nativa,NA,NA
-312,research,Treinta y Tres,Radlkoferotoma cistifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Radlkoferotoma,Radlkoferotoma cistifolium,,Prioritaria,Si,nativa,NA,NA
-474,research,Canelones,Raulinoreitzia tremula,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Raulinoreitzia,Raulinoreitzia tremula,,No Prioritaria,NA,nativa,NA,NA
-470,research,Maldonado,Santolina chamaecyparissus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Santolina,Santolina chamaecyparissus,,No evaluada,NA,NA,NA,NA
-32,research,Maldonado,Schlechtendalia luzulifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Schlechtendalia,Schlechtendalia luzulifolia,,Prioritaria,NA,nativa,NA,NA
-388,research,Maldonado,Senecio angulatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio angulatus,,No evaluada,NA,NA,NA,NA
-97,research,Río Negro,Senecio bonariensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio bonariensis,,No evaluada,NA,nativa,NA,NA
-40,research,Rocha,Senecio brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio brasiliensis,,No evaluada,NA,nativa,NA,NA
-360,research,Maldonado,Senecio ceratophylloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio ceratophylloides,,No evaluada,NA,nativa,NA,NA
-79,research,Montevideo,Senecio crassiflorus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio crassiflorus,,No evaluada,NA,nativa,NA,NA
-383,research,Florida,Senecio heterotrichius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio heterotrichius,,No evaluada,NA,nativa,NA,NA
-25,research,Canelones,Senecio madagascariensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio madagascariensis,,No evaluada,No,introducida,NA,NA
-281,research,Maldonado,Senecio ostenii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio ostenii,,Prioritaria,Si,nativa,NA,NA
-292,research,Tacuarembó,Senecio pinnatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio pinnatus,,No evaluada,NA,nativa,NA,NA
-9,research,Rocha,Senecio platensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio platensis,,No evaluada,NA,nativa,NA,NA
-98,research,Río Negro,Senecio pterophorus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio pterophorus,,No evaluada,NA,nativa,NA,NA
-171,research,Maldonado,Senecio pulcher,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio pulcher,,No evaluada,NA,nativa,NA,NA
-141,research,San José,Senecio selloi,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio selloi,,No evaluada,NA,nativa,NA,NA
-479,research,Colonia,Senecio tamoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio tamoides,,No evaluada,NA,NA,NA,NA
-301,research,Maldonado,Senecio tweediei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio tweediei,,No evaluada,NA,NA,NA,NA
-313,research,Canelones,Senecio viravira,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio viravira,,No evaluada,NA,NA,NA,NA
-282,research,Montevideo,Senecio vulgaris,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio vulgaris,,No evaluada,NA,NA,NA,NA
-362,research,Río Negro,Silybum marianum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Silybum,Silybum marianum,,No evaluada,NA,NA,LC,Stable
-113,research,Maldonado,Smallanthus connatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Smallanthus,Smallanthus connatus,,No evaluada,NA,nativa,NA,NA
-57,research,Río Negro,Solidago chilensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Solidago,Solidago chilensis,,No evaluada,NA,nativa,NA,NA
-128,research,Rivera,Soliva sessilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Soliva,Soliva sessilis,,No evaluada,NA,nativa,NA,NA
-170,research,Rivera,Sommerfeltia cabrerae,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sommerfeltia,Sommerfeltia cabrerae,,Prioritaria,Si,nativa,NA,NA
-236,research,Rocha,Sommerfeltia spinulosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sommerfeltia,Sommerfeltia spinulosa,,Prioritaria,Si,nativa,NA,NA
-136,research,Paysandú,Sonchus asper,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus,Sonchus asper,,No evaluada,NA,introducida,NA,NA
-99,research,Montevideo,Sonchus oleraceus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus,Sonchus oleraceus,,No evaluada,NA,introducida,NA,NA
-449,research,Maldonado,Stenachaenium macrocephalum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenachaenium,Stenachaenium macrocephalum,,No evaluada,NA,NA,NA,NA
-386,research,Maldonado,Stenachaenium megapotamicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenachaenium,Stenachaenium megapotamicum,,No evaluada,NA,nativa,NA,NA
-385,research,Treinta y Tres,Stenachaenium riedelii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenachaenium,Stenachaenium riedelii,,No evaluada,NA,nativa,NA,NA
-201,research,Paysandú,Stenocephalum megapotamicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenocephalum,Stenocephalum megapotamicum,,No evaluada,NA,nativa,NA,NA
-348,research,Río Negro,Stevia aristata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia aristata,,No evaluada,NA,nativa,NA,NA
-461,research,Rivera,Stevia cinerascens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia cinerascens,,No evaluada,NA,NA,NA,NA
-482,research,Río Negro,Stevia entreriensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia entreriensis,,No evaluada,NA,NA,NA,NA
-351,research,Río Negro,Stevia multiaristata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia multiaristata,,No evaluada,NA,nativa,NA,NA
-16,research,Rocha,Stevia satureiifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia satureiifolia,,No evaluada,NA,NA,NA,NA
-266,research,Río Negro,Symphyotrichum subulatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Symphyotrichum,Symphyotrichum subulatum,,No evaluada,NA,NA,NA,NA
-255,research,Río Negro,Tagetes minuta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tagetes,Tagetes minuta,,No evaluada,NA,nativa,NA,NA
-455,research,Rocha,Tanacetum vulgare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tanacetum,Tanacetum vulgare,,No evaluada,NA,NA,NA,NA
-369,research,Río Negro,Taraxacum erythrospermum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Taraxacum,Taraxacum erythrospermum,,No evaluada,NA,NA,NA,NA
-86,research,Río Negro,Taraxacum officinale,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Taraxacum,Taraxacum officinale,,No evaluada,NA,introducida,NA,NA
-6,research,Rocha,Tessaria absinthioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tessaria,Tessaria absinthioides,,No evaluada,NA,nativa,NA,NA
-188,research,Paysandú,Thelesperma megapotamicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Thelesperma,Thelesperma megapotamicum,,No evaluada,NA,nativa,NA,NA
-394,research,Colonia,Tragopogon porrifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tragopogon,Tragopogon porrifolius,,No evaluada,NA,NA,NA,NA
-161,research,Rocha,Trichocline cisplatina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline,Trichocline cisplatina,,No evaluada,NA,NA,NA,NA
-117,research,Río Negro,Trichocline humilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline,Trichocline humilis,,No evaluada,NA,nativa,NA,NA
-190,research,Paysandú,Trichocline incana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline,Trichocline incana,,No evaluada,NA,nativa,NA,NA
-416,research,Paysandú,Trichocline minuana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline,Trichocline minuana,,No evaluada,NA,NA,NA,NA
-349,research,Río Negro,Trixis nobilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trixis,Trixis nobilis,,No evaluada,NA,nativa,NA,NA
-84,research,Río Negro,Trixis praestans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trixis,Trixis praestans,,No Prioritaria,Si,nativa,NA,NA
-112,research,Río Negro,Urolepis hecatantha,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Urolepis,Urolepis hecatantha,,No evaluada,NA,nativa,NA,NA
-155,research,Montevideo,Urospermum picroides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Urospermum,Urospermum picroides,,No evaluada,NA,introducida,NA,NA
-64,research,Río Negro,Verbesina subcordata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Verbesina,Verbesina subcordata,,No Prioritaria,Si,nativa,NA,NA
-74,research,Paysandú,Vernonanthura montevidensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Vernonanthura,Vernonanthura montevidensis,,No Prioritaria,NA,nativa,NA,NA
-110,research,Río Negro,Vernonanthura nudiflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Vernonanthura,Vernonanthura nudiflora,,No evaluada,NA,nativa,NA,NA
-178,research,San José,Xanthium cavanillesii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Xanthium,Xanthium cavanillesii,,No evaluada,NA,NA,NA,NA
-253,research,Río Negro,Xanthium spinosum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Xanthium,Xanthium spinosum,,No evaluada,NA,introducida,NA,NA
-134,research,Rocha,Xanthium strumarium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Xanthium,Xanthium strumarium,,No evaluada,NA,introducida,NA,NA
-127,research,Montevideo,Youngia japonica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Youngia,Youngia japonica,,No evaluada,NA,introducida,NA,NA
-226,research,Río Negro,Zinnia elegans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Zinnia,Zinnia elegans,,No evaluada,NA,introducida,NA,NA
-485,research,Cerro Largo,Brasiliopuntia brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Brasiliopuntia,Brasiliopuntia brasiliensis,,No evaluada,NA,NA,LC,Decreasing
-17,research,Canelones,Cereus hildmannianus,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Cereus,Cereus hildmannianus,,No evaluada,NA,NA,LC,Decreasing
-215,research,Río Negro,Echinopsis oxygona,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Echinopsis,Echinopsis oxygona,,No evaluada,NA,NA,LC,Stable
-373,research,Río Negro,Echinopsis rhodotricha,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Echinopsis,Echinopsis rhodotricha,,No evaluada,NA,NA,LC,Stable
-234,research,Cerro Largo,Epiphyllum oxypetalum,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Epiphyllum,Epiphyllum oxypetalum,,No evaluada,NA,NA,LC,Stable
-130,research,Cerro Largo,Frailea gracillima,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Frailea,Frailea gracillima,,Prioritaria,Si,NA,VU,Decreasing
-214,research,Río Negro,Frailea pumila,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Frailea,Frailea pumila,,Prioritaria,Si,NA,LC,Stable
-21,research,Lavalleja,Frailea pygmaea,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Frailea,Frailea pygmaea,,No evaluada,NA,nativa,LC,Stable
-347,research,Río Negro,Frailea schilinzkyana,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Frailea,Frailea schilinzkyana,,Prioritaria,Si,nativa,VU,Decreasing
-430,research,Cerro Largo,Gymnocalycium denudatum,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Gymnocalycium,Gymnocalycium denudatum,,Prioritaria,Si,nativa,EN,Decreasing
-407,research,Treinta y Tres,Gymnocalycium hyptiacanthum,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Gymnocalycium,Gymnocalycium hyptiacanthum,,No evaluada,NA,NA,LC,Decreasing
-356,research,Río Negro,Gymnocalycium schroederianum,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Gymnocalycium,Gymnocalycium schroederianum,,Prioritaria,Si,NA,LC,Stable
-381,research,Treinta y Tres,Gymnocalycium uruguayense,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Gymnocalycium,Gymnocalycium uruguayense,,No evaluada,NA,NA,VU,Decreasing
-337,research,Artigas,Harrisia bonplandii,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Harrisia,Harrisia bonplandii,,No evaluada,NA,NA,NA,NA
-336,research,Artigas,Harrisia regelii,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Harrisia,Harrisia regelii,,No evaluada,NA,NA,LC,Stable
-440,research,Cerro Largo,Lepismium cruciforme,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Lepismium,Lepismium cruciforme,,Prioritaria,Si,NA,LC,Decreasing
-100,research,Río Negro,Lepismium lumbricoides,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Lepismium,Lepismium lumbricoides,,No evaluada,NA,NA,LC,Stable
-30,research,Maldonado,Opuntia arechavaletae,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia arechavaletae,,No evaluada,NA,nativa,LC,Unknown
-132,research,Maldonado,Opuntia aurantiaca,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia aurantiaca,,No evaluada,NA,nativa,LC,Stable
-50,research,Rivera,Opuntia bonaerensis,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia bonaerensis,,No evaluada,NA,NA,NA,NA
-210,research,Artigas,Opuntia elata,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia elata,,No evaluada,NA,nativa,LC,Stable
-14,research,Canelones,Opuntia ficus-indica,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia ficus-indica,,No evaluada,NA,introducida,DD,Unknown
-252,research,Maldonado,Opuntia megapotamica,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia megapotamica,,No evaluada,NA,NA,LC,Stable
-29,research,Colonia,Opuntia monacantha,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia monacantha,,No evaluada,NA,introducida,LC,Stable
-68,research,Río Negro,Opuntia rioplatense,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia rioplatense,,No evaluada,NA,NA,NA,NA
-320,research,Río Negro,Opuntia sulphurea,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia sulphurea,,Prioritaria,NA,nativa,LC,Stable
-229,research,Maldonado,Parodia concinna,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia concinna,,No evaluada,NA,nativa,VU,Decreasing
-1,research,Rocha,Parodia erinacea,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia erinacea,,No evaluada,NA,nativa,LC,Decreasing
-318,research,Rocha,Parodia erubescens,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia erubescens,,No evaluada,NA,NA,NA,NA
-411,research,Rivera,Parodia herteri,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia herteri,,Prioritaria,NA,nativa,CR,Decreasing
-131,research,Rocha,Parodia langsdorfii,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia langsdorfii,,Prioritaria,NA,nativa,VU,Decreasing
-37,research,Florida,Parodia mammulosa,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia mammulosa,,No evaluada,NA,nativa,LC,Stable
-311,research,Tacuarembó,Parodia mueller-melchersii,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia mueller-melchersii,,Prioritaria,NA,nativa,EN,Decreasing
-261,research,Rocha,Parodia neoarechavaletae,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia neoarechavaletae,,No evaluada,NA,NA,VU,Decreasing
-129,research,Cerro Largo,Parodia ottonis,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia ottonis,,No evaluada,NA,nativa,VU,Decreasing
-441,research,Cerro Largo,Parodia oxycostata,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia oxycostata,,No evaluada,NA,NA,VU,Decreasing
-242,research,Rocha,Parodia scopa,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia scopa,,No evaluada,NA,nativa,VU,Decreasing
-412,research,Tacuarembó,Parodia tenuicylindrica,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia tenuicylindrica,,Prioritaria,NA,nativa,EN,Decreasing
-450,research,Artigas,Rhipsalis cereuscula,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Rhipsalis,Rhipsalis cereuscula,,Prioritaria,Si,NA,LC,Decreasing
-491,research,Montevideo,Selenicereus undatus,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Selenicereus,Selenicereus undatus,,No evaluada,NA,NA,NA,NA
-484,research,San José,Acacia baileyana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia baileyana,,No evaluada,NA,NA,NA,NA
-85,research,Soriano,Acacia dealbata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia dealbata,,No evaluada,NA,NA,LC,Unknown
-133,research,Montevideo,Acacia longifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia longifolia,,No evaluada,No,NA,LC,Unknown
-164,research,Flores,Acacia melanoxylon,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia melanoxylon,,No evaluada,NA,NA,NA,NA
-273,research,Canelones,Acacia podalyriifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia podalyriifolia,,No evaluada,NA,NA,LC,Increasing
-283,research,Rocha,Adesmia bicolor,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia bicolor,,No evaluada,NA,nativa,NA,NA
-448,research,Maldonado,Adesmia incana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia incana,,No evaluada,NA,nativa,NA,NA
-439,research,Rocha,Adesmia latifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia latifolia,,No evaluada,NA,nativa,NA,NA
-289,research,Maldonado,Adesmia punctata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia punctata,,No evaluada,NA,nativa,NA,NA
-148,research,San José,Adesmia securigerifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia securigerifolia,,No evaluada,NA,nativa,NA,NA
-322,research,Colonia,Aeschynomene montevidensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Aeschynomene,Aeschynomene montevidensis,,No Prioritaria,Si,nativa,NA,NA
-415,research,Río Negro,Albizia inundata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Albizia,Albizia inundata,,No Prioritaria,Si,nativa,LC,Stable
-49,research,Maldonado,Albizia julibrissin,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Albizia,Albizia julibrissin,,No evaluada,NA,NA,NA,NA
-361,research,Rivera,Ancistrotropis clitorioides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Ancistrotropis,Ancistrotropis clitorioides,,No evaluada,NA,nativa,NA,NA
-338,research,Artigas,Arachis burkartii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Arachis,Arachis burkartii,,Prioritaria,Si,nativa,NA,NA
-151,research,Colonia,Arachis villosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Arachis,Arachis villosa,,No evaluada,NA,nativa,NT,Unknown
-66,research,Río Negro,Bauhinia forficata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bauhinia,Bauhinia forficata,,No Prioritaria,NA,nativa,LC,Stable
-489,research,Maldonado,Bauhinia variegata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bauhinia,Bauhinia variegata,,No evaluada,NA,NA,LC,Stable
-393,research,Colonia,Calliandra parvifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra,Calliandra parvifolia,,No Prioritaria,Si,nativa,LC,Stable
-332,research,Lavalleja,Calliandra selloi,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra,Calliandra selloi,,No evaluada,NA,NA,NA,NA
-62,research,Montevideo,Calliandra tweediei,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra,Calliandra tweediei,,No evaluada,NA,NA,LC,Stable
-93,research,Río Negro,Camptosema rubicundum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Camptosema,Camptosema rubicundum,,No evaluada,NA,nativa,NA,NA
-319,research,Rocha,Canavalia bonariensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Canavalia,Canavalia bonariensis,,No evaluada,NA,nativa,NA,NA
-42,research,Tacuarembó,Centrosema virginianum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Centrosema,Centrosema virginianum,,No evaluada,NA,nativa,NA,NA
-354,research,Río Negro,Chamaecrista flexuosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Chamaecrista,Chamaecrista flexuosa,,No evaluada,NA,NA,NA,NA
-189,research,Paysandú,Chamaecrista repens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Chamaecrista,Chamaecrista repens,,No evaluada,NA,nativa,NA,NA
-334,research,Treinta y Tres,Clitoria nana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Clitoria,Clitoria nana,,Prioritaria,Si,NA,NA,NA
-202,research,Paysandú,Collaea stenophylla,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Collaea,Collaea stenophylla,,No Prioritaria,Si,nativa,NA,NA
-433,research,Canelones,Desmanthus acuminatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmanthus,Desmanthus acuminatus,,No evaluada,NA,NA,NA,NA
-435,research,Cerro Largo,Desmodium affine,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmodium,Desmodium affine,,No evaluada,NA,nativa,NA,NA
-427,research,Rivera,Desmodium arechavaletae,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmodium,Desmodium arechavaletae,,No evaluada,NA,NA,NA,NA
-70,research,Soriano,Desmodium incanum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmodium,Desmodium incanum,,No evaluada,NA,nativa,NA,NA
-418,research,Artigas,Discolobium psoraleifolium,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Discolobium,Discolobium psoraleifolium,,No evaluada,NA,NA,NA,NA
-125,research,Montevideo,Enterolobium contortisiliquum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Enterolobium,Enterolobium contortisiliquum,,No Prioritaria,Si,nativa,LC,Stable
-23,research,Tacuarembó,Erythrina crista-galli,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Erythrina,Erythrina crista-galli,,No Prioritaria,Si,nativa,LC,Stable
-308,research,Río Negro,Erythrostemon gilliesii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Erythrostemon,Erythrostemon gilliesii,,No Prioritaria,NA,nativa,NA,NA
-317,research,Maldonado,Galactia australis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia australis,,No evaluada,NA,NA,NA,NA
-471,research,Tacuarembó,Galactia benthamiana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia benthamiana,,No evaluada,NA,NA,NA,NA
-414,research,Maldonado,Galactia gracillima,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia gracillima,,No evaluada,NA,NA,NA,NA
-114,research,Río Negro,Galactia marginalis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia marginalis,,No evaluada,NA,nativa,NA,NA
-406,research,Rivera,Galactia pretiosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia pretiosa,,No evaluada,NA,NA,NA,NA
-291,research,Maldonado,Genista monspessulana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Genista,Genista monspessulana,,No evaluada,NA,NA,NA,NA
-105,research,Río Negro,Geoffroea decorticans,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Geoffroea,Geoffroea decorticans,,No Prioritaria,Si,nativa,LC,Stable
-340,research,Salto,Gleditsia amorphoides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Gleditsia,Gleditsia amorphoides,,Prioritaria,Si,nativa,NA,NA
-142,research,Río Negro,Gleditsia triacanthos,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Gleditsia,Gleditsia triacanthos,,No evaluada,No,introducida,LC,Stable
-333,research,San José,Glycine max,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Glycine,Glycine max,,No evaluada,NA,NA,NA,NA
-341,research,Artigas,Indigofera asperifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Indigofera,Indigofera asperifolia,,No evaluada,NA,nativa,LC,Unknown
-241,research,Canelones,Inga uraguensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Inga,Inga uraguensis,,No evaluada,NA,nativa,NA,NA
-156,research,Montevideo,Lathyrus nervosus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus,Lathyrus nervosus,,No evaluada,NA,nativa,NA,NA
-287,research,Maldonado,Lathyrus pubescens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus,Lathyrus pubescens,,No evaluada,NA,nativa,NA,NA
-379,research,Rivera,Lathyrus pusillus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus,Lathyrus pusillus,,No evaluada,NA,nativa,NA,NA
-378,research,Tacuarembó,Lathyrus subulatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus,Lathyrus subulatus,,No evaluada,NA,nativa,NA,NA
-466,research,Colonia,Leptospron adenanthum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Leptospron,Leptospron adenanthum,,No evaluada,NA,nativa,NA,NA
-458,research,Lavalleja,Lespedeza bicolor,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lespedeza,Lespedeza bicolor,,No evaluada,NA,NA,NA,NA
-103,research,Río Negro,Lotus corniculatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus corniculatus,,No evaluada,NA,introducida,NA,NA
-397,research,Flores,Lotus subbiflorus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus subbiflorus,,No evaluada,NA,NA,NA,NA
-208,research,Rocha,Lotus tenuis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus tenuis,,No evaluada,NA,NA,NA,NA
-382,research,Colonia,Lupinus albescens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus albescens,,No evaluada,NA,NA,NA,NA
-80,research,Montevideo,Lupinus bracteolaris,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus bracteolaris,,No evaluada,NA,nativa,NA,NA
-275,research,Rivera,Lupinus gibertianus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus gibertianus,,No evaluada,NA,nativa,NA,NA
-350,research,Cerro Largo,Lupinus lanatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus lanatus,,Prioritaria,Si,NA,NA,NA
-486,research,Maldonado,Lupinus linearis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus linearis,,Prioritaria,Si,nativa,NA,NA
-47,research,Rivera,Lupinus multiflorus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus multiflorus,,No evaluada,NA,nativa,NA,NA
-453,research,Artigas,Macroptilium lathyroides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Macroptilium,Macroptilium lathyroides,,No evaluada,NA,NA,NA,NA
-107,research,Río Negro,Macroptilium prostratum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Macroptilium,Macroptilium prostratum,,No evaluada,NA,nativa,NA,NA
-296,research,Durazno,Medicago arabica,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago arabica,,No evaluada,NA,NA,NA,NA
-268,research,Río Negro,Medicago lupulina,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago lupulina,,No evaluada,NA,introducida,NA,NA
-387,research,Rocha,Medicago minima,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago minima,,No evaluada,NA,NA,NA,NA
-370,research,Paysandú,Medicago polymorpha,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago polymorpha,,No evaluada,NA,introducida,NA,NA
-118,research,Río Negro,Medicago sativa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago sativa,,No evaluada,NA,introducida,LC,Stable
-167,research,Paysandú,Melilotus albus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Melilotus,Melilotus albus,,No evaluada,NA,introducida,NA,NA
-303,research,Montevideo,Melilotus indicus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Melilotus,Melilotus indicus,,No evaluada,NA,introducida,NA,NA
-54,research,Maldonado,Mimosa australis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa australis,,Prioritaria,Si,NA,NA,NA
-376,research,Maldonado,Mimosa axillarioides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa axillarioides,,No evaluada,NA,NA,NA,NA
-41,research,Treinta y Tres,Mimosa bifurca,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa bifurca,,Prioritaria,Si,nativa,NA,NA
-437,research,Montevideo,Mimosa bimucronata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa bimucronata,,Prioritaria,Si,nativa,LC,Stable
-302,research,Maldonado,Mimosa burkartii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa burkartii,,Prioritaria,Si,NA,NA,NA
-212,research,Maldonado,Mimosa dutrae,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa dutrae,,Prioritaria,Si,nativa,NA,NA
-244,research,Durazno,Mimosa flagellaris,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa flagellaris,,No evaluada,NA,nativa,NA,NA
-454,research,Canelones,Mimosa magentea,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa magentea,,Prioritaria,Si,NA,NA,NA
-451,research,Artigas,Mimosa paupera,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa paupera,,No evaluada,NA,nativa,NA,NA
-452,research,Salto,Mimosa pigra,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa pigra,,No Prioritaria,Si,nativa,LC,Stable
-331,research,Lavalleja,Mimosa pilulifera,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa pilulifera,,No Prioritaria,Si,nativa,LC,Stable
-211,research,Maldonado,Mimosa ramulosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa ramulosa,,No Prioritaria,Si,nativa,NA,NA
-377,research,Maldonado,Mimosa schleidenii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa schleidenii,,Prioritaria,Si,NA,NA,NA
-259,research,Tacuarembó,Mimosa sprengelii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa sprengelii,,No Prioritaria,Si,nativa,NA,NA
-218,research,Río Negro,Mimosa strigillosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa strigillosa,,No evaluada,NA,nativa,NA,NA
-172,research,Artigas,Mimosa uraguensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa uraguensis,,No Prioritaria,Si,nativa,NA,NA
-196,research,Paysandú,Neptunia pubescens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Neptunia,Neptunia pubescens,,No evaluada,NA,nativa,NA,NA
-456,research,Artigas,Parapiptadenia rigida,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Parapiptadenia,Parapiptadenia rigida,,No Prioritaria,Si,nativa,LC,Stable
-243,research,Flores,Parkinsonia aculeata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Parkinsonia,Parkinsonia aculeata,,No Prioritaria,Si,introducida,LC,Stable
-28,research,Tacuarembó,Peltophorum dubium,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Peltophorum,Peltophorum dubium,,Prioritaria,Si,nativa,LC,Stable
-184,research,Paysandú,Poecilanthe parviflora,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Poecilanthe,Poecilanthe parviflora,,No Prioritaria,Si,nativa,DD,NA
-417,research,Maldonado,Poiretia tetraphylla,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Poiretia,Poiretia tetraphylla,,No evaluada,NA,nativa,NA,NA
-391,research,Treinta y Tres,Pomaria pilosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Pomaria,Pomaria pilosa,,No evaluada,NA,nativa,NA,NA
-426,research,Artigas,Pomaria rubicunda,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Pomaria,Pomaria rubicunda,,Prioritaria,Si,NA,NA,NA
-91,research,Río Negro,Prosopis affinis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis affinis,,Prioritaria,Si,nativa,DD,NA
-177,research,Flores,Prosopis nigra,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis nigra,,Prioritaria,Si,nativa,DD,NA
-396,research,Rocha,Psoralea pinnata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Psoralea,Psoralea pinnata,,No evaluada,NA,NA,NA,NA
-478,research,Rivera,Rhynchosia corylifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Rhynchosia,Rhynchosia corylifolia,,No evaluada,NA,nativa,NA,NA
-203,research,Paysandú,Rhynchosia lineata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Rhynchosia,Rhynchosia lineata,,No evaluada,NA,NA,NA,NA
-445,research,Río Negro,Rhynchosia senna,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Rhynchosia,Rhynchosia senna,,No evaluada,NA,nativa,LC,Stable
-487,research,Montevideo,Robinia pseudoacacia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Robinia,Robinia pseudoacacia,,No evaluada,NA,NA,LC,Increasing
-249,research,Río Negro,Senegalia bonariensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senegalia,Senegalia bonariensis,,No evaluada,NA,nativa,NA,NA
-483,research,Canelones,Senegalia picachensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senegalia,Senegalia picachensis,,No evaluada,NA,NA,NA,NA
-38,research,Florida,Senna corymbosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senna,Senna corymbosa,,No Prioritaria,Si,nativa,LC,Stable
-399,research,Paysandú,Senna nana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senna,Senna nana,,No evaluada,NA,NA,NA,NA
-353,research,Río Negro,Senna scabriuscula,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senna,Senna scabriuscula,,No evaluada,NA,NA,NA,NA
-116,research,Canelones,Sesbania punicea,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Sesbania,Sesbania punicea,,No Prioritaria,Si,nativa,LC,Stable
-22,research,Rocha,Sesbania virgata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Sesbania,Sesbania virgata,,No Prioritaria,Si,nativa,LC,Stable
-31,research,Maldonado,Spartium junceum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Spartium,Spartium junceum,,No evaluada,No,introducida,NA,NA
-344,research,Treinta y Tres,Stylosanthes leiocarpa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Stylosanthes,Stylosanthes leiocarpa,,No evaluada,NA,nativa,NA,NA
-358,research,Maldonado,Stylosanthes montevidensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Stylosanthes,Stylosanthes montevidensis,,No evaluada,NA,nativa,NA,NA
-355,research,Río Negro,Tephrosia cinerea,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Tephrosia,Tephrosia cinerea,,No evaluada,NA,nativa,NA,NA
-186,research,Montevideo,Tipuana tipu,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Tipuana,Tipuana tipu,,No evaluada,NA,nativa,LC,Stable
-154,research,Canelones,Trifolium campestre,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium,Trifolium campestre,,No evaluada,NA,NA,NA,NA
-43,research,Treinta y Tres,Trifolium polymorphum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium,Trifolium polymorphum,,No evaluada,NA,nativa,NA,NA
-44,research,Canelones,Trifolium pratense,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium,Trifolium pratense,,No evaluada,NA,introducida,LC,Stable
-126,research,Canelones,Trifolium repens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium,Trifolium repens,,No evaluada,NA,introducida,NA,NA
-251,research,Montevideo,Ulex europaeus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Ulex,Ulex europaeus,,No evaluada,No,introducida,LC,Stable
-35,research,Colonia,Vachellia caven,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia,Vachellia caven,,No Prioritaria,NA,nativa,LC,Stable
-276,research,Montevideo,Vachellia farnesiana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia,Vachellia farnesiana,,No evaluada,NA,NA,LC,Stable
-61,research,Montevideo,Vachellia karroo,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia,Vachellia karroo,,No evaluada,NA,NA,LC,Stable
-82,research,San José,Vicia benghalensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia,Vicia benghalensis,,No evaluada,NA,introducida,NA,NA
-36,research,Montevideo,Vicia faba,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia,Vicia faba,,No evaluada,NA,NA,NA,NA
-306,research,San José,Vicia sativa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia,Vicia sativa,,No evaluada,NA,introducida,LC,Stable
-187,research,Canelones,Vigna longifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vigna,Vigna longifolia,,No evaluada,NA,nativa,LC,Stable
-225,research,Maldonado,Vigna luteola,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vigna,Vigna luteola,,No evaluada,NA,nativa,LC,Stable
-257,research,Maldonado,Wisteria sinensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Wisteria,Wisteria sinensis,,No evaluada,NA,NA,NA,NA
-199,research,Paysandú,Bouchetia anomala,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Bouchetia,Bouchetia anomala,,No evaluada,NA,nativa,NA,NA
-327,research,Rocha,Brugmansia arborea,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Brugmansia,Brugmansia arborea,,No evaluada,NA,NA,EW,NA
-256,research,Canelones,Brugmansia suaveolens,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Brugmansia,Brugmansia suaveolens,,No evaluada,NA,NA,EW,NA
-135,research,Canelones,Brunfelsia australis,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Brunfelsia,Brunfelsia australis,,No evaluada,NA,NA,LC,Stable
-149,research,Colonia,Brunfelsia pauciflora,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Brunfelsia,Brunfelsia pauciflora,,No evaluada,NA,introducida,LC,Stable
-191,research,Paysandú,Calibrachoa humilis,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa humilis,,Prioritaria,Si,nativa,NA,NA
-380,research,Treinta y Tres,Calibrachoa ovalifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa ovalifolia,,No evaluada,NA,nativa,NA,NA
-321,research,Río Negro,Calibrachoa parviflora,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa parviflora,,No evaluada,NA,nativa,NA,NA
-375,research,Maldonado,Calibrachoa pubescens,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa pubescens,,No evaluada,NA,nativa,NA,NA
-56,research,Río Negro,Calibrachoa pygmaea,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa pygmaea,,No evaluada,NA,nativa,NA,NA
-233,research,Río Negro,Capsicum annuum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Capsicum,Capsicum annuum,,No evaluada,NA,nativa,LC,Stable
-94,research,Río Negro,Cestrum parqui,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Cestrum,Cestrum parqui,,No Prioritaria,Si,nativa,LC,Stable
-371,research,Tacuarembó,Cestrum strigilatum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Cestrum,Cestrum strigilatum,,No Prioritaria,NA,nativa,LC,Stable
-59,research,Río Negro,Datura ferox,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Datura,Datura ferox,,No evaluada,NA,nativa,NA,NA
-330,research,Rocha,Jaborosa integrifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Jaborosa,Jaborosa integrifolia,,No evaluada,NA,nativa,NA,NA
-90,research,Río Negro,Jaborosa runcinata,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Jaborosa,Jaborosa runcinata,,No evaluada,NA,nativa,NA,NA
-481,research,Río Negro,Lycium boerhaviifolium,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Lycium,Lycium boerhaviifolium,,No Prioritaria,NA,nativa,NA,NA
-345,research,Río Negro,Lycium ciliatum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Lycium,Lycium ciliatum,,Prioritaria,Si,nativa,NA,NA
-492,research,Tacuarembó,Nicotiana alata,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana alata,,No evaluada,NA,NA,NA,NA
-290,research,Maldonado,Nicotiana bonariensis,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana bonariensis,,No evaluada,NA,NA,NA,NA
-285,research,Montevideo,Nicotiana glauca,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana glauca,,No evaluada,NA,introducida,NA,NA
-2,research,Montevideo,Nicotiana longiflora,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana longiflora,,No evaluada,NA,nativa,NA,NA
-366,research,Canelones,Nicotiana tabacum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana tabacum,,No evaluada,NA,NA,NA,NA
-204,research,Río Negro,Nierembergia aristata,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia aristata,,Prioritaria,Si,nativa,NA,NA
-102,research,Río Negro,Nierembergia calycina,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia calycina,,Prioritaria,Si,nativa,NA,NA
-390,research,Maldonado,Nierembergia ericoides,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia ericoides,,Prioritaria,Si,nativa,NA,NA
-51,research,Durazno,Nierembergia linariifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia linariifolia,,No evaluada,NA,nativa,NA,NA
-305,research,Colonia,Nierembergia rivularis,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia rivularis,,No evaluada,NA,nativa,NA,NA
-258,research,Río Negro,Nierembergia scoparia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia scoparia,,No evaluada,NA,nativa,NA,NA
-34,research,Colonia,Petunia axillaris,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Petunia,Petunia axillaris,,No evaluada,NA,nativa,NA,NA
-144,research,Soriano,Petunia integrifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Petunia,Petunia integrifolia,,Prioritaria,NA,nativa,NA,NA
-185,research,Río Negro,Physalis angulata,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Physalis,Physalis angulata,,No evaluada,NA,nativa,LC,Stable
-280,research,Montevideo,Physalis peruviana,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Physalis,Physalis peruviana,,No evaluada,NA,NA,NA,NA
-434,research,Cerro Largo,Physalis viscosa,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Physalis,Physalis viscosa,,No evaluada,NA,nativa,NA,NA
-179,research,Paysandú,Salpichroa origanifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Salpichroa,Salpichroa origanifolia,,No evaluada,NA,nativa,NA,NA
-346,research,Río Negro,Sclerophylax lorentzianus,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Sclerophylax,Sclerophylax lorentzianus,,Prioritaria,Si,nativa,NA,NA
-339,research,Canelones,Solanum aethiopicum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum aethiopicum,,No evaluada,NA,NA,NA,NA
-392,research,Montevideo,Solanum americanum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum americanum,,No evaluada,NA,nativa,NA,NA
-359,research,Maldonado,Solanum amygdalifolium,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum amygdalifolium,,No evaluada,NA,nativa,NA,NA
-163,research,Cerro Largo,Solanum atropurpureum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum atropurpureum,,No evaluada,NA,nativa,NA,NA
-465,research,Rocha,Solanum betaceum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum betaceum,,No evaluada,NA,NA,DD,NA
-76,research,Río Negro,Solanum bonariense,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum bonariense,,No Prioritaria,Si,nativa,NA,NA
-146,research,Montevideo,Solanum chenopodioides,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum chenopodioides,,No evaluada,NA,nativa,NA,NA
-264,research,Maldonado,Solanum commersonii,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum commersonii,,No evaluada,NA,nativa,NA,NA
-165,research,Rocha,Solanum glaucophyllum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum glaucophyllum,,No Prioritaria,Si,nativa,NA,NA
-152,research,Canelones,Solanum granulosoleprosum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum granulosoleprosum,,No Prioritaria,NA,nativa,LC,Stable
-33,research,Colonia,Solanum laxum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum laxum,,No evaluada,NA,nativa,NA,NA
-206,research,Maldonado,Solanum lycopersicum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum lycopersicum,,No evaluada,NA,introducida,NA,NA
-476,research,Rivera,Solanum malmeanum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum malmeanum,,Prioritaria,NA,nativa,LC,Stable
-63,research,Montevideo,Solanum mauritianum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum mauritianum,,No Prioritaria,Si,nativa,NA,NA
-111,research,Río Negro,Solanum nigrum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum nigrum,,No evaluada,NA,introducida,NA,NA
-329,research,Rocha,Solanum platense,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum platense,,Prioritaria,Si,nativa,NA,NA
-115,research,Canelones,Solanum pseudocapsicum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum pseudocapsicum,,No evaluada,NA,nativa,NA,NA
-316,research,Rocha,Solanum reineckii,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum reineckii,,No evaluada,NA,NA,NA,NA
-39,research,Salto,Solanum sisymbriifolium,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum sisymbriifolium,,No evaluada,NA,nativa,NA,NA
-267,research,Salto,Solanum tuberosum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum tuberosum,,No evaluada,NA,NA,NA,NA
-19,research,Tacuarembó,Solanum viarum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum viarum,,No evaluada,NA,nativa,LC,Increasing
+...1,quality_grade,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name,species,Distribution,SNAPregional,BiodiversidataEstablecimiento,IUCNglobal,trendGlobal
+484,research,Acacia baileyana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia baileyana,NA,No evaluada,NA,NA,NA
+85,research,Acacia dealbata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia dealbata,Rara,No evaluada,NA,LC,Unknown
+133,research,Acacia longifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia longifolia,Rara,No evaluada,NA,LC,Unknown
+164,research,Acacia melanoxylon,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia melanoxylon,Rara,No evaluada,NA,NA,NA
+273,research,Acacia podalyriifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Acacia,Acacia podalyriifolia,NA,No evaluada,NA,LC,Increasing
+223,research,Acanthospermum australe,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acanthospermum,Acanthospermum australe,Abundante,No evaluada,nativa,NE,NA
+174,research,Acanthostyles buniifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acanthostyles,Acanthostyles buniifolius,Abundante,No Prioritaria,nativa,NE,NA
+314,research,Achillea millefolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Achillea,Achillea millefolium,Rare,No evaluada,NA,LC,Unknown
+488,research,Achyrocline flaccida,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Achyrocline,Achyrocline flaccida,Common,No evaluada,nativa,NE,NA
+65,research,Achyrocline saturejoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Achyrocline,Achyrocline saturejoides,Abuntante,No evaluada,NA,NE,NA
+277,research,Acmella bellidioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acmella,Acmella bellidioides,Rare,No evaluada,NA,NE,NA
+77,research,Acmella decumbens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Acmella,Acmella decumbens,Rare,No evaluada,nativa,NE,NA
+475,research,Adenostemma brasilianum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Adenostemma,Adenostemma brasilianum,Common,No evaluada,nativa,NE,NA
+283,research,Adesmia bicolor,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia bicolor,Abundante,No evaluada,nativa,NA,NA
+448,research,Adesmia incana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia incana,Comun,No evaluada,nativa,NA,NA
+439,research,Adesmia latifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia latifolia,Abundante,No evaluada,nativa,NA,NA
+289,research,Adesmia punctata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia punctata,Abundante,No evaluada,nativa,NA,NA
+148,research,Adesmia securigerifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia securigerifolia,Comun,No evaluada,nativa,NA,NA
+322,research,Aeschynomene montevidensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Aeschynomene,Aeschynomene montevidensis,Comun,No Prioritaria,nativa,NA,NA
+415,research,Albizia inundata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Albizia,Albizia inundata,NA,No Prioritaria,nativa,LC,Stable
+49,research,Albizia julibrissin,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Albizia,Albizia julibrissin,NA,No evaluada,NA,NA,NA
+121,research,Aldama anchusifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Aldama,Aldama anchusifolia,Rare,No evaluada,nativa,NE,NA
+232,research,Ambrosia artemisiifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Ambrosia,Ambrosia artemisiifolia,Common,No evaluada,nativa,,
+274,research,Ambrosia tenuifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Ambrosia,Ambrosia tenuifolia,Common,No evaluada,introducida,NE,NA
+361,research,Ancistrotropis clitorioides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Ancistrotropis,Ancistrotropis clitorioides,Rara,No evaluada,nativa,NA,NA
+307,research,Angelphytum grisebachii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Angelphytum,Angelphytum grisebachii,NA,No evaluada,NA,NE,NA
+13,research,Anthemis cotula,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Anthemis,Anthemis cotula,Common,No evaluada,introducida,,
+338,research,Arachis burkartii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Arachis,Arachis burkartii,Rara,Prioritaria,nativa,NA,NA
+151,research,Arachis villosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Arachis,Arachis villosa,Comun,No evaluada,nativa,NT,Unknown
+89,research,Arctium minus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Arctium,Arctium minus,Rare,No evaluada,introducida,NE,NA
+168,research,Aspilia montevidensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Aspilia,Aspilia montevidensis,Abundante,No evaluada,nativa,NE,NA
+436,research,Aspilia silphioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Aspilia,Aspilia silphioides,Rare,No evaluada,nativa,NE,NA
+92,research,Austroeupatorium inulifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Austroeupatorium,Austroeupatorium inulifolium,Abundante,No evaluada,nativa,NE,NA
+462,research,Austroeupatorium laetevirens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Austroeupatorium,Austroeupatorium laetevirens,NA,No evaluada,NA,NE,NA
+263,research,Baccharis aliena,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis aliena,Abundante,No Prioritaria,nativa,NE,NA
+438,research,Baccharis anomala,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis anomala,Common,No Prioritaria,nativa,NE,NA
+143,research,Baccharis articulata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis articulata,Abundante,No Prioritaria,nativa,NE,NA
+469,research,Baccharis breviseta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis breviseta,Common,No Prioritaria,nativa,NE,NA
+69,research,Baccharis coridifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis coridifolia,Abuntante,No evaluada,nativa,NE,NA
+219,research,Baccharis crispa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis crispa,Rare,No evaluada,nativa,NE,NA
+477,research,Baccharis cultrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis cultrata,Rare,No Prioritaria,nativa,NE,NA
+159,research,Baccharis dracunculifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis dracunculifolia,Abundante,No Prioritaria,nativa,NE,NA
+410,research,Baccharis genistifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis genistifolia,Common,No evaluada,nativa,NE,NA
+176,research,Baccharis glutinosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis glutinosa,Common,No evaluada,nativa,NE,NA
+363,research,Baccharis gnaphalioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis gnaphalioides,Rare,No evaluada,nativa,NE,NA
+365,research,Baccharis jocheniana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis jocheniana,NA,No evaluada,nativa,NE,NA
+222,research,Baccharis linearifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis linearifolia,Abuntante,Prioritaria,nativa,NE,NA
+228,research,Baccharis microdonta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis microdonta,Common,No Prioritaria,nativa,NE,NA
+7,research,Baccharis notosergila,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis notosergila,Common,No Prioritaria,nativa,NE,NA
+162,research,Baccharis ochracea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis ochracea,Common,No evaluada,nativa,NE,NA
+216,research,Baccharis oxyodonta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis oxyodonta,Rara,No evaluada,nativa,NE,NA
+271,research,Baccharis patens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis patens,Common,No evaluada,nativa,NE,NA
+286,research,Baccharis phyteumoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis phyteumoides,Abuntante,No evaluada,nativa,NE,NA
+404,research,Baccharis psiadioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis psiadioides,Rare,Prioritaria,nativa,NE,NA
+180,research,Baccharis punctulata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis punctulata,Abundante,No Prioritaria,nativa,LC,Stable
+446,research,Baccharis rectialata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis rectialata,Rare,No evaluada,NA,NE,NA
+368,research,Baccharis salicifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis salicifolia,Rare,No evaluada,NA,LC,Decreasing
+260,research,Baccharis spicata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis spicata,Abuntante,No Prioritaria,nativa,NA,NA
+272,research,Baccharis tridentata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis tridentata,Common,No Prioritaria,nativa,NA,NA
+109,research,Baccharis trimera,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis trimera,Abuntante,No evaluada,nativa,NA,NA
+254,research,Baccharis vulneraria,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Baccharis,Baccharis vulneraria,Abundante,No Prioritaria,nativa,NA,NA
+423,research,Barrosoa betoniciformis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Barrosoa,Barrosoa betoniciformis,Rare,No evaluada,NA,NA,NA
+248,research,Barrosoa candolleana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Barrosoa,Barrosoa candolleana,NA,No evaluada,nativa,NA,NA
+66,research,Bauhinia forficata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bauhinia,Bauhinia forficata,Rara,No Prioritaria,nativa,LC,Stable
+489,research,Bauhinia variegata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Bauhinia,Bauhinia variegata,Na,No evaluada,NA,LC,Stable
+26,research,Berroa gnaphalioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Berroa,Berroa gnaphalioides,Common,No evaluada,nativa,NA,NA
+5,research,Bidens aurea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens,Bidens aurea,NA,No evaluada,introducida,NA,NA
+238,research,Bidens laevis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens,Bidens laevis,NA,No evaluada,nativa,NA,NA
+52,research,Bidens pilosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens,Bidens pilosa,Common,No evaluada,introducida,NA,NA
+88,research,Bidens subalternans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Bidens,Bidens subalternans,NA,No evaluada,nativa,NA,NA
+199,research,Bouchetia anomala,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Bouchetia,Bouchetia anomala,Comun,No evaluada,nativa,NA,NA
+485,research,Brasiliopuntia brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Brasiliopuntia,Brasiliopuntia brasiliensis,NA,No evaluada,NA,LC,Decreasing
+327,research,Brugmansia arborea,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Brugmansia,Brugmansia arborea,NA,No evaluada,NA,EW,NA
+256,research,Brugmansia suaveolens,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Brugmansia,Brugmansia suaveolens,NA,No evaluada,NA,EW,NA
+135,research,Brunfelsia australis,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Brunfelsia,Brunfelsia australis,NA,No evaluada,NA,LC,Stable
+149,research,Brunfelsia pauciflora,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Brunfelsia,Brunfelsia pauciflora,NA,No evaluada,introducida,LC,Stable
+457,research,Calea clematidea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calea,Calea clematidea,Rare,No evaluada,NA,NA,NA
+402,research,Calea cymosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calea,Calea cymosa,NA,No evaluada,NA,NA,NA
+297,research,Calea uniflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calea,Calea uniflora,NA,No evaluada,nativa,NA,NA
+413,research,Calendula officinalis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calendula,Calendula officinalis,NA,No evaluada,NA,NA,NA
+191,research,Calibrachoa humilis,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa humilis,Rara,Prioritaria,nativa,NA,NA
+380,research,Calibrachoa ovalifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa ovalifolia,Rara,No evaluada,nativa,NA,NA
+321,research,Calibrachoa parviflora,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa parviflora,Comun,No evaluada,nativa,NA,NA
+375,research,Calibrachoa pubescens,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa pubescens,Rara,No evaluada,nativa,NA,NA
+56,research,Calibrachoa pygmaea,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Calibrachoa,Calibrachoa pygmaea,Comun,No evaluada,nativa,NA,NA
+393,research,Calliandra parvifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra,Calliandra parvifolia,Comun,No Prioritaria,nativa,LC,Stable
+332,research,Calliandra selloi,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra,Calliandra selloi,Rara,No evaluada,NA,NA,NA
+62,research,Calliandra tweediei,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Calliandra,Calliandra tweediei,Abundante,No evaluada,NA,LC,Stable
+205,research,Calyptocarpus brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Calyptocarpus,Calyptocarpus brasiliensis,NA,No evaluada,NA,NA,NA
+12,research,Campovassouria cruciata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Campovassouria,Campovassouria cruciata,Common,No prioritaria,nativa,NA,NA
+93,research,Camptosema rubicundum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Camptosema,Camptosema rubicundum,Abundante,No evaluada,nativa,NA,NA
+3,research,Campuloclinium macrocephalum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Campuloclinium,Campuloclinium macrocephalum,Abundante,No evaluada,nativa,NA,NA
+319,research,Canavalia bonariensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Canavalia,Canavalia bonariensis,Comun,No evaluada,nativa,NA,NA
+233,research,Capsicum annuum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Capsicum,Capsicum annuum,Rara,No evaluada,nativa,LC,Stable
+106,research,Carduus acanthoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus,Carduus acanthoides,Common,No evaluada,introducida,NA,NA
+157,research,Carduus nutans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus,Carduus nutans,NA,No evaluada,introducida,NA,NA
+389,research,Carduus pycnocephalus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carduus,Carduus pycnocephalus,Common,No evaluada,introducida,NA,NA
+207,research,Carthamus lanatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Carthamus,Carthamus lanatus,Common,No evaluada,NA,NA,NA
+374,research,Centaurea calcitrapa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea,Centaurea calcitrapa,Common,No evaluada,NA,NA,NA
+67,research,Centaurea solstitialis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Centaurea,Centaurea solstitialis,Common,No evaluada,introducida,NA,NA
+42,research,Centrosema virginianum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Centrosema,Centrosema virginianum,Comun,No evaluada,nativa,NA,NA
+17,research,Cereus hildmannianus,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Cereus,Cereus hildmannianus,NA,No evaluada,NA,LC,Decreasing
+94,research,Cestrum parqui,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Cestrum,Cestrum parqui,Rara,No Prioritaria,nativa,LC,Stable
+371,research,Cestrum strigilatum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Cestrum,Cestrum strigilatum,Rara,No Prioritaria,nativa,LC,Stable
+354,research,Chamaecrista flexuosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Chamaecrista,Chamaecrista flexuosa,Rara,No evaluada,NA,NA,NA
+189,research,Chamaecrista repens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Chamaecrista,Chamaecrista repens,Rara,No evaluada,nativa,NA,NA
+75,research,Chamaemelum mixtum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chamaemelum,Chamaemelum mixtum,Abuntante,No evaluada,NA,NA,NA
+288,research,Chaptalia arechavaletae,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia arechavaletae,Abuntante,No evaluada,nativa,NA,NA
+278,research,Chaptalia exscapa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia exscapa,Common,No evaluada,nativa,NA,NA
+409,research,Chaptalia integerrima,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia integerrima,Common,No evaluada,nativa,NA,NA
+300,research,Chaptalia nutans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia nutans,Rare,No evaluada,nativa,NA,NA
+83,research,Chaptalia piloselloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia piloselloides,Common,No evaluada,nativa,NA,NA
+194,research,Chaptalia sinuata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chaptalia,Chaptalia sinuata,Common,No evaluada,nativa,NA,NA
+294,research,Chevreulia sarmentosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chevreulia,Chevreulia sarmentosa,Common,No evaluada,nativa,NA,NA
+468,research,Chromolaena caaguazuensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena caaguazuensis,Rare,No evaluada,NA,NA,NA
+464,research,Chromolaena callilepis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena callilepis,NA,No evaluada,NA,NA,NA
+108,research,Chromolaena christieana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena christieana,NA,No evaluada,NA,NA,NA
+58,research,Chromolaena hirsuta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena hirsuta,Abuntante,No evaluada,nativa,NA,NA
+87,research,Chromolaena ivifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena ivifolia,Common,Prioritaria,nativa,NA,NA
+235,research,Chromolaena laevigata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena laevigata,Common,No Prioritaria,nativa,NA,NA
+198,research,Chromolaena squarrulosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chromolaena,Chromolaena squarrulosa,Rare,No evaluada,nativa,NA,NA
+459,research,Chrysanthellum indicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysanthellum,Chrysanthellum indicum,NA,No evaluada,NA,NA,NA
+444,research,Chrysolaena cognata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysolaena,Chrysolaena cognata,Rare,No evaluada,nativa,NA,NA
+45,research,Chrysolaena flexuosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysolaena,Chrysolaena flexuosa,Abuntante,No evaluada,nativa,NA,NA
+425,research,Chrysolaena platensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Chrysolaena,Chrysolaena platensis,Common,No evaluada,nativa,NA,NA
+104,research,Cichorium intybus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cichorium,Cichorium intybus,Rare,No evaluada,introducida,NA,NA
+48,research,Cirsium vulgare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cirsium,Cirsium vulgare,Common,No evaluada,introducida,NA,NA
+334,research,Clitoria nana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Clitoria,Clitoria nana,Rara,Prioritaria,NA,NA,NA
+140,research,Coleostephus myconis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Coleostephus,Coleostephus myconis,Common,No evaluada,introducida,NA,NA
+202,research,Collaea stenophylla,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Collaea,Collaea stenophylla,Comun,No Prioritaria,nativa,NA,NA
+73,research,Coreopsis lanceolata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Coreopsis,Coreopsis lanceolata,Rare,No evaluada,introducida,NA,NA
+315,research,Cosmos bipinnatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cosmos,Cosmos bipinnatus,NA,No evaluada,NA,NA,NA
+357,research,Cosmos sulphureus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cosmos,Cosmos sulphureus,NA,No evaluada,NA,NA,NA
+279,research,Cotula australis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cotula,Cotula australis,Common,No evaluada,NA,NA,NA
+324,research,Cotula coronopifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cotula,Cotula coronopifolia,Rare,No evaluada,introducida,NA,NA
+209,research,Cotula nigellifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cotula,Cotula nigellifolia,NA,No evaluada,introducida,NA,NA
+175,research,Criscia stricta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Criscia,Criscia stricta,Abuntante,No evaluada,nativa,NA,NA
+46,research,Cynara cardunculus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cynara,Cynara cardunculus,Rare,No evaluada,introducida,NA,NA
+428,research,Cyrtocymura scorpioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Cyrtocymura,Cyrtocymura scorpioides,Rare,No Prioritaria,nativa,NA,NA
+442,research,Dasyphyllum spinescens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dasyphyllum,Dasyphyllum spinescens,Rare,No evaluada,NA,LC,Stable
+59,research,Datura ferox,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Datura,Datura ferox,Rara,No evaluada,nativa,NA,NA
+490,research,Delairea odorata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Delairea,Delairea odorata,Rare,No evaluada,introducida,NA,NA
+433,research,Desmanthus acuminatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmanthus,Desmanthus acuminatus,Abundante,No evaluada,NA,NA,NA
+435,research,Desmodium affine,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmodium,Desmodium affine,Comun,No evaluada,nativa,NA,NA
+427,research,Desmodium arechavaletae,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmodium,Desmodium arechavaletae,Rara,No evaluada,NA,NA,NA
+70,research,Desmodium incanum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Desmodium,Desmodium incanum,Comun,No evaluada,nativa,NA,NA
+408,research,Dimerostemma grisebachii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dimerostemma,Dimerostemma grisebachii,NA,No evaluada,NA,NA,NA
+269,research,Dimorphotheca ecklonis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Dimorphotheca,Dimorphotheca ecklonis,NA,No evaluada,NA,NA,NA
+418,research,Discolobium psoraleifolium,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Discolobium,Discolobium psoraleifolium,Rara,No evaluada,NA,NA,NA
+215,research,Echinopsis oxygona,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Echinopsis,Echinopsis oxygona,Rara,No evaluada,NA,LC,Stable
+373,research,Echinopsis rhodotricha,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Echinopsis,Echinopsis rhodotricha,Rara,No evaluada,NA,LC,Stable
+27,research,Eclipta elliptica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Eclipta,Eclipta elliptica,Common,No evaluada,nativa,NA,NA
+472,research,Eclipta megapotamica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Eclipta,Eclipta megapotamica,NA,No evaluada,nativa,NA,NA
+119,research,Eclipta prostrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Eclipta,Eclipta prostrata,Common,No evaluada,nativa,LC,Stable
+200,research,Elephantopus angustifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Elephantopus,Elephantopus angustifolius,Rare,No evaluada,NA,NA,NA
+60,research,Elephantopus mollis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Elephantopus,Elephantopus mollis,Rare,No evaluada,nativa,NA,NA
+125,research,Enterolobium contortisiliquum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Enterolobium,Enterolobium contortisiliquum,Rara,No Prioritaria,nativa,LC,Stable
+224,research,Enydra sessilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Enydra,Enydra sessilis,Rare,No evaluada,nativa,NA,NA
+234,research,Epiphyllum oxypetalum,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Epiphyllum,Epiphyllum oxypetalum,NA,No evaluada,NA,LC,Stable
+239,research,Erechtites hieraciifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erechtites,Erechtites hieraciifolius,Common,No evaluada,introducida,NA,NA
+467,research,Erechtites valerianifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erechtites,Erechtites valerianifolius,Rare,No evaluada,nativa,NA,NA
+53,research,Erigeron blakei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron blakei,Abundante,No evaluada,NA,NA,NA
+160,research,Erigeron bonariensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron bonariensis,Rare,No evaluada,NA,NA,NA
+323,research,Erigeron canadensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron canadensis,NA,No evaluada,NA,NA,NA
+139,research,Erigeron lorentzii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron lorentzii,Rare,No evaluada,NA,NA,NA
+420,research,Erigeron primulifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron primulifolius,NA,No evaluada,NA,NA,NA
+23,research,Erythrina crista-galli,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Erythrina,Erythrina crista-galli,Comun,No Prioritaria,nativa,LC,Stable
+308,research,Erythrostemon gilliesii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Erythrostemon,Erythrostemon gilliesii,Rara,No Prioritaria,nativa,NA,NA
+473,research,Euryops chrysanthemoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Euryops,Euryops chrysanthemoides,NA,No evaluada,NA,NA,NA
+384,research,Exostigma notobellidiastrum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Exostigma,Exostigma notobellidiastrum,Rare,No evaluada,nativa,NA,NA
+309,research,Exostigma rivulare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Exostigma,Exostigma rivulare,Rare,No evaluada,NA,NA,NA
+364,research,Facelis retusa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Facelis,Facelis retusa,Abundante,No evaluada,nativa,NA,NA
+130,research,Frailea gracillima,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Frailea,Frailea gracillima,Rara,Prioritaria,NA,VU,Decreasing
+214,research,Frailea pumila,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Frailea,Frailea pumila,Rara,Prioritaria,NA,LC,Stable
+21,research,Frailea pygmaea,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Frailea,Frailea pygmaea,Comun,No evaluada,nativa,LC,Stable
+347,research,Frailea schilinzkyana,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Frailea,Frailea schilinzkyana,Rara,Prioritaria,nativa,VU,Decreasing
+317,research,Galactia australis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia australis,Comun,No evaluada,NA,NA,NA
+471,research,Galactia benthamiana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia benthamiana,Comun,No evaluada,NA,NA,NA
+414,research,Galactia gracillima,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia gracillima,Rara,No evaluada,NA,NA,NA
+114,research,Galactia marginalis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia marginalis,Rara,No evaluada,nativa,NA,NA
+406,research,Galactia pretiosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Galactia,Galactia pretiosa,Rara,No evaluada,NA,NA,NA
+120,research,Galinsoga parviflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Galinsoga,Galinsoga parviflora,NA,No evaluada,NA,NA,NA
+400,research,Galinsoga quadriradiata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Galinsoga,Galinsoga quadriradiata,NA,No evaluada,NA,NA,NA
+295,research,Gamochaeta americana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gamochaeta,Gamochaeta americana,Abundante,No evaluada,nativa,NA,NA
+8,research,Gamochaeta falcata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gamochaeta,Gamochaeta falcata,Common,No evaluada,nativa,NA,NA
+326,research,Gazania rigens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gazania,Gazania rigens,NA,No evaluada,NA,NA,NA
+291,research,Genista monspessulana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Genista,Genista monspessulana,Rara,No evaluada,NA,NA,NA
+105,research,Geoffroea decorticans,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Geoffroea,Geoffroea decorticans,Rara,No Prioritaria,nativa,LC,Stable
+247,research,Glebionis coronaria,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Glebionis,Glebionis coronaria,Rare,No evaluada,NA,NA,NA
+340,research,Gleditsia amorphoides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Gleditsia,Gleditsia amorphoides,Rara,Prioritaria,nativa,NA,NA
+142,research,Gleditsia triacanthos,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Gleditsia,Gleditsia triacanthos,Rara,No evaluada,introducida,LC,Stable
+333,research,Glycine max,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Glycine,Glycine max,Rara,No evaluada,NA,NA,NA
+265,research,Grazielia brevipetiolata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia brevipetiolata,Rare,Prioritaria,nativa,NA,NA
+401,research,Grazielia intermedia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia intermedia,Rare,No Prioritaria,nativa,NA,NA
+55,research,Grazielia serrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grazielia,Grazielia serrata,Common,No Prioritaria,nativa,NA,NA
+270,research,Grindelia orientalis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grindelia,Grindelia orientalis,Rare,Prioritaria,nativa,NA,NA
+71,research,Grindelia pulchella,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Grindelia,Grindelia pulchella,Rare,No evaluada,nativa,NA,NA
+430,research,Gymnocalycium denudatum,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Gymnocalycium,Gymnocalycium denudatum,Rara,Prioritaria,nativa,EN,Decreasing
+407,research,Gymnocalycium hyptiacanthum,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Gymnocalycium,Gymnocalycium hyptiacanthum,Comun,No evaluada,NA,LC,Decreasing
+356,research,Gymnocalycium schroederianum,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Gymnocalycium,Gymnocalycium schroederianum,Rara,Prioritaria,NA,LC,Stable
+381,research,Gymnocalycium uruguayense,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Gymnocalycium,Gymnocalycium uruguayense,Abundante,No evaluada,NA,VU,Decreasing
+101,research,Gymnocoronis spilanthoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gymnocoronis,Gymnocoronis spilanthoides,Abundante,No evaluada,nativa,NA,NA
+310,research,Gyptis commersonii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis,Gyptis commersonii,Abundante,No evaluada,NA,NA,NA
+447,research,Gyptis lanigera,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis,Gyptis lanigera,Common,No Prioritaria,nativa,NA,NA
+262,research,Gyptis pinnatifida,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis,Gyptis pinnatifida,Abundante,No evaluada,NA,NA,NA
+10,research,Gyptis tanacetifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Gyptis,Gyptis tanacetifolia,Abundante,No evaluada,nativa,NA,NA
+337,research,Harrisia bonplandii,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Harrisia,Harrisia bonplandii,NA,No evaluada,NA,NA,NA
+336,research,Harrisia regelii,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Harrisia,Harrisia regelii,Rara,No evaluada,NA,LC,Stable
+246,research,Hatschbachiella tweedieana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hatschbachiella,Hatschbachiella tweedieana,Abundante,No evaluada,nativa,NA,NA
+145,research,Hedypnois rhagadioloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hedypnois,Hedypnois rhagadioloides,Common,No evaluada,introducida,NA,NA
+213,research,Helenium amarum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helenium,Helenium amarum,NA,No evaluada,introducida,NA,NA
+72,research,Helenium radiatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helenium,Helenium radiatum,Abundante,No evaluada,nativa,NA,NA
+137,research,Helianthus annuus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helianthus,Helianthus annuus,NA,No evaluada,NA,LC,Stable
+124,research,Helianthus tuberosus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helianthus,Helianthus tuberosus,Rare,No evaluada,NA,LC,Stable
+158,research,Helminthotheca echioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Helminthotheca,Helminthotheca echioides,Rare,No evaluada,introducida,NA,NA
+153,research,Hieracium commersonii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hieracium,Hieracium commersonii,Abundante,No evaluada,nativa,NA,NA
+304,research,Holocheilus brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Holocheilus,Holocheilus brasiliensis,Abundante,No evaluada,nativa,NA,NA
+95,research,Holocheilus hieracioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Holocheilus,Holocheilus hieracioides,Abundante,No evaluada,nativa,NA,NA
+138,research,Hymenoxys anthemoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hymenoxys,Hymenoxys anthemoides,Common,No evaluada,nativa,NA,NA
+122,research,Hypochaeris albiflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris albiflora,Rara,No evaluada,nativa,NA,NA
+147,research,Hypochaeris chillensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris chillensis,Abundante,No evaluada,nativa,NA,NA
+432,research,Hypochaeris grisebachii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris grisebachii,Rare,No evaluada,NA,NA,NA
+298,research,Hypochaeris megapotamica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris megapotamica,Abundante,No evaluada,nativa,NA,NA
+18,research,Hypochaeris radicata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris radicata,Common,No evaluada,introducida,NA,NA
+299,research,Hypochaeris variegata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hypochaeris,Hypochaeris variegata,Rare,No evaluada,NA,NA,NA
+405,research,Hysterionica chamomilloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hysterionica,Hysterionica chamomilloides,Rare,No evaluada,NA,NA,NA
+343,research,Hysterionica montevidensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hysterionica,Hysterionica montevidensis,NA,No evaluada,NA,NA,NA
+183,research,Hysterionica resinosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Hysterionica,Hysterionica resinosa,Common,No evaluada,NA,NA,NA
+341,research,Indigofera asperifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Indigofera,Indigofera asperifolia,Comun,No evaluada,nativa,LC,Unknown
+241,research,Inga uraguensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Inga,Inga uraguensis,Comun,No evaluada,nativa,NA,NA
+192,research,Isostigma peucedanifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Isostigma,Isostigma peucedanifolium,NA,No evaluada,nativa,NA,NA
+330,research,Jaborosa integrifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Jaborosa,Jaborosa integrifolia,Rara,No evaluada,nativa,NA,NA
+90,research,Jaborosa runcinata,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Jaborosa,Jaborosa runcinata,Rara,No evaluada,nativa,NA,NA
+217,research,Jaumea linearifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Jaumea,Jaumea linearifolia,Rare,No evaluada,nativa,NA,NA
+463,research,Jungia floribunda,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Jungia,Jungia floribunda,Rare,No evaluada,nativa,NA,NA
+325,research,Lactuca saligna,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lactuca,Lactuca saligna,Rare,No evaluada,introducida,NA,NA
+424,research,Lactuca sativa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lactuca,Lactuca sativa,NA,No evaluada,NA,NA,NA
+166,research,Lactuca serriola,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lactuca,Lactuca serriola,Common,No evaluada,introducida,NA,NA
+156,research,Lathyrus nervosus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus,Lathyrus nervosus,Comun,No evaluada,nativa,NA,NA
+287,research,Lathyrus pubescens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus,Lathyrus pubescens,Abundante,No evaluada,nativa,NA,NA
+379,research,Lathyrus pusillus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus,Lathyrus pusillus,Abundante,No evaluada,nativa,NA,NA
+378,research,Lathyrus subulatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lathyrus,Lathyrus subulatus,Abundante,No evaluada,nativa,NA,NA
+440,research,Lepismium cruciforme,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Lepismium,Lepismium cruciforme,Rara,Prioritaria,NA,LC,Decreasing
+100,research,Lepismium lumbricoides,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Lepismium,Lepismium lumbricoides,Abundante,No evaluada,NA,LC,Stable
+466,research,Leptospron adenanthum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Leptospron,Leptospron adenanthum,Comun,No evaluada,nativa,NA,NA
+458,research,Lespedeza bicolor,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lespedeza,Lespedeza bicolor,NA,No evaluada,NA,NA,NA
+403,research,Lessingianthus brevifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus brevifolius,Rare,No evaluada,nativa,NA,NA
+422,research,Lessingianthus glabratus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus glabratus,Rare,Prioritaria,nativa,NA,NA
+169,research,Lessingianthus macrocephalus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus macrocephalus,Rare,Prioritaria,nativa,NA,NA
+96,research,Lessingianthus plantaginodes,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus plantaginodes,Rare,No evaluada,nativa,NA,NA
+398,research,Lessingianthus rubricaulis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus rubricaulis,Rare,No evaluada,NA,NA,NA
+419,research,Lessingianthus sellowii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lessingianthus,Lessingianthus sellowii,Rare,No evaluada,nativa,NA,NA
+284,research,Leucanthemum vulgare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Leucanthemum,Leucanthemum vulgare,Rare,No evaluada,NA,NA,NA
+103,research,Lotus corniculatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus corniculatus,Rara,No evaluada,introducida,NA,NA
+397,research,Lotus subbiflorus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus subbiflorus,Comun,No evaluada,NA,NA,NA
+208,research,Lotus tenuis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lotus,Lotus tenuis,Rara,No evaluada,NA,NA,NA
+227,research,Lucilia acutifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lucilia,Lucilia acutifolia,Abundante,No evaluada,nativa,NA,NA
+221,research,Lucilia nitens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Lucilia,Lucilia nitens,Abundante,No evaluada,nativa,NA,NA
+382,research,Lupinus albescens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus albescens,Comun,No evaluada,NA,NA,NA
+80,research,Lupinus bracteolaris,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus bracteolaris,Abundante,No evaluada,nativa,NA,NA
+275,research,Lupinus gibertianus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus gibertianus,Abundate,No evaluada,nativa,NA,NA
+350,research,Lupinus lanatus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus lanatus,Rara,Prioritaria,NA,NA,NA
+486,research,Lupinus linearis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus linearis,Abundate,Prioritaria,nativa,NA,NA
+47,research,Lupinus multiflorus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Lupinus,Lupinus multiflorus,Comun,No evaluada,nativa,NA,NA
+481,research,Lycium boerhaviifolium,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Lycium,Lycium boerhaviifolium,Rara,No Prioritaria,nativa,NA,NA
+345,research,Lycium ciliatum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Lycium,Lycium ciliatum,NA,Prioritaria,nativa,NA,NA
+453,research,Macroptilium lathyroides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Macroptilium,Macroptilium lathyroides,Rara,No evaluada,NA,NA,NA
+107,research,Macroptilium prostratum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Macroptilium,Macroptilium prostratum,Abundante,No evaluada,nativa,NA,NA
+11,research,Matricaria chamomilla,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Matricaria,Matricaria chamomilla,Rare,No evaluada,introducida,NA,NA
+296,research,Medicago arabica,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago arabica,Comun,No evaluada,NA,NA,NA
+268,research,Medicago lupulina,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago lupulina,Comun,No evaluada,introducida,NA,NA
+387,research,Medicago minima,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago minima,Abundante,No evaluada,NA,NA,NA
+370,research,Medicago polymorpha,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago polymorpha,Rara,No evaluada,introducida,NA,NA
+118,research,Medicago sativa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Medicago,Medicago sativa,Rara,No evaluada,introducida,LC,Stable
+167,research,Melilotus albus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Melilotus,Melilotus albus,Rara,No evaluada,introducida,NA,NA
+303,research,Melilotus indicus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Melilotus,Melilotus indicus,Comun,No evaluada,introducida,NA,NA
+421,research,Microgyne marchesiana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Microgyne,Microgyne marchesiana,Rare,Prioritaria,nativa,NA,NA
+24,research,Microgyne trifurcata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Microgyne,Microgyne trifurcata,Abundante,No evaluada,nativa,NA,NA
+367,research,Micropsis spathulata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Micropsis,Micropsis spathulata,Abundante,No evaluada,NA,NA,NA
+460,research,Mikania anethifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania anethifolia,Common,No evaluada,NA,NA,NA
+240,research,Mikania cordifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania cordifolia,Common,No evaluada,nativa,NA,NA
+395,research,Mikania involucrata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania involucrata,Rare,No evaluada,nativa,NA,NA
+443,research,Mikania pinnatiloba,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania pinnatiloba,NA,No evaluada,NA,NA,NA
+245,research,Mikania thapsoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mikania,Mikania thapsoides,NA,No evaluada,nativa,NA,NA
+54,research,Mimosa australis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa australis,Rara,Prioritaria,NA,NA,NA
+376,research,Mimosa axillarioides,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa axillarioides,Rara,No evaluada,NA,NA,NA
+41,research,Mimosa bifurca,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa bifurca,Rara,Prioritaria,nativa,NA,NA
+437,research,Mimosa bimucronata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa bimucronata,Rara,Prioritaria,nativa,LC,Stable
+302,research,Mimosa burkartii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa burkartii,Rara,Prioritaria,NA,NA,NA
+212,research,Mimosa dutrae,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa dutrae,Rara,Prioritaria,nativa,NA,NA
+244,research,Mimosa flagellaris,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa flagellaris,Rara,No evaluada,nativa,NA,NA
+454,research,Mimosa magentea,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa magentea,Rara,Prioritaria,NA,NA,NA
+451,research,Mimosa paupera,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa paupera,Rara,No evaluada,nativa,NA,NA
+452,research,Mimosa pigra,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa pigra,NA,No Prioritaria,nativa,LC,Stable
+331,research,Mimosa pilulifera,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa pilulifera,Comun,No Prioritaria,nativa,LC,Stable
+211,research,Mimosa ramulosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa ramulosa,Comun,No Prioritaria,nativa,NA,NA
+377,research,Mimosa schleidenii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa schleidenii,Comun,Prioritaria,NA,NA,NA
+259,research,Mimosa sprengelii,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa sprengelii,Comun,No Prioritaria,nativa,NA,NA
+218,research,Mimosa strigillosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa strigillosa,Rara,No evaluada,nativa,NA,NA
+172,research,Mimosa uraguensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Mimosa,Mimosa uraguensis,Comun,No Prioritaria,nativa,NA,NA
+429,research,Moquiniastrum polymorphum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Moquiniastrum,Moquiniastrum polymorphum,Common,No Prioritaria,nativa,LC,Stable
+173,research,Mutisia coccinea,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Mutisia,Mutisia coccinea,Rare,No evaluada,nativa,NA,NA
+195,research,Neja pinifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Neja,Neja pinifolia,Common,No evaluada,NA,NA,NA
+196,research,Neptunia pubescens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Neptunia,Neptunia pubescens,Rara,No evaluada,nativa,NA,NA
+492,research,Nicotiana alata,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana alata,Comun,No evaluada,NA,NA,NA
+290,research,Nicotiana bonariensis,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana bonariensis,Comun,No evaluada,NA,NA,NA
+285,research,Nicotiana glauca,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana glauca,Rara,No evaluada,introducida,NA,NA
+2,research,Nicotiana longiflora,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana longiflora,Comun,No evaluada,nativa,NA,NA
+366,research,Nicotiana tabacum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana tabacum,NA,No evaluada,NA,NA,NA
+204,research,Nierembergia aristata,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia aristata,Rara,Prioritaria,nativa,NA,NA
+102,research,Nierembergia calycina,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia calycina,Rara,Prioritaria,nativa,NA,NA
+390,research,Nierembergia ericoides,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia ericoides,NA,Prioritaria,nativa,NA,NA
+51,research,Nierembergia linariifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia linariifolia,Rara,No evaluada,nativa,NA,NA
+305,research,Nierembergia rivularis,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia rivularis,Rara,No evaluada,nativa,NA,NA
+258,research,Nierembergia scoparia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Nierembergia,Nierembergia scoparia,Comun,No evaluada,nativa,NA,NA
+230,research,Noticastrum acuminatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum,Noticastrum acuminatum,Common,No evaluada,nativa,NA,NA
+4,research,Noticastrum diffusum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum,Noticastrum diffusum,Abuntante,No evaluada,nativa,NA,NA
+231,research,Noticastrum malmei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum,Noticastrum malmei,Rare,Prioritaria,nativa,NA,NA
+352,research,Noticastrum marginatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Noticastrum,Noticastrum marginatum,NA,No evaluada,NA,NA,NA
+30,research,Opuntia arechavaletae,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia arechavaletae,Rara,No evaluada,nativa,LC,Unknown
+132,research,Opuntia aurantiaca,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia aurantiaca,Rara,No evaluada,nativa,LC,Stable
+50,research,Opuntia bonaerensis,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia bonaerensis,NA,No evaluada,NA,NA,NA
+210,research,Opuntia elata,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia elata,Rara,No evaluada,nativa,LC,Stable
+14,research,Opuntia ficus-indica,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia ficus-indica,NA,No evaluada,introducida,DD,Unknown
+252,research,Opuntia megapotamica,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia megapotamica,Abundante,No evaluada,NA,LC,Stable
+29,research,Opuntia monacantha,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia monacantha,NA,No evaluada,introducida,LC,Stable
+68,research,Opuntia rioplatense,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia rioplatense,Rara,No evaluada,NA,NA,NA
+320,research,Opuntia sulphurea,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Opuntia,Opuntia sulphurea,Rara,Prioritaria,nativa,LC,Stable
+372,research,Pamphalea bupleurifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pamphalea,Pamphalea bupleurifolia,Abundante,No evaluada,NA,NA,NA
+81,research,Pamphalea heterophylla,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pamphalea,Pamphalea heterophylla,Abundante,No evaluada,NA,NA,NA
+328,research,Panphalea heterophylla,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pamphalea,Panphalea heterophylla,Abundante,No evaluada,nativa,NA,NA
+456,research,Parapiptadenia rigida,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Parapiptadenia,Parapiptadenia rigida,Comun,No Prioritaria,nativa,LC,Stable
+243,research,Parkinsonia aculeata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Parkinsonia,Parkinsonia aculeata,Comun,No Prioritaria,introducida,LC,Stable
+229,research,Parodia concinna,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia concinna,Comun,No evaluada,nativa,VU,Decreasing
+1,research,Parodia erinacea,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia erinacea,NA,No evaluada,nativa,LC,Decreasing
+318,research,Parodia erubescens,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia erubescens,NA,No evaluada,NA,NA,NA
+411,research,Parodia herteri,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia herteri,Rara,Prioritaria,nativa,CR,Decreasing
+131,research,Parodia langsdorfii,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia langsdorfii,NA,Prioritaria,nativa,VU,Decreasing
+37,research,Parodia mammulosa,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia mammulosa,Abundante,No evaluada,nativa,LC,Stable
+311,research,Parodia mueller-melchersii,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia mueller-melchersii,Rara,Prioritaria,nativa,EN,Decreasing
+261,research,Parodia neoarechavaletae,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia neoarechavaletae,NA,No evaluada,NA,VU,Decreasing
+129,research,Parodia ottonis,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia ottonis,Abundante,No evaluada,nativa,VU,Decreasing
+441,research,Parodia oxycostata,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia oxycostata,NA,No evaluada,NA,VU,Decreasing
+242,research,Parodia scopa,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia scopa,Rara,No evaluada,nativa,VU,Decreasing
+412,research,Parodia tenuicylindrica,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Parodia,Parodia tenuicylindrica,NA,Prioritaria,nativa,EN,Decreasing
+28,research,Peltophorum dubium,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Peltophorum,Peltophorum dubium,Rara,Prioritaria,nativa,LC,Stable
+293,research,Perezia multiflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Perezia,Perezia multiflora,NA,No evaluada,nativa,NA,NA
+493,research,Perezia squarrosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Perezia,Perezia squarrosa,Rara,Prioritaria,nativa,NA,NA
+34,research,Petunia axillaris,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Petunia,Petunia axillaris,Comun,No evaluada,nativa,NA,NA
+144,research,Petunia integrifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Petunia,Petunia integrifolia,Rara,Prioritaria,nativa,NA,NA
+185,research,Physalis angulata,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Physalis,Physalis angulata,Rara,No evaluada,nativa,LC,Stable
+280,research,Physalis peruviana,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Physalis,Physalis peruviana,NA,No evaluada,NA,NA,NA
+434,research,Physalis viscosa,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Physalis,Physalis viscosa,Comun,No evaluada,nativa,NA,NA
+78,research,Picrosia longifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Picrosia,Picrosia longifolia,Rara,No evaluada,nativa,NA,NA
+20,research,Pluchea sagittalis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pluchea,Pluchea sagittalis,Rara,No evaluada,nativa,NA,NA
+335,research,Podocoma hirsuta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Podocoma,Podocoma hirsuta,Rara,No evaluada,nativa,NA,NA
+184,research,Poecilanthe parviflora,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Poecilanthe,Poecilanthe parviflora,Comun,No Prioritaria,nativa,DD,NA
+417,research,Poiretia tetraphylla,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Poiretia,Poiretia tetraphylla,Abundante,No evaluada,nativa,NA,NA
+391,research,Pomaria pilosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Pomaria,Pomaria pilosa,Rara,No evaluada,nativa,NA,NA
+426,research,Pomaria rubicunda,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Pomaria,Pomaria rubicunda,NA,Prioritaria,NA,NA,NA
+193,research,Porophyllum linifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Porophyllum,Porophyllum linifolium,Comun,Prioritaria,nativa,NA,NA
+197,research,Porophyllum ruderale,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Porophyllum,Porophyllum ruderale,Rara,No evaluada,nativa,NA,NA
+91,research,Prosopis affinis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis affinis,NA,Prioritaria,nativa,DD,NA
+177,research,Prosopis nigra,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis nigra,NA,Prioritaria,nativa,DD,NA
+150,research,Pseudognaphalium cheiranthifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pseudognaphalium,Pseudognaphalium cheiranthifolium,Comun,No evaluada,nativa,NA,NA
+182,research,Pseudognaphalium gaudichaudianum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pseudognaphalium,Pseudognaphalium gaudichaudianum,Abundante,No evaluada,nativa,NA,NA
+123,research,Pseudogynoxys chenopodioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pseudogynoxys,Pseudogynoxys chenopodioides,NA,No evaluada,NA,NA,NA
+396,research,Psoralea pinnata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Psoralea,Psoralea pinnata,Rara,No evaluada,NA,NA,NA
+250,research,Pterocaulon angustifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon angustifolium,Rara,No evaluada,nativa,NA,NA
+181,research,Pterocaulon balansae,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon balansae,Comun,No evaluada,nativa,NA,NA
+342,research,Pterocaulon cordobense,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon cordobense,Rara,No evaluada,nativa,NA,NA
+220,research,Pterocaulon lorentzii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon lorentzii,Comun,No evaluada,nativa,NA,NA
+431,research,Pterocaulon polypterum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon polypterum,Rara,No evaluada,NA,NA,NA
+15,research,Pterocaulon polystachyum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon polystachyum,Rara,No evaluada,nativa,NA,NA
+237,research,Pterocaulon virgatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Pterocaulon,Pterocaulon virgatum,Rara,No evaluada,nativa,NA,NA
+494,research,Radlkoferotoma berroi,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Radlkoferotoma,Radlkoferotoma berroi,Rara,Prioritaria,nativa,NA,NA
+312,research,Radlkoferotoma cistifolium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Radlkoferotoma,Radlkoferotoma cistifolium,Rara,Prioritaria,nativa,NA,NA
+474,research,Raulinoreitzia tremula,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Raulinoreitzia,Raulinoreitzia tremula,Rara,No Prioritaria,nativa,NA,NA
+450,research,Rhipsalis cereuscula,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Rhipsalis,Rhipsalis cereuscula,Rara,Prioritaria,NA,LC,Decreasing
+478,research,Rhynchosia corylifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Rhynchosia,Rhynchosia corylifolia,Comun,No evaluada,nativa,NA,NA
+203,research,Rhynchosia lineata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Rhynchosia,Rhynchosia lineata,Comun,No evaluada,NA,NA,NA
+445,research,Rhynchosia senna,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Rhynchosia,Rhynchosia senna,Abundante,No evaluada,nativa,LC,Stable
+487,research,Robinia pseudoacacia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Robinia,Robinia pseudoacacia,Rara,No evaluada,NA,LC,Increasing
+179,research,Salpichroa origanifolia,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Salpichroa,Salpichroa origanifolia,Rara,No evaluada,nativa,NA,NA
+470,research,Santolina chamaecyparissus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Santolina,Santolina chamaecyparissus,NA,No evaluada,NA,NA,NA
+32,research,Schlechtendalia luzulifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Schlechtendalia,Schlechtendalia luzulifolia,Rara,Prioritaria,nativa,NA,NA
+346,research,Sclerophylax lorentzianus,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Sclerophylax,Sclerophylax lorentzianus,Rara,Prioritaria,nativa,NA,NA
+491,research,Selenicereus undatus,Plantae,Tracheophyta,Magnoliopsida,Caryophyllales,Cactaceae,Selenicereus,Selenicereus undatus,NA,No evaluada,NA,NA,NA
+388,research,Senecio angulatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio angulatus,NA,No evaluada,NA,NA,NA
+97,research,Senecio bonariensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio bonariensis,Comun,No evaluada,nativa,NA,NA
+40,research,Senecio brasiliensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio brasiliensis,Comun,No evaluada,nativa,NA,NA
+360,research,Senecio ceratophylloides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio ceratophylloides,Rara,No evaluada,nativa,NA,NA
+79,research,Senecio crassiflorus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio crassiflorus,Comun,No evaluada,nativa,NA,NA
+383,research,Senecio heterotrichius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio heterotrichius,Comun,No evaluada,nativa,NA,NA
+25,research,Senecio madagascariensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio madagascariensis,Rara,No evaluada,introducida,NA,NA
+281,research,Senecio ostenii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio ostenii,Rara,Prioritaria,nativa,NA,NA
+292,research,Senecio pinnatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio pinnatus,Rara,No evaluada,nativa,NA,NA
+9,research,Senecio platensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio platensis,Rara,No evaluada,nativa,NA,NA
+98,research,Senecio pterophorus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio pterophorus,Rara,No evaluada,nativa,NA,NA
+171,research,Senecio pulcher,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio pulcher,Rara,No evaluada,nativa,NA,NA
+141,research,Senecio selloi,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio selloi,Common,No evaluada,nativa,NA,NA
+479,research,Senecio tamoides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio tamoides,NA,No evaluada,NA,NA,NA
+301,research,Senecio tweediei,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio tweediei,Rara,No evaluada,NA,NA,NA
+313,research,Senecio viravira,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio viravira,Rara,No evaluada,NA,NA,NA
+282,research,Senecio vulgaris,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio vulgaris,Rara,No evaluada,NA,NA,NA
+249,research,Senegalia bonariensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senegalia,Senegalia bonariensis,Abundante,No evaluada,nativa,NA,NA
+483,research,Senegalia picachensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senegalia,Senegalia picachensis,NA,No evaluada,NA,NA,NA
+38,research,Senna corymbosa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senna,Senna corymbosa,Abundante,No Prioritaria,nativa,LC,Stable
+399,research,Senna nana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senna,Senna nana,Comun,No evaluada,NA,NA,NA
+353,research,Senna scabriuscula,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Senna,Senna scabriuscula,Comun,No evaluada,NA,NA,NA
+116,research,Sesbania punicea,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Sesbania,Sesbania punicea,Abundante,No Prioritaria,nativa,LC,Stable
+22,research,Sesbania virgata,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Sesbania,Sesbania virgata,Abundante,No Prioritaria,nativa,LC,Stable
+362,research,Silybum marianum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Silybum,Silybum marianum,Rara,No evaluada,NA,LC,Stable
+113,research,Smallanthus connatus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Smallanthus,Smallanthus connatus,Comun,No evaluada,nativa,NA,NA
+339,research,Solanum aethiopicum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum aethiopicum,NA,No evaluada,NA,NA,NA
+392,research,Solanum americanum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum americanum,Rara,No evaluada,nativa,NA,NA
+359,research,Solanum amygdalifolium,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum amygdalifolium,Rara,No evaluada,nativa,NA,NA
+163,research,Solanum atropurpureum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum atropurpureum,Rara,No evaluada,nativa,NA,NA
+465,research,Solanum betaceum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum betaceum,NA,No evaluada,NA,DD,NA
+76,research,Solanum bonariense,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum bonariense,Rara,No Prioritaria,nativa,NA,NA
+146,research,Solanum chenopodioides,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum chenopodioides,Rara,No evaluada,nativa,NA,NA
+264,research,Solanum commersonii,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum commersonii,Abundante,No evaluada,nativa,NA,NA
+165,research,Solanum glaucophyllum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum glaucophyllum,Comun,No Prioritaria,nativa,NA,NA
+152,research,Solanum granulosoleprosum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum granulosoleprosum,Rara,No Prioritaria,nativa,LC,Stable
+33,research,Solanum laxum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum laxum,Comun,No evaluada,nativa,NA,NA
+206,research,Solanum lycopersicum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum lycopersicum,NA,No evaluada,introducida,NA,NA
+476,research,Solanum malmeanum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum malmeanum,Rara,Prioritaria,nativa,LC,Stable
+63,research,Solanum mauritianum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum mauritianum,Common,No Prioritaria,nativa,NA,NA
+111,research,Solanum nigrum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum nigrum,NA,No evaluada,introducida,NA,NA
+329,research,Solanum platense,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum platense,Rara,Prioritaria,nativa,NA,NA
+115,research,Solanum pseudocapsicum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum pseudocapsicum,Comun,No evaluada,nativa,NA,NA
+316,research,Solanum reineckii,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum reineckii,NA,No evaluada,NA,NA,NA
+39,research,Solanum sisymbriifolium,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum sisymbriifolium,Rara,No evaluada,nativa,NA,NA
+267,research,Solanum tuberosum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum tuberosum,NA,No evaluada,NA,NA,NA
+19,research,Solanum viarum,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum viarum,Rara,No evaluada,nativa,LC,Increasing
+57,research,Solidago chilensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Solidago,Solidago chilensis,Rara,No evaluada,nativa,NA,NA
+128,research,Soliva sessilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Soliva,Soliva sessilis,Rara,No evaluada,nativa,NA,NA
+170,research,Sommerfeltia cabrerae,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sommerfeltia,Sommerfeltia cabrerae,Rara,Prioritaria,nativa,NA,NA
+236,research,Sommerfeltia spinulosa,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sommerfeltia,Sommerfeltia spinulosa,Rara,Prioritaria,nativa,NA,NA
+136,research,Sonchus asper,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus,Sonchus asper,Rara,No evaluada,introducida,NA,NA
+99,research,Sonchus oleraceus,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Sonchus,Sonchus oleraceus,Comun,No evaluada,introducida,NA,NA
+31,research,Spartium junceum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Spartium,Spartium junceum,Rara,No evaluada,introducida,NA,NA
+449,research,Stenachaenium macrocephalum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenachaenium,Stenachaenium macrocephalum,NA,No evaluada,NA,NA,NA
+386,research,Stenachaenium megapotamicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenachaenium,Stenachaenium megapotamicum,Abundante,No evaluada,nativa,NA,NA
+385,research,Stenachaenium riedelii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenachaenium,Stenachaenium riedelii,Rara,No evaluada,nativa,NA,NA
+201,research,Stenocephalum megapotamicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stenocephalum,Stenocephalum megapotamicum,Comun,No evaluada,nativa,NA,NA
+348,research,Stevia aristata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia aristata,Rara,No evaluada,nativa,NA,NA
+461,research,Stevia cinerascens,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia cinerascens,Rara,No evaluada,NA,NA,NA
+482,research,Stevia entreriensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia entreriensis,Rara,No evaluada,NA,NA,NA
+351,research,Stevia multiaristata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia multiaristata,Comun,No evaluada,nativa,NA,NA
+16,research,Stevia satureiifolia,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Stevia,Stevia satureiifolia,Comun,No evaluada,NA,NA,NA
+344,research,Stylosanthes leiocarpa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Stylosanthes,Stylosanthes leiocarpa,Comun,No evaluada,nativa,NA,NA
+358,research,Stylosanthes montevidensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Stylosanthes,Stylosanthes montevidensis,Abundante,No evaluada,nativa,NA,NA
+266,research,Symphyotrichum subulatum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Symphyotrichum,Symphyotrichum subulatum,Rara,No evaluada,NA,NA,NA
+255,research,Tagetes minuta,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tagetes,Tagetes minuta,Rara,No evaluada,nativa,NA,NA
+455,research,Tanacetum vulgare,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tanacetum,Tanacetum vulgare,Rara,No evaluada,NA,NA,NA
+369,research,Taraxacum erythrospermum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Taraxacum,Taraxacum erythrospermum,NA,No evaluada,NA,NA,NA
+86,research,Taraxacum officinale,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Taraxacum,Taraxacum officinale,Rara,No evaluada,introducida,NA,NA
+355,research,Tephrosia cinerea,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Tephrosia,Tephrosia cinerea,Comun,No evaluada,nativa,NA,NA
+6,research,Tessaria absinthioides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tessaria,Tessaria absinthioides,Rara,No evaluada,nativa,NA,NA
+188,research,Thelesperma megapotamicum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Thelesperma,Thelesperma megapotamicum,NA,No evaluada,nativa,NA,NA
+186,research,Tipuana tipu,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Tipuana,Tipuana tipu,Rara,No evaluada,nativa,LC,Stable
+394,research,Tragopogon porrifolius,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Tragopogon,Tragopogon porrifolius,NA,No evaluada,NA,NA,NA
+161,research,Trichocline cisplatina,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline,Trichocline cisplatina,Rara,No evaluada,NA,NA,NA
+117,research,Trichocline humilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline,Trichocline humilis,Rara,No evaluada,nativa,NA,NA
+190,research,Trichocline incana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline,Trichocline incana,Comun,No evaluada,nativa,NA,NA
+416,research,Trichocline minuana,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trichocline,Trichocline minuana,Rara,No evaluada,NA,NA,NA
+154,research,Trifolium campestre,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium,Trifolium campestre,Rara,No evaluada,NA,NA,NA
+43,research,Trifolium polymorphum,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium,Trifolium polymorphum,Abundante,No evaluada,nativa,NA,NA
+44,research,Trifolium pratense,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium,Trifolium pratense,Rara,No evaluada,introducida,LC,Stable
+126,research,Trifolium repens,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Trifolium,Trifolium repens,Rara,No evaluada,introducida,NA,NA
+349,research,Trixis nobilis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trixis,Trixis nobilis,Abundante,No evaluada,nativa,NA,NA
+84,research,Trixis praestans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Trixis,Trixis praestans,Comun,No Prioritaria,nativa,NA,NA
+251,research,Ulex europaeus,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Ulex,Ulex europaeus,Rara,No evaluada,introducida,LC,Stable
+112,research,Urolepis hecatantha,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Urolepis,Urolepis hecatantha,Comun,No evaluada,nativa,NA,NA
+155,research,Urospermum picroides,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Urospermum,Urospermum picroides,Rara,No evaluada,introducida,NA,NA
+35,research,Vachellia caven,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia,Vachellia caven,Abundante,No Prioritaria,nativa,LC,Stable
+276,research,Vachellia farnesiana,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia,Vachellia farnesiana,Rara,No evaluada,NA,LC,Stable
+61,research,Vachellia karroo,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vachellia,Vachellia karroo,NA,No evaluada,NA,LC,Stable
+64,research,Verbesina subcordata,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Verbesina,Verbesina subcordata,Abundante,No Prioritaria,nativa,NA,NA
+74,research,Vernonanthura montevidensis,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Vernonanthura,Vernonanthura montevidensis,Comun,No Prioritaria,nativa,NA,NA
+110,research,Vernonanthura nudiflora,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Vernonanthura,Vernonanthura nudiflora,Comun,No evaluada,nativa,NA,NA
+82,research,Vicia benghalensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia,Vicia benghalensis,Comun,No evaluada,introducida,NA,NA
+36,research,Vicia faba,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia,Vicia faba,Rara,No evaluada,NA,NA,NA
+306,research,Vicia sativa,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vicia,Vicia sativa,Rara,No evaluada,introducida,LC,Stable
+187,research,Vigna longifolia,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vigna,Vigna longifolia,Comun,No evaluada,nativa,LC,Stable
+225,research,Vigna luteola,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Vigna,Vigna luteola,Comun,No evaluada,nativa,LC,Stable
+257,research,Wisteria sinensis,Plantae,Tracheophyta,Magnoliopsida,Fabales,Fabaceae,Wisteria,Wisteria sinensis,NA,No evaluada,NA,NA,NA
+178,research,Xanthium cavanillesii,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Xanthium,Xanthium cavanillesii,NA,No evaluada,NA,NA,NA
+253,research,Xanthium spinosum,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Xanthium,Xanthium spinosum,Comun,No evaluada,introducida,NA,NA
+134,research,Xanthium strumarium,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Xanthium,Xanthium strumarium,Comun,No evaluada,introducida,NA,NA
+127,research,Youngia japonica,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Youngia,Youngia japonica,NA,No evaluada,introducida,NA,NA
+226,research,Zinnia elegans,Plantae,Tracheophyta,Magnoliopsida,Asterales,Asteraceae,Zinnia,Zinnia elegans,NA,No evaluada,introducida,NA,NA
