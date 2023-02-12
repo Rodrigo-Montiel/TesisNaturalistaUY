@@ -8,42 +8,48 @@ library(stringr)
 library(lubridate)
 
 
-usuarios_dataset <- readRDS("datos/usuarios_dataset.rds")
+usuarios_uy <- read_csv("datos/usuarios_uy.csv")
+usuarios_dataset <- read_rds("datos/usuarios_dataset.RDS")
+
 
 # MUESTRAS----------------------------------------------------------------------
 
 ##Categoria: Principiantes
-Principiantes <- usuarios_dataset %>% filter(categoria_usuario=="principiante" & 
-                              ultimo_registro>(today()-182)) %>% 
+Principiantes <- usuarios_uy %>% filter(categoria_usuario=="principiante" & 
+                              ultimo_registro>(today()-365)) %>% 
+  filter(!user_login %in% Usuarios_encuestados$Principiantes) %>% 
   pull(user_login) %>% sample(., size=100)
 
 saveRDS(Principiantes, "datos/usuarios_principiantes")
 
 
 ##Categoria: Intermedios
-Intermedios <- usuarios_dataset %>% filter(categoria_usuario=="intermedio") %>% 
+Intermedios <- usuarios_uy %>% filter(categoria_usuario=="intermedio") %>% 
+  filter(!user_login %in% Usuarios_encuestados$Intermedios) %>% 
   pull(user_login) %>% sample(., size=40)
 
 saveRDS(Intermedios, "datos/usuarios_intermedios")
 
 
 ##Categoria: Experimentados
-Experimentados <- usuarios_dataset %>% 
+Experimentados <- usuarios_uy %>% 
   filter(categoria_usuario=="experimentado") %>% 
   pull(user_login) %>% sample(., size=10)
 
 saveRDS(Experimentados, "datos/usuarios_experimentados")
 
 
-Tabla_usuarios_encuestados <- 
-  data.frame(Experimentados, Intermedios, Principiantes)
+Usuarios_encuesta2 <- as.data.frame
+(cbind(Experimentados, Intermedios, Principiantes))
+
+write.csv(Usuarios_encuesta2, "datos/Usuarios_para_encuestar_2")
 
 
-#PARA FILTRAR
+#PARA FILTRAR USUARIOS URUGUAYOS YA ENCUESTADOS---------------------------------
+
 Usuarios_encuestados <- read.csv("datos/Usuarios para encuestar.csv")
+   ##Estos usuarios ya fueron encuestados
 
 
-usuarios_dataset %>% filter(categoria_usuario=="principiante" & 
-                              ultimo_registro>(today()-182)) %>% 
-  filter(user_id %in% Usuarios_encuestados$Principiantes)
+usuarios_uy %>% filter(!user_login %in% Usuarios_encuestados$Experimentados)
 

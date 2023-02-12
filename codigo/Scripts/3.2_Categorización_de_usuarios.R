@@ -110,7 +110,7 @@ NatUY_users <- left_join(as_tibble(usuarios_dataset),
          ultimo_registro=lubridate::as_datetime(ultimo_registro),
          user_created_at=lubridate::as_datetime(user_created_at))
 
-write_csv(NatUY_users, 'NatUY_users.csv')
+write.csv(NatUY_users, 'NatUY_users.csv')
 
 
 ### Uruguayxs en los registros
@@ -122,8 +122,5 @@ Uruguayxs <- NatUY_users %>%
 
 usuarios_uy <- filter(usuarios_dataset, user_id %in% Uruguayxs$user_id)
 
-## Gráficos
+write.csv(usuarios_uy, "datos/usuarios_uy.cvs")
 
-usuarios_registros <- usuarios_dataset %>% filter(tiempo_activo>=8) %>% 
-  ggplot(aes(registros_tiempo)) + geom_histogram(binwidth = 1) + 
-  scale_x_continuous()
