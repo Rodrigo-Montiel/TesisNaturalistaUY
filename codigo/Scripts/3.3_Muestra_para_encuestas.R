@@ -39,10 +39,10 @@ Experimentados <- usuarios_uy %>%
 saveRDS(Experimentados, "datos/usuarios_experimentados")
 
 
-Usuarios_encuesta2 <- as.data.frame
-(cbind(Experimentados, Intermedios, Principiantes))
+nueva_encuesta <- cbind(Experimentados, Intermedios, Principiantes)
+view(nueva_encuesta)
 
-write.csv(Usuarios_encuesta2, "datos/Usuarios_para_encuestar_2")
+write.csv(nueva_encuesta, "datos/nueva_encuesta.csv")
 
 
 #PARA FILTRAR USUARIOS URUGUAYOS YA ENCUESTADOS---------------------------------

@@ -116,7 +116,7 @@ write.csv(NatUY_users, 'NatUY_users.csv')
 ### Uruguayxs en los registros
 Uruguayxs <- NatUY_users %>% 
   mutate(proporcion_NatUY_iNat = round(registros*100/observation_count, 3),
-         esUruguaye = ifelse(proporcion_NatUY_iNat>30 , 'si', 'no')) %>% 
+         esUruguaye = ifelse(proporcion_NatUY_iNat>40 , 'si', 'no')) %>% 
   filter(esUruguaye == "si") %>% 
   group_by(esUruguaye)
 
