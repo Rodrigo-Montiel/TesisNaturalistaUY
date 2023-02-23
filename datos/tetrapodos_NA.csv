@@ -1,6 +1,6 @@
 ,X.1,X,quality_grade,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name,Distribution,Size..cm.,IUCNglobal,IUCNregional,trendGlobal,n,Comentarios
 1,1,130,research,Boana pulchella,Animalia,Chordata,Amphibia,Anura,Hylidae,Boana,NA,NA,LC,LC,Stable,127,"Puede estar por Hypsiboas pulchellus, Hyla pulchella"
-2,8,165,research,Leptodactylus luctator,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,NA,NA,NE,NE,Unknow,102,"Puede estar por Leptodactylus latrans (que no es sin—nima si no que se separ—), Leptodactylus ocellatus var. bonairensis, Leptodactylus ocellatus var. reticulata"
+2,8,165,research,Leptodactylus luctator,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,NA,NA,NE,NE,Unknow,102,"Puede estar por Leptodactylus latrans (que no es sinï¿½nima si no que se separï¿½), Leptodactylus ocellatus var. bonairensis, Leptodactylus ocellatus var. reticulata"
 3,9,515,research,Leptodactylus macrosternum,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,NA,NA,LC,NE,Unknown,4,"Puede estar como Leptodactylus ocellatus macrosternus, Leptodactylus chaquensis"
 4,27,179,research,Rhinella diptycha,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,NA,NA,DD,LC,Unknown,55,"Puede estar como Bufo schneideri, Bufo paracnemis, Rhinella schneideri"
 5,37,462,research,Agapornis personatus,Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Agapornis,NA,NA,LC,NE,Stable,1,CASUAL: mascota
@@ -22,17 +22,17 @@
 21,347,551,research,Pluvianellus socialis,Animalia,Chordata,Aves,Charadriiformes,Pluvianellidae,Pluvianellus,NA,NA,NT,NE,Stable,2,Registro novedoso
 22,407,582,research,Sporophila leucoptera,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,NA,NA,LC,NE,Stable,1,Registro novedoso
 23,422,604,research,Stilpnia peruviana,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia,NA,NA,VU,VU,Unknow,3,Puede estar como Tangara peruviana
-24,436,493,research,Tachycineta leucopyga,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,NA,NA,LC,LC,NA,7,Puede estar como Tachycineta meyeni. Registro poco comœn
+24,436,493,research,Tachycineta leucopyga,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,NA,NA,LC,LC,NA,7,Puede estar como Tachycineta meyeni. Registro poco comï¿½n
 25,465,449,research,Tyrannus tyrannus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,NA,NA,LC,NE,Decreasing,1,Registro novedoso
-26,476,467,research,Alouatta caraya,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,NA,NA,LC,NE,Decreasing,1,Este es un registro nuevo (mono aullador) as’ que no lo vas a encontrar en ninguna gu’a
+26,476,467,research,Alouatta caraya,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,NA,NA,LC,NE,Decreasing,1,Este es un registro nuevo (mono aullador) asï¿½ que no lo vas a encontrar en ninguna guï¿½a
 27,484,440,research,Canis familiaris,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,NA,NA,NE,NE,Unknow,4,CASUAL: domesticado
 28,488,553,research,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,NA,NA,LC,NE,Increasing,1,CASUAL: introducido
-29,495,36,research,Dasypus novemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,NA,NA,LC,LC,Stable,37,"Esta es el tatœ, en la gu’a de Mam’feros aparece como Dasypus novemcinctus, no sŽ por quŽ est‡ como NA"
+29,495,36,research,Dasypus novemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,NA,NA,LC,LC,Stable,37,"Esta es el tatï¿½, en la guï¿½a de Mamï¿½feros aparece como Dasypus novemcinctus, no sï¿½ por quï¿½ estï¿½ como NA"
 30,496,221,research,Dasypus septemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,NA,NA,LC,NE,Unknown,10,"Puede estar como Dasypus hybridus, es de hecho una subespecie Dasypus septemcinctus ssp. hybridus"
 31,502,425,research,Equus asinus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,NA,NA,NE,NE,Unknow,1,CASUAL: domesticado
 32,503,433,research,Equus caballus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,NA,NA,NE,NE,Unknow,3,CASUAL: domesticado
 33,507,410,research,Felis catus,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,NA,NA,NE,NE,Unknow,6,CASUAL: domesticado
 34,533,548,research,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus,NA,NA,EN,EN,Decreasing,2,CASUAL: introducido
-35,535,430,research,Oxymycterus josei,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,NA,NA,NT,VU,Decreasing,1,"Puede estar como Oxymycterus nasutus, no son sin—nimas pero son dif’ciles de distinguir. Por eso generalmente se dejan a nivel de gŽnero"
+35,535,430,research,Oxymycterus josei,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,NA,NA,NT,VU,Decreasing,1,"Puede estar como Oxymycterus nasutus, no son sinï¿½nimas pero son difï¿½ciles de distinguir. Por eso generalmente se dejan a nivel de gï¿½nero"
 36,564,271,research,Chironius gouveai,Animalia,Chordata,Reptilia,Squamata,Colubridae,Chironius,NA,NA,NE,NE,Unknow,6,Puede estar como Chironius bicarinatus
 37,567,344,research,Dipsas turgida,Animalia,Chordata,Reptilia,Squamata,Colubridae,Dipsas,NA,NA,NE,LC,Stable,6,"Puede estar como Sibynomorphus turgidus, Leptognathus turgida"

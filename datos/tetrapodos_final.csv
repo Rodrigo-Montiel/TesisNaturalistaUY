@@ -1,13 +1,13 @@
-,X,quality_grade,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name,Distribution,Size..cm.,IUCNglobal,IUCNregional,trendGlobal,n
-1,130,research,Boana pulchella,Animalia,Chordata,Amphibia,Anura,Hylidae,Boana,NA,NA,LC,LC,Stable,127
+,X,quality_grade,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name,Distribution,Size (cm),IUCNglobal,IUCNregional,trendGlobal,n
+1,130,research,Boana pulchella,Animalia,Chordata,Amphibia,Anura,Hylidae,Boana,19,5,LC,LC,Stable,127
 2,381,research,Chthonerpeton indistinctum,Animalia,Chordata,Amphibia,Gymnophiona,Typhlonectidae,Chthonerpeton,9,"43,5",LC,LC,Unknown,2
 3,306,research,Dendropsophus minutus,Animalia,Chordata,Amphibia,Anura,Hylidae,Dendropsophus,2,"2,8",LC,EN,Stable,4
 4,192,research,Dendropsophus sanborni,Animalia,Chordata,Amphibia,Anura,Hylidae,Dendropsophus,19,3,LC,LC,Stable,25
 5,380,research,Elachistocleis bicolor,Animalia,Chordata,Amphibia,Anura,Microhylidae,Elachistocleis,19,"4,3",LC,LC,Stable,26
 6,24,research,Leptodactylus gracilis,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,19,"4,5",LC,LC,Stable,21
 7,255,research,Leptodactylus latinasus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,19,4,LC,LC,Stable,38
-8,165,research,Leptodactylus luctator,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,NA,NA,NE,NE,Unknow,102
-9,515,research,Leptodactylus macrosternum,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,NA,NA,LC,NE,Unknown,4
+8,165,research,Leptodactylus luctator,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,19,12,LC,LC,Unknow,102
+9,515,research,Leptodactylus macrosternum,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,2,8,LC,NT,Unknown,4
 10,101,research,Leptodactylus mystacinus,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,19,6,LC,LC,Stable,35
 11,281,research,Limnomedusa macroglossa,Animalia,Chordata,Amphibia,Anura,Alsodidae,Limnomedusa,19,NA,LC,LC,Stable,22
 12,311,research,Lithobates catesbeianus,Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,3,"20,3",LC,LC,Increasing,2
@@ -25,7 +25,7 @@
 24,216,research,Pseudopaludicola falcipes,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Pseudopaludicola,19,2,LC,LC,Stable,35
 25,541,research,Rhinella achavali,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,10,NA,LC,NT,Stable,1
 26,31,research,Rhinella arenarum,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,10,"11,5",LC,LC,Stable,78
-27,179,research,Rhinella diptycha,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,NA,NA,DD,LC,Unknown,55
+27,179,research,Rhinella diptycha,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,4,25,LC,LC,Unknown,55
 28,5,research,Rhinella dorbignyi,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,10,7,LC,LC,Stable,94
 29,217,research,Scinax fuscovarius,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,5,"5,5",LC,LC,Stable,12
 30,6,research,Scinax granulatus,Animalia,Chordata,Amphibia,Anura,Hylidae,Scinax,19,4,LC,LC,Stable,94
@@ -45,7 +45,7 @@
 44,12,research,Amazonetta brasiliensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Amazonetta,19,36,LC,LC,Decreasing,71
 45,322,research,Amblyramphus holosericeus,Animalia,Chordata,Aves,Passeriformes,Icteridae,Amblyramphus,19,22,LC,VU,Stable,25
 46,80,research,Ammodramus humeralis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Ammodramus,19,11,LC,LC,Stable,24
-47,550,research,Anairetes flavirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Anairetes,NA,NA,LC,NE,Stable,2
+47,550,research,Anairetes flavirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Anairetes,NE,NE,LC,NE,Stable,2
 48,419,research,Anas bahamensis,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,19,39,LC,LC,Decreasing,4
 49,113,research,Anas flavirostris,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,19,34,LC,LC,Decreasing,71
 50,260,research,Anas georgica,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,19,44,LC,LC,Decreasing,25
@@ -61,7 +61,7 @@
 60,569,research,Anthus nattereri,Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,2,14,VU,VU,Decreasing,2
 61,247,research,Anumbius annumbi,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Anumbius,19,18,LC,LC,Increasing,29
 62,4,research,Aramides cajaneus,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,19,36,LC,LC,Stable,68
-63,606,research,Aramides saracura,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,NA,NA,LC,NE,Decreasing,1
+63,606,research,Aramides saracura,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,NE,NE,LC,NE,Decreasing,1
 64,29,research,Aramides ypecaha,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,19,45,LC,LC,Decreasing,80
 65,47,research,Aramus guarauna,Animalia,Chordata,Aves,Gruiformes,Aramidae,Aramus,19,55,LC,LC,Stable,48
 66,567,research,Aratinga nenday,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Aratinga,4,30,LC,NE,Increasing,2
@@ -99,7 +99,7 @@
 98,509,research,Calidris minutilla,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,2,13,LC,NE,Decreasing,2
 99,147,research,Calidris subruficollis,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,19,20,NT,VU,Decreasing,22
 100,188,research,Callonetta leucophrys,Animalia,Chordata,Aves,Anseriformes,Anatidae,Callonetta,19,31,LC,LC,Decreasing,25
-101,556,research,Calonectris diomedea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris,NA,NA,LC,LC,Decreasing,NA
+101,556,research,Calonectris diomedea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris,NE,NE,LC,LC,Decreasing,NA
 102,499,research,Campephilus leucopogon,Animalia,Chordata,Aves,Piciformes,Picidae,Campephilus,7,29,LC,VU,Stable,3
 103,285,research,Camptostoma obsoletum,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Camptostoma,19,9,LC,LC,Stable,21
 104,60,research,Caracara plancus,Animalia,Chordata,Aves,Falconiformes,Falconidae,Caracara,19,55,LC,LC,Increasing,155
@@ -197,7 +197,7 @@
 196,395,research,Fulica leucoptera,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,19,30,LC,LC,Stable,9
 197,394,research,Fulica rufifrons,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,19,32,LC,LC,Stable,6
 198,63,research,Furnarius rufus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Furnarius,19,18,LC,LC,Increasing,235
-199,591,research,Gallinago magellanica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,NA,NA,LC,NE,Decreasing,1
+199,591,research,Gallinago magellanica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,NE,NE,LC,NE,Decreasing,1
 200,172,research,Gallinago paraguaiae,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,19,25,LC,LC,Stable,33
 201,110,research,Gallinula galeata,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula,19,33,LC,LC,Stable,44
 202,570,research,Gelochelidon nilotica,Animalia,Chordata,Aves,Charadriiformes,Laridae,Gelochelidon,15,34,LC,LC,Decreasing,2
@@ -217,7 +217,7 @@
 216,576,research,Halobaena caerulea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Halobaena,6,29,LC,NE,Decreasing,1
 217,529,research,Heliobletus contaminatus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Heliobletus,1,12,LC,NE,Decreasing,9
 218,308,research,Heliomaster furcifer,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Heliomaster,10,10,LC,LC,Decreasing,17
-219,602,research,Hemithraupis guira,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis,NA,NA,LC,NE,Decreasing,1
+219,602,research,Hemithraupis guira,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis,NE,NE,LC,NE,Decreasing,1
 220,485,research,Hemithraupis ruficapilla,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis,1,13,LC,NE,Stable,2
 221,456,research,Hemitriccus margaritaceiventer,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Hemitriccus,6,10,LC,NT,Stable,11
 222,502,research,Heteronetta atricapilla,Animalia,Chordata,Aves,Anseriformes,Anatidae,Heteronetta,14,36,LC,DD,Stable,4
@@ -245,11 +245,11 @@
 244,122,research,Lepidocolaptes angustirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lepidocolaptes,19,18,LC,LC,Increasing,43
 245,423,research,Lepidocolaptes falcinellus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Lepidocolaptes,1,17,LC,NT,Stable,9
 246,361,research,Leptasthenura platensis,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Leptasthenura,19,16,LC,LC,Stable,9
-247,519,research,Leptopogon amaurocephalus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Leptopogon,NA,NA,LC,NE,Decreasing,1
+247,519,research,Leptopogon amaurocephalus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Leptopogon,NE,NE,LC,NE,Decreasing,1
 248,270,research,Leptotila rufaxilla,Animalia,Chordata,Aves,Columbiformes,Columbidae,Leptotila,11,25,LC,LC,Decreasing,4
 249,258,research,Leptotila verreauxi,Animalia,Chordata,Aves,Columbiformes,Columbidae,Leptotila,19,26,LC,LC,Stable,21
 250,262,research,Lessonia rufa,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Lessonia,19,11,LC,LC,Stable,18
-251,549,research,Leucocarbo atriceps,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Leucocarbo,NA,NA,LC,NE,Unknown,2
+251,549,research,Leucocarbo atriceps,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Leucocarbo,NE,NE,LC,NE,Unknown,2
 252,120,research,Leucochloris albicollis,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Leucochloris,19,8,LC,LC,Unknown,53
 253,584,research,Leucophaeus pipixcan,Animalia,Chordata,Aves,Charadriiformes,Laridae,Leucophaeus,5,33,LC,NE,Unknow,1
 254,211,research,Limnoctites rectirostris,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnoctites,13,15,NT,VU,Decreasing,15
@@ -292,7 +292,7 @@
 291,337,research,Myiothlypis leucoblephara,Animalia,Chordata,Aves,Passeriformes,Parulidae,Myiothlypis,19,12,LC,LC,Decreasing,13
 292,15,research,Nannopterum brasilianum,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Nannopterum,19,63,LC,LC,Unknown,135
 293,568,research,Nemosia pileata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Nemosia,1,13,LC,NE,Stable,1
-294,81,research,Nengetus cinereus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Nengetus,19,20,LC,NE,Unknown,63
+294,81,research,Nengetus cinereus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Nengetus,19,20,LC,LC,Unknown,63
 295,479,research,Neoxolmis coronatus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Neoxolmis,13,20,LC,NE,Unknown,4
 296,442,research,Neoxolmis rufiventris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Neoxolmis,16,23,LC,VU,Unknown,5
 297,421,research,Netta peposaca,Animalia,Chordata,Aves,Anseriformes,Anatidae,Netta,19,46,LC,LC,Increasing,8
@@ -345,7 +345,7 @@
 344,73,research,Plegadis chihi,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,19,40,LC,LC,Increasing,72
 345,41,research,Pluvialis dominica,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,19,23,LC,LC,Decreasing,37
 346,416,research,Pluvialis squatarola,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,7,25,LC,LC,Decreasing,3
-347,551,research,Pluvianellus socialis,Animalia,Chordata,Aves,Charadriiformes,Pluvianellidae,Pluvianellus,NA,NA,NT,NE,Stable,2
+347,551,research,Pluvianellus socialis,Animalia,Chordata,Aves,Charadriiformes,Pluvianellidae,Pluvianellus,NE,NE,NT,NE,Stable,2
 348,164,research,Podiceps major,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,19,51,LC,LC,Stable,62
 349,452,research,Podiceps occipitalis,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podiceps,1,26,LC,NE,Decreasing,4
 350,230,research,Podilymbus podiceps,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Podilymbus,19,29,LC,LC,Increasing,24
@@ -405,7 +405,7 @@
 404,144,research,Sporophila collaris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,14,11,LC,VU,Stable,20
 405,411,research,Sporophila hypochroma,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,11,9,NT,VU,Decreasing,4
 406,399,research,Sporophila hypoxantha,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,9,9,LC,NE,Stable,2
-407,582,research,Sporophila leucoptera,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,NA,NA,LC,NE,Stable,1
+407,582,research,Sporophila leucoptera,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,NE,NE,LC,NE,Stable,1
 408,317,research,Sporophila palustris,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,9,9,EN,VU,Decreasing,16
 409,558,research,Sporophila pileata,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,2,11,LC,NT,Decreasing,1
 410,321,research,Sporophila ruficollis,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,7,9,NT,VU,Decreasing,32
@@ -420,7 +420,7 @@
 419,575,research,Sterna paradisaea,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,3,34,LC,NE,Decreasing,1
 420,87,research,Sterna trudeaui,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,13,32,LC,LC,Stable,43
 421,292,research,Sternula superciliaris,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sternula,19,23,LC,LC,Stable,33
-422,604,research,Stilpnia peruviana,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia,NA,NA,VU,VU,Unknow,3
+422,604,research,Stilpnia peruviana,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia,NE,NE,VU,VU,Unknow,3
 423,151,research,Stilpnia preciosa,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia,17,15,LC,LC,Unknown,63
 424,129,research,Sturnus vulgaris,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus,19,20,LC,NE,Decreasing,38
 425,514,research,Sublegatus modestus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sublegatus,19,13,LC,LC,Increasing,3
@@ -434,7 +434,7 @@
 433,434,research,Systellura longirostris,Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Systellura,12,23,LC,NE,Stable,1
 434,354,research,Tachuris rubrigastra,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tachuris,16,10,LC,LC,Stable,11
 435,319,research,Tachybaptus dominicus,Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Tachybaptus,9,21,LC,LC,Stable,7
-436,493,research,Tachycineta leucopyga,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,NA,NA,LC,LC,NA,7
+436,493,research,Tachycineta leucopyga,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,14,13,LC,LC,NA,7
 437,186,research,Tachycineta leucorrhoa,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,19,13,LC,LC,Increasing,48
 438,537,research,Tachyphonus coronatus,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Tachyphonus,5,16,LC,NE,Stable,3
 439,407,research,Tapera naevia,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Tapera,19,28,LC,LC,Stable,10
@@ -463,7 +463,7 @@
 462,520,research,Turdus subalaris,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,6,20,LC,NE,Unknown,2
 463,118,research,Tyrannus melancholicus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,19,20,LC,LC,Increasing,90
 464,39,research,Tyrannus savana,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,19,38,LC,LC,Stable,120
-465,449,research,Tyrannus tyrannus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,NA,NA,LC,NE,Decreasing,1
+465,449,research,Tyrannus tyrannus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,NE,NE,LC,NE,Decreasing,1
 466,401,research,Tyto alba,Animalia,Chordata,Aves,Strigiformes,Tytonidae,Tyto,19,38,LC,LC,Stable,4
 467,21,research,Vanellus chilensis,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Vanellus,19,32,LC,LC,Increasing,238
 468,245,research,Vireo chivi,Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,19,14,LC,LC,Stable,15
@@ -474,7 +474,7 @@
 473,62,research,Zenaida auriculata,Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,19,23,LC,LC,Increasing,129
 474,40,research,Zonotrichia capensis,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia,19,12,LC,LC,Increasing,183
 475,429,research,Akodon azarae,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Akodon,19,17,LC,LC,Stable,2
-476,467,research,Alouatta caraya,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,NA,NA,LC,NE,Decreasing,1
+476,467,research,Alouatta caraya,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,NE,NE,LC,NE,Decreasing,1
 477,32,research,Arctocephalus australis,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,7,150,LC,LC,Increasing,58
 478,517,research,Arctocephalus gazella,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,2,150,LC,NE,Decreasing,2
 479,600,research,Arctocephalus tropicalis,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,3,"1,6",LC,NE,Stable,8
@@ -493,8 +493,8 @@
 492,536,research,Ctenomys torquatus,Animalia,Chordata,Mammalia,Rodentia,Ctenomyidae,Ctenomys,12,26,LC,LC,Unknown,3
 493,295,research,Cuniculus paca,Animalia,Chordata,Mammalia,Rodentia,Cuniculidae,Cuniculus,1,65,LC,VU,Stable,3
 494,525,research,Dama dama,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Dama,1,145,LC,NE,Unknown,2
-495,36,research,Dasypus novemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,19,NA,LC,LC,Stable,37
-496,221,research,Dasypus septemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,19,NA,LC,NE,Unknown,10
+495,36,research,Dasypus novemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,19,70,LC,LC,Stable,37
+496,221,research,Dasypus septemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,19,45,LC,NE,Unknown,10
 497,378,research,Delphinus delphis,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Delphinus,3,230,LC,NE,Unknown,1
 498,459,research,Desmodus rotundus,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Desmodus,19,9,LC,LC,Stable,4
 499,92,research,Didelphis albiventris,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Didelphis,19,90,LC,LC,Stable,40
@@ -533,7 +533,7 @@
 532,534,research,Oligoryzomys flavescens,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oligoryzomys,19,19,LC,LC,Stable,6
 533,548,research,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus,NA,NA,EN,EN,Decreasing,2
 534,8,research,Otaria byronia,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Otaria,5,210,LC,LC,Stable,92
-535,430,research,Oxymycterus josei,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,NA,NA,NT,VU,Decreasing,1
+535,430,research,Oxymycterus josei,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,9,23,NT,VU,Decreasing,1
 536,392,research,Oxymycterus nasutus,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,9,23,LC,EN,Unknown,1
 537,288,research,Ozotoceros bezoarticus,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Ozotoceros,2,129,NT,VU,Decreasing,4
 538,463,research,Pecari tajacu,Animalia,Chordata,Mammalia,Artiodactyla,Tayassuidae,Pecari,1,95,LC,CR,Stable,3
@@ -562,10 +562,10 @@
 561,263,research,Caretta caretta,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Caretta,4,80,VU,VU,Decreasing,24
 562,356,research,Cercosaura schreibersii,Animalia,Chordata,Reptilia,Squamata,Gymnophthalmidae,Cercosaura,19,5,LC,LC,Stable,35
 563,84,research,Chelonia mydas,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Chelonia,5,92,EN,VU,Decreasing,17
-564,271,research,Chironius gouveai,Animalia,Chordata,Reptilia,Squamata,Colubridae,Chironius,NA,NA,NE,NE,Unknow,6
+564,271,research,Chironius gouveai,Animalia,Chordata,Reptilia,Squamata,Colubridae,Chironius,5,180,LC,LC,Unknow,6
 565,154,research,Contomastix lacertoides,Animalia,Chordata,Reptilia,Squamata,Teiidae,Contomastix,17,7,NE,LC,Unknown,15
 566,391,research,Dermochelys coriacea,Animalia,Chordata,Reptilia,Testudines,Dermochelyidae,Dermochelys,6,170,VU,CR,Decreasing,6
-567,344,research,Dipsas turgida,Animalia,Chordata,Reptilia,Squamata,Colubridae,Dipsas,NA,NA,NE,LC,Stable,6
+567,344,research,Dipsas turgida,Animalia,Chordata,Reptilia,Squamata,Colubridae,Dipsas,3,45,LC,LC,Stable,6
 568,383,research,Epictia munoai,Animalia,Chordata,Reptilia,Squamata,Leptotyphlopidae,Epictia,19,20,NE,LC,Unknown,5
 569,384,research,Erythrolamprus almadensis,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,4,66,NE,LC,Stable,6
 570,307,research,Erythrolamprus jaegeri,Animalia,Chordata,Reptilia,Squamata,Colubridae,Erythrolamprus,19,61,LC,LC,Unknown,12
