@@ -1,38 +1,38 @@
-"","X.1","X","quality_grade","taxon_species_name","taxon_kingdom_name","taxon_phylum_name","taxon_class_name","taxon_order_name","taxon_family_name","taxon_genus_name","Distribution","Size..cm.","IUCNglobal","IUCNregional","trendGlobal","n"
-"1",1,130,"research","Boana pulchella","Animalia","Chordata","Amphibia","Anura","Hylidae","Boana",NA,NA,"LC","LC","Stable",127
-"2",8,165,"research","Leptodactylus luctator","Animalia","Chordata","Amphibia","Anura","Leptodactylidae","Leptodactylus",NA,NA,"NE","NE","Unknow",102
-"3",9,515,"research","Leptodactylus macrosternum","Animalia","Chordata","Amphibia","Anura","Leptodactylidae","Leptodactylus",NA,NA,"LC","NE","Unknown",4
-"4",27,179,"research","Rhinella diptycha","Animalia","Chordata","Amphibia","Anura","Bufonidae","Rhinella",NA,NA,"DD","LC","Unknown",55
-"5",37,462,"research","Agapornis personatus","Animalia","Chordata","Aves","Psittaciformes","Psittaculidae","Agapornis",NA,NA,"LC","NE","Stable",1
-"6",43,506,"research","Amazona aestiva","Animalia","Chordata","Aves","Psittaciformes","Psittacidae","Amazona",NA,NA,"NT","NE","Decreasing",1
-"7",47,550,"research","Anairetes flavirostris","Animalia","Chordata","Aves","Passeriformes","Tyrannidae","Anairetes",NA,NA,"LC","NE","Stable",2
-"8",51,121,"research","Anas platyrhynchos","Animalia","Chordata","Aves","Anseriformes","Anatidae","Anas",NA,NA,"LC","NE","Increasing",NA
-"9",54,112,"research","Anser anser","Animalia","Chordata","Aves","Anseriformes","Anatidae","Anser",NA,NA,"LC","NE","Increasing",2
-"10",63,606,"research","Aramides saracura","Animalia","Chordata","Aves","Gruiformes","Rallidae","Aramides",NA,NA,"LC","NE","Decreasing",1
-"11",101,556,"research","Calonectris diomedea","Animalia","Chordata","Aves","Procellariiformes","Procellariidae","Calonectris",NA,NA,"LC","LC","Decreasing",NA
-"12",144,555,"research","Corvus splendens","Animalia","Chordata","Aves","Passeriformes","Corvidae","Corvus",NA,NA,"LC","NE","Stable",4
-"13",199,591,"research","Gallinago magellanica","Animalia","Chordata","Aves","Charadriiformes","Scolopacidae","Gallinago",NA,NA,"LC","NE","Decreasing",1
-"14",219,602,"research","Hemithraupis guira","Animalia","Chordata","Aves","Passeriformes","Thraupidae","Hemithraupis",NA,NA,"LC","NE","Decreasing",1
-"15",223,30,"research","Heteroxolmis dominicana","Animalia","Chordata","Aves","Passeriformes","Tyrannidae","Heteroxolmis",NA,NA,"VU","VU","Unknow",36
-"16",247,519,"research","Leptopogon amaurocephalus","Animalia","Chordata","Aves","Passeriformes","Tyrannidae","Leptopogon",NA,NA,"LC","NE","Decreasing",1
-"17",251,549,"research","Leucocarbo atriceps","Animalia","Chordata","Aves","Suliformes","Phalacrocoracidae","Leucocarbo",NA,NA,"LC","NE","Unknown",2
-"18",255,276,"research","Limnoctites sulphuriferus","Animalia","Chordata","Aves","Passeriformes","Furnariidae","Limnoctites",NA,NA,"LC","NT","Unknown",11
-"19",270,347,"research","Melopsittacus undulatus","Animalia","Chordata","Aves","Psittaciformes","Psittaculidae","Melopsittacus",NA,NA,"LC","NE","Increasing",NA
-"20",294,81,"research","Nengetus cinereus","Animalia","Chordata","Aves","Passeriformes","Tyrannidae","Nengetus",NA,NA,"LC","NE","Unknown",63
-"21",347,551,"research","Pluvianellus socialis","Animalia","Chordata","Aves","Charadriiformes","Pluvianellidae","Pluvianellus",NA,NA,"NT","NE","Stable",2
-"22",407,582,"research","Sporophila leucoptera","Animalia","Chordata","Aves","Passeriformes","Thraupidae","Sporophila",NA,NA,"LC","NE","Stable",1
-"23",422,604,"research","Stilpnia peruviana","Animalia","Chordata","Aves","Passeriformes","Thraupidae","Stilpnia",NA,NA,"VU","VU","Unknow",3
-"24",436,493,"research","Tachycineta leucopyga","Animalia","Chordata","Aves","Passeriformes","Hirundinidae","Tachycineta",NA,NA,"LC","LC",NA,7
-"25",465,449,"research","Tyrannus tyrannus","Animalia","Chordata","Aves","Passeriformes","Tyrannidae","Tyrannus",NA,NA,"LC","NE","Decreasing",1
-"26",476,467,"research","Alouatta caraya","Animalia","Chordata","Mammalia","Primates","Atelidae","Alouatta",NA,NA,"LC","NE","Decreasing",1
-"27",484,440,"research","Canis familiaris","Animalia","Chordata","Mammalia","Carnivora","Canidae","Canis",NA,NA,"NE","NE","Unknow",4
-"28",488,553,"research","Cervus elaphus","Animalia","Chordata","Mammalia","Artiodactyla","Cervidae","Cervus",NA,NA,"LC","NE","Increasing",1
-"29",495,36,"research","Dasypus novemcinctus","Animalia","Chordata","Mammalia","Cingulata","Dasypodidae","Dasypus",NA,NA,"LC","LC","Stable",37
-"30",496,221,"research","Dasypus septemcinctus","Animalia","Chordata","Mammalia","Cingulata","Dasypodidae","Dasypus",NA,NA,"LC","NE","Unknown",10
-"31",502,425,"research","Equus asinus","Animalia","Chordata","Mammalia","Perissodactyla","Equidae","Equus",NA,NA,"NE","NE","Unknow",1
-"32",503,433,"research","Equus caballus","Animalia","Chordata","Mammalia","Perissodactyla","Equidae","Equus",NA,NA,"NE","NE","Unknow",3
-"33",507,410,"research","Felis catus","Animalia","Chordata","Mammalia","Carnivora","Felidae","Felis",NA,NA,"NE","NE","Unknow",6
-"34",533,548,"research","Oryctolagus cuniculus","Animalia","Chordata","Mammalia","Lagomorpha","Leporidae","Oryctolagus",NA,NA,"EN","EN","Decreasing",2
-"35",535,430,"research","Oxymycterus josei","Animalia","Chordata","Mammalia","Rodentia","Cricetidae","Oxymycterus",NA,NA,"NT","VU","Decreasing",1
-"36",564,271,"research","Chironius gouveai","Animalia","Chordata","Reptilia","Squamata","Colubridae","Chironius",NA,NA,"NE","NE","Unknow",6
-"37",567,344,"research","Dipsas turgida","Animalia","Chordata","Reptilia","Squamata","Colubridae","Dipsas",NA,NA,"NE","LC","Stable",6
+,X.1,X,quality_grade,taxon_species_name,taxon_kingdom_name,taxon_phylum_name,taxon_class_name,taxon_order_name,taxon_family_name,taxon_genus_name,Distribution,Size..cm.,IUCNglobal,IUCNregional,trendGlobal,n,Comentarios
+1,1,130,research,Boana pulchella,Animalia,Chordata,Amphibia,Anura,Hylidae,Boana,NA,NA,LC,LC,Stable,127,"Puede estar por Hypsiboas pulchellus, Hyla pulchella"
+2,8,165,research,Leptodactylus luctator,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,NA,NA,NE,NE,Unknow,102,"Puede estar por Leptodactylus latrans (que no es sinónima si no que se separó), Leptodactylus ocellatus var. bonairensis, Leptodactylus ocellatus var. reticulata"
+3,9,515,research,Leptodactylus macrosternum,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Leptodactylus,NA,NA,LC,NE,Unknown,4,"Puede estar como Leptodactylus ocellatus macrosternus, Leptodactylus chaquensis"
+4,27,179,research,Rhinella diptycha,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,NA,NA,DD,LC,Unknown,55,"Puede estar como Bufo schneideri, Bufo paracnemis, Rhinella schneideri"
+5,37,462,research,Agapornis personatus,Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Agapornis,NA,NA,LC,NE,Stable,1,CASUAL: mascota
+6,43,506,research,Amazona aestiva,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Amazona,NA,NA,NT,NE,Decreasing,1,CASUAL: mascota
+7,47,550,research,Anairetes flavirostris,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Anairetes,NA,NA,LC,NE,Stable,2,Registro novedoso
+8,51,121,research,Anas platyrhynchos,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,NA,NA,LC,NE,Increasing,NA,CASUAL: domesticado
+9,54,112,research,Anser anser,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,NA,NA,LC,NE,Increasing,2,CASUAL: domesticado
+10,63,606,research,Aramides saracura,Animalia,Chordata,Aves,Gruiformes,Rallidae,Aramides,NA,NA,LC,NE,Decreasing,1,Registro novedoso
+11,101,556,research,Calonectris diomedea,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Calonectris,NA,NA,LC,LC,Decreasing,NA,Registro novedoso
+12,144,555,research,Corvus splendens,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,NA,NA,LC,NE,Stable,4,CASUAL: introducido
+13,199,591,research,Gallinago magellanica,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,NA,NA,LC,NE,Decreasing,1,Registro novedoso
+14,219,602,research,Hemithraupis guira,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Hemithraupis,NA,NA,LC,NE,Decreasing,1,Registro novedoso
+15,223,30,research,Heteroxolmis dominicana,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Heteroxolmis,NA,NA,VU,VU,Unknow,36,Puede estar por Xolmis dominicanus
+16,247,519,research,Leptopogon amaurocephalus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Leptopogon,NA,NA,LC,NE,Decreasing,1,Registro novedoso
+17,251,549,research,Leucocarbo atriceps,Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Leucocarbo,NA,NA,LC,NE,Unknown,2,Registro novedoso
+18,255,276,research,Limnoctites sulphuriferus,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Limnoctites,NA,NA,LC,NT,Unknown,11,Puede estar como Cranioleuca sulphurifera
+19,270,347,research,Melopsittacus undulatus,Animalia,Chordata,Aves,Psittaciformes,Psittaculidae,Melopsittacus,NA,NA,LC,NE,Increasing,NA,CASUAL: introducido
+20,294,81,research,Nengetus cinereus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Nengetus,NA,NA,LC,NE,Unknown,63,Puede estar como Xolmis cinereus
+21,347,551,research,Pluvianellus socialis,Animalia,Chordata,Aves,Charadriiformes,Pluvianellidae,Pluvianellus,NA,NA,NT,NE,Stable,2,Registro novedoso
+22,407,582,research,Sporophila leucoptera,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Sporophila,NA,NA,LC,NE,Stable,1,Registro novedoso
+23,422,604,research,Stilpnia peruviana,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Stilpnia,NA,NA,VU,VU,Unknow,3,Puede estar como Tangara peruviana
+24,436,493,research,Tachycineta leucopyga,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,NA,NA,LC,LC,NA,7,Puede estar como Tachycineta meyeni. Registro poco común
+25,465,449,research,Tyrannus tyrannus,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,NA,NA,LC,NE,Decreasing,1,Registro novedoso
+26,476,467,research,Alouatta caraya,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,NA,NA,LC,NE,Decreasing,1,Este es un registro nuevo (mono aullador) así que no lo vas a encontrar en ninguna guía
+27,484,440,research,Canis familiaris,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,NA,NA,NE,NE,Unknow,4,CASUAL: domesticado
+28,488,553,research,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,NA,NA,LC,NE,Increasing,1,CASUAL: introducido
+29,495,36,research,Dasypus novemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,NA,NA,LC,LC,Stable,37,"Esta es el tatú, en la guía de Mamíferos aparece como Dasypus novemcinctus, no sé por qué está como NA"
+30,496,221,research,Dasypus septemcinctus,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,NA,NA,LC,NE,Unknown,10,"Puede estar como Dasypus hybridus, es de hecho una subespecie Dasypus septemcinctus ssp. hybridus"
+31,502,425,research,Equus asinus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,NA,NA,NE,NE,Unknow,1,CASUAL: domesticado
+32,503,433,research,Equus caballus,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,NA,NA,NE,NE,Unknow,3,CASUAL: domesticado
+33,507,410,research,Felis catus,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,NA,NA,NE,NE,Unknow,6,CASUAL: domesticado
+34,533,548,research,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus,NA,NA,EN,EN,Decreasing,2,CASUAL: introducido
+35,535,430,research,Oxymycterus josei,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Oxymycterus,NA,NA,NT,VU,Decreasing,1,"Puede estar como Oxymycterus nasutus, no son sinónimas pero son difíciles de distinguir. Por eso generalmente se dejan a nivel de género"
+36,564,271,research,Chironius gouveai,Animalia,Chordata,Reptilia,Squamata,Colubridae,Chironius,NA,NA,NE,NE,Unknow,6,Puede estar como Chironius bicarinatus
+37,567,344,research,Dipsas turgida,Animalia,Chordata,Reptilia,Squamata,Colubridae,Dipsas,NA,NA,NE,LC,Stable,6,"Puede estar como Sibynomorphus turgidus, Leptognathus turgida"
