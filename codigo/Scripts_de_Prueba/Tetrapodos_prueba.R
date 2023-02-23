@@ -10,3 +10,11 @@ registros_tetrapodos <- NatUY %>% st_drop_geometry() %>%
 
 Semitetrapodos <- left_join(lista_tetrapodos,conservation_tetrapodos)
 tetrapodos_final <- left_join(Semitetrapodos, registros_tetrapodos)
+
+write.csv(tetrapodos_final, "datos/tetrapodos_final.csv")
+
+
+##Graficos
+
+tetrapodos_final %>% group_by(Distribution) %>% count() %>% ggplot() + 
+  geom_histogram(aes(x=Distribution))
