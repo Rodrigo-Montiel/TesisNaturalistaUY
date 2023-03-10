@@ -9,7 +9,7 @@ library(stringr)
 library(lubridate)
 
 NatUY <- read.csv("datos/Observaciones_27-10-22.csv")
-tetrapodos_final <- read.csv("datos/tetrpodos_final.csv")
+tetrapodos_final <- read.csv("datos/tetrapodos_final.csv")
 observadoresUY <- read.csv("datos/usuarios_uy.csv")
 
 # TABLAS------------------------------------------------------------------------
@@ -28,14 +28,18 @@ tabla_registros <- NatUY %>% filter(quality_grade == "research" &
                                       !is.na(taxon_species_name) & 
                                       taxon_species_name!="") %>% 
   filter(taxon_class_name == "Aves" | taxon_class_name == "Amphibia" |
-           taxon_class_name == "Mammalia" | taxon_class_name == "Reptilia") %>% 
+           taxon_class_name == "Mammalia" | taxon_class_name == "Reptilia") %>%
   select(id=id, observado=observed_on, user_id, latitude, longitude,
-         place_admin1_name,especie=scientific_name)
+         place_admin1_name,especie=scientific_name) %>% 
+  filter(str_count(especie, "\\S+") ==2)
 
 
 tabla_usuarios <- observadoresUY %>% arrange(desc(registros)) %>% 
   mutate(ranking = 1:n()) %>% select(usuario=user_login, user_id,
                                             nivel=categoria_usuario,ranking) 
+
+
+
 
 
 #UNIENDO TABLAS-----------------------------------------------------------------
@@ -45,10 +49,13 @@ tabla_usuarios <- observadoresUY %>% arrange(desc(registros)) %>%
 registros_especies <- tabla_registros %>% group_by(especie) %>% 
   left_join(tabla_especies) %>% ungroup()
 
-### le agregamos los usuarios
+
+## Registros + especies + usuarios
 
 registros_de_tetrapodos <- registros_especies %>% group_by(user_id) %>% 
   left_join(tabla_usuarios) %>% ungroup()
+
+
 
 write.csv(registros_de_tetrapodos, "datos/registros_de_tetrapodos.csv")
 
