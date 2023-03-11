@@ -32,7 +32,7 @@ usuarios_login <- NatUY %>% st_drop_geometry() %>%
 
 
 usuarios_dataset <- NatUY %>% st_drop_geometry() %>% 
-  select(user_login,user_id, observed_on, created_at) %>% 
+  select(user_login, observed_on, created_at, user_id) %>% 
   group_by(user_login) %>% 
   summarise(primer_registro = min(created_at), 
             ultimo_registro = max(created_at), 
@@ -114,16 +114,26 @@ write.csv(NatUY_users, 'NatUY_users.csv')
 
 
 ### Uruguayxs en los registros
-Uruguayxs <- NatUy_users %>% 
+Uruguayxs <- NatUY_users %>% 
   mutate(proporcion_NatUY_iNat = round(registros*100/observation_count, 3),
          esUruguaye = ifelse(proporcion_NatUY_iNat>30 , 'si', 'no')) %>% 
   filter(esUruguaye == "si") %>% 
   group_by(esUruguaye)
 
-usuarios_uy <- filter(usuarios_dataset, user_id %in% Uruguayxs$user_id)
+usuarios_uy <- filter(usuarios_dataset, user_login %in% Uruguayxs$user_login)
+
+
+### Extranjeros en los registros
+Extranjerxs <- NatUY_users %>% 
+  mutate(proporcion_NatUY_iNat = round(registros*100/observation_count, 3),
+         esUruguaye = ifelse(proporcion_NatUY_iNat>30 , 'si', 'no')) %>% 
+  filter(esUruguaye == "no") %>% 
+  group_by(esUruguaye)
+
+usuarios_ex <- filter(usuarios_dataset, user_login %in% Extranjerxs$user_login)
 
 
 write.csv(usuarios_uy, "datos/usuarios_uy.csv")
-
+write.csv(usuarios_ex, "datos/usuarios_ex.csv")
 
 
