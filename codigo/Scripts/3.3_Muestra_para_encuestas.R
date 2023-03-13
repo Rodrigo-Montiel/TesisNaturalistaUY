@@ -45,11 +45,20 @@ view(nueva_encuesta)
 write.csv(nueva_encuesta, "datos/nueva_encuesta.csv")
 
 
-#PARA FILTRAR USUARIOS URUGUAYOS YA ENCUESTADOS---------------------------------
+#NUEVA TANDA DE ENCUESTAS-------------------------------------------------------
 
-Usuarios_encuestados <- read.csv("datos/Usuarios para encuestar.csv")
-   ##Estos usuarios ya fueron encuestados
+nueva_encuesta <- read_csv("datos/nueva_encuesta.csv")
+ ###Estos usuarios ya fueron encuestados
 
 
-usuarios_uy %>% filter(!user_login %in% Usuarios_encuestados$Experimentados)
+
+## Nuevos principiantes
+Encuesta3 <- usuarios_uy %>% filter(categoria_usuario == "principiante") %>% 
+  filter(!user_login %in% nueva_encuesta$principiantes) %>% 
+  pull(user_login) %>% sample(., size=100)
+
+write.csv(Encuesta3, "datos/Encuesta3.csv")
+
+
+
 
