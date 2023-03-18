@@ -39,7 +39,7 @@ NatUY_dataset <- NatUY %>% st_drop_geometry() %>%
 
 # SESGOS------------------------------------------------------------------------
 
-## Sesgo Espacial
+## SESGO ESPACIAL
 
 NatUY_grilla <- st_join(Grilla_UY, NatUY_sf ) %>% 
   group_by(gridID) %>% 
@@ -62,7 +62,7 @@ plot_Riqueza <- ggplot() +
 plot_Abundancia + plot_Riqueza
 
 
-## Sesgo Temporal
+## SESGO TEMPORAL
 
 NatUY_Temporal <- NatUY_dataset %>% 
   filter(year(observed_on)>=2010) %>% 
@@ -76,7 +76,7 @@ NatUY_Temporal <- NatUY_dataset %>%
   theme_bw() +
   theme(strip.text.y = element_text(size=10, angle=0)) +
   labs(title = 'Cobertura temporal de los principales filos registrados', 
-       x='Año', y='', color = '') 
+       x='Año', y='', color = '')
 
 ### Ordenes de ANIMALIA con más de 50 registros
 
@@ -112,7 +112,7 @@ Temporal_Plantae <- NatUY_dataset %>%
 
 
 
-## Sesgo Taxonomico
+## SESGO TAXONOMICO
 
 NatUY_Taxones <- NatUY_dataset %>% 
   filter(taxon_kingdom_name=='Plantae'| taxon_kingdom_name=='Animalia'|
@@ -129,11 +129,13 @@ NatUY_Taxones <- NatUY_dataset %>%
   NatUY_TopTaxones <- NatUY_dataset %>% 
     filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | 
            taxon_kingdom_name=='Plantae') %>% 
-    group_by(taxon_kingdom_name, taxon_phylum_name) %>% count() %>% 
-    arrange(desc(n)) %>% filter(!is.na(taxon_phylum_name)) %>% head(10) %>%  
-    ggplot(., aes(x=n, y=taxon_phylum_name, fill=taxon_phylum_name)) +
-    geom_bar(stat = "identity", show.legend = FALSE) +
-    labs(x='Number of Observations', y= '', fill = '') +
-    theme_bw() +
-    scale_x_continuous()
+    group_by(taxon_kingdom_name, taxon_phylum_name) %>% 
+    count() %>% arrange(desc(n)) %>% 
+    filter(!is.na(taxon_phylum_name)) %>% head(10) %>%  
+    ggplot(., aes(x=n, y= fct_reorder(taxon_phylum_name,n), 
+                  fill=taxon_kingdom_name)) +
+    geom_bar(stat = "identity", show.legend = TRUE) +
+    labs(x='Registros', y= '', fill = 'Reino') +
+    theme_bw() + scale_x_continuous()
   
+    

@@ -63,12 +63,12 @@ saveRDS(listado_especies,"datos/listado_especies")
 grafico_especies <- listado_especies %>%  
   filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | 
            taxon_kingdom_name=='Plantae') %>% 
-  group_by(taxon_kingdom_name, taxon_class_name) %>% count() %>% 
+  group_by(taxon_phylum_name, taxon_class_name) %>% count() %>% 
   arrange(desc(n)) %>% head(15) %>%  filter(!is.na(taxon_class_name)) %>% 
-  ggplot(.,aes(x=n, y=taxon_class_name, 
-                fill=taxon_class_name)) +
-  geom_bar(stat = "identity", show.legend = FALSE) +
-  labs(x='Number of species', y= '', fill = '') + theme_bw() +
+  ggplot(.,aes(x=n, y=fct_reorder(taxon_class_name,n), 
+                fill=taxon_phylum_name)) +
+  geom_bar(stat = "identity", show.legend = T) +
+  labs(x='N° de especies', y= '', fill = 'Filo') + theme_bw() +
   scale_x_continuous()
 
 plot(grafico_especies)
