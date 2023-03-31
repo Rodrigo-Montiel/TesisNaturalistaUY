@@ -1,0 +1,72 @@
+---
+title: 'NaturalistaUY como herramienta de ciencia ciudadana para mejorar el conocimiento de la biodiversidad en Uruguay'
+format: 
+  html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    html-math-method: katex
+    # code-fold: true
+self-contained: true
+editor: source
+author: 'Rodrigo Montiel, Magdalena Carabio, Florencia Grattarola'
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+---
+
+  - **Librerías**
+
+```{r}
+#| label: libraries
+#| echo: true
+#| eval: true
+#| message: false
+#| warning: false
+
+library(patchwork)
+library(stringr)
+library(lubridate)
+library(sf)
+sf::sf_use_s2(FALSE)
+library(tidyverse)
+```
+
+
+## Objetivos
+
+### 1. Examinar las contribuciones de NaturalistaUY al conocimiento sobre la biodiversidad en el país.
+
+  - Cantidad de usuarios, registros y especies registradas.  
+  - Comparación de los datos en NaturalistaUY con otras bases de datos disponibles (ejemplo nuestro listado de tetrápodos y plantas).  
+  - Algunos registros para destacar: nuevos, de especies raras, de lugares únicos.
+
+### 2. Evaluar la cobertura taxonómica, espacial y temporal de los registros disponibles e identificar posibles variables asociadas.
+
+  - Cobertura espacial
+  - Cobertura taxonómica
+  - Cobertura temporal
+  
+**Extra**  
+  
+  - Distancia a rutas de registros de los usuarios
+  - Tiempo promedio de los usuarios en la plataforma
+
+### 3. Cuantificar los sesgos en las preferencias de observación de datos de los usuarios en la plataforma según su nivel de experticia
+
+| Nivel del usuario | Definición |
+|:------------------|:-----------|
+| experimentado     | >= 1000 registros, > 1 año en la plataforma, registros_x_tiempo >= 0.6 |
+| intermedio        |  1000 < registros > 50, > 3 meses en la plataforma, registros_x_tiempo >= 0.2 |
+| principiante      | < 50 registros, < 3 meses en la plataforma |
+
+: {tbl-colwidths="[25,75]"}
+
+| Características especie-específicas | Valores |
+|:------------------------------------|:-----------|
+| estado de conservación              |  `LC`, `NT` ,`VU`, `EN`, `CR`,`DD`, `NE` |
+| distribución                        | `1-19` | 
+| tamaño / porte                      | largo en cm | 
+: {tbl-colwidths="[50,50]"}  
+  
+
+### 4. Evaluar el potencial de tres eventos intensivos de muestreo de ciencia comunitaria para la generación de conocimiento de biodiversidad en nuestro país. 
+
