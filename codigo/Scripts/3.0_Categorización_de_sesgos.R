@@ -47,13 +47,13 @@ NatUY_grilla <- st_join(Grilla_UY, NatUY_sf ) %>%
             Riqueza=n_distinct(scientific_name)) %>% st_cast()
 
 plot_Abundancia <- ggplot() +
-  geom_sf(data=NatUY_grilla, aes(fill=log(Abundancia)), show.legend = TRUE) +
+  geom_sf(data=NatUY_grilla, aes(fill=log(Abundancia))) +
   ggtitle("N°de Registros en el pais") +
   scale_fill_fermenter(palette ='YlGnBu', direction = 1) + 
   theme_bw()
 
 plot_Riqueza <- ggplot() +
-  geom_sf(data=NatUY_grilla, aes(fill=log(Riqueza)), show.legend = TRUE) + 
+  geom_sf(data=NatUY_grilla, aes(fill=log(Riqueza))) + 
   ggtitle("Riqueza de especies registradas") + 
   scale_fill_fermenter(palette ='YlOrBr', direction = 1) + 
   theme_bw()

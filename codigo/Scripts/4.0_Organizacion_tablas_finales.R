@@ -44,9 +44,6 @@ tabla_usuariosex <- observadoresEX %>% arrange(desc(registros)) %>%
                                      nivel=categoria_usuario,ranking)
 
 
-
-
-
 #UNIENDO TABLAS-----------------------------------------------------------------
 
 ## Registros + especies
@@ -61,4 +58,32 @@ registros_de_tetrapodosuy <- left_join(registros_especies, tabla_usuariosuy) %>%
 registros_de_tetrapodosex <- left_join(registros_especies, tabla_usuariosex) %>%
   na.omit() %>% mutate(nivel= ifelse(nivel=="", "visitante", "visitante"))
 
+write.csv(registros_de_tetrapodosuy, "datos/registros_de_tetrapodosuy.csv")
+write.csv(registros_de_tetrapodosex, "datos/registros_de_tetrapodosex.csv")
+
+
+# CARACTERISTICAS ESPECIES-ESPECIFICAS------------------------------------------
+
+## Vamos a pasar las caracteristicas que son cuantitativas a cualitativas
+
+registros_de_tetrapodosuy <- registros_de_tetrapodosuy %>% 
+  mutate(distribucion_2 = ifelse(distribucion==19,"Abundante",
+                  ifelse(distribucion>=8,"Comun","Rara")))
+
+registros_de_tetrapodosuy <- 
+  registros_de_tetrapodosuy %>% 
+  mutate(tamaño = 
+           ifelse(clase=="Mammalia" & largo_cm>=200, "Grande", 
+                         ifelse(clase=="Mammalia" & largo_cm>=50, "Mediano", 
+                                ifelse(clase=="Mammalia" & largo_cm<50, "Pequeño", 
+                                       ifelse(clase=="Aves" & largo_cm>=50,"Grande", 
+                                              ifelse(clase=="Aves" & largo_cm>=20,"Mediano", 
+                                                     ifelse(clase=="Aves" & largo_cm<20,"Pequeño", 
+                                                            ifelse(clase=="Reptilia" & largo_cm>=100, "Grande", 
+                                                                   ifelse(clase=="Reptilia" & largo_cm>=50, "Mediano", 
+                                                                          ifelse(clase=="Reptilia" & largo_cm<50,"Pequeño", 
+                                                                                 ifelse(clase=="Amphibia" & largo_cm>=20, "Grande", 
+                                                                                        ifelse(clase=="Amphibia" & largo_cm>=10,"Mediano","Pequeño"))))))))))))
+
+write.csv(registros_de_tetrapodosuy, "datos/registros_de_tetrapodos.uy.csv")
 

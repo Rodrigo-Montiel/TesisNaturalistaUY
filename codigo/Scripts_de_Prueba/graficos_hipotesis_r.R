@@ -1,6 +1,8 @@
 library(janitor)
 library(tidyverse)
 library(ggplot2)
+library(tmap)
+library(sf)
 
 registros_de_tetrapodosuy <- read_csv('datos/registros_de_tetrapodosuy.csv')
 
@@ -102,4 +104,8 @@ ggplot(registros_de_tetrapodosuy) +
          y='Observer ranking') +
     theme_bw()
 
-
+  
+##ANALISIS ESTADISTICOS
+  
+#Regresion
+lm(ranking~largo_cm, data = registros_de_tetrapodosuy) %>% summary()

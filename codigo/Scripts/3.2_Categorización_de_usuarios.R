@@ -14,18 +14,7 @@ NatUY <- read_rds('datos/natuysf.rds')
 
 
 
-#ANALISIS DE USUARIOS ---------------------------------------------------
-
-## Cantidad de usuarios
-
-Usuarios <- NatUY %>% st_drop_geometry() %>% 
-  group_by(user_id) %>% 
-  count() %>% arrange(desc(n))
-
-Cantidad_Usuarios <- nrow(Usuarios)
-
-
-## Categorias de usuarios
+#CATEGORIZACIÓN DE USUARIOS ---------------------------------------------------
 
 usuarios_login <- NatUY %>% st_drop_geometry() %>% 
   select(user_id, user_login) %>% group_by(user_id) %>% distinct()
@@ -105,7 +94,8 @@ usuarios_dataset %>% group_by(categoria_usuario) %>% count()
  
 
 NatUY_users <- left_join(as_tibble(usuarios_dataset), 
-                            observers_num_observations %>% mutate(user_name=ifelse(user_name=='', NA, user_name))) %>% 
+                            observers_num_observations %>% 
+                           mutate(user_name=ifelse(user_name=='', NA, user_name))) %>% 
   mutate(primer_registro=lubridate::as_datetime(primer_registro),
          ultimo_registro=lubridate::as_datetime(ultimo_registro),
          user_created_at=lubridate::as_datetime(user_created_at))
