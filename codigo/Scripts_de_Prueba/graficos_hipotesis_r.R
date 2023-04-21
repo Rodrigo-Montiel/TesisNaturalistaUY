@@ -4,12 +4,13 @@ library(ggplot2)
 library(tmap)
 library(sf)
 
-registros_de_tetrapodosuy <- read_csv('datos/registros_de_tetrapodosuy.csv')
+registros_de_tetrapodosuy <- read_csv('datos/registros_de_tetrapodos.uy.csv')
 
 
 registros_de_tetrapodosuy %>% group_by(usuario)
 
---------------------------------------------------------------------------------
+# GRAFICOS PARA LA VISUALIZACION DE DATOS---------------------------------------
+
 # CLASES QUE REGISTRA CADA NIVEL DE USUARIO
 ggplot(registros_de_tetrapodosuy) + 
   geom_bar(aes(x= clase)) + 
@@ -27,7 +28,6 @@ ggplot(registros_de_tetrapodosuy) +
     theme_grey()
   
   
-
 # RANKING VS LARGO_CM
 ggplot(registros_de_tetrapodosuy, aes(x=ranking, y=largo_cm, color = nivel)) +
   geom_point() + facet_wrap(~clase, scales = "free") + xlim(0,200) +
@@ -70,7 +70,6 @@ registros_de_tetrapodosuy %>% filter(clase=="Reptilia") %>%
   facet_wrap(~nivel, scales = "free") + labs(x="Tamaño (cm)")
 
 
-
 # RANKING VS DISTRIBUCIÓN
 ggplot(registros_de_tetrapodosuy) +
   geom_point(aes(y= distribucion, x=ranking, col = nivel)) +
@@ -104,8 +103,22 @@ ggplot(registros_de_tetrapodosuy) +
          y='Observer ranking') +
     theme_bw()
 
+ 
+# TABLAS DE HIPOTESIS ----------------------------------------------------------
+
+## Experticia vs tamaño
+Exp_tam <- aggregate(tamaño ~ nivel, 
+                    data = registros_de_tetrapodosuy, FUN = table)
   
-##ANALISIS ESTADISTICOS
+## Experticia vs distribución
+Exp_dist <- aggregate(distribucion_2 ~ nivel, 
+                      data = registros_de_tetrapodosuy, FUN = table)
+
+
+## Experticia vs estado de conservacion
+Exp_stat <- aggregate(factor(status_global) ~ nivel, 
+                      data = registros_de_tetrapodosuy, FUN = table)
+
+
+
   
-#Regresion
-lm(ranking~largo_cm, data = registros_de_tetrapodosuy) %>% summary()
