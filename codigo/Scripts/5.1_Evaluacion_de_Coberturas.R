@@ -15,6 +15,12 @@ UY <- st_union(Uruguay) %>% st_cast()
 
 # PROCESAMIENTO PREVIO DE DATOS-------------------------------------------------
 
+## Convertir NatUY a sf (Esta tambien en el script 2.0)
+NatUY_sf <- NatUY %>% 
+  st_as_sf(coords = c("longitude", "latitude")) %>% 
+  st_set_crs(4326) %>% 
+  st_transform(32721)
+
 ## Filtrado de NatUY - Listado_especies: GI + Nivel Especie
 listado_especies <- NatUY_sf %>% 
   select(observed_on,quality_grade, place_admin1_name, 
