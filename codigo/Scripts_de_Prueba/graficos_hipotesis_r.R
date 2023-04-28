@@ -106,10 +106,23 @@ ggplot(registros_de_tetrapodosuy) +
  
 # TABLAS DE HIPOTESIS ----------------------------------------------------------
 
+## TETRÁPODOS  
+  
 ## Experticia vs tamaño
 Exp_tam <- aggregate(tamaño ~ nivel, 
                     data = registros_de_tetrapodosuy, FUN = table)
+
+### Chi-cuadrado
+observed_exp_tam <- matrix(c(619, 1499, 1336, 1361, 3333, 2868, 435, 802, 714), 
+                         nrow = 3, ncol = 3, byrow = T)
+rownames(observed_exp_tam) <- c('experimentado', 'intermedio', "principiante")
+colnames(observed_exp_tam) <- c('Grande', 'Mediano', 'chico')
+observed_exp_tam
   
+chisq.test(observed_exp_tam)
+
+  
+
 ## Experticia vs distribución
 Exp_dist <- aggregate(distribucion_2 ~ nivel, 
                       data = registros_de_tetrapodosuy, FUN = table)
@@ -119,6 +132,12 @@ Exp_dist <- aggregate(distribucion_2 ~ nivel,
 Exp_stat <- aggregate(factor(status_global) ~ nivel, 
                       data = registros_de_tetrapodosuy, FUN = table)
 
+
+observed_tam <- matrix(c(619, 1499, 1336, 1361, 3333, 2868, 435, 802, 714), 
+                       nrow = 3, ncol = 3, byrow = T)
+rownames(observed_tam) <- c('experimentado', 'intermedio', "principiante")
+colnames(observed_tam) <- c('Grande', 'Mediano', 'chico')
+observed_tam
 
 
   
