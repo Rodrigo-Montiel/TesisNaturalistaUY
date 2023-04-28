@@ -38,3 +38,14 @@ observed_exp_tam
 chisq.test(observed_exp_tam)
 chisq.test(observed_tam)$expected
 
+### probando con una sola categoria (experimentados)
+
+observed_expertos <- matrix(c(619, 1499, 1336),
+                            nrow = 1, ncol = 3, byrow = T)
+rownames(observed_expertos) <- c('experimentado')
+colnames(observed_expertos) <- c('Grande', 'Mediano', 'chico')
+observed_expertos
+
+chisq.test(observed_expertos)
+chisq.test(observed_expertos)$expected
+
