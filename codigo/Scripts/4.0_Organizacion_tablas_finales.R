@@ -9,14 +9,14 @@ library(stringr)
 library(lubridate)
 
 NatUY <- read.csv("datos/Observaciones_27-10-22.csv")
-tetrapodos_final <- read.csv("datos/tetrapodos_final.csv")
+tetrapodos <- read.csv("datos/tetrapodos_final.csv")
 plantas <- read.csv("datos/plants_conservation_status.csv")
 observadoresUY <- read.csv("datos/usuarios_uy.csv")
 observadoresEX <- read.csv("datos/usuarios_ex.csv")
 
 # TABLAS------------------------------------------------------------------------
 
-tabla_especies <- tetrapodos_final %>% mutate(Size..cm.=str_replace
+tabla_tetrapodos <- tetrapodos %>% mutate(Size..cm.=str_replace
                                           (Size..cm., ',', '.')) %>% 
   select(especie=taxon_species_name, clase=taxon_class_name,
          familia=taxon_family_name, distribucion=Distribution,
@@ -31,7 +31,7 @@ tabla_plantas <- plantas %>%
          Habito1, Habito2, status_global=IUCNglobal) %>% as_tibble()
 
 
-tabla_registros <- NatUY %>% filter(quality_grade == "research" & 
+tabla_registros_tetrapodos <- NatUY %>% filter(quality_grade == "research" & 
                                       !is.na(taxon_species_name) & 
                                       taxon_species_name!="") %>% 
   filter(taxon_class_name == "Aves" | taxon_class_name == "Amphibia" |
@@ -60,26 +60,29 @@ tabla_usuariosex <- observadoresEX %>% arrange(desc(registros)) %>%
                                      nivel=categoria_usuario,ranking)
 
 
-#UNIENDO TABLAS-----------------------------------------------------------------
+# UNIENDO TABLAS----------------------------------------------------------------
 
 ## TETRÁPODOS
-## Registros + especies
+### Registros + especies
 
-registros_especies <- left_join(tabla_registros,tabla_especies)
+registros_especies_tetrapodos <- left_join(tabla_registros_tetrapodos,
+                                           tabla_tetrapodos)
 
-## Registros + especies + usuarios
+### Registros + especies + usuarios
 
-registros_de_tetrapodosuy <- left_join(registros_especies, tabla_usuariosuy) %>% 
-  na.omit()
+registros_de_tetrapodosuy <- left_join(registros_especies_tetrapodos, 
+                                       tabla_usuariosuy) %>% na.omit()
 
-registros_de_tetrapodosex <- left_join(registros_especies, tabla_usuariosex) %>%
-  na.omit() %>% mutate(nivel= ifelse(nivel=="", "visitante", "visitante"))
+registros_de_tetrapodosex <- left_join(registros_especies_tetrapodos, 
+                                       tabla_usuariosex) %>% na.omit() %>% 
+  mutate(nivel= ifelse(nivel=="", "visitante", "visitante"))
 
 write.csv(registros_de_tetrapodosuy, "datos/registros_de_tetrapodosuy.csv")
 write.csv(registros_de_tetrapodosex, "datos/registros_de_tetrapodosex.csv")
 
+
 ## PLANTAS
-## Registros + especies
+### Registros + especies
 
 registros_plantas <- left_join(tabla_registros_plantas,tabla_plantas)
 
