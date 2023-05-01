@@ -10,7 +10,7 @@ library(lubridate)
 NatUY <- read_rds('datos/natuysf.rds')
 
 
-# CONTRIBUCIONES NATURALISTAUY--------------------------------------------------
+# CONTRIBUCIONES NATURALISTAUY-------------------------------------------------
 
 ## Cantidad de registros
 Registros <- nrow(NatUY)

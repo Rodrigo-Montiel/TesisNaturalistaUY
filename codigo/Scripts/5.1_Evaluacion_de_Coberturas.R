@@ -47,14 +47,14 @@ NatUY_grilla <- st_join(Grilla_UY, listado_especies) %>%
 
 ## Cobertura de Cantidad de Registros
 plot_Abundancia <- ggplot() +
-  geom_sf(data=NatUY_grilla, aes(fill=(Abundancia))) +
+  geom_sf(data=NatUY_grilla, aes(fill=log(Abundancia)),show.legend = F) +
   ggtitle("N°de Registros en el pais") +
   scale_fill_fermenter(palette ='YlGnBu', direction = 1) + 
   theme_bw()
 
 ## Cobertura de cantidad de especies distintas registradas
 plot_Riqueza <- ggplot() +
-  geom_sf(data=NatUY_grilla, aes(fill=log(Riqueza))) + 
+  geom_sf(data=NatUY_grilla, aes(fill=log(Riqueza)),show.legend = F) + 
   ggtitle("Riqueza de especies registradas") + 
   scale_fill_fermenter(palette ='YlOrBr', direction = 1) + 
   theme_bw()
@@ -122,6 +122,21 @@ Temporal_A <- listado_especies %>% st_drop_geometry() %>%
   labs(title = 'Cobertura temporal de los Artropodos', 
        x='Años', y='Registros', color = 'Clases')
 
+### Registro temporal de Tracheophytas
+Temporal_T <- listado_especies %>% st_drop_geometry() %>%
+  filter(year(observed_on)>=2010) %>% 
+  filter(!is.na(taxon_phylum_name)) %>% 
+  filter(taxon_phylum_name=='Tracheophyta') %>% 
+  group_by(year(observed_on), taxon_class_name) %>% count() %>%
+  ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_class_name,)) +
+  geom_line(show.legend = TRUE) +
+  theme_bw() +
+  theme(strip.text.y = element_text(size=10, angle=0)) +
+  labs(title = 'Cobertura temporal de las Traqueofitas', 
+       x='Años', y='Registros', color = 'Clases')
+
+Temporal_C + Temporal_A + Temporal_T
+
 
 # ANALISIS COBERTURA TAXONÓMICA-------------------------------------------------
 
@@ -173,7 +188,7 @@ Taxon_Plantae <- listado_especies %>%
   scale_fill_brewer(palette="PuBu")
 
 ### Tracheophytas
-Taxon_Arthropoda <- listado_especies %>% 
+Taxon_Tracheophyta <- listado_especies %>% 
   filter(taxon_phylum_name=="Tracheophyta") %>% 
   group_by(taxon_phylum_name,taxon_class_name) %>% 
   count() %>% 
@@ -223,5 +238,5 @@ Taxon_Clases <- listado_especies %>%
   ggplot(.,aes(x=n, y=fct_reorder(taxon_class_name,n), 
                fill=taxon_kingdom_name)) +
   geom_bar(stat = "identity", show.legend = T) +
-  labs(x='N° de especies', y= '', fill = 'Filo') + theme_bw() +
+  labs(x='N° de especies', y= '', fill = 'Reino') + theme_bw() +
   scale_x_continuous()
