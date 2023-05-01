@@ -114,11 +114,13 @@ registros_de_tetrapodosex <- registros_de_tetrapodosex %>%
 ### Distribución Plantas
 registros_de_plantasuy <- registros_de_plantasuy %>% 
   mutate(distribucion_2 = ifelse(distribucion>=17,"Alta",
-                                 ifelse(distribucion>=6,"Media","Baja")))
+                                 ifelse(distribucion>=6,"Media",
+                                        ifelse(distribucion>=1,"Baja","NE"))))
 
 registros_de_plantasex <- registros_de_plantasex %>% 
   mutate(distribucion_2 = ifelse(distribucion>=17,"Alta",
-                                 ifelse(distribucion>=6,"Media","Baja")))
+                                 ifelse(distribucion>=6,"Media",
+                                        ifelse(distribucion>=1,"Baja","NE"))))
 
 ### Tamaño Tetrapodos
 registros_de_tetrapodosuy <- 
