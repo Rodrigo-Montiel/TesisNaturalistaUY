@@ -5,11 +5,12 @@ library(tmap)
 library(sf)
 
 registros_de_tetrapodosuy <- read_csv('datos/registros_de_tetrapodos.uy.csv')
+registros_de_plantasuy <- read_csv("datos/registros_de_plantasuy.csv")
 
 
 registros_de_tetrapodosuy %>% group_by(usuario)
 
-# GRAFICOS PARA LA VISUALIZACION DE DATOS---------------------------------------
+# GRAFICOS PARA LA VISUALIZACION DE DATOS DE TETRAPODOS-------------------------
 
 # CLASES QUE REGISTRA CADA NIVEL DE USUARIO
 ggplot(registros_de_tetrapodosuy) + 
@@ -40,6 +41,13 @@ registros_de_tetrapodosuy %>%
   geom_bar(aes(x= largo_cm, y=n), width = 50, stat = "identity") + 
   facet_wrap(~nivel, scales = "free") + 
   labs(y="N° de observaciones", x="largo(cm)") +
+  theme_grey()
+
+## Usando el tamaño categorico
+ggplot(registros_de_tetrapodosuy) + 
+  geom_bar(aes(x= tamaño)) + 
+  facet_wrap(~nivel) + 
+  labs(y="N° de observaciones", x="") +
   theme_grey()
 
 ###tamaño de las aves
@@ -85,13 +93,13 @@ ggplot(registros_de_tetrapodosuy) +
     facet_wrap(~nivel) + 
     scale_y_continuous(breaks = seq(1, 19, by = 1)) +
     theme_bw()
-  
-   ###Boxplot
-  ggplot(registros_de_tetrapodosuy) +
-    geom_boxplot(aes(y= distribucion, x=ranking ), show.legend = F) + 
-    labs(y="distribucion", x= 'ranking') + 
-    facet_wrap(~nivel) + theme_bw()
 
+## Usando la distribucion categorica
+  ggplot(registros_de_tetrapodosuy) + 
+    geom_bar(aes(x= distribucion_2)) + 
+    facet_wrap(~nivel, scales = "free") + 
+    labs(y="N° de observaciones", x="") +
+    theme_grey()
 
 #ESTATUS GLOBAL Y REGIONAL
   
@@ -102,3 +110,41 @@ ggplot(registros_de_tetrapodosuy) +
     labs(x='National IUCN Conservation Status',
          y='Observer ranking') +
     theme_bw()
+  
+# GRAFICOS PARA LA VISUALIZACION DE DATOS DE PLANTAS----------------------------
+
+# FAMILIA QUE REGISTRA CADA NIVEL DE USUARIO
+  ggplot(registros_de_plantasuy) + 
+    geom_bar(aes(x= familia)) + 
+    facet_wrap(~nivel, scales = "free") + 
+    labs(y="N° de observaciones", x="") +
+    theme_grey()
+  
+# EXPERTICIA VS DISTRIBUCIÓN
+ggplot(registros_de_plantasuy) + 
+  geom_bar(aes(x= distribucion_2)) + 
+  facet_wrap(~nivel) + 
+  labs(y="N° de observaciones", x="") +
+  theme_grey()
+
+# EXPERTICIA Y ESTADO DE CONSERVACIÓN
+ggplot(registros_de_plantasuy %>% filter(!is.na(status_global))) + 
+  geom_bar(aes(x=fct_relevel
+               (status_global,'LC','NT','VU', 'EN', 'CR','DD', "EW", 'NE',))) + 
+  facet_wrap(~nivel, scales = "free") +
+  labs(y='N° de observaciones') +
+  theme_bw()
+
+# HABITO 1
+ggplot(registros_de_plantasuy %>% filter(Habito1 != "NE")) + 
+  geom_bar(aes(y= Habito1)) + 
+  facet_wrap(~nivel) + 
+  labs(y="N° de observaciones", x="") +
+  theme_grey()
+
+#HABITO 2
+ggplot(registros_de_plantasuy %>% filter(Habito2 != "NE")) + 
+  geom_bar(aes(y= Habito2)) + 
+  facet_wrap(~nivel, scales = "free") + 
+  labs(y="N° de observaciones", x="") +
+  theme_grey()

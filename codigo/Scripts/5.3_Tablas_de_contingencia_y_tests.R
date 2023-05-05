@@ -13,15 +13,21 @@ exp_tam <- aggregate(nivel ~ tamaño,
                      data = registros_de_tetrapodosuy, FUN = table)
 
 ## Experticia vs distribución
-exp_dist <- aggregate(distribucion_2 ~ nivel, 
+exp_dist <- aggregate(nivel ~ distribucion_2, 
                       data = registros_de_tetrapodosuy, FUN = table)
 
 ## Experticia vs estado de conservacion
-exp_stat <- aggregate(factor(status_global) ~ nivel, 
+exp_stat <- aggregate(nivel ~ factor(status_global), 
                       data = registros_de_tetrapodosuy, FUN = table)
 
 ## PLANTAS
 
+##Experticia vs estado de conservacion
+exp_stat_p <- aggregate(nivel ~ factor(status_global), 
+                         data = registros_de_plantasuy, FUN = table)
+
+exp_hab1_p <- aggregate(nivel ~ Habito1,
+                        data = registros_de_plantasuy, FUN = table)
 
 # TEST CHI-CUADRADO-------------------------------------------------------------
 
@@ -29,45 +35,21 @@ exp_stat <- aggregate(factor(status_global) ~ nivel,
 
 ### Experticia vs tamaño
 
-##matrix(c(619, 1499, 1336, 1361, 3333, 2868, 435, 802, 714), 
-                       #nrow = 3, ncol = 3, byrow = T)
 exp_tam2 <- exp_tam[,-1]
 rownames(exp_tam2) <- exp_tam[,1]
 rownames(exp_tam2) <- c('Grande', 'Mediano', 'chico')
 exp_tam2
 
-chi_exp_tam2 <- chisq.test(exp_tam2)
-chi_exp_tam2$expected
+chi_exp_tam <- chisq.test(exp_tam2)
+chi_exp_tam
 
-### probando con una sola categoria 
-###(experimentados)
 
-observed_expertos <- matrix(c(619, 1499, 1336),
-                            nrow = 3, ncol = 1, byrow = T)
-colnames(observed_expertos) <- c('experimentado')
-rownames(observed_expertos) <- c('Grande', 'Mediano', 'chico')
-observed_expertos
+## PLANTAS
 
-chisq.test(observed_expertos)
-chisq.test(observed_expertos)$expected
-
-### probando con una sola categoria 
-###(intermedios)
-
-observed_intermedios <- matrix(c(1361, 3333, 2868),
-                            nrow = 1, ncol = 3, byrow = T)
-rownames(observed_intermedios) <- c('intermedio')
-colnames(observed_intermedios) <- c('Grande', 'Mediano', 'chico')
-observed_intermedios
-
-chisq.test(observed_intermedios)
-
-### probando con una sola categoria 
-###(principiantes)
-observed_principiantes <- matrix(c(435, 802, 714),
-                               nrow = 1, ncol = 3, byrow = T)
-rownames(observed_principiantes) <- c('intermedio')
-colnames(observed_principiantes) <- c('Grande', 'Mediano', 'chico')
-observed_principiantes
-
-chisq.test(observed_intermedios)
+### Experticia vs Habito1
+exp_hab1_p <- exp_hab1_p[,-1]
+rownames(exp_hab1_p) <- exp_hab1_p[,1]
+rownames(exp_hab1_p) <- c("Arbol", "Arbusto", "Enredadera", "Hierba", "Liana",
+                          "NE","Subarbusto")
+chi_exp_hab1_p <- chisq.test(exp_hab1_p)
+chi_exp_hab1_p
