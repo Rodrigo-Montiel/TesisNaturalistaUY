@@ -142,9 +142,19 @@ ggplot(registros_de_plantasuy %>% filter(Habito1 != "NE")) +
   labs(y="N° de observaciones", x="") +
   theme_grey()
 
+# HABITO 1 (barras agrupadas)
+registros_de_plantasuy %>% filter(Habito1 != "NE") %>% 
+         group_by(Habito1,nivel) %>% count() %>% 
+  ggplot(aes(x="", y=n, fill = Habito1)) +
+  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
+  facet_grid(~nivel) + 
+  labs(y="N° de observaciones", x="") +
+  theme_grey()
+
 #HABITO 2
 ggplot(registros_de_plantasuy %>% filter(Habito2 != "NE")) + 
   geom_bar(aes(y= Habito2)) + 
   facet_wrap(~nivel, scales = "free") + 
   labs(y="N° de observaciones", x="") +
   theme_grey()
+
