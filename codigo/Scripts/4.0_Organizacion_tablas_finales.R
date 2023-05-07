@@ -94,6 +94,10 @@ registros_de_plantasuy <- left_join(registros_plantas, tabla_usuariosuy) %>%
 registros_de_plantasex <- left_join(registros_plantas, tabla_usuariosex) %>%
   na.omit() %>% mutate(nivel= ifelse(nivel=="", "visitante", "visitante"))
 
+## Limpiando los espacion en blanco
+registros_de_plantasuy$Habito1 <- trimws(registros_de_plantasuy$Habito1)
+registros_de_plantasuy$Habito2 <- trimws(registros_de_plantasuy$Habito2)
+
 write.csv(registros_de_plantasuy, "datos/registros_de_plantasuy.csv")
 write.csv(registros_de_plantasex, "datos/registros_de_plantasex.csv")
 
@@ -153,14 +157,56 @@ registros_de_tetrapodosex <-
                                                                           ifelse(clase=="Amphibia" & largo_cm>=10, "Grande", 
                                                                                  ifelse(clase=="Amphibia" & largo_cm>=5,"Mediano","Pequeño"))))))))))))
 
+# FRECUENCIA DE ESPECIES--------------------------------------------------------
 
-## Reordenando las columnas
+## Queremos calcular la frecuencia con la que esta presente algunas
+## caracteristicas, asi podemos graficar estos valores
+
+## TETRAPODOS
+tetrapodos_frecuencia <- table(registros_de_tetrapodosuy$especie)
+tetrapodos_frecuencia <- data.frame(tetrapodos_frecuencia)  %>% 
+  select(especie=Var1, frequencia=Freq)
+
+### Unimos las tablas
+registros_de_tetrapodosuy <- 
+  left_join(registros_de_tetrapodosuy,tetrapodos_frecuencia)
+
+## PLANTAS
+plantas_frecuencia <- table(registros_de_plantasuy$especie)
+plantas_frecuencia <- data.frame(plantas_frecuencia)  %>% 
+  select(especie=Var1, frequencia=Freq)
+
+### Unimos las tablas
+registros_de_plantasuy <- 
+  left_join(registros_de_plantasuy, plantas_frecuencia)
+
+
+## Habitos en plantas
+habito1_frecuencia <- table(registros_de_plantasuy$Habito1)
+habito1_frecuencia <- data.frame(habito1_frecuencia)  %>% 
+  select(Habito1=Var1, Hab1_freq=Freq)
+
+registros_de_plantasuy <- 
+  left_join(registros_de_plantasuy, habito1_frecuencia)
+
+
+habito2_frecuencia <- table(registros_de_plantasuy$Habito2)
+habito2_frecuencia <- data.frame(habito2_frecuencia)  %>% 
+  select(Habito2=Var1, Hab2_freq=Freq)
+
+registros_de_plantasuy <- 
+  left_join(registros_de_plantasuy, habito2_frecuencia)
+
+
+
+# REORDENAMOS LAS COLUMNAS------------------------------------------------------
 
 ## TETRÁPODOS
 registros_de_tetrapodosuy <- registros_de_tetrapodosuy %>% 
   select(id,observado,usuario,nivel,ranking,latitude,longitude,
-         departamento = place_admin1_name,clase,familia,especie,distribucion,
-         distribucion_2,largo_cm,tamaño,status_regional,status_global)
+         departamento = place_admin1_name,clase,familia,especie,frequencia,
+         distribucion,distribucion_2,largo_cm,tamaño,
+         status_regional,status_global)
 
 registros_de_tetrapodosex <- registros_de_tetrapodosex %>% 
   select(id,observado,usuario,nivel,ranking,latitude,longitude,
@@ -170,8 +216,9 @@ registros_de_tetrapodosex <- registros_de_tetrapodosex %>%
 ## PLANTAS
 registros_de_plantasuy <- registros_de_plantasuy %>% 
   select(id,observado,usuario,nivel,ranking,latitude,longitude,
-         departamento = place_admin1_name,clase,familia,especie,distribucion,
-         distribucion_2,Habito1,Habito2,status_global)
+         departamento = place_admin1_name,clase,familia,especie,
+         frequencia,distribucion,distribucion_2,Habito1,Hab1_freq,
+         Habito2,Hab2_freq,status_global)
 
 registros_de_plantasex <- registros_de_plantasex %>% 
   select(id,observado,usuario,nivel,ranking,latitude,longitude,
@@ -179,7 +226,7 @@ registros_de_plantasex <- registros_de_plantasex %>%
          distribucion_2,Habito1,Habito2,status_global)
 
 
-
+# PARA GUARDAR------------------------------------------------------------------
 
 write.csv(registros_de_tetrapodosuy, "datos/registros_de_tetrapodosuy.csv")
 write.csv(registros_de_tetrapodosex, "datos/registros_de_tetrapodosex.csv")
