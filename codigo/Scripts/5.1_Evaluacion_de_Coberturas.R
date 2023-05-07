@@ -48,14 +48,14 @@ NatUY_grilla <- st_join(Grilla_UY, listado_especies) %>%
 ## Cobertura de Cantidad de Registros
 plot_Abundancia <- ggplot() +
   geom_sf(data=NatUY_grilla, aes(fill=log(Abundancia)),show.legend = F) +
-  ggtitle("N°de Registros en el pais") +
+  ggtitle("Acumulación de Registros") +
   scale_fill_fermenter(palette ='YlGnBu', direction = 1) + 
   theme_bw()
 
 ## Cobertura de cantidad de especies distintas registradas
 plot_Riqueza <- ggplot() +
   geom_sf(data=NatUY_grilla, aes(fill=log(Riqueza)),show.legend = F) + 
-  ggtitle("Riqueza de especies registradas") + 
+  ggtitle("Riqueza de registros") + 
   scale_fill_fermenter(palette ='YlOrBr', direction = 1) + 
   theme_bw()
 
