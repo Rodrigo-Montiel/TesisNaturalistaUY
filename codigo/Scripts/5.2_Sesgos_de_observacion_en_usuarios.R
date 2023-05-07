@@ -14,7 +14,7 @@ NatUY <- read_rds('datos/natuysf.rds')
 
 
 
-#CATEGORIZACIÓN DE USUARIOS ---------------------------------------------------
+# CATEGORIZACIÓN DE USUARIOS ---------------------------------------------------
 
 usuarios_login <- NatUY %>% st_drop_geometry() %>% 
   select(user_id, user_login) %>% group_by(user_id) %>% distinct()
@@ -126,5 +126,7 @@ usuarios_ex <- filter(usuarios_dataset, user_login %in% Extranjerxs$user_login)
 
 write.csv(usuarios_uy, "datos/usuarios_uy.csv")
 write.csv(usuarios_ex, "datos/usuarios_ex.csv")
+
+
 
 
