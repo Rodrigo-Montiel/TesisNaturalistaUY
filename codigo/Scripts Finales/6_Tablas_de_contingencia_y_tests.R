@@ -1,7 +1,10 @@
 # PAQUETES Y DATOS--------------------------------------------------------------
 library(tidyverse)
 
-registros_de_tetrapodosuy <- read_csv('datos/registros_de_tetrapodos.uy.csv')
+registros_de_tetrapodosuy <- 
+  read.csv('datos/Tablas finales/registros_de_tetrapodos.uy.csv')
+registros_de_plantasuy <- 
+  read.csv("datos/Tablas finales/registros_de_plantasuy")
 
 
 # CHI CUADRADO------------------------------------------------------------------
@@ -53,7 +56,7 @@ exp_stat_p <- exp_stat_p[,-1]
 rownames(exp_stat_p) <- exp_stat_p[,1]
 rownames(exp_stat_p) <- c('CR', 'DD', 'EN',"EW","LC","NE","NT","VU")
 
-chi_exp_stat <- chisq.test(exp_stat_P)
+chi_exp_stat_p <- chisq.test(exp_stat_P)
 
 
 ### Experticia vs habito
@@ -72,7 +75,41 @@ chi_exp_hab1_p
 
 ## TETRAPODOS
 
-m_distribucion <- 
+### Distribucion
+modelo_distribucionT <- 
   lm(ranking ~ distribucion, data = registros_de_tetrapodosuy)
 
-summary(Modelo_distribucion)
+summary(modelo_distribucionT)
+
+### Tamaño
+modelo_tamañoT <- 
+  lm(ranking ~ largo_cm, data = registros_de_tetrapodosuy)
+
+summary(modelo_tamañoT)
+
+### Estatus
+modelo_statusT <- 
+  lm(ranking ~ status_global, data = registros_de_tetrapodosuy)
+
+summary(modelo_statusT)
+
+
+## PLANTAS
+
+### Distribucion
+modelo_distribucionP <- 
+  lm(ranking ~ distribucion, data = registros_de_plantasuy)
+
+summary(modelo_distribucionP)
+
+### Estatus
+modelo_statusT <- 
+  lm(ranking ~ status_global, data = registros_de_plantasuy)
+
+summary(modelo_statusT)
+
+### Habito
+modelo_habitoT <- 
+  lm(ranking ~ Habito1, data = registros_de_plantasuy)
+
+summary(modelo_habitoT)
