@@ -1,14 +1,9 @@
 # PAQUETES Y DATOS--------------------------------------------------------------
-library(tmap)
+library(tidyverse)
 library(sf)
 sf::sf_use_s2(FALSE)
-library(tidyverse)
-library(patchwork)
-library(stringr)
-library(lubridate)
 
-NatUY <- read_rds('datos/natuysf.rds')
-
+NatUY <- read_csv('datos/Observaciones_27-10-22.csv')
 
 # CONTRIBUCIONES NATURALISTAUY-------------------------------------------------
 

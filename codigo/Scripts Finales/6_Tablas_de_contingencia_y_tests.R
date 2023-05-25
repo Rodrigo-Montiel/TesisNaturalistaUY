@@ -79,7 +79,7 @@ chi_exp_hab1_p
 modelo_distribucionT <- 
   lm(ranking ~ distribucion, data = registros_de_tetrapodosuy)
 
-summary(modelo_distribucionT)
+modelo_distribucionT <- summary(modelo_distribucionT)
 
 ### Tamaño
 modelo_tamañoT <- 

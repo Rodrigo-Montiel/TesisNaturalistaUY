@@ -158,3 +158,12 @@ ggplot(registros_de_plantasuy %>% filter(Habito2 != "NE")) +
   labs(y="N° de observaciones", x="") +
   theme_grey()
 
+
+### Para las frecuencias:
+## Queremos calcular la frecuencia con la que esta presente algunas
+## caracteristicas, asi podemos graficar estos valores
+
+## Especies de tetrapodos
+registros_de_tetrapodosuy <- registros_de_tetrapodosuy %>% group_by(especie) %>% 
+  mutate(frec_especie = n()/nrow(registros_de_tetrapodosuy)*100)
+

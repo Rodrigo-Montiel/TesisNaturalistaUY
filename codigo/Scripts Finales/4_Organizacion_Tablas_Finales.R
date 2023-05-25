@@ -1,11 +1,8 @@
 # PAQUETES Y DATOS--------------------------------------------------------------
-library(dplyr)
-library(tmap)
+library(tidyverse)
 library(sf)
 sf::sf_use_s2(FALSE)
-library(tidyverse)
 library(patchwork)
-library(stringr)
 library(lubridate)
 
 NatUY <- read.csv("datos/Observaciones_27-10-22.csv")
@@ -64,12 +61,10 @@ tabla_usuariosex <- observadoresEX %>% arrange(desc(registros)) %>%
 
 ## TETRÁPODOS
 ### Registros + especies
-
 registros_especies_tetrapodos <- left_join(tabla_registros_tetrapodos,
                                            tabla_tetrapodos)
 
 ### Registros + especies + usuarios
-
 registros_de_tetrapodosuy <- left_join(registros_especies_tetrapodos, 
                                        tabla_usuariosuy) %>% na.omit()
 
@@ -77,29 +72,23 @@ registros_de_tetrapodosex <- left_join(registros_especies_tetrapodos,
                                        tabla_usuariosex) %>% na.omit() %>% 
   mutate(nivel= ifelse(nivel=="", "visitante", "visitante"))
 
-write.csv(registros_de_tetrapodosuy, "datos/registros_de_tetrapodosuy.csv")
-write.csv(registros_de_tetrapodosex, "datos/registros_de_tetrapodosex.csv")
-
 
 ## PLANTAS
 ### Registros + especies
-
 registros_plantas <- left_join(tabla_registros_plantas,tabla_plantas)
 
 ## Registros + especies + usuarios
-
 registros_de_plantasuy <- left_join(registros_plantas, tabla_usuariosuy) %>% 
   na.omit()
 
 registros_de_plantasex <- left_join(registros_plantas, tabla_usuariosex) %>%
   na.omit() %>% mutate(nivel= ifelse(nivel=="", "visitante", "visitante"))
 
+
 ## Limpiando los espacion en blanco
 registros_de_plantasuy$Habito1 <- trimws(registros_de_plantasuy$Habito1)
 registros_de_plantasuy$Habito2 <- trimws(registros_de_plantasuy$Habito2)
 
-write.csv(registros_de_plantasuy, "datos/registros_de_plantasuy.csv")
-write.csv(registros_de_plantasex, "datos/registros_de_plantasex.csv")
 
 
 # CARACTERISTICAS ESPECIES-ESPECIFICAS------------------------------------------
@@ -116,10 +105,13 @@ registros_de_tetrapodosex <- registros_de_tetrapodosex %>%
                                  ifelse(distribucion>=6,"Media","Baja")))
 
 ### Distribución Plantas
+registros_de_plantasuy$distribucion <- 
+  as.numeric(registros_de_plantasuy$distribucion)
+
 registros_de_plantasuy <- registros_de_plantasuy %>% 
   mutate(distribucion_2 = ifelse(distribucion>=17,"Alta",
-                                 ifelse(distribucion>=6,"Media",
-                                        ifelse(distribucion>=1,"Baja","NE"))))
+                                 ifelse(distribucion>=6,"Media", 
+                                        ifelse(distribucion<=5,"Baja","NE"))))
 
 registros_de_plantasex <- registros_de_plantasex %>% 
   mutate(distribucion_2 = ifelse(distribucion>=17,"Alta",
@@ -157,33 +149,13 @@ registros_de_tetrapodosex <-
                                                                           ifelse(clase=="Amphibia" & largo_cm>=10, "Grande", 
                                                                                  ifelse(clase=="Amphibia" & largo_cm>=5,"Mediano","Pequeño"))))))))))))
 
-# FRECUENCIA DE ESPECIES--------------------------------------------------------
-
-## Queremos calcular la frecuencia con la que esta presente algunas
-## caracteristicas, asi podemos graficar estos valores
-
-## Especies de tetrapodos
-registros_de_tetrapodosuy <- registros_de_tetrapodosuy %>% group_by(especie) %>% 
-  mutate(frec_especie = n()/nrow(registros_de_tetrapodosuy)*100)
-
-## Especies de plantas
-registros_de_plantasuy <- registros_de_plantasuy %>% group_by(especie) %>% 
-  mutate(frec_especie = n()/nrow(registros_de_plantasuy)*100)
-
-
-## Habitos en plantas
-registros_de_plantasuy <- registros_de_plantasuy %>% group_by(Habito1) %>% 
-  mutate(frec_habito1 = n()/nrow(registros_de_plantasuy)*100)
-
-
-
 
 # REORDENAMOS LAS COLUMNAS------------------------------------------------------
 
 ## TETRÁPODOS
 registros_de_tetrapodosuy <- registros_de_tetrapodosuy %>% 
   select(id,observado,usuario,nivel,ranking,latitude,longitude,
-         departamento = place_admin1_name,clase,familia,especie,frec_especie,
+         departamento = place_admin1_name,clase,familia,especie,
          distribucion,distribucion_2,largo_cm,tamaño,
          status_regional,status_global)
 
@@ -196,7 +168,7 @@ registros_de_tetrapodosex <- registros_de_tetrapodosex %>%
 registros_de_plantasuy <- registros_de_plantasuy %>% 
   select(id,observado,usuario,nivel,ranking,latitude,longitude,
          departamento = place_admin1_name,clase,familia,especie,
-         frec_especie,distribucion,distribucion_2,Habito1,frec_habito1,
+         distribucion,distribucion_2,Habito1,
          Habito2,status_global)
 
 registros_de_plantasex <- registros_de_plantasex %>% 
