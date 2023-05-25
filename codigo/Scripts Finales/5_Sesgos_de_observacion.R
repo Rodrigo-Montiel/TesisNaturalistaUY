@@ -33,7 +33,8 @@ clase.expertos <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity", show.legend = F) + 
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Expertos", x="", y="Porcentaje de registros (%)") +
-  scale_fill_manual(values = c("#990000","#EF6548","#FDBB84","#FDD49E"))
+  scale_fill_manual(values = c("#990000","#EF6548","#FDBB84","#FDD49E")) +
+  theme_bw()
 
 clase.intermedios <- registros_de_tetrapodosuy %>% 
   filter(nivel=="intermedio") %>% 
@@ -42,7 +43,8 @@ clase.intermedios <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity", show.legend = F) + 
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Intermedios", x="Clases", y="") +
-  scale_fill_manual(values = c("#990000","#EF6548","#FDBB84","#FDD49E"))
+  scale_fill_manual(values = c("#990000","#EF6548","#FDBB84","#FDD49E")) +
+  theme_bw()
 
 clase.principiantes <- registros_de_tetrapodosuy %>% 
   filter(nivel=="principiante") %>% 
@@ -51,7 +53,8 @@ clase.principiantes <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity", show.legend = F) + 
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Principiantes", x="", y="") +
-  scale_fill_manual(values = c("#990000","#EF6548","#FDBB84","#FDD49E"))
+  scale_fill_manual(values = c("#990000","#EF6548","#FDBB84","#FDD49E")) +
+  theme_bw()
 
 clase.expertos + clase.intermedios + clase.principiantes
 
@@ -64,7 +67,7 @@ tamaño.expertos <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity") + 
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Expertos", x="", y="Porcentaje de registros (%)") +
-  theme_grey()
+  theme_bw()
 
 tamaño.intermedios <- registros_de_tetrapodosuy %>% 
   filter(nivel=="intermedio") %>% 
@@ -73,7 +76,7 @@ tamaño.intermedios <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity") + 
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Intermedios", x="Tamaño", y="") +
-  theme_grey()
+  theme_bw()
 
 tamaño.principiantes <- registros_de_tetrapodosuy %>% 
   filter(nivel=="principiante") %>% 
@@ -82,7 +85,7 @@ tamaño.principiantes <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity") + 
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Principiantes", x="", y="") +
-  theme_grey()
+  theme_bw()
 
 tamaño.expertos + tamaño.intermedios + tamaño.principiantes
 
@@ -95,7 +98,7 @@ dist.expertos <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity") +
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Expertos", x="", y="Porcentaje de registros (%)") +
-  theme_grey()
+  theme_bw()
 
 dist.intermedios <- registros_de_tetrapodosuy %>% 
   filter(nivel=="intermedio") %>% 
@@ -104,7 +107,7 @@ dist.intermedios <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity") + 
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Intermedios", x="N° de Departamentos", y="") +
-  theme_grey()
+  theme_bw()
 
 dist.principiantes <- registros_de_tetrapodosuy %>% 
   filter(nivel=="principiante") %>% 
@@ -113,7 +116,7 @@ dist.principiantes <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity") + 
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Principiantes", x="", y="") +
-  theme_grey()
+  theme_bw()
 
 dist.expertos + dist.intermedios + dist.principiantes
 
@@ -126,7 +129,7 @@ ect.expertos <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity") +
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Expertos", x="", y="Porcentaje de registros (%)") +
-  theme_grey()
+  theme_bw()
 
 ect.intermedios <- registros_de_tetrapodosuy %>% 
   filter(nivel=="intermedio") %>% 
@@ -135,7 +138,7 @@ ect.intermedios <- registros_de_tetrapodosuy %>%
   geom_bar(width = 0.5, stat = "identity") +
   scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, by = 20)) +
   labs(title = "Intermedios", x="Estado de Conservación", y="") +
-  theme_grey()
+  theme_bw()
 
 ect.principiantes <- registros_de_tetrapodosuy %>% 
   filter(nivel=="principiante") %>% 
