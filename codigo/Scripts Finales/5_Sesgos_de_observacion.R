@@ -59,6 +59,7 @@ clase.principiantes <- registros_de_tetrapodosuy %>%
 clase.expertos + clase.intermedios + clase.principiantes
 
 
+
 ## TAMAÑOS QUE REGISTRA CADA NIVEL DE USUARIO
 tamaño.expertos <- registros_de_tetrapodosuy %>% 
   filter(nivel=="experimentado") %>% 
