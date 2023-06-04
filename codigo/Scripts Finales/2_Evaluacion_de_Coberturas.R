@@ -48,22 +48,27 @@ NatUY_grilla <- st_join(Grilla_UY, listado_especies) %>%
             especies=n_distinct(scientific_name)) %>% st_cast()
 
 
-## Cantidad de Registros (")
+## Cantidad de Registros
 plot_registros <- ggplot() +
-  geom_sf(data=NatUY_grilla, aes(fill=log(registros)),show.legend = F) +
+  geom_sf(data=NatUY_grilla, aes(fill=log10(registros)),show.legend = T) +
   ggtitle("Acumulación de Registros") +
   scale_fill_fermenter(palette ='YlGnBu', direction = 1) + 
   theme_bw()
 
 ## Cantidad de especies distintas registradas
-plot_Riqueza <- ggplot() +
-  geom_sf(data=NatUY_grilla, aes(fill=log(especies)),show.legend = T) + 
+plot_riqueza <- ggplot() +
+  geom_sf(data=NatUY_grilla, aes(fill=log10(especies)),show.legend = T) + 
   ggtitle("Riqueza de registros") + 
-  scale_fill_fermenter(palette ='YlGnBu', direction = 1) + 
+  scale_fill_fermenter(palette ='YlOrRd', direction = 1) + 
   theme_bw()
 
 
-plot_Abundancia + plot_Riqueza
+plot_registros + plot_riqueza
+
+## Cobertura por departamentos
+cobertura <- listado_especies %>% st_drop_geometry() %>% 
+  group_by(place_admin1_name) %>% 
+  summarise(registros=n(),especies=n_distinct(scientific_name))
 
 
 # ANALISIS COBERTURA TEMPORAL---------------------------------------------------
@@ -75,12 +80,10 @@ Temporal_line <- listado_especies %>% st_drop_geometry() %>%
            taxon_kingdom_name=='Fungi') %>% 
   group_by(year(observed_on), taxon_kingdom_name) %>% count() %>% 
   ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_kingdom_name,), 
-         group = taxon_kingdom_name) + 
-  geom_line(show.legend = TRUE) +
-  theme_bw() +
-  theme(strip.text.y = element_text(size=10, angle=0)) +
-  labs(title = 'Cobertura temporal de los principales Reinos', 
-       x='Años', y='Registros', color = '')
+         group = taxon_kingdom_name,) + 
+  geom_line(size=1, show.legend = TRUE) + geom_point() +
+  labs(x='Años', y='Registros', color = 'Reino') +
+  theme_bw()
 
 ### Registro temporal de Animalia
 Temporal_A <- listado_especies %>% st_drop_geometry() %>%
@@ -89,7 +92,7 @@ Temporal_A <- listado_especies %>% st_drop_geometry() %>%
   filter(taxon_kingdom_name=='Animalia') %>% 
   group_by(year(observed_on), taxon_phylum_name) %>% count() %>%
   ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,)) +
-  geom_line(show.legend = TRUE) + 
+  geom_line(size=1,show.legend = TRUE) + geom_point() +
   theme_bw() +
   theme(strip.text.y = element_text(size=10, angle=0)) +
   labs(title = 'Animalia', 
@@ -102,7 +105,7 @@ Temporal_P <- listado_especies %>% st_drop_geometry() %>%
   filter(taxon_kingdom_name=='Plantae') %>% 
   group_by(year(observed_on), taxon_phylum_name) %>% count() %>%
   ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,)) +
-  geom_line(show.legend = TRUE) +
+  geom_line(size=1,show.legend = TRUE) + geom_point() +
   theme_bw() +
   theme(strip.text.y = element_text(size=10, angle=0)) +
   labs(title = 'Plantae', 
@@ -115,7 +118,7 @@ Temporal_F <- listado_especies %>% st_drop_geometry() %>%
   filter(taxon_kingdom_name=='Fungi') %>% 
   group_by(year(observed_on), taxon_phylum_name) %>% count() %>%
   ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,)) +
-  geom_line(show.legend = TRUE) + 
+  geom_line(size=1,show.legend = TRUE) + geom_point() + 
   theme_bw() +
   theme(strip.text.y = element_text(size=10, angle=0)) +
   labs(title = 'Fungi', 
