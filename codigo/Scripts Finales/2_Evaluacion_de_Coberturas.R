@@ -20,7 +20,7 @@ NatUY_sf <- NatUY %>%
   st_set_crs(4326) %>% 
   st_transform(32721)
 
-## Filtrado de datos: GI + Nivel Especie
+## Filtrado de registros: GI + Nivel Especie
 listado_especies <- NatUY_sf %>% 
   select(observed_on,quality_grade, place_admin1_name, 
          taxon_species_name,taxon_kingdom_name, taxon_phylum_name, 
@@ -32,6 +32,7 @@ listado_especies <- NatUY_sf %>%
 
 saveRDS(NatUY_sf, "datos/natuysf.rds")
 saveRDS(listado_especies, "datos/listado_especies.rds")
+
 
 # ANALISIS COBERTURA ESPACIAL--------------------------------------------------
 
@@ -62,8 +63,8 @@ plot_riqueza <- ggplot() +
   scale_fill_fermenter(palette ='YlOrRd', direction = 1) + 
   theme_bw()
 
-
 plot_registros + plot_riqueza
+
 
 ## Cobertura por departamentos
 cobertura <- listado_especies %>% st_drop_geometry() %>% 
@@ -204,7 +205,7 @@ Taxon_Fungi <- listado_especies %>%
 Taxon_Animalia + Taxon_Plantae + Taxon_Fungi
 
 
-## Top 5 Filos mas registrados
+## 5 FILOS MAS REGISTRADOS
 Taxon_Filos <- listado_especies %>% 
   filter(taxon_kingdom_name=='Animalia' | 
            taxon_kingdom_name=='Fungi' | 
@@ -219,7 +220,7 @@ Taxon_Filos <- listado_especies %>%
   theme_bw() + scale_x_continuous()
 
 
-## Top 10 Clases mas registradas
+## 10 CLASES MAS REGISTRADAS
 Taxon_Clases <- listado_especies %>%  
   filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | 
            taxon_kingdom_name=='Plantae') %>% 
