@@ -79,13 +79,13 @@ chi_exp_hab1_p
 mod_distribucionT <- 
   lm(ranking ~ distribucion, data = registros_de_tetrapodosuy)
 
-mod_distribucionT <- summary(mod_distribucionT)
+summary(mod_distribucionT)
 
 ### Tamaño
 mod_tamañoT <- 
   lm(ranking ~ largo_cm, data = registros_de_tetrapodosuy)
 
-mod_tamañoT <- summary(mod_tamañoT)
+summary(mod_tamañoT)
 
 ### Estatus
 mod_statusT <- 
@@ -117,9 +117,10 @@ summary(modelo_habitoT)
 
 # TABLAS -----------------------------------------------------------------------
 
-resul <- data.frame(modelo= c("modelo_distribucionT", "modelo_tamañoT"),
-                    r2= c(modelo_distribucionT$r.squared,modelo_tamañoT$r.squared),
-                    p.value= c(modelo_distribucionT$coefficients, modelo_tamañoT$coefficients))
+tabla_modelosT <- 
+  data.frame(modelo = c("modelo_distribucion","modelo_tamaño"),
+             r2= c(summary(mod_distribucionT)$r.squared, summary(mod_tamañoT)$r.squared),
+             p.value= c(summary(mod_distribucionT)$coefficients, summary(mod_tamañoT)$coefficients))
 
 
 

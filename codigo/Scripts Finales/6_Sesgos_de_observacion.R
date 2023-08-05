@@ -47,6 +47,8 @@ tamañoT <- registros_de_tetrapodosuy %>%
 
 ## ESTADO DE CONSERVACIÓN
 estadoT <- registros_de_tetrapodosuy %>% 
+  mutate(status_global=factor
+         (status_global,levels= c("LC","NT","VU","EN","CR","DD","NE"))) %>% 
   group_by(nivel,status_global) %>% count() %>% 
   ggplot(aes(x="", y=n, fill=status_global)) +
   geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
@@ -93,6 +95,8 @@ tamañoT <- registros_de_plantasuy %>% filter(Habito1 != "NE") %>%
 
 ## ESTADO DE CONSERVACIÓN
 estadoT <- registros_de_plantasuy %>% filter(status_global != "EW") %>% 
+  mutate(status_global=factor
+         (status_global,levels=c("LC","NT","VU","EN","CR","DD","NE"))) %>%
   group_by(nivel,status_global) %>% count() %>% 
   ggplot(aes(x="", y=n, fill=status_global)) +
   geom_bar(width = 0.5, stat = "identity", show.legend = T) + 

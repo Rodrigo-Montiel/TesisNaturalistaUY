@@ -19,6 +19,7 @@ Tetrapodos <- listado_especies %>%
 
 write.csv(Tetrapodos,"datos/Lista_Tetrapodos.csv")
 
+
 Plantas <- listado_especies %>% 
   filter(taxon_family_name == "Fabaceae" | taxon_family_name == "Cactaceae" | 
            taxon_family_name == "Asteraceae"|taxon_family_name == "Solanaceae")
