@@ -5,7 +5,7 @@ sf::sf_use_s2(FALSE)
 library(patchwork)
 library(lubridate)
 
-NatUY <- read.csv("datos/Observaciones_27-10-22.csv")
+NatUY <- read.csv("datos/NatUY.csv")
 tetrapodos <- read.csv("datos/tetrapodos_final.csv")
 plantas <- read.csv("datos/plants_conservation_status.csv")
 observadoresUY <- read.csv("datos/usuarios_uy.csv")
