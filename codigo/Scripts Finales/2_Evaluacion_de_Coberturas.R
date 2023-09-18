@@ -22,7 +22,7 @@ NatUY_sf <- NatUY %>%
   st_transform(32721)
 
 ## Filtrado de registros: GI + Nivel Especie
-listado_especies <- NatUY_sf %>% 
+listado_especies <- NatUY %>% 
   select(observed_on,quality_grade, place_admin1_name, 
          taxon_species_name,taxon_kingdom_name, taxon_phylum_name, 
          taxon_class_name,taxon_order_name, taxon_family_name, 
@@ -166,3 +166,18 @@ Taxon_Clases <- listado_especies %>%
   labs(title="Clases mas registradas", 
        x='Registros', y= '', fill = 'Reino') + theme_bw() +
   scale_x_continuous()
+
+
+# TABLA DE REINOS
+
+Tabla_reinos <- NatUY %>% st_drop_geometry() %>%  
+  filter(taxon_kingdom_name=='Animalia' | 
+           taxon_kingdom_name=='Fungi' | 
+           taxon_kingdom_name=='Plantae') %>% 
+  group_by(taxon_kingdom_name) %>% 
+  summarise("Número de observaciones"= n(),
+            "% Observaciones GI"= sum(quality_grade == "research" & !is.na(taxon_species_name) & 
+                                        taxon_species_name!="")/ n()*100, 
+            "% Observaciones necesitan ID"=  sum(quality_grade =="needs_id")/
+              n()*100,
+            "Número de especies" = length(unique(scientific_name)))
