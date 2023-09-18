@@ -5,6 +5,7 @@ sf::sf_use_s2(FALSE)
 library(ggplot2)
 library(patchwork)
 library(lubridate)
+library(geouy)
 
 
 NatUY <- read_csv('datos/NatUY.csv')
@@ -75,139 +76,67 @@ cobertura_dep <- listado_especies %>% st_drop_geometry() %>%
 
 # ANALISIS COBERTURA TEMPORAL---------------------------------------------------
 
-Temporal_line <- listado_especies %>% st_drop_geometry() %>%
+Temporal_Reinos <- listado_especies %>% st_drop_geometry() %>%
   filter(year(observed_on)>=2010) %>% 
   filter(!is.na(taxon_phylum_name)) %>% 
   filter(taxon_kingdom_name=='Plantae' | taxon_kingdom_name=='Animalia' | 
            taxon_kingdom_name=='Fungi') %>% 
   group_by(year(observed_on), taxon_kingdom_name, taxon_phylum_name) %>% 
   count() %>% 
-  ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,), 
-         group = taxon_kingdom_name,) + 
+  ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name), 
+         group = taxon_kingdom_name) + 
   facet_wrap(taxon_kingdom_name~.,scales = "free",drop=TRUE, 
              ncol = 1, nrow = 3) +
-  geom_line(size=1, show.legend = TRUE) + geom_point() +
-  labs(x='Años', y='Registros', color = 'Reino') +
+  geom_line(size=1, show.legend = FALSE) + geom_point() +
+  labs(x='Años', y='Registros', color = "Filos") +
   theme_bw()
 
-### Registro temporal de Animalia
+### Registro temporal de Animalia por clases
 Temporal_A <- listado_especies %>% st_drop_geometry() %>%
   filter(year(observed_on)>=2010) %>% 
   filter(!is.na(taxon_phylum_name)) %>% 
   filter(taxon_kingdom_name=='Animalia') %>% 
-  group_by(year(observed_on), taxon_phylum_name) %>% count() %>%
-  ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,)) +
-  geom_line(size=1,show.legend = TRUE) + geom_point() +
-  theme_bw() +
-  theme(strip.text.y = element_text(size=10, angle=0)) +
-  labs(title = 'Animalia', 
-       x='', y='Registros', color = 'Filos')
+  group_by(year(observed_on), taxon_kingdom_name, taxon_phylum_name,
+           taxon_class_name) %>% count() %>%
+  ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,)) + 
+  geom_line(size=1, show.legend = TRUE) + geom_point() +
+  scale_x_continuous(breaks= scales::pretty_breaks()) +
+  facet_wrap(taxon_class_name~.,scales = "free",drop=TRUE, nrow = 3) +
+  labs(x='Años', y='Registros', color = 'filo') +
+  theme_bw()
 
-### Registro temporal del Reino Plantae
+### Registro temporal del Reino Plantae por clases
 Temporal_P <- listado_especies %>% st_drop_geometry() %>%
   filter(year(observed_on)>=2010) %>% 
   filter(!is.na(taxon_phylum_name)) %>% 
   filter(taxon_kingdom_name=='Plantae') %>% 
-  group_by(year(observed_on), taxon_phylum_name) %>% count() %>%
-  ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,)) +
-  geom_line(size=1,show.legend = TRUE) + geom_point() +
-  theme_bw() +
-  theme(strip.text.y = element_text(size=10, angle=0)) +
-  labs(title = 'Plantae', 
-       x='Años', y='', color = 'Filos')
+  group_by(year(observed_on), taxon_kingdom_name, taxon_phylum_name, 
+           taxon_class_name) %>% count() %>% 
+  ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,)) + 
+  geom_line(size=1, show.legend = TRUE) + geom_point() +
+  scale_x_continuous(breaks= scales::pretty_breaks()) +
+  facet_wrap(taxon_class_name~.,scales = "free",drop=TRUE) +
+  labs(x='Años', y='Registros', color = 'Filo') +
+  theme_bw()
 
-### Registro temporal del reino Fungi
+### Registro temporal del reino Fungi por clases
 Temporal_F <- listado_especies %>% st_drop_geometry() %>%
   filter(year(observed_on)>=2010) %>% 
   filter(!is.na(taxon_phylum_name)) %>% 
   filter(taxon_kingdom_name=='Fungi') %>% 
-  group_by(year(observed_on), taxon_phylum_name) %>% count() %>%
-  ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,)) +
-  geom_line(size=1,show.legend = TRUE) + geom_point() + 
-  theme_bw() +
-  theme(strip.text.y = element_text(size=10, angle=0)) +
-  labs(title = 'Fungi', 
-       x='', y='', color = 'Filos')
+  group_by(year(observed_on), taxon_kingdom_name, taxon_phylum_name,
+           taxon_class_name) %>% count() %>% 
+  ggplot(aes(x=`year(observed_on)`, y= n, color=taxon_phylum_name,)) + 
+  geom_line(size=1, show.legend = TRUE) + geom_point() +
+  scale_x_continuous(breaks= scales::pretty_breaks()) +
+  facet_wrap(taxon_class_name~.,scales = "free",drop=TRUE) +
+  labs(x='Años', y='Registros', color = 'filo') +
+  theme_bw()
 
-Temporal_line / (Temporal_A | Temporal_P | Temporal_F)
+
 
 
 # ANALISIS COBERTURA TAXONÓMICA-------------------------------------------------
-
-## Animalia
-Taxon_Animalia <- listado_especies %>% 
-  filter(taxon_kingdom_name=="Animalia") %>% 
-  group_by(taxon_kingdom_name, taxon_phylum_name,taxon_class_name) %>% 
-  count() %>% 
-  ggplot(aes(x='', y=n, fill= taxon_phylum_name)) +
-  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
-  labs(title = "Animalia",
-       x="", y="Cantidad de registros",
-       fill = "Filos") +
-  scale_fill_brewer(palette="YlOrRd")
-
-### Filo Chordata
-Taxon_Chordata <- listado_especies %>% 
-  filter(taxon_phylum_name=="Chordata") %>% 
-  group_by(taxon_phylum_name,taxon_class_name) %>% 
-  count() %>% 
-  ggplot(aes(x='', y=n, fill=taxon_class_name)) +
-  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
-  labs(title = "Cobertura taxonómica de los registros de Cordados",
-       x="", y="Cantidad de registros",
-       fill = "Clases")
-  
-### Filo Arthropoda
-Taxon_Arthropoda <- listado_especies %>% 
-  filter(taxon_phylum_name=="Arthropoda") %>% 
-  group_by(taxon_phylum_name,taxon_class_name) %>% 
-  count() %>% 
-  ggplot(aes(x='', y=n, fill=taxon_class_name)) +
-  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
-  labs(title = "Cobertura taxonómica de los registros de Artropodos",
-       x="", y="Cantidad de registros",
-       fill = "Clases")
-
-
-## Plantae
-Taxon_Plantae <- listado_especies %>% 
-  filter(taxon_kingdom_name=="Plantae") %>% 
-  group_by(taxon_kingdom_name, taxon_phylum_name,taxon_class_name) %>% 
-  count() %>% 
-  ggplot(aes(x='', y=n, fill= taxon_phylum_name)) +
-  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
-  labs(title = "Plantae",
-       x="", y="",
-       fill = "Filos") +
-  scale_fill_brewer(palette="PuBu")
-
-### Tracheophytas
-Taxon_Tracheophyta <- listado_especies %>% 
-  filter(taxon_phylum_name=="Tracheophyta") %>% 
-  group_by(taxon_phylum_name,taxon_class_name) %>% 
-  count() %>% 
-  ggplot(aes(x='', y=n, fill=taxon_class_name)) +
-  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
-  labs(title = "Cobertura taxonómica de los registros de Traqueofitas",
-       x="", y="Cantidad de registros",
-       fill = "Clases")+
-  scale_fill_brewer(palette="GnBu")
-
-
-##Fungi
-Taxon_Fungi <- listado_especies %>% 
-  filter(taxon_kingdom_name=="Fungi") %>% 
-  group_by(taxon_kingdom_name, taxon_phylum_name,taxon_class_name) %>% 
-  count() %>% 
-  ggplot(aes(x='', y=n, fill= taxon_phylum_name)) +
-  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
-  labs(title = "Fungi",
-       x="", y="",
-       fill = "Filos") +
-  scale_fill_brewer(palette="Greens")
-
-Taxon_Animalia + Taxon_Plantae + Taxon_Fungi
-
 
 ## 5 FILOS MAS REGISTRADOS
 Taxon_Filos <- listado_especies %>% 
