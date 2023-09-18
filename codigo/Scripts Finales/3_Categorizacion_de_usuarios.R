@@ -101,7 +101,7 @@ NatUY_users <- left_join(as_tibble(usuarios_dataset),
          ultimo_registro=lubridate::as_datetime(ultimo_registro),
          user_created_at=lubridate::as_datetime(user_created_at))
 
-write.csv(NatUY_users, 'NatUY_users.csv')
+write.csv(NatUY_users,'datos/NatUY_users.csv')
 
 
 ## Uruguayxs en los registros
