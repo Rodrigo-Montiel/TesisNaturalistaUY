@@ -8,7 +8,7 @@ library(lubridate)
 library(geouy)
 
 
-NatUY <- read_csv('datos/NatUY.csv')
+NatUY <- read_csv("datos/Tablas/NatUY.csv")
 Uruguay <- geouy::load_geouy("Dptos")
 UY <- st_union(Uruguay) %>% st_cast()
 
@@ -31,19 +31,20 @@ listado_especies <- NatUY %>%
            taxon_species_name!="")
 
 
-saveRDS(NatUY_sf, "datos/natuysf.rds")
-saveRDS(listado_especies, "datos/listado_especies.rds")
+saveRDS(NatUY_sf, "datos/Tablas/natuysf.rds")
+saveRDS(listado_especies, "datos/Tablas/listado_especies.rds")
 
 
 # ANALISIS COBERTURA ESPACIAL--------------------------------------------------
 
-### Grilla para Uruguay
+### Creamos una grilla para Uruguay
 Grilla_UY <- st_make_grid(st_bbox(UY), 
                           cellsize = 25000, square = FALSE, 
                           crs= st_crs(Uruguay)) %>% 
   st_intersection(UY) %>% st_sf(gridID=1:length(.), geometry= .)
 
 
+### Unimos la grilla con la tabla de especies filtrada 
 NatUY_grilla <- st_join(Grilla_UY, listado_especies) %>% 
   group_by(gridID) %>% 
   summarise(registros=n(),
@@ -134,8 +135,6 @@ Temporal_F <- listado_especies %>% st_drop_geometry() %>%
   theme_bw()
 
 
-
-
 # ANALISIS COBERTURA TAXONÓMICA-------------------------------------------------
 
 ## 5 FILOS MAS REGISTRADOS
@@ -154,7 +153,7 @@ Taxon_Filos <- listado_especies %>%
 
 
 ## 10 CLASES MAS REGISTRADAS
-Taxon_Clases <- listado_especies %>%  
+Taxon_Clases <- listado_especies2 %>%  
   filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | 
            taxon_kingdom_name=='Plantae') %>% 
   group_by(taxon_kingdom_name, taxon_phylum_name, taxon_class_name) %>% 
@@ -174,6 +173,7 @@ Tabla_reinos <- NatUY %>% st_drop_geometry() %>%
   filter(taxon_kingdom_name=='Animalia' | 
            taxon_kingdom_name=='Fungi' | 
            taxon_kingdom_name=='Plantae') %>% 
+  filter(str_count(scientific_name, "\\S+") ==2 ) %>% 
   group_by(taxon_kingdom_name) %>% 
   summarise("Número de observaciones"= n(),
             "% Observaciones GI"= sum(quality_grade == "research" & !is.na(taxon_species_name) & 

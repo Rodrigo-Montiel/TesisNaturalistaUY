@@ -6,10 +6,10 @@ library(patchwork)
 library(lubridate)
 
 NatUY <- read.csv("datos/NatUY.csv")
-tetrapodos <- read.csv("datos/tetrapodos_final.csv")
-plantas <- read.csv("datos/plants_conservation_status.csv")
-observadoresUY <- read.csv("datos/usuarios_uy.csv")
-observadoresEX <- read.csv("datos/usuarios_ex.csv")
+tetrapodos <- read.csv("datos/Tablas/Lista_Tetrapodos_Final.csv")
+plantas <- read.csv("datos/Tablas/Lista_Plantas_Final.csv")
+observadoresUY <- read.csv("datos/Tablas/usuarios_uy.csv")
+observadoresEX <- read.csv("datos/Tablas/usuarios_ex.csv")
 
 # TABLAS------------------------------------------------------------------------
 
@@ -180,12 +180,12 @@ registros_de_plantasex <- registros_de_plantasex %>%
 # PARA GUARDAR------------------------------------------------------------------
 
 write.csv(registros_de_tetrapodosuy,
-          "datos/Tablas finales/registros_de_tetrapodosuy.csv")
+          "datos/Tablas/registros_de_tetrapodosuy.csv")
 write.csv(registros_de_tetrapodosex, 
-          "datos/Tablas finales/registros_de_tetrapodosex.csv")
+          "datos/Tablas/registros_de_tetrapodosex.csv")
 
 write.csv(registros_de_plantasuy, 
-          "datos/Tablas finales/registros_de_plantasuy.csv")
+          "datos/Tablas/registros_de_plantasuy.csv")
 write.csv(registros_de_plantasex, 
-          "datos/Tablas finales/registros_de_plantasex.csv")
+          "datos/Tablas/registros_de_plantasex.csv")
 

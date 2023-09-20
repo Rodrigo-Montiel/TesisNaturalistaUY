@@ -5,9 +5,9 @@ library(patchwork)
 library(RColorBrewer)
 
 registros_de_tetrapodosuy <- 
-  read_csv("datos/Tablas finales/registros_de_tetrapodosuy.csv")
+  read_csv("datos/Tablas/registros_de_tetrapodosuy.csv")
 registros_de_plantasuy <- 
-  read_csv("datos/Tablas finales/registros_de_plantasuy.csv")
+  read_csv("datos/Tablas/registros_de_plantasuy.csv")
 
 
 # GRAFICOS PARA LA VISUALIZACION DE DATOS DE TETRAPODOS-------------------------

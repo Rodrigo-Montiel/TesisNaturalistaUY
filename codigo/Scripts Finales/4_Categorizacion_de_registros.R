@@ -6,9 +6,9 @@ library(lubridate)
 
 
 listado_especies <- 
-  readRDS("~/GitHub/TesisNaturalistaUY/datos/listado_especies.rds")
+  readRDS("~/GitHub/TesisNaturalistaUY/datos/Tablas/listado_especies.rds")
 
-# FILTRADO DE ESPECIES----------------------------------------------------------
+# SELECCION DE GRUPOS-----------------------------------------------------------
 
 ## Vamos a conformar una lista con todas las especies de interés registradas 
 ## dentro de tetrápodos y otra lista con las especies de Traqueofitas 
@@ -24,4 +24,4 @@ Plantas <- listado_especies %>%
   filter(taxon_family_name == "Fabaceae" | taxon_family_name == "Cactaceae" | 
            taxon_family_name == "Asteraceae"|taxon_family_name == "Solanaceae")
 
-write.csv(Plantas,"datos/Lista_Plantas_Actualizada.csv")
+write.csv(Plantas,"datos/Lista_Plantas.csv")

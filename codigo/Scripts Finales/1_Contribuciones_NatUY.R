@@ -4,7 +4,7 @@ library(sf)
 sf::sf_use_s2(FALSE)
 library(dplyr)
 
-NatUY <- read_csv('datos/Observaciones_27-10-22.csv')
+NatUY <- read_csv('datos/Tablas/Observaciones_27-10-22.csv')
 
 # FILTRADO DE ESPECIES CASUALES-------------------------------------------------
 ## De la categorización de registros (4_categorizacion_de_registros.R) nos 
@@ -23,7 +23,7 @@ NatUY <- NatUY %>% filter(scientific_name!= "Anas platyrhynchos" |
                             scientific_name!= "Agapornis personatus" |
                             scientific_name!= "Amazona aestiva")
 
-write.csv(NatUY,"datos/NatUY.csv")
+write.csv(NatUY,"datos/Tablas/NatUY.csv")
 
 
 # CONTRIBUCIONES NATURALISTAUY-------------------------------------------------

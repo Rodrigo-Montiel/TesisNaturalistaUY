@@ -36,7 +36,7 @@ usuarios_dataset <- NatUY %>% st_drop_geometry() %>%
                                            "intermedio", "principiante")))
 
 
-saveRDS(usuarios_dataset, "datos/usuarios_dataset.rds")
+saveRDS(usuarios_dataset, "datos/Tablas/usuarios_dataset.rds")
 
  
 ### Cantidad de usuarios por categorias:
@@ -124,8 +124,8 @@ Extranjerxs <- NatUY_users %>%
 usuarios_ex <- filter(usuarios_dataset, user_login %in% Extranjerxs$user_login)
 
 
-write.csv(usuarios_uy, "datos/usuarios_uy.csv")
-write.csv(usuarios_ex, "datos/usuarios_ex.csv")
+write.csv(usuarios_uy, "datos/Tablas/usuarios_uy.csv")
+write.csv(usuarios_ex, "datos/Tablas/usuarios_ex.csv")
 
 
 
