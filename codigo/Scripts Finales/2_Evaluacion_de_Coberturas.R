@@ -22,13 +22,17 @@ NatUY_sf <- NatUY %>%
   st_transform(32721)
 
 ## Filtrado de registros: GI + Nivel Especie
-listado_especies <- NatUY %>% 
+listado_especies <- NatUY_sf %>% 
   select(observed_on,quality_grade, place_admin1_name, 
          taxon_species_name,taxon_kingdom_name, taxon_phylum_name, 
          taxon_class_name,taxon_order_name, taxon_family_name, 
          taxon_genus_name,scientific_name) %>% 
   filter(quality_grade == "research" & !is.na(taxon_species_name) & 
            taxon_species_name!="")
+
+# Shp de departamentos
+
+deptosuy <- st_read("datos/Datos espaciales/ine_depto.shp")
 
 
 saveRDS(NatUY_sf, "datos/Tablas/natuysf.rds")
@@ -55,17 +59,21 @@ NatUY_grilla <- st_join(Grilla_UY, listado_especies) %>%
 plot_registros <- ggplot() +
   geom_sf(data=NatUY_grilla, aes(fill=log10(registros)),show.legend = T) +
   labs(fill="Acumulación de Registros") +
-  scale_fill_gradient2(high = "#034E7B", low = "#D0D1E6") + 
+  scale_fill_gradient2(high = "#034E7B", low = "#D0D1E6") +
+  theme(legend.text = element_text(size = 12)) +
   theme_bw()
+
 
 ## Cantidad de especies distintas registradas
 plot_riqueza <- ggplot() +
   geom_sf(data=NatUY_grilla, aes(fill=log10(especies)),show.legend = T) + 
   labs(fill="Riqueza de registros") + 
   scale_fill_gradient2(high = "#990000", low = "#FDD49E") + 
+  theme(legend.text = element_text(size = 12)) + 
   theme_bw()
 
-plot_registros + plot_riqueza
+plot_registros + geom_sf(data= deptosuy, color = "black", fill= NA) + 
+  plot_riqueza + geom_sf(data= deptosuy, color = "black", fill= NA)
 
 
 ## Cobertura por departamentos
@@ -134,6 +142,8 @@ Temporal_F <- listado_especies %>% st_drop_geometry() %>%
   labs(x='Años', y='Registros', color = 'filo') +
   theme_bw()
 
+Temporal_A / (Temporal_P | Temporal_F)
+
 
 # ANALISIS COBERTURA TAXONÓMICA-------------------------------------------------
 
@@ -165,19 +175,3 @@ Taxon_Clases <- listado_especies2 %>%
   labs(title="Clases mas registradas", 
        x='Registros', y= '', fill = 'Reino') + theme_bw() +
   scale_x_continuous()
-
-
-# TABLA DE REINOS
-
-Tabla_reinos <- NatUY %>% st_drop_geometry() %>%  
-  filter(taxon_kingdom_name=='Animalia' | 
-           taxon_kingdom_name=='Fungi' | 
-           taxon_kingdom_name=='Plantae') %>% 
-  filter(str_count(scientific_name, "\\S+") ==2 ) %>% 
-  group_by(taxon_kingdom_name) %>% 
-  summarise("Número de observaciones"= n(),
-            "% Observaciones GI"= sum(quality_grade == "research" & !is.na(taxon_species_name) & 
-                                        taxon_species_name!="")/ n()*100, 
-            "% Observaciones necesitan ID"=  sum(quality_grade =="needs_id")/
-              n()*100,
-            "Número de especies" = length(unique(scientific_name)))
