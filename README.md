@@ -24,11 +24,14 @@ Este proyecto de tesis busca evaluar el potencial de la aplicación NaturalistaU
 - `7_Tablas_de_contingencia_y_tests.R` utiliza modelos de regresion lineal para analizar la relacion entre el nivel de usuario y los atributos de las especies registrados
 
 ### **Datos** contiene tablas y datos para el analisis
--`Datos espaciales` contiene la informacion espacial descargada del paquete "geouy"
--`Encuesta` contiene los datos de la encuesta realizada a usuarios de NatUY y de los eventos
--`Tablas` contiene las principales tablas creadas para este analisis
+- `Datos espaciales` contiene la informacion espacial descargada del paquete "geouy"
+- `Encuesta` contiene los datos de la encuesta realizada a usuarios de NatUY y de los eventos
+- `Tablas` contiene las principales tablas creadas para este analisis
 
-### **Graficas** contiene las graficas e imagenes creadas para este trabajo, tanto en .svg como en .png
+### **Graficas** contiene las graficas e imagenes creadas para este trabajo
+- `svg` archivos para trabajar en el programa InkScape
+- `png` archivos para visualizar las graficas en pdf
+
 
 
   
