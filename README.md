@@ -12,6 +12,8 @@ Este proyecto de tesis busca evaluar el potencial de la aplicación NaturalistaU
 - Cuantificar el nivel de sesgo de los datos en NaturalistaUY dadas las preferencias de observación de los usuarios
 
 
+## Organización
+
 ### "Scripts Finales" contiene los codigos utilizadons en el analisis
 - "1_Contribuciones_NayUY.R" limpia y analiza la cobertura de datos de la plataforma
 - "2_Evaluacion_de_Coberturas.R" filtra y analiza los datos para evalar la cobertura espacial, temporal y taxonomica de los datos
