@@ -9,136 +9,75 @@ registros_de_plantasuy <-
   read.csv("datos/Tablas finales/registros_de_plantasuy")
 
 
-# CHI CUADRADO------------------------------------------------------------------
-
-## TETRÁPODOS  
-
-### Experticia vs tamaño
-exp_tam <- aggregate(nivel ~ tamaño, 
-                     data = registros_de_tetrapodosuy, FUN = table)
-
-exp_tam <- exp_tam[,-1]
-rownames(exp_tam) <- exp_tam[,1]
-rownames(exp_tam) <- c('Grande', 'Mediano', 'chico')
-
-chi_exp_tam <- chisq.test(exp_tam)
-chi_exp_tam
-
-
-### Experticia vs distribución
-exp_dist <- aggregate(nivel ~ distribucion_2, 
-                      data = registros_de_tetrapodosuy, FUN = table)
-
-exp_dist <- exp_dist[,-1]
-rownames(exp_dist) <- exp_dist[,1]
-rownames(exp_dist) <- c('Alta', 'Baja', 'Media')
-
-chi_exp_dist <- chisq.test(exp_dist)
-chi_exp_dist
-
-
-### Experticia vs estado de conservacion (ERROR)
-exp_stat <- aggregate(nivel ~ factor(status_global), 
-                      data = registros_de_tetrapodosuy, FUN = table)
-
-exp_stat <- exp_stat[,-1]
-rownames(exp_stat) <- exp_stat[,1]
-rownames(exp_stat) <- c('CR', 'DD', 'EN',"LC","NE","NT","VU")
-
-chi_exp_stat <- chisq.test(exp_stat)
-
-
-## PLANTAS
-
-### Experticia vs estado de conservacion (ERROR)
-exp_stat_p <- aggregate(nivel ~ factor(status_global), 
-                         data = registros_de_plantasuy, FUN = table)
-
-exp_stat_p <- exp_stat_p[,-1]
-rownames(exp_stat_p) <- exp_stat_p[,1]
-rownames(exp_stat_p) <- c('CR', 'DD', 'EN',"EW","LC","NE","NT","VU")
-
-chi_exp_stat_p <- chisq.test(exp_stat_P)
-
-
-### Experticia vs habito
-exp_hab1_p <- aggregate(nivel ~ Habito1,
-                        data = registros_de_plantasuy, FUN = table)
-
-exp_hab1_p <- exp_hab1_p[,-1]
-rownames(exp_hab1_p) <- exp_hab1_p[,1]
-rownames(exp_hab1_p) <- c("Arbol", "Arbusto", "Enredadera", "Hierba", "Liana",
-                          "NE","Subarbusto")
-chi_exp_hab1_p <- chisq.test(exp_hab1_p)
-chi_exp_hab1_p
-
-
 # REGRESIONES-------------------------------------------------------------------
 
 ## TETRAPODOS (T)
 
-### Distribución
-mod_DT <- 
+### Modelo con Distribución
+mod_T1 <- 
   lm(ranking ~ distribucion, data = registros_de_tetrapodosuy)
 
-summary(mod_DT)
+summary(mod_T1)
 
-### Tamaño
-mod_TT <- 
+### Modelo con Tamaño
+mod_T2 <- 
   lm(ranking ~ largo_cm, data = registros_de_tetrapodosuy)
 
-summary(mod_TT)
+summary(mod_T2)
 
-### Estado de conservación
-mod_ET <- 
-  lm(ranking ~ status_global, data = registros_de_tetrapodosuy)
-
-summary(mod_ET)
-
-
-### CONSIDERANDO TODAS LAS VARIABLES JUNTAS
-mod_tetrapodos <-
+### Modelo con Estado de conservación
+mod_T3 <- 
   lm(ranking ~ distribucion + largo_cm + status_global, 
      data = registros_de_tetrapodosuy)
 
-summary(mod_tetrapodos)
+summary(mod_T3)
+
+### Modelo con todos los atributos
+mod_T4 <- 
+  lm(ranking ~ distribucion + largo_cm + status_global, 
+     data = registros_de_tetrapodosuy)
+
+summary (mod_T4)
+
+## UNIENDO LOS MODELOS EN UNA TABLA
+Modelos_Tetra <- stargazer(mod_T1,mod_T2,mod_T3,mod_T4,
+                           type = "html",
+                           title = "Modelo atributos tetrápodos")
+
 
 
 ## PLANTAS (P)
 
-### Distribución
-mod_DP <- 
+### Modelo con distribucion
+mod_P1 <- 
   lm(ranking ~ distribucion, data = registros_de_plantasuy)
 
-summary(mod_DP)
+summary(mod_P1)
 
-### Habito de crecimiento
-mod_HP <- 
+### Modelo con habito de crecimiento
+mod_P2 <- 
   lm(ranking ~ Habito1, data = registros_de_plantasuy)
 
-summary(mod_HP)
+summary(mod_P2)
 
-### Estado de conservación
-mod_EP <- 
-  lm(ranking ~ status_global, data = registros_de_plantasuy)
+### Modelo con estado de conservación
+mod_P3 <- 
+  lm(ranking ~ status_global, 
+     data = registros_de_plantasuy)
 
-summary(mod_EP)
+summary(mod_P3)
 
-## CONSIDERANDO TODAS LAS VARIABLES JUNTAS
-mod_plantas <-
+### Modelo con todos los atributos
+mod_P4 <- 
   lm(ranking ~ distribucion + Habito1 + status_global, 
      data = registros_de_plantasuy)
 
-summary(mod_plantas)
+summary(mod_P4)
 
 
-# TABLA ------------------------------------------------------------------------
+## UNIENDO LOS MODELOS EN UNA TABLA
 
-Modelos_Tetra <- stargazer(mod_DT,mod_TT,mod_ET,mod_tetrapodos,
-                              type = "text",
-          title = "Modelo atributos tetrápodos")
-
-Modelos_Plantas <- stargazer(mod_DP, mod_HP,mod_EP,mod_plantas,
-                               type = "text",
+Modelos_Plantas <- stargazer(mod_P1,mod_P2,mod_P3,mod_P4,
+                               type = "html",
           title = "Modelo atriburos plantas")
 
