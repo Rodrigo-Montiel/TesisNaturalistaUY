@@ -11,6 +11,7 @@ library(geouy)
 NatUY <- read_csv("datos/Tablas/NatUY.csv")
 Uruguay <- geouy::load_geouy("Dptos")
 UY <- st_union(Uruguay) %>% st_cast()
+deptosuy <- st_read("datos/Datos espaciales/ine_depto.shp")
 
 
 # PROCESAMIENTO PREVIO DE DATOS-------------------------------------------------
@@ -29,10 +30,6 @@ listado_especies <- NatUY_sf %>%
          taxon_genus_name,scientific_name) %>% 
   filter(quality_grade == "research" & !is.na(taxon_species_name) & 
            taxon_species_name!="")
-
-# Shp de departamentos
-
-deptosuy <- st_read("datos/Datos espaciales/ine_depto.shp")
 
 
 saveRDS(NatUY_sf, "datos/Tablas/natuysf.rds")
@@ -55,7 +52,7 @@ NatUY_grilla <- st_join(Grilla_UY, listado_especies) %>%
             especies=n_distinct(scientific_name)) %>% st_cast()
 
 
-## Cantidad de Registros
+## Mapa cantidad de Registros
 plot_registros <- ggplot() +
   geom_sf(data=NatUY_grilla, aes(fill=log10(registros)),show.legend = T) +
   labs(fill="Acumulación de Registros") +
@@ -64,10 +61,10 @@ plot_registros <- ggplot() +
   theme_bw()
 
 
-## Cantidad de especies distintas registradas
+## Mapa cantidad de especies registradas
 plot_riqueza <- ggplot() +
   geom_sf(data=NatUY_grilla, aes(fill=log10(especies)),show.legend = T) + 
-  labs(fill="Riqueza de registros") + 
+  labs(fill="Riqueza de especies") + 
   scale_fill_gradient2(high = "#990000", low = "#FDD49E") + 
   theme(legend.text = element_text(size = 12)) + 
   theme_bw()
@@ -77,7 +74,7 @@ plot_registros + geom_sf(data= deptosuy, color = "black", fill= NA) +
 
 
 ## Cobertura por departamentos
-cobertura_dep <- listado_especies %>% st_drop_geometry() %>% 
+listado_especies %>% st_drop_geometry() %>% 
   group_by(place_admin1_name) %>% 
   summarise(registros=n(),especies=n_distinct(scientific_name)) %>% 
   arrange(desc(registros))
@@ -85,6 +82,7 @@ cobertura_dep <- listado_especies %>% st_drop_geometry() %>%
 
 # ANALISIS COBERTURA TEMPORAL---------------------------------------------------
 
+### Registro temporal de los principales Reinos
 Temporal_Reinos <- listado_especies %>% st_drop_geometry() %>%
   filter(year(observed_on)>=2010) %>% 
   filter(!is.na(taxon_phylum_name)) %>% 
@@ -100,6 +98,7 @@ Temporal_Reinos <- listado_especies %>% st_drop_geometry() %>%
   labs(x='Años', y='Registros', color = "Filos") +
   theme_bw()
 
+
 ### Registro temporal de Animalia por clases
 Temporal_A <- listado_especies %>% st_drop_geometry() %>%
   filter(year(observed_on)>=2010) %>% 
@@ -114,6 +113,7 @@ Temporal_A <- listado_especies %>% st_drop_geometry() %>%
   labs(x='Años', y='Registros', color = 'filo') +
   theme_bw()
 
+
 ### Registro temporal del Reino Plantae por clases
 Temporal_P <- listado_especies %>% st_drop_geometry() %>%
   filter(year(observed_on)>=2010) %>% 
@@ -127,6 +127,7 @@ Temporal_P <- listado_especies %>% st_drop_geometry() %>%
   facet_wrap(taxon_class_name~.,scales = "free",drop=TRUE) +
   labs(x='Años', y='Registros', color = 'Filo') +
   theme_bw()
+
 
 ### Registro temporal del reino Fungi por clases
 Temporal_F <- listado_especies %>% st_drop_geometry() %>%
@@ -144,6 +145,18 @@ Temporal_F <- listado_especies %>% st_drop_geometry() %>%
 
 Temporal_A / (Temporal_P | Temporal_F)
 
+### Cobertura temporal por estaciones
+Temporal_estaciones <- listado_especies %>% 
+  st_drop_geometry() %>% 
+  filter(year(observed_on)>=2010) %>% 
+  mutate(observed_on=as_date(observed_on)) %>% 
+  mutate(season=lubridate::quarter(observed_on)) %>% 
+  mutate(season=ifelse(season==1, 'verano', 
+                       ifelse(season==2, 'otoño', 
+                              ifelse(season==3, 'invierno', 'primavera')))) %>% 
+  group_by(season) %>% 
+  count()
+
 
 # ANALISIS COBERTURA TAXONÓMICA-------------------------------------------------
 
@@ -154,7 +167,7 @@ Taxon_Filos <- listado_especies %>%
            taxon_kingdom_name=='Plantae') %>% 
   group_by(taxon_kingdom_name, taxon_phylum_name) %>% 
   count() %>% arrange(desc(n)) %>% 
-  filter(!is.na(taxon_phylum_name)) %>% head(5) %>%  
+  filter(!is.na(taxon_phylum_name)) %>% head(6) %>%  
   ggplot(., aes(x=n, y= fct_reorder(taxon_phylum_name,n), 
                 fill=taxon_kingdom_name)) +
   geom_bar(stat = "identity", show.legend = TRUE) +

@@ -1,5 +1,7 @@
 # PAQUETES Y DATOS--------------------------------------------------------------
 library(tidyverse)
+library(stargazer)
+
 
 registros_de_tetrapodosuy <- 
   read.csv('datos/Tablas finales/registros_de_tetrapodos.uy.csv')
@@ -73,54 +75,70 @@ chi_exp_hab1_p
 
 # REGRESIONES-------------------------------------------------------------------
 
-## TETRAPODOS
+## TETRAPODOS (T)
 
-### Distribucion
-mod_distribucionT <- 
+### Distribución
+mod_DT <- 
   lm(ranking ~ distribucion, data = registros_de_tetrapodosuy)
 
-summary(mod_distribucionT)
+summary(mod_DT)
 
 ### Tamaño
-mod_tamañoT <- 
+mod_TT <- 
   lm(ranking ~ largo_cm, data = registros_de_tetrapodosuy)
 
-summary(mod_tamañoT)
+summary(mod_TT)
 
-### Estatus
-mod_statusT <- 
+### Estado de conservación
+mod_ET <- 
   lm(ranking ~ status_global, data = registros_de_tetrapodosuy)
 
-summary(modelo_statusT)
+summary(mod_ET)
 
 
-## PLANTAS
+### CONSIDERANDO TODAS LAS VARIABLES JUNTAS
+mod_tetrapodos <-
+  lm(ranking ~ distribucion + largo_cm + status_global, 
+     data = registros_de_tetrapodosuy)
 
-### Distribucion
-modelo_distribucionP <- 
+summary(mod_tetrapodos)
+
+
+## PLANTAS (P)
+
+### Distribución
+mod_DP <- 
   lm(ranking ~ distribucion, data = registros_de_plantasuy)
 
-summary(modelo_distribucionP)
+summary(mod_DP)
 
-### Estatus
-modelo_statusT <- 
-  lm(ranking ~ status_global, data = registros_de_plantasuy)
-
-summary(modelo_statusT)
-
-### Habito
-modelo_habitoT <- 
+### Habito de crecimiento
+mod_HP <- 
   lm(ranking ~ Habito1, data = registros_de_plantasuy)
 
-summary(modelo_habitoT)
+summary(mod_HP)
+
+### Estado de conservación
+mod_EP <- 
+  lm(ranking ~ status_global, data = registros_de_plantasuy)
+
+summary(mod_EP)
+
+## CONSIDERANDO TODAS LAS VARIABLES JUNTAS
+mod_plantas <-
+  lm(ranking ~ distribucion + Habito1 + status_global, 
+     data = registros_de_plantasuy)
+
+summary(mod_plantas)
 
 
-# TABLAS -----------------------------------------------------------------------
+# TABLA ------------------------------------------------------------------------
 
-tabla_modelosT <- 
-  data.frame(modelo = c("modelo_distribucion","modelo_tamaño"),
-             r2= c(summary(mod_distribucionT)$r.squared, summary(mod_tamañoT)$r.squared),
-             p.value= c(summary(mod_distribucionT)$coefficients, summary(mod_tamañoT)$coefficients))
+Modelos_Tetra <- stargazer(mod_DT,mod_TT,mod_ET,mod_tetrapodos,
+                              type = "text",
+          title = "Modelo atributos tetrápodos")
 
-
+Modelos_Plantas <- stargazer(mod_DP, mod_HP,mod_EP,mod_plantas,
+                               type = "text",
+          title = "Modelo atriburos plantas")
 

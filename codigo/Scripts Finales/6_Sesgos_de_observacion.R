@@ -26,23 +26,29 @@ gruposT <- registros_de_tetrapodosuy %>%
 ## DISTRIBUCION
 distribucionesT <- registros_de_tetrapodosuy %>% 
   group_by(nivel,distribucion_2) %>% count() %>% 
-  ggplot(aes(x="", y=n, fill=distribucion_2)) +
+  ggplot(aes(x="", y=n, fill=distribucion_2)) + 
   geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
+  theme_bw() +
   labs(x="", y="Cantidad de registros", fill = "Distribución") + 
-  facet_grid(~nivel) + 
-  scale_fill_brewer(palette = "YlOrRd") + 
-  theme_bw()
+  facet_wrap(~nivel) + 
+  scale_fill_brewer(palette = "YlOrRd") +
+  theme(legend.position = "bottom", legend.title = element_text(size = 12),
+        legend.text = element_text(size = 12))
+
 
 
 ## TAMAÑO
 tamañoT <- registros_de_tetrapodosuy %>% 
   group_by(nivel,tamaño) %>% count() %>% 
   ggplot(aes(x="", y=n, fill=tamaño)) +
-  geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
+  geom_bar(width = 0.5, stat = "identity", show.legend = T) +
+  theme_bw() +
   labs(x="", y="Cantidad de registros", fill = "Tamaño") + 
   facet_grid(~nivel) + 
   scale_fill_brewer(palette = "YlOrRd") + 
-  theme_bw()
+  theme(legend.position = "bottom", legend.title = element_text(size = 12),
+        legend.text = element_text(size = 12))
+
 
 
 ## ESTADO DE CONSERVACIÓN
@@ -52,10 +58,15 @@ estadoT <- registros_de_tetrapodosuy %>%
   group_by(nivel,status_global) %>% count() %>% 
   ggplot(aes(x="", y=n, fill=status_global)) +
   geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
+  theme_bw() +
   labs(x="", y="Cantidad de registros", fill = "Estado de Conservación") + 
   facet_grid(~nivel) + 
   scale_fill_brewer(palette = "YlOrRd") + 
-  theme_bw()
+  theme(legend.position = "bottom", legend.title = element_text(size = 12),
+        legend.text = element_text(size = 12))
+
+
+distribucionesT + tamañoT + estadoT
 
 
 # GRAFICOS PARA LA VISUALIZACION DE PLANTAS ------------------------------------
@@ -72,35 +83,43 @@ gruposP <- registros_de_plantasuy %>%
 
 
 ## DISTRIBUCION
-distribucionesT <- registros_de_plantasuy %>% filter(!is.na(distribucion_2)) %>% 
+distribucionesP <- registros_de_plantasuy %>% filter(!is.na(distribucion_2)) %>% 
   group_by(nivel,distribucion_2) %>% count() %>% 
   ggplot(aes(x="", y=n, fill=distribucion_2)) +
   geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
+  theme_bw() +
   labs(x="", y="Cantidad de registros", fill = "Distribución") + 
   facet_grid(~nivel) + 
   scale_fill_manual(values = c("#A6BDDB","#3690C0","#034E7B")) + 
-  theme_bw()
+  theme(legend.position = "bottom", legend.title = element_text(size = 12),
+                  legend.text = element_text(size = 12))
 
 
 ## HABITO
-tamañoT <- registros_de_plantasuy %>% filter(Habito1 != "NE") %>% 
+tamañoP <- registros_de_plantasuy %>% filter(Habito1 != "NE") %>% 
   group_by(nivel,Habito1) %>% count() %>% 
   ggplot(aes(x="", y=n, fill=Habito1)) +
   geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
+  theme_bw() +
   labs(x="", y="Cantidad de registros", fill = "Habito") + 
   facet_grid(~nivel) + 
   scale_fill_brewer(palette = "Blues") + 
-  theme_bw()
+  theme(legend.position = "bottom", legend.title = element_text(size = 12),
+                  legend.text = element_text(size = 12))
 
 
 ## ESTADO DE CONSERVACIÓN
-estadoT <- registros_de_plantasuy %>% filter(status_global != "EW") %>% 
+estadoP <- registros_de_plantasuy %>% filter(status_global != "EW") %>% 
   mutate(status_global=factor
          (status_global,levels=c("LC","NT","VU","EN","CR","DD","NE"))) %>%
   group_by(nivel,status_global) %>% count() %>% 
   ggplot(aes(x="", y=n, fill=status_global)) +
   geom_bar(width = 0.5, stat = "identity", show.legend = T) + 
+  theme_bw() +
   labs(x="", y="Cantidad de registros", fill = "Estado de Conservación") + 
   facet_grid(~nivel) + 
   scale_fill_brewer(palette = "Blues") + 
-  theme_bw()
+  theme(legend.position = "bottom", legend.title = element_text(size = 12),
+                  legend.text = element_text(size = 12))
+
+distribucionesP + tamañoP + estadoP
