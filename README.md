@@ -15,7 +15,7 @@ Este proyecto de tesis busca evaluar el potencial de la aplicación NaturalistaU
 
 ## Organización
 
-### **Scripts Finales** contiene los codigos utilizadons en el analisis
+### "*Scripts Finales*" contiene los codigos utilizadons en el analisis
 - `1_Contribuciones_NayUY.R` es el primer paso para filtrar los datos y cuantificar las observaciones.
 - `2_Evaluacion_de_Coberturas.R` toma los registros con Grado de Investigacion de los Reinos Animalia, Plantae y Fungi para evalar la cobertura espacial, temporal y taxonomica de los datos en la plataforma.
 - `3_Categorizacion_de_Usuarios.R` agrupa a los usuarios de la plataforma en distintas categorias.
@@ -24,12 +24,12 @@ Este proyecto de tesis busca evaluar el potencial de la aplicación NaturalistaU
 - `6_Sesgos_de_Observacion.R` crea las graficas de preferencias de los usuarios al registrar Tetrapodos y Dicotiledoneas en base a los atributos asignados.
 - `7_Tablas_de_contingencia_y_tests.R` utiliza modelos de regresion lineal para analizar la relacion entre el nivel de usuario y los atributos de las especies registrados.
 
-### **Datos** contiene tablas y datos para el analisis
+### "*Datos*" contiene tablas y datos para el analisis
 - `Datos espaciales` contiene la informacion espacial descargada del paquete "geouy".
 - `Encuesta` contiene los datos de la encuesta realizada a usuarios de NatUY y de los eventos.
 - `Tablas` contiene las principales tablas creadas para este analisis.
 
-### **Graficas** contiene las graficas e imagenes creadas para este trabajo
+### "*Graficas*" contiene las graficas e imagenes creadas para este trabajo
 - `svg` archivos para trabajar en el programa InkScape
 - `png` archivos para visualizar las graficas en pdf
 
