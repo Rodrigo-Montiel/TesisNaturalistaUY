@@ -145,6 +145,7 @@ Temporal_F <- listado_especies %>% st_drop_geometry() %>%
 
 Temporal_A / (Temporal_P | Temporal_F)
 
+
 ### Cobertura temporal por estaciones
 Temporal_estaciones <- listado_especies %>% 
   st_drop_geometry() %>% 
