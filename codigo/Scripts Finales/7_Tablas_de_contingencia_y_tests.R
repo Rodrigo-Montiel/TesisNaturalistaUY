@@ -27,7 +27,7 @@ summary(mod_T2)
 
 ### Modelo con Estado de conservación
 mod_T3 <- 
-  lm(ranking ~ distribucion + largo_cm + status_global, 
+  lm(ranking ~ status_global, 
      data = registros_de_tetrapodosuy)
 
 summary(mod_T3)
