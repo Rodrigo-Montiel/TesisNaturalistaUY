@@ -6,27 +6,52 @@ library(dplyr)
 
 NatUY <- read_csv('datos/Tablas/Observaciones_27-10-22.csv')
 
-# FILTRADO DE ESPECIES CASUALES y SUBESPECIES-----------------------------------
+# FILTRADO DE ESPECIES CASUALES, INTRODUCIDAS y SUBESPECIES---------------------
+
 ## De la categorización de registros (4_categorizacion_de_registros.R) nos 
-## encontramos con especies "casuales" y subespecies dentro de los regstros.
-## Vamos a eliminarlas:
+## encontramos con especies "casuales", especies introducidas y subespecies 
+## dentro de los regstros. Vamos a eliminarlas:
 
-NatUY <- NatUY %>%  filter(str_count(scientific_name, "\\S+") ==2 ) %>% 
-  filter(scientific_name!= "Anas platyrhynchos" | 
-           scientific_name!= "Anser anser" | 
-           scientific_name!= "Canis familiaris" | 
-           scientific_name!= "Equus asinus" | 
-           scientific_name!= "Equs caballus" | 
-           scientific_name!= "Felis catus" | 
-           scientific_name!= "Corvus splendens" | 
-           scientific_name!= "Melopsittacus undulatus" | 
-           scientific_name!= "Cervus elaphus" | 
-           scientific_name!= "Oryctolagus cuniculus" | 
-           scientific_name!= "Agapornis personatus" | 
-           scientific_name!= "Amazona aestiva")
 
-## str_count(scientific_name, "\\S+") ==2 nos permite seleccionar aquellos
+## 1) str_count(scientific_name, "\\S+") ==2 nos permite seleccionar aquellos
 ## registros que en el campo scientific_name cuenten con dos palabras
+
+NatUY <- NatUY %>%  filter(str_count(scientific_name, "\\S+") == 2) 
+
+
+## 2) Creamos un objeto con todos los nombres cientificos de las especies
+## que queremos eliminar
+
+especies_eliminar <- c("Anas platyrhynchos", "Anser anser", "Canis familiaris", 
+                       "Equus asinus", "Equs caballus", "Felis catus", 
+                       "Corvus splendens", "Melopsittacus undulatus", 
+                       "Cervus elaphus", "Oryctolagus cuniculus", 
+                       "Agapornis personatus","Amazona aestiva",
+                       "Acacia baileyna", "Acacia podalytiifolia", 
+                       "Albizia julibrissin", "Bauhinia variegata", 
+                       "Biden aurea", "Brugmansia arborea", 
+                       "Brugmansia suaveolens", "Calendula offcinalis", 
+                       "Carduus nutans", "Cosmos bipinnatus", 
+                       "Cosmos sulphureus", "Cotula nigellifolia", 
+                       "Dimorphotheca exklonis", "Epiphyllumm oxypetalum",
+                       "Euryops chrysanthemoides", "Gazania rigens", 
+                       "Glycine max", "Helenium amarum", "Helianthus annuus", 
+                       "Lactuca sativa", "Lespedeza bicolor", 
+                       "Nicotiana tabacum","Opuntia ficus-indica", 
+                       "Physalis peruviana","Pseudogynoxys chenopodioides", 
+                       "Santolia chamaexyparissus", "Selenicereus undatus", 
+                       "Senecio angulatus", "Senecio tamoides", 
+                       "Senegalia picachenis", "Solanum aethiopicum",
+                       "Solanum nigrum", "Solanum tuberosum", 
+                       "Taraxacum erythrospermum", "Tragopogon porrifolius",
+                       "Vachellia karroo", "Wisteria sinensis",
+                       "Youngia japonica","Zinnia elegans")
+
+
+## 3) filtramos la tabla de datos original de las especies casuales
+
+NatUY <- NatUY[!(NatUY$scientific_name %in% especies_eliminar), ]
+
 
 
 write.csv(NatUY,"datos/Tablas/NatUY.csv")
@@ -37,6 +62,14 @@ write.csv(NatUY,"datos/Tablas/NatUY.csv")
 ## Cantidad de registros
 nrow(NatUY)
 
+## Cantidad de usuarios
+NatUY %>% st_drop_geometry() %>% group_by(user_id) %>% 
+  count() %>% arrange(desc(n)) %>% nrow()
+
+
+## Registros con Grado de investigación
+NatUY %>% st_drop_geometry() %>% filter(quality_grade == "research") %>% 
+  group_by(quality_grade) %>% nrow()
 
 ## Cantidad de Especies registradas
 NatUY %>% st_drop_geometry() %>%
@@ -46,14 +79,7 @@ NatUY %>% st_drop_geometry() %>%
   count() %>% arrange(desc(n)) %>% nrow()
 
 
-## Registros con Grado de investigación
-NatUY %>% st_drop_geometry() %>% filter(quality_grade == "research") %>% 
-  group_by(quality_grade) %>% nrow()
 
-
-## Cantidad de usuarios
-NatUY %>% st_drop_geometry() %>% group_by(user_id) %>% 
-  count() %>% arrange(desc(n)) %>% nrow()
 
 
 # REGISTROS POR REINOS----------------------------------------------------------
