@@ -19,7 +19,7 @@ NatUY <- read_csv('datos/Tablas/Observaciones_27-10-22.csv')
 NatUY <- NatUY %>%  filter(str_count(scientific_name, "\\S+") == 2) 
 
 
-## 2) Creamos un objeto con todos los nombres cientificos de las especies
+## 2) Creamos un objeto con todos los nombres científicos de las especies
 ## que queremos eliminar
 
 especies_eliminar <- c("Anas platyrhynchos", "Anser anser", "Canis familiaris", 
