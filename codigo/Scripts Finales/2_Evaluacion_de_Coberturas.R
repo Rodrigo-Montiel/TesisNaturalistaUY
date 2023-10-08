@@ -177,7 +177,7 @@ Taxon_Filos <- listado_especies %>%
 
 
 ## 10 CLASES MAS REGISTRADAS
-Taxon_Clases <- listado_especies2 %>%  
+Taxon_Clases <- listado_especies %>%  
   filter(taxon_kingdom_name=='Animalia' | taxon_kingdom_name=='Fungi' | 
            taxon_kingdom_name=='Plantae') %>% 
   group_by(taxon_kingdom_name, taxon_phylum_name, taxon_class_name) %>% 
