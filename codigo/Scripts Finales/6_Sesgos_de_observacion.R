@@ -109,7 +109,9 @@ tamañoP <- registros_de_plantasuy %>% filter(Habito1 != "NE") %>%
 
 
 ## ESTADO DE CONSERVACIÓN
-estadoP <- registros_de_plantasuy %>% filter(status_global != "EW") %>% 
+estadoP <- registros_de_plantasuy %>% 
+  filter(status_global !="") %>% 
+  filter(status_global != "EW") %>% 
   mutate(status_global=factor
          (status_global,levels=c("LC","NT","VU","EN","CR","DD","NE"))) %>%
   group_by(nivel,status_global) %>% count() %>% 
