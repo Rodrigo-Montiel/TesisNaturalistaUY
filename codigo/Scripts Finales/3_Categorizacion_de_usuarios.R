@@ -16,10 +16,6 @@ NatUY <- read_rds('datos/natuysf.rds')
 
 # CATEGORIZACIÓN DE USUARIOS ---------------------------------------------------
 
-usuarios_login <- NatUY %>% st_drop_geometry() %>% 
-  select(user_id, user_login) %>% group_by(user_id) %>% distinct()
-
-
 usuarios_dataset <- NatUY %>% st_drop_geometry() %>% 
   select(user_login, observed_on, created_at, user_id) %>% 
   group_by(user_login) %>% 
@@ -38,12 +34,7 @@ usuarios_dataset <- NatUY %>% st_drop_geometry() %>%
 
 saveRDS(usuarios_dataset, "datos/Tablas/usuarios_dataset.rds")
 
- 
-### Cantidad de usuarios por categorias:
-usuarios_dataset %>% group_by(categoria_usuario) %>% count()
- 
 
-  
 # NACIONALIDAD DE LOS USUARIOS--------------------------------------------------
 
 ## Función usando la API de iNat https://api.inaturalist.org/v1/docs/
@@ -128,5 +119,10 @@ write.csv(usuarios_uy, "datos/Tablas/usuarios_uy.csv")
 write.csv(usuarios_ex, "datos/Tablas/usuarios_ex.csv")
 
 
+# CANTIDAD DE USUARIOS POR CATEGORIA Y REGISTROS--------------------------------
 
+observadoresUY %>% group_by(categoria_usuario) %>% 
+  summarise(Usuarios=n_distinct(user_login),Registros=sum(registros))
 
+observadoresEX %>% group_by(categoria_usuario) %>% 
+  summarise(Usuarios=n_distinct(user_login),Registros=sum(registros))
