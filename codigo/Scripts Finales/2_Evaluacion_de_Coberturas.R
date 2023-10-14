@@ -8,7 +8,7 @@ library(lubridate)
 library(geouy)
 
 
-NatUY <- read_csv("datos/Tablas/NatUY.csv")
+NatUY <- read_csv('datos/Tablas/Observaciones_27-10-22.csv')
 Uruguay <- geouy::load_geouy("Dptos")
 UY <- st_union(Uruguay) %>% st_cast()
 deptosuy <- st_read("datos/Datos espaciales/ine_depto.shp")
