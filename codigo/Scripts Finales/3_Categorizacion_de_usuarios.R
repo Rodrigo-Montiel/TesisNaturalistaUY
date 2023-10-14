@@ -121,8 +121,8 @@ write.csv(usuarios_ex, "datos/Tablas/usuarios_ex.csv")
 
 # CANTIDAD DE USUARIOS POR CATEGORIA Y REGISTROS--------------------------------
 
-observadoresUY %>% group_by(categoria_usuario) %>% 
+usuarios_uy %>% group_by(categoria_usuario) %>% 
   summarise(Usuarios=n_distinct(user_login),Registros=sum(registros))
 
-observadoresEX %>% group_by(categoria_usuario) %>% 
+usuarios_ex %>% group_by(categoria_usuario) %>% 
   summarise(Usuarios=n_distinct(user_login),Registros=sum(registros))
