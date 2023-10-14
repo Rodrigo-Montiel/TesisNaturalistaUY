@@ -8,23 +8,30 @@ NatUY <- read_csv('datos/Tablas/Observaciones_27-10-22.csv')
 
 # OBSERVACIONES EN NATURALISTAUY------------------------------------------------
 
+
 ## Cantidad de registros
-nrow(NatUY)
+NatUY %>% st_drop_geometry() %>% 
+  filter(!is.na(taxon_kingdom_name)) %>% nrow()
 
 
 ## Cantidad de usuarios
-NatUY %>% st_drop_geometry() %>% group_by(user_id) %>% 
+NatUY %>% st_drop_geometry() %>% 
+  filter(!is.na(taxon_kingdom_name)) %>% 
+  group_by(user_id) %>% 
   count() %>% nrow()
 
 
 ## Registros con Grado de investigación
-NatUY %>% st_drop_geometry() %>% filter(quality_grade == "research") %>% 
+NatUY %>% st_drop_geometry() %>% 
+  filter(!is.na(taxon_kingdom_name)) %>% 
+  filter(quality_grade == "research") %>% 
   group_by(quality_grade) %>% nrow()
 
 
 ## Cantidad de Especies registradas
 NatUY %>% st_drop_geometry() %>%
   group_by(scientific_name) %>% 
+  filter(!is.na(taxon_kingdom_name)) %>% 
   filter(!is.na(scientific_name)) %>% 
   filter(str_count(scientific_name, "\\S+") ==2 ) %>% 
   count() %>% arrange(desc(n)) %>% nrow()
@@ -33,6 +40,7 @@ NatUY %>% st_drop_geometry() %>%
 # REGISTROS POR REINOS----------------------------------------------------------
 
 Tabla_reinos <- NatUY %>% st_drop_geometry() %>%  
+  filter(!is.na(taxon_kingdom_name)) %>% 
   filter(str_count(scientific_name, "\\S+") ==2 ) %>% 
   group_by(taxon_kingdom_name) %>% 
   summarise("Número de observaciones"= n(), 
