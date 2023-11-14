@@ -10,8 +10,8 @@ listado_especies <-
 
 # FILTRADO DE ESPECIES CASUALES, INTRODUCIDAS y SUBESPECIES---------------------
 
-## Encontramos especies "casuales", especies introducidas y subespecies 
-## dentro de los regstros. Vamos a eliminarlas:
+## Encontramos especies "casuales", especies introducidas y sub-especies 
+## dentro de los registros. Vamos a eliminarlas:
 
 
 ## 1) (str_count(scientific_name, "\\S+") ==2) nos permite seleccionar aquellos

@@ -82,7 +82,44 @@ listado_especies %>% st_drop_geometry() %>%
 
 # ANALISIS COBERTURA TEMPORAL---------------------------------------------------
 
-### Registro temporal de los principales Reinos
+## Cobertura temporal de los registros
+registros_por_año <- listado_especies %>% 
+  st_drop_geometry() %>% 
+  filter(year(observed_on)>=2010) %>% 
+  add_count(year=year(observed_on), 
+            name = "registros_por_año") %>% 
+  ggplot(., aes(x=observed_on, y=registros_por_año)) +
+  geom_line(size=0.5, show.legend = FALSE) +
+  scale_x_date(date_breaks = "1 year", date_labels = "%Y") +
+  scale_y_continuous(breaks = seq(0, 12500, by = 2500)) + 
+  theme_bw() +
+  labs(x="", y= "Numero de registros")
+
+## Cobertura temporal por estaciones
+registros_por_estaciones <- listado_especies %>% 
+  st_drop_geometry() %>% 
+  filter(year(observed_on)>=2010) %>% 
+  mutate(observed_on=as_date(observed_on)) %>% 
+  mutate(season=lubridate::quarter(observed_on)) %>% 
+  mutate(season=ifelse(season==1, 'verano', 
+                       ifelse(season==2, 'otoño', 
+                              ifelse(season==3, 'invierno', 'primavera')))) %>% 
+  add_count(season, name = "registros_por_estacion") %>% 
+  mutate(season=factor(season, 
+                       levels = c("otoño", "invierno","primavera", "verano"))) %>% 
+  ggplot(aes(x=season, y=registros_por_estacion)) +
+  geom_segment(aes(x=season,xend=season,y=0, 
+                   yend= registros_por_estacion, col=season),
+               show.legend = FALSE) +
+  geom_point(aes(col=season),show.legend = FALSE) +
+  scale_y_continuous(breaks = seq(0, 12500, by = 2500)) +
+  theme_bw() +
+  labs(x="", y= "Numero de registros")
+
+registros_por_año | registros_por_estaciones
+
+
+## Registro temporal de los principales Reinos
 Temporal_Reinos <- listado_especies %>% st_drop_geometry() %>%
   filter(year(observed_on)>=2010) %>% 
   filter(!is.na(taxon_phylum_name)) %>% 
@@ -144,19 +181,6 @@ Temporal_F <- listado_especies %>% st_drop_geometry() %>%
   theme_bw()
 
 Temporal_A / (Temporal_P | Temporal_F)
-
-
-### Cobertura temporal por estaciones
-Temporal_estaciones <- listado_especies %>% 
-  st_drop_geometry() %>% 
-  filter(year(observed_on)>=2010) %>% 
-  mutate(observed_on=as_date(observed_on)) %>% 
-  mutate(season=lubridate::quarter(observed_on)) %>% 
-  mutate(season=ifelse(season==1, 'verano', 
-                       ifelse(season==2, 'otoño', 
-                              ifelse(season==3, 'invierno', 'primavera')))) %>% 
-  group_by(season) %>% 
-  count()
 
 
 # ANALISIS COBERTURA TAXONÓMICA-------------------------------------------------

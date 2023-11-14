@@ -97,11 +97,11 @@ registros_de_plantasuy$Habito2 <- trimws(registros_de_plantasuy$Habito2)
 
 ### Distribución Tetrapodos
 registros_de_tetrapodosuy <- registros_de_tetrapodosuy %>% 
-  mutate(distribucion_2 = ifelse(distribucion>=17,"Alta",
+  mutate(distribucion_2 = ifelse(distribucion>=17,"Amplia",
                   ifelse(distribucion>=6,"Media","Baja")))
 
 registros_de_tetrapodosex <- registros_de_tetrapodosex %>% 
-  mutate(distribucion_2 = ifelse(distribucion>=17,"Alta",
+  mutate(distribucion_2 = ifelse(distribucion>=17,"Amplia",
                                  ifelse(distribucion>=6,"Media","Baja")))
 
 ### Distribución Plantas
@@ -109,12 +109,12 @@ registros_de_plantasuy$distribucion <-
   as.numeric(registros_de_plantasuy$distribucion)
 
 registros_de_plantasuy <- registros_de_plantasuy %>% 
-  mutate(distribucion_2 = ifelse(distribucion>=17,"Alta",
+  mutate(distribucion_2 = ifelse(distribucion>=17,"Amplia",
                                  ifelse(distribucion>=6,"Media", 
                                         ifelse(distribucion<=5,"Baja","NE"))))
 
 registros_de_plantasex <- registros_de_plantasex %>% 
-  mutate(distribucion_2 = ifelse(distribucion>=17,"Alta",
+  mutate(distribucion_2 = ifelse(distribucion>=17,"Amplia",
                                  ifelse(distribucion>=6,"Media",
                                         ifelse(distribucion>=1,"Baja","NE"))))
 
