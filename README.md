@@ -1,7 +1,8 @@
-# NaturalistaUY como herramienta de ciencia ciudadana para mejorar el conocimiento de la biodiversidad en Uruguay
+# NaturalistaUY: una herramienta de ciencia ciudadana para mejorar el conocimiento de la biodiversidad en Uruguay
 
 
-Este proyecto de tesis busca evaluar el potencial de la aplicación NaturalistaUY como herramienta de ciencia comunitaria para el aporte y mejora del conocimiento sobre la biodiversidad de Uruguay.
+
+Este proyecto de tesis busca evaluar el potencial de la aplicación NaturalistaUY para el aporte y mejora del conocimiento sobre la biodiversidad de Uruguay.
 
 
 ## Objetivos
